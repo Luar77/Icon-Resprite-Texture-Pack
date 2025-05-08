@@ -1,1 +1,8 @@
-IyB7cGFja19pbmZvWyJuYW1lIl19IFRleHR1cmUgUGFjaw0KQWZ0ZXIgb3ZlciB7bGFzdF90aW1lc3RhbXAgLSBmaXJzdCB0aW1lc3RhbXB9IG1vbnRocyBvZiB3b3JrLCB3ZSBwcmVzZW50IGEgY29tcGxldGUgZGVzaWduIHJldmFtcCBvZiBldmVyeSBpY29uIGluIHRoZSBnYW1lLg0KDQojIyBDcmVkaXRzDQotIHtjb250cmlidXRvci5jcmVkaXRfbWFya2Rvd259DQoNCiMjIE5vdGVzIGFuZCBSZWZlcmVuY2VzDQp7aWNvbi5ub3RlX21hcmtkb3dufQ==
+# {pack_info["name"]} Texture Pack
+After over {last_timestamp - first timestamp} months of work, we present a complete design revamp of every icon in the game.
+
+## Credits
+- {contributor.credit_markdown}
+
+## Notes and References
+{icon.note_markdown}
