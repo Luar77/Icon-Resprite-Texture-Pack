@@ -23,7 +23,7 @@ The credits for each individual icon are listed in the README.md provided in the
 - JigglypuffGD         (48 icons, 2 of those being collabs)
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- sharkcrome           (48 icons)
+- sharkcrome           (47 icons)
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 - Drian114             (46 icons, 1 of those being collabs)
 - bugpesto             (45 icons)
@@ -37,10 +37,10 @@ The credits for each individual icon are listed in the README.md provided in the
 - J3anC4rlo            (32 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- CraZyboy6484         (25 icons)
+- Hydr4ze              (26 icons, 1 of those being collabs)
+- CraZyboy6484         (26 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Hydr4ze              (23 icons)
-- angelotoons05        (21 icons)
+- angelotoons05        (20 icons)
 - AlexisDrawz          (16 icons) +3 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons)
