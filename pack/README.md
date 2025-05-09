@@ -10,34 +10,34 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Aleiz21              (55 icons, 7 of those being collabs) +4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
+- NHJ                  (49 icons, 1 of those being collabs) +3 collabs
 - ML500                (50 icons, 2 of those being collabs)
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- NHJ                  (49 icons, 1 of those being collabs) +3 collabs
 - JigglypuffGD         (48 icons, 2 of those being collabs)
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - sharkcrome           (47 icons)
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
-- Drian114             (46 icons, 1 of those being collabs)
-- bugpesto             (45 icons)
+- Drian114             (46 icons, 1 of those being collabs) +1 collab
+- bugpesto             (45 icons) +1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - KevgenGD             (41 icons)
 - Sorao                (34 icons)
-- JustHyperCL          (34 icons, 4 of those being collabs) +1 collab
+- JustHyperCL          (34 icons, 4 of those being collabs) +4 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - J3anC4rlo            (32 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- Hydr4ze              (26 icons, 1 of those being collabs)
 - CraZyboy6484         (26 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
+- Hydr4ze              (26 icons, 1 of those being collabs)
 - angelotoons05        (20 icons)
-- AlexisDrawz          (16 icons) +3 collabs
+- AlexisDrawz          (16 icons) +4 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons)
 - KazooTheCat          (12 icons)
@@ -45,16 +45,18 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - DreamsTT             (9 icons)
 - airiLmao             (8 icons, 3 of those being collabs) +2 collabs
 - electrictaco         (7 icons, 1 of those being collabs)
+- ReenRN               (5 icons) +1 collab
+	- [@reenion](https://www.youtube.com/@reenion) on YouTube
+	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
 - Luar77               (5 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- ReenRN               (5 icons)
-	- [@reenion](https://www.youtube.com/@reenion) on YouTube
-	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
 - Hushroom             (4 icons)
 - _theangeloffice_     (4 icons, 1 of those being collabs)
 - TheRare5             (3 icons)
 - Entium               (1 icon)
+- DibbJ                (0 icons) +1 collab
+- LonelyChicken        (0 icons) +1 collab
 
 ## Icon Credits and Notes
 cube 0:
@@ -281,7 +283,7 @@ cube 82:
 cube 84:
 - By Exetric.
 - Based on Quasar's cube.
-![](https://cdn.discordapp.com/attachments/1346719830958673920/1366877762333184152/825E566A-72F3-4CF5-832F-8676DE345EC3.png?ex=68128b9d&is=68113a1d&hm=61902d5f860fb47ed91d4d209d9c9d97aabc06d4274d3e9fb7209db061609f39&)
+- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1366877762333184152/825E566A-72F3-4CF5-832F-8676DE345EC3.png?ex=68128b9d&is=68113a1d&hm=61902d5f860fb47ed91d4d209d9c9d97aabc06d4274d3e9fb7209db061609f39&)
 
 cube 85:
 - By CraZyboy6484.
@@ -417,7 +419,7 @@ cube 140:
 cube 141:
 - By sharkcrome.
 - Floating Spider Enemy From The Classic Nokia Game Bounce.
-![](https://cdn.discordapp.com/attachments/1346719830958673920/1368932507327795231/bounce_classic_apk.jpg?ex=681a053f&is=6818b3bf&hm=adb864fa8704b4116c867784af64bbb3f63c7af941db7842978b922a76584438&)
+- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1368932507327795231/bounce_classic_apk.jpg?ex=681a053f&is=6818b3bf&hm=adb864fa8704b4116c867784af64bbb3f63c7af941db7842978b922a76584438&)
 
 cube 142:
 - By JustHyperCL.
@@ -516,7 +518,8 @@ cube 178:
 
 cube 179:
 - By RetroAdvance64.
-![](https://cdn.discordapp.com/attachments/1346719830958673920/1368675974111166495/image.png?ex=68191654&is=6817c4d4&hm=e7e485e6293966b8400de67c1eb165f34d91412d3c1d4492387a4599e371b246&) ![](https://cdn.discordapp.com/attachments/1346719830958673920/1368685420958843062/image.png?ex=68191f21&is=6817cda1&hm=3aa0854ba22a8d339b57e68d7d5b16e0b3155f81f0106f1259487c99945fc573&)
+- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1368675974111166495/image.png?ex=68191654&is=6817c4d4&hm=e7e485e6293966b8400de67c1eb165f34d91412d3c1d4492387a4599e371b246&)
+- ![reference_image_2](https://cdn.discordapp.com/attachments/1346719830958673920/1368685420958843062/image.png?ex=68191f21&is=6817cda1&hm=3aa0854ba22a8d339b57e68d7d5b16e0b3155f81f0106f1259487c99945fc573&)
 
 cube 180:
 - By RetroAdvance64.
@@ -566,7 +569,7 @@ cube 201:
 cube 204:
 - By sharkcrome.
 - Refrence to "Mako", a Legend from the game Brawlhalla.
-![](https://cdn.discordapp.com/attachments/1346719830958673920/1369622748296642610/Mako_1.png?ex=681c8815&is=681b3695&hm=946a499cc20a171111156077f25372218d85b0ba27c28dffb57075f16b115677&)
+- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1369622748296642610/Mako_1.png?ex=681c8815&is=681b3695&hm=946a499cc20a171111156077f25372218d85b0ba27c28dffb57075f16b115677&)
 
 cube 205:
 - By cyanflower.
@@ -610,7 +613,7 @@ cube 233:
 
 cube 234:
 - By Aleiz21.
-- Collab w/ Drian.
+- Collab w/ Drian114.
 
 cube 237:
 - By cyanflower.
@@ -674,7 +677,7 @@ cube 278:
 cube 279:
 - By RetroAdvance64.
 - This Cube references the Outfit "Sentinel" from Fortnite added in CH1:S9. Its a reverse reference as the original Cube uses the alternate "dark" style of the outfit and the remix reverts it to its original appearance.
-![](https://cdn.discordapp.com/attachments/1346719830958673920/1367625618094817310/image.png?ex=6815441c&is=6813f29c&hm=57f627270a1faa640a6613dbe4b6b361cfa8046fcb6ff3ea4ea3ada384638c78&)
+- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1367625618094817310/image.png?ex=6815441c&is=6813f29c&hm=57f627270a1faa640a6613dbe4b6b361cfa8046fcb6ff3ea4ea3ada384638c78&)
 
 cube 280:
 - By Sorao.
@@ -718,7 +721,7 @@ cube 296:
 cube 297:
 - By RetroAdvance64.
 - Properly remade to reflect with "Aurelius Adeus" appearance, an OC from Retro.
-![](https://cdn.discordapp.com/attachments/862821634870870096/1364346510703333517/image.png?ex=68095634&is=680804b4&hm=ca212a4f7b43ad8756376496470fdd303ea38a9abc0739ada597a7e9a14a3d31&)
+- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1364346510703333517/image.png?ex=68095634&is=680804b4&hm=ca212a4f7b43ad8756376496470fdd303ea38a9abc0739ada597a7e9a14a3d31&)
 
 cube 298:
 - By ML500.
@@ -729,12 +732,12 @@ cube 301:
 cube 302:
 - By RetroAdvance64.
 - The original references a Creeper based from a popular Minecraft Resource pack "PureBDcraft" by Sphax. With this in mind, the icon is changed with the design of the Creeper from Penumbra, a Resource pack made by RetroAdvance64.
-![](https://cdn.discordapp.com/attachments/1346719830958673920/1365088255929876490/image.png?ex=680c0902&is=680ab782&hm=b1bd01fddd2e91e92a1146a94ac30e7c711f2d51f151e793cdf3b7677aca9010&)
+- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1365088255929876490/image.png?ex=680c0902&is=680ab782&hm=b1bd01fddd2e91e92a1146a94ac30e7c711f2d51f151e793cdf3b7677aca9010&)
 
 cube 303:
 - By RetroAdvance64.
 - "The Poopshitters" / "Chicos, estoy comiendo mortadela". | Jokes aside, this is a meme Icon referencing an infamous hyper-realistic rendition of Sans from Undertale.
-![](https://cdn.discordapp.com/attachments/862821634870870096/1364347377397272616/image.png?ex=68095703&is=68080583&hm=482143905f79ccf058d740712267b7da29047c99872a4dda8f55c163177da8e9&)
+- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1364347377397272616/image.png?ex=68095703&is=68080583&hm=482143905f79ccf058d740712267b7da29047c99872a4dda8f55c163177da8e9&)
 
 cube 305:
 - By AlexisDrawz.
@@ -898,7 +901,7 @@ cube 404:
 
 cube 407:
 - By cyanflower.
-![](https://media.discordapp.net/attachments/1346719830958673920/1365341982872047688/IMG_3372.webp?ex=680cf54f&is=680ba3cf&hm=23211f03266cdd4ffdf77dfc9d126bf06bb5f1bb47f0b0ee58449e2f30b3b527&=&format=webp&width=313&height=256)
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1365341982872047688/IMG_3372.webp?ex=680cf54f&is=680ba3cf&hm=23211f03266cdd4ffdf77dfc9d126bf06bb5f1bb47f0b0ee58449e2f30b3b527&=&format=webp&width=313&height=256)
 
 cube 408:
 - By NHJ.
@@ -954,7 +957,7 @@ cube 446:
 
 cube 448:
 - By angelotoons05.
-![](https://cdn.discordapp.com/attachments/862821634870870096/1367382095885897809/image.png?ex=68146150&is=68130fd0&hm=5c991b27bb90dc71cae17068db1b9ec404e81b3852d8e9bbac6420bc1278a461&)
+- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1367382095885897809/image.png?ex=68146150&is=68130fd0&hm=5c991b27bb90dc71cae17068db1b9ec404e81b3852d8e9bbac6420bc1278a461&)
 
 cube 449:
 - By J3anC4rlo.
@@ -1109,8 +1112,8 @@ ship 50:
 
 ship 51:
 - By electrictaco.
-- Collab with AsRen (justhyper on discord).
-![](https://cdn.discordapp.com/attachments/763630767523495976/1366779802912297010/image.png?ex=68123062&is=6810dee2&hm=a541bb02bc80383e645b0150e06dfb98a5399a60381dfc15441f3ecd279104ec&)
+- Collab with JustHyperCL (justhyper on discord).
+- ![reference_image_1](https://cdn.discordapp.com/attachments/763630767523495976/1366779802912297010/image.png?ex=68123062&is=6810dee2&hm=a541bb02bc80383e645b0150e06dfb98a5399a60381dfc15441f3ecd279104ec&)
 
 ship 54:
 - By RetroAdvance64.
@@ -1159,7 +1162,7 @@ ship 86:
 
 ship 92:
 - By RetroAdvance64.
-- The opposite side of Ship 22. This is part of a gimmick proposed by AsRen.
+- The opposite side of Ship 22. This is part of a gimmick proposed by JustHyperCL.
 
 ship 94:
 - By JigglypuffGD.
@@ -1412,7 +1415,6 @@ ball 62:
 
 ball 63:
 - By electrictaco.
-- Needs fixing pls remind me.
 
 ball 64:
 - By ML500.
@@ -1503,7 +1505,7 @@ ball 95:
 
 ball 96:
 - By Hydr4ze.
-- Collab with AsRen.
+- Collab with JustHyperCL.
 
 ball 98:
 - By cyanflower.
@@ -1705,7 +1707,7 @@ ufo 118:
 ufo 121:
 - By electrictaco.
 - Based on the transition art in the level 'Waterfall' by cherryteam.
-![](https://cdn.discordapp.com/attachments/1346719830958673920/1366690175702401044/image.png?ex=6811dce9&is=68108b69&hm=e9c149caf7bba5ea5a25fd3223d968c7dae0ec03d977c423c08c4ee7116da639&)
+- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1366690175702401044/image.png?ex=6811dce9&is=68108b69&hm=e9c149caf7bba5ea5a25fd3223d968c7dae0ec03d977c423c08c4ee7116da639&)
 
 ufo 133:
 - By electrictaco.
@@ -1719,7 +1721,7 @@ ufo 139:
 
 ufo 141:
 - By JustHyperCL.
-- Collab with AlexisSánchez.
+- Collab with AlexisDrawz.
 
 ufo 144:
 - By Drian114.
@@ -1762,7 +1764,7 @@ wave 12:
 
 wave 13:
 - By J3anC4rlo.
-- Collab with AsRenCL.
+- Collab with JustHyperCL.
 
 wave 14:
 - By Exetric.
@@ -1782,7 +1784,7 @@ wave 19:
 
 wave 21:
 - By J3anC4rlo.
-![](https://cdn.discordapp.com/attachments/862821634870870096/1370268428736397312/image.png?ex=681ee16b&is=681d8feb&hm=f26b31890288c51c9ddc03727b644dfc42eb93d1882bc8c6b1ecab2d2cd44d47&)
+- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1370268428736397312/image.png?ex=681ee16b&is=681d8feb&hm=f26b31890288c51c9ddc03727b644dfc42eb93d1882bc8c6b1ecab2d2cd44d47&)
 
 wave 22:
 - By bugpesto.
@@ -2120,7 +2122,7 @@ swing 1:
 
 swing 2:
 - By JigglypuffGD.
-![](https://cdn.discordapp.com/attachments/862821634870870096/1368017117974106112/image.png?ex=6816b0b9&is=68155f39&hm=61dd09634c5c7533dd6063bd8aeed4ed1c8dab4c2bcf8b03659c99c8c5670f9d&)
+- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1368017117974106112/image.png?ex=6816b0b9&is=68155f39&hm=61dd09634c5c7533dd6063bd8aeed4ed1c8dab4c2bcf8b03659c99c8c5670f9d&)
 
 swing 5:
 - By Drian114.
@@ -2169,7 +2171,7 @@ swing 24:
 
 swing 25:
 - By JustHyperCL.
-- [Collab with Toto] This swing references to a beast ball from pókemon.
+- [Collab with bugpesto] This swing references to a beast ball from pokémon.
 
 swing 26:
 - By _theangeloffice_.
