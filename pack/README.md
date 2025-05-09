@@ -1,7 +1,7 @@
 # GD Community Remix Texture Pack (version 1.0.0-alpha)
 After over 2 months of work, we present a complete design revamp of every icon in the game.
 
-## Credits
+## Contributors
 - RetroAdvance64       (92 icons, 1 of those being collabs) +3 collabs
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 - cyanflower           (59 icons, 1 of those being collabs)
@@ -19,7 +19,7 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - JigglypuffGD         (48 icons, 2 of those being collabs)
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- sharkcrome           (48 icons)
+- sharkcrome           (47 icons)
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 - Drian114             (46 icons, 1 of those being collabs)
 - bugpesto             (45 icons)
@@ -33,10 +33,10 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - J3anC4rlo            (32 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- CraZyboy6484         (25 icons)
+- Hydr4ze              (26 icons, 1 of those being collabs)
+- CraZyboy6484         (26 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Hydr4ze              (23 icons)
-- angelotoons05        (21 icons)
+- angelotoons05        (20 icons)
 - AlexisDrawz          (16 icons) +3 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons)
@@ -56,7 +56,7 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - TheRare5             (3 icons)
 - Entium               (1 icon)
 
-## Notes and References
+## Icon Credits and Notes
 cube 0:
 - By Exetric.
 
@@ -641,8 +641,14 @@ cube 254:
 cube 255:
 - By ReenRN.
 
+cube 258:
+- By JustHyperCL.
+
 cube 263:
 - By Luar77.
+
+cube 264:
+- By KevgenGD.
 
 cube 265:
 - By Drian114.
@@ -1342,6 +1348,9 @@ ball 34:
 ball 35:
 - By Aleiz21.
 
+ball 36:
+- By Hydr4ze.
+
 ball 38:
 - By sharkcrome.
 - Cube 31 what are you doing inside ball 38 ???.
@@ -1369,6 +1378,9 @@ ball 46:
 
 ball 48:
 - By NHJ.
+
+ball 50:
+- By Hydr4ze.
 
 ball 51:
 - By AlexisDrawz.
@@ -1489,6 +1501,10 @@ ball 94:
 ball 95:
 - By Aleiz21.
 
+ball 96:
+- By Hydr4ze.
+- Collab with AsRen.
+
 ball 98:
 - By cyanflower.
 - Similar to Cube 2, this ball's redesign is also in reference to cyanflower's general liking of slime, and is also based off his primary usage of Cube 2, nicknamed "Goohead" by him. This ball also drools.
@@ -1524,6 +1540,9 @@ ball 109:
 
 ball 110:
 - By sharkcrome.
+
+ball 111:
+- By Hydr4ze.
 
 ball 112:
 - By ML500.
@@ -1565,10 +1584,6 @@ ufo 8:
 
 ufo 9:
 - By Sorao.
-
-ufo 11:
-- By sharkcrome.
-- Direct reference to RetroAdvance64's Robot 15 Resprite.
 
 ufo 12:
 - By cyanflower.
@@ -1767,6 +1782,7 @@ wave 19:
 
 wave 21:
 - By J3anC4rlo.
+![](https://cdn.discordapp.com/attachments/862821634870870096/1370268428736397312/image.png?ex=681ee16b&is=681d8feb&hm=f26b31890288c51c9ddc03727b644dfc42eb93d1882bc8c6b1ecab2d2cd44d47&)
 
 wave 22:
 - By bugpesto.
