@@ -40,7 +40,7 @@ The credits for each individual icon are listed in the README.md provided in the
 - CraZyboy6484         (26 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Hydr4ze              (26 icons, 1 of those being collabs)
-- angelotoons05        (20 icons)
+- angelotoons05        (19 icons)
 - AlexisDrawz          (16 icons) + 4 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons)
