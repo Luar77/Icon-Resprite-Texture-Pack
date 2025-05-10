@@ -2,15 +2,17 @@
 After over 2 months of work, we present a complete design revamp of every icon in the game.
 
 ## Contributors
-- RetroAdvance64       (92 icons, 1 of those being collabs) + 3 collabs
+- RetroAdvance64       (93 icons, 1 of those being collabs) + 3 collabs
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 - cyanflower           (59 icons, 1 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Aleiz21              (55 icons, 7 of those being collabs) + 4 collabs
+- NHJ                  (52 icons, 1 of those being collabs) + 3 collabs
+- Aleiz21              (54 icons, 7 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- NHJ                  (49 icons, 1 of those being collabs) + 3 collabs
+- sharkcrome           (51 icons)
+	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 - ML500                (50 icons, 2 of those being collabs)
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
@@ -19,14 +21,12 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - JigglypuffGD         (48 icons, 2 of those being collabs)
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- sharkcrome           (47 icons)
-	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 - Drian114             (46 icons, 1 of those being collabs) + 1 collab
 - bugpesto             (45 icons) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- KevgenGD             (41 icons)
+- KevgenGD             (43 icons)
 - Sorao                (34 icons)
 - JustHyperCL          (34 icons, 4 of those being collabs) + 4 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
@@ -36,7 +36,7 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - CraZyboy6484         (26 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Hydr4ze              (26 icons, 1 of those being collabs)
-- angelotoons05        (19 icons)
+- angelotoons05        (18 icons)
 - AlexisDrawz          (16 icons) + 4 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons)
@@ -44,7 +44,7 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - DreamsTT             (9 icons)
 - airiLmao             (8 icons, 3 of those being collabs) + 2 collabs
-- electrictaco         (7 icons, 1 of those being collabs)
+- electrictaco         (8 icons, 1 of those being collabs)
 - ReenRN               (5 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
@@ -54,9 +54,10 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Hushroom             (4 icons)
 - _theangeloffice_     (4 icons, 1 of those being collabs)
 - TheRare5             (3 icons)
+- DibbJ                (1 icon) + 1 collab
 - Entium               (1 icon)
-- DibbJ                 + 1 collab
 - LonelyChicken         + 1 collab
+- alexanderx1ta        
 
 ## Icon Credits and Notes
 cube 0:
@@ -155,6 +156,9 @@ cube 31:
 - By sharkcrome.
 
 cube 33:
+- By sharkcrome.
+
+cube 34:
 - By sharkcrome.
 
 cube 35:
@@ -352,7 +356,7 @@ cube 107:
 
 cube 108:
 - By angelotoons05.
-- M̵a̶ybe ̶w̶e̸ ̵s̵h̸o̴u̶l̴d̷ ̴l̷e̷t̴ ̵t̸h̵e̶ ̷d̸a̶r̸k̴n̶e̵ss consume̷ ̸u̶s.
+- M̵a̶ybe ̶w̶e̸ ̵s̵h̸o̴u̶l̴d̷ ̴l̷e̷t̴ ̵t̸h̵e̶ ̷d̸a̶r̸k̴n̶e̵ss consume ̸u̶s (Inspired by Pibby).
 
 cube 109:
 - By NHJ.
@@ -594,6 +598,14 @@ cube 209:
 cube 211:
 - By Drian114.
 
+cube 215:
+- By CraZyboy6484.
+
+cube 217:
+- By sharkcrome.
+- Refrence to "Kor In Space" skin of the Legend Kor in the game Brawlhalla.
+- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1370855727513731253/Kor_in_Space.png?ex=68210462&is=681fb2e2&hm=0cccd1f226fef18b1ffb15f743aba41eed936743947d1f830b760f8bf2fad58f&)
+
 cube 219:
 - By JigglypuffGD.
 
@@ -663,6 +675,9 @@ cube 265:
 cube 267:
 - By ML500.
 - Original version of the cube (Made in 2020).
+
+cube 269:
+- By RetroAdvance64.
 
 cube 271:
 - By Drian114.
@@ -750,9 +765,6 @@ cube 310:
 - By JustHyperCL.
 - A rebirth version of my first original icon ever, made  exclusively to fit to a very specific existing icon.
 
-cube 313:
-- By NHJ.
-
 cube 315:
 - By ML500.
 - Design based on A-60 from Rooms/Doors (Roblox).
@@ -784,6 +796,9 @@ cube 328:
 
 cube 334:
 - By ML500.
+
+cube 337:
+- By CraZyboy6484.
 
 cube 338:
 - By J3anC4rlo.
@@ -886,6 +901,9 @@ cube 391:
 
 cube 392:
 - By ML500.
+
+cube 393:
+- By NHJ.
 
 cube 395:
 - By NHJ.
@@ -1529,6 +1547,9 @@ ball 99:
 ball 100:
 - By NHJ.
 
+ball 101:
+- By AlexisDrawz.
+
 ball 102:
 - By JustHyperCL.
 
@@ -1642,9 +1663,13 @@ ufo 31:
 ufo 33:
 - By Aleiz21.
 
+ufo 35:
+- By Aleiz21.
+- Collab with Drian114.
+
 ufo 36:
 - By Drian114.
-- Collab w/Aleiz21.
+- Collab w/ Aleiz21.
 
 ufo 42:
 - By ML500.
@@ -1662,6 +1687,9 @@ ufo 50:
 
 ufo 52:
 - By ML500.
+
+ufo 53:
+- By Aleiz21.
 
 ufo 54:
 - By NHJ.
@@ -1690,6 +1718,9 @@ ufo 73:
 
 ufo 74:
 - By KevgenGD.
+
+ufo 76:
+- By Aleiz21.
 
 ufo 78:
 - By ML500.
@@ -2134,7 +2165,6 @@ swing 1:
 
 swing 2:
 - By JigglypuffGD.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1368017117974106112/image.png?ex=6816b0b9&is=68155f39&hm=61dd09634c5c7533dd6063bd8aeed4ed1c8dab4c2bcf8b03659c99c8c5670f9d&)
 
 swing 5:
 - By Drian114.
@@ -2237,4 +2267,10 @@ swing 41:
 - By Drian114.
 
 swing 42:
+- By Aleiz21.
+
+jetpack 3:
+- By NHJ.
+
+jetpack 8:
 - By Aleiz21.
