@@ -2,16 +2,18 @@
 After over 2 months of work, we present a complete design revamp of every icon in the game.
 
 ## Contributors
-- RetroAdvance64       (93 icons, 1 of those being collabs) + 3 collabs
+- RetroAdvance64       (96 icons, 1 of those being collabs) + 3 collabs
+	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
+	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 - cyanflower           (59 icons, 1 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- NHJ                  (52 icons, 1 of those being collabs) + 3 collabs
-- Aleiz21              (54 icons, 7 of those being collabs) + 4 collabs
+- NHJ                  (53 icons, 1 of those being collabs) + 3 collabs
+- Aleiz21              (54 icons, 7 of those being collabs) + 6 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- sharkcrome           (51 icons)
+- sharkcrome           (52 icons)
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 - ML500                (50 icons, 2 of those being collabs)
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
@@ -21,30 +23,30 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - JigglypuffGD         (48 icons, 2 of those being collabs)
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- Drian114             (46 icons, 1 of those being collabs) + 1 collab
+- Drian114             (46 icons, 2 of those being collabs) + 2 collabs
 - bugpesto             (45 icons) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- KevgenGD             (43 icons)
-- Sorao                (34 icons)
-- JustHyperCL          (34 icons, 4 of those being collabs) + 4 collabs
+- KevgenGD             (44 icons, 1 of those being collabs)
+- Sorao                (33 icons)
+- JustHyperCL          (34 icons, 5 of those being collabs) + 3 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - J3anC4rlo            (32 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- CraZyboy6484         (26 icons)
+- CraZyboy6484         (28 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Hydr4ze              (26 icons, 1 of those being collabs)
+- Hydr4ze              (27 icons, 1 of those being collabs)
+- AlexisDrawz          (17 icons) + 4 collabs
 - angelotoons05        (18 icons)
-- AlexisDrawz          (16 icons) + 4 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons)
 - KazooTheCat          (12 icons)
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
+- electrictaco         (10 icons, 1 of those being collabs) + 1 collab
 - DreamsTT             (9 icons)
 - airiLmao             (8 icons, 3 of those being collabs) + 2 collabs
-- electrictaco         (8 icons, 1 of those being collabs)
 - ReenRN               (5 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
@@ -56,8 +58,8 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - TheRare5             (3 icons)
 - DibbJ                (1 icon) + 1 collab
 - Entium               (1 icon)
+- alexanderx1ta        (1 icon)
 - LonelyChicken         + 1 collab
-- alexanderx1ta        
 
 ## Icon Credits and Notes
 cube 0:
@@ -103,6 +105,7 @@ cube 11:
 
 cube 12:
 - By cyanflower.
+- This cube’s redesign is in reference to cyanflower’s “Manipulative Spectre” character, given it shares a somewhat similar face to the original cube 12.
 
 cube 13:
 - By cyanflower.
@@ -544,6 +547,7 @@ cube 184:
 cube 187:
 - By JigglypuffGD.
 - Based on Boy's final form in the song Boogieman from the FNF mod Twinsomnia.
+- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1370960502452392116/image0.png?ex=682165f6&is=68201476&hm=b78caed39dab16f7aeb754933711448be1df3d6529056e89c2d9c9dfbde8f3af&)
 
 cube 188:
 - By ML500.
@@ -654,6 +658,9 @@ cube 251:
 cube 252:
 - By Aleiz21.
 
+cube 253:
+- By KevgenGD.
+
 cube 254:
 - By Aleiz21.
 
@@ -662,6 +669,9 @@ cube 255:
 
 cube 258:
 - By JustHyperCL.
+
+cube 261:
+- By sharkcrome.
 
 cube 263:
 - By Luar77.
@@ -745,6 +755,9 @@ cube 297:
 cube 298:
 - By ML500.
 
+cube 299:
+- By electrictaco.
+
 cube 301:
 - By JigglypuffGD.
 
@@ -764,6 +777,9 @@ cube 305:
 cube 310:
 - By JustHyperCL.
 - A rebirth version of my first original icon ever, made  exclusively to fit to a very specific existing icon.
+
+cube 313:
+- By NHJ.
 
 cube 315:
 - By ML500.
@@ -912,6 +928,9 @@ cube 396:
 - By RetroAdvance64.
 - A direct remake to the original cube.
 
+cube 398:
+- By NHJ.
+
 cube 400:
 - By Aleiz21.
 
@@ -972,6 +991,10 @@ cube 437:
 cube 440:
 - By cyanflower.
 - A basic redesign of the original cube, now with an additional splatter affected by player color.
+
+cube 441:
+- By CraZyboy6484.
+- Direct reference to scratch, one of the shopkeepers in GD.
 
 cube 444:
 - By Aleiz21.
@@ -1163,6 +1186,10 @@ ship 65:
 ship 66:
 - By Hydr4ze.
 
+ship 70:
+- By CraZyboy6484.
+- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1371142016968429748/image.png?ex=68220f03&is=6820bd83&hm=1dd2484dbd4fc5ae9b5f8a73bd40b2832315775d3734f90ba36affb50a998ef7&)
+
 ship 71:
 - By RetroAdvance64.
 
@@ -1213,6 +1240,10 @@ ship 118:
 ship 123:
 - By RetroAdvance64.
 - Properly references the "Dragonfolly", a boss enemy from the Calamity Mod for Terraria.
+
+ship 125:
+- By JustHyperCL.
+- Collab with electrictaco.
 
 ship 126:
 - By KevgenGD.
@@ -1383,6 +1414,9 @@ ball 35:
 
 ball 36:
 - By Hydr4ze.
+
+ball 37:
+- By CraZyboy6484.
 
 ball 38:
 - By sharkcrome.
@@ -1647,6 +1681,9 @@ ufo 23:
 ufo 24:
 - By J3anC4rlo.
 
+ufo 25:
+- By CraZyboy6484.
+
 ufo 27:
 - By KevgenGD.
 
@@ -1836,6 +1873,9 @@ wave 22:
 wave 23:
 - By JustHyperCL.
 
+wave 25:
+- By sharkcrome.
+
 wave 26:
 - By sharkcrome.
 
@@ -2005,6 +2045,9 @@ robot 35:
 robot 36:
 - By J3anC4rlo.
 
+robot 38:
+- By bugpesto.
+
 robot 39:
 - By DreamsTT.
 
@@ -2084,11 +2127,17 @@ spider 12:
 spider 13:
 - By TheRare5.
 
+spider 14:
+- By KevgenGD.
+- Collab with aleiz21 !!!.
+- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1371142545257529364/image.png?ex=68220f81&is=6820be01&hm=f67014419257e25fffd7c6bdce5259009e3d4f723090d4dd13056bd86983113a&)
+
 spider 16:
 - By KevgenGD.
 
 spider 18:
 - By CraZyboy6484.
+- Thank you Asꓤen for helping me sprite this :).
 
 spider 19:
 - By Aleiz21.
