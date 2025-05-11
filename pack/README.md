@@ -2,7 +2,7 @@
 After over 2 months of work, we present a complete design revamp of every icon in the game.
 
 ## Contributors
-- RetroAdvance64       (96 icons, 1 of those being collabs) + 3 collabs
+- RetroAdvance64       (97 icons, 1 of those being collabs) + 3 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
@@ -56,9 +56,9 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Hushroom             (4 icons)
 - _theangeloffice_     (4 icons, 1 of those being collabs)
 - TheRare5             (3 icons)
+- alexanderx1ta        (2 icons)
 - DibbJ                (1 icon) + 1 collab
 - Entium               (1 icon)
-- alexanderx1ta        (1 icon)
 - LonelyChicken         + 1 collab
 
 ## Icon Credits and Notes
@@ -157,6 +157,9 @@ cube 30:
 
 cube 31:
 - By sharkcrome.
+
+cube 32:
+- By KevgenGD.
 
 cube 33:
 - By sharkcrome.
@@ -1872,9 +1875,6 @@ wave 22:
 
 wave 23:
 - By JustHyperCL.
-
-wave 25:
-- By sharkcrome.
 
 wave 26:
 - By sharkcrome.
