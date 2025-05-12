@@ -2,61 +2,69 @@
 After over 2 months of work, we present a complete design revamp of every icon in the game.
 
 ## Contributors
-- RetroAdvance64       (97 icons, 1 of those being collabs) + 3 collabs
+- RetroAdvance64       (98 icons, 1 of those being collabs) + 3 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 - cyanflower           (59 icons, 1 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- NHJ                  (53 icons, 1 of those being collabs) + 3 collabs
-- Aleiz21              (54 icons, 7 of those being collabs) + 6 collabs
+- Aleiz21              (59 icons, 7 of those being collabs) + 6 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- sharkcrome           (52 icons)
+- NHJ                  (53 icons, 1 of those being collabs) + 3 collabs
+- sharkcrome           (54 icons)
+	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
-- ML500                (50 icons, 2 of those being collabs)
+	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
+	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
+- ML500                (54 icons, 2 of those being collabs)
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- JigglypuffGD         (48 icons, 2 of those being collabs)
-	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
-	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- Drian114             (46 icons, 2 of those being collabs) + 2 collabs
-- bugpesto             (45 icons) + 1 collab
+- bugpesto             (47 icons) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- KevgenGD             (44 icons, 1 of those being collabs)
-- Sorao                (33 icons)
-- JustHyperCL          (34 icons, 5 of those being collabs) + 3 collabs
+- JigglypuffGD         (47 icons, 2 of those being collabs)
+	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
+	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
+- Drian114             (46 icons, 2 of those being collabs) + 2 collabs
+- KevgenGD             (45 icons, 1 of those being collabs)
+- Sorao                (34 icons)
+- JustHyperCL          (35 icons, 5 of those being collabs) + 3 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- J3anC4rlo            (32 icons, 1 of those being collabs)
+- J3anC4rlo            (30 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - CraZyboy6484         (28 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Hydr4ze              (27 icons, 1 of those being collabs)
-- AlexisDrawz          (17 icons) + 4 collabs
 - angelotoons05        (18 icons)
+- AlexisDrawz          (16 icons) + 4 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons)
 - KazooTheCat          (12 icons)
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
-- electrictaco         (10 icons, 1 of those being collabs) + 1 collab
+- electrictaco         (11 icons, 1 of those being collabs) + 1 collab
 - DreamsTT             (9 icons)
 - airiLmao             (8 icons, 3 of those being collabs) + 2 collabs
-- ReenRN               (5 icons) + 1 collab
+- ReenRN               (7 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
-- Luar77               (5 icons)
+- Luar77               (6 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
+- alexanderx1ta        (5 icons)
+	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
+	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
+	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - Hushroom             (4 icons)
 - _theangeloffice_     (4 icons, 1 of those being collabs)
 - TheRare5             (3 icons)
-- alexanderx1ta        (2 icons)
+- https://gdbrowser.com/u/aGold (2 icons)
+	- [aGoldDev](https://github.com/aGoldDev) on GitHub
 - DibbJ                (1 icon) + 1 collab
 - Entium               (1 icon)
 - LonelyChicken         + 1 collab
@@ -199,6 +207,9 @@ cube 45:
 cube 46:
 - By NHJ.
 
+cube 48:
+- By alexanderx1ta.
+
 cube 49:
 - By KevgenGD.
 
@@ -242,6 +253,9 @@ cube 60:
 cube 62:
 - By Exetric.
 
+cube 63:
+- By ReenRN.
+
 cube 64:
 - By Aleiz21.
 - Collab with NHJ.
@@ -273,6 +287,10 @@ cube 73:
 
 cube 74:
 - By Hushroom.
+
+cube 77:
+- By sharkcrome.
+- Cube 6 has some relatives.
 
 cube 78:
 - By RetroAdvance64.
@@ -605,6 +623,9 @@ cube 209:
 cube 211:
 - By Drian114.
 
+cube 212:
+- By Hydr4ze.
+
 cube 215:
 - By CraZyboy6484.
 
@@ -626,10 +647,6 @@ cube 226:
 cube 228:
 - By bugpesto.
 - Put a strawberry elephant fancam here.
-
-cube 229:
-- By bugpesto.
-- References Sackboy from LittleBigPlanet.
 
 cube 233:
 - By Aleiz21.
@@ -666,9 +683,6 @@ cube 253:
 
 cube 254:
 - By Aleiz21.
-
-cube 255:
-- By ReenRN.
 
 cube 258:
 - By JustHyperCL.
@@ -805,6 +819,10 @@ cube 322:
 cube 324:
 - By KazooTheCat.
 - A direct reference to Marx, an ally and surprise main antagonist in Kirby Super Star for the SNES. He only takes on this deranged look during his antagonistic phase, and otherwise looks much friendlier.
+
+cube 325:
+- By ML500.
+- Same game reference as original (Kirby), but it's "Morpho Knight" instead.
 
 cube 326:
 - By RetroAdvance64.
@@ -980,6 +998,10 @@ cube 429:
 cube 430:
 - By JigglypuffGD.
 - Based on the icon artists OC Riley, who has a similar mouth structure to the original cube.
+
+cube 433:
+- By ReenRN.
+- This cube is based of the ghosts from the original pac-man arcade game.
 
 cube 435:
 - By angelotoons05.
@@ -1237,8 +1259,15 @@ ship 109:
 ship 111:
 - By bugpesto.
 
+ship 116:
+- By bugpesto.
+- References the Megashark gun from Terraria.
+
 ship 118:
 - By bugpesto.
+
+ship 122:
+- By Luar77.
 
 ship 123:
 - By RetroAdvance64.
@@ -1404,6 +1433,7 @@ ball 30:
 
 ball 32:
 - By bugpesto.
+- References Spiritomb's face, from Pokémon.
 
 ball 33:
 - By sharkcrome.
@@ -1711,6 +1741,9 @@ ufo 36:
 - By Drian114.
 - Collab w/ Aleiz21.
 
+ufo 40:
+- By Hydr4ze.
+
 ufo 42:
 - By ML500.
 
@@ -1806,6 +1839,9 @@ ufo 141:
 - By JustHyperCL.
 - Collab with AlexisDrawz.
 
+ufo 142:
+- By Drian114.
+
 ufo 144:
 - By Drian114.
 - A couple of extra details were added to the original design.
@@ -1865,6 +1901,10 @@ wave 19:
 - By Drian114.
 - Direct reference to the monster (A.K.A Big Beast) introduced in update 2.0.
 
+wave 20:
+- By JigglypuffGD.
+- Based on a star wars x wing (just like the original icon by Rob is).
+
 wave 21:
 - By J3anC4rlo.
 - ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1370268428736397312/image.png?ex=681ee16b&is=681d8feb&hm=f26b31890288c51c9ddc03727b644dfc42eb93d1882bc8c6b1ecab2d2cd44d47&)
@@ -1876,6 +1916,9 @@ wave 22:
 wave 23:
 - By JustHyperCL.
 
+wave 25:
+- By sharkcrome.
+
 wave 26:
 - By sharkcrome.
 
@@ -1884,6 +1927,9 @@ wave 32:
 
 wave 37:
 - By Aleiz21.
+
+wave 41:
+- By RetroAdvance64.
 
 wave 43:
 - By Exetric.
@@ -1903,6 +1949,9 @@ wave 47:
 
 wave 48:
 - By Aleiz21.
+
+wave 49:
+- By JustHyperCL.
 
 wave 50:
 - By sharkcrome.
@@ -2047,6 +2096,7 @@ robot 36:
 
 robot 38:
 - By bugpesto.
+- Reworked the original icon to look more similar to the design of a Mechakoopa from Mario Bros.
 
 robot 39:
 - By DreamsTT.
@@ -2134,6 +2184,9 @@ spider 14:
 
 spider 16:
 - By KevgenGD.
+
+spider 17:
+- By bugpesto.
 
 spider 18:
 - By CraZyboy6484.
@@ -2317,6 +2370,9 @@ swing 41:
 
 swing 42:
 - By Aleiz21.
+
+swing 43:
+- By JigglypuffGD.
 
 jetpack 3:
 - By NHJ.
