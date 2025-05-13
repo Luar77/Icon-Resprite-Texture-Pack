@@ -2,27 +2,27 @@
 After over 2 months of work, we present a complete design revamp of every icon in the game.
 
 ## Contributors
-- RetroAdvance64       (98 icons, 1 of those being collabs) + 3 collabs
+- RetroAdvance64       (100 icons, 1 of those being collabs) + 3 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
+- Aleiz21              (60 icons, 7 of those being collabs) + 6 collabs
+	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
+	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - cyanflower           (59 icons, 1 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Aleiz21              (59 icons, 7 of those being collabs) + 6 collabs
-	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
-	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- NHJ                  (53 icons, 1 of those being collabs) + 3 collabs
-- sharkcrome           (54 icons)
+- sharkcrome           (56 icons)
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- ML500                (54 icons, 2 of those being collabs)
+- ML500                (55 icons, 2 of those being collabs)
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
+- NHJ                  (53 icons, 1 of those being collabs) + 3 collabs
 - bugpesto             (47 icons) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
@@ -30,24 +30,28 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - JigglypuffGD         (47 icons, 2 of those being collabs)
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- Drian114             (46 icons, 2 of those being collabs) + 2 collabs
-- KevgenGD             (45 icons, 1 of those being collabs)
-- Sorao                (34 icons)
-- JustHyperCL          (35 icons, 5 of those being collabs) + 3 collabs
+- KevgenGD             (46 icons, 1 of those being collabs)
+- Drian114             (45 icons, 2 of those being collabs) + 2 collabs
+- JustHyperCL          (36 icons, 5 of those being collabs) + 3 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
+- Sorao                (34 icons)
 - J3anC4rlo            (30 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- Hydr4ze              (29 icons, 2 of those being collabs)
 - CraZyboy6484         (28 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Hydr4ze              (27 icons, 1 of those being collabs)
 - angelotoons05        (18 icons)
 - AlexisDrawz          (16 icons) + 4 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons)
+- electrictaco         (12 icons, 1 of those being collabs) + 1 collab
 - KazooTheCat          (12 icons)
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
-- electrictaco         (11 icons, 1 of those being collabs) + 1 collab
+- alexanderx1ta        (10 icons)
+	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
+	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
+	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - DreamsTT             (9 icons)
 - airiLmao             (8 icons, 3 of those being collabs) + 2 collabs
 - ReenRN               (7 icons) + 1 collab
@@ -56,18 +60,14 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Luar77               (6 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- alexanderx1ta        (5 icons)
-	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
-	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
-	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - Hushroom             (4 icons)
+- aGold                (4 icons)
+	- [aGoldDev](https://github.com/aGoldDev) on GitHub
 - _theangeloffice_     (4 icons, 1 of those being collabs)
 - TheRare5             (3 icons)
-- https://gdbrowser.com/u/aGold (2 icons)
-	- [aGoldDev](https://github.com/aGoldDev) on GitHub
 - DibbJ                (1 icon) + 1 collab
-- Entium               (1 icon)
 - LonelyChicken         + 1 collab
+- Entium               
 
 ## Icon Credits and Notes
 cube 0:
@@ -147,6 +147,9 @@ cube 22:
 
 cube 23:
 - By ML500.
+
+cube 24:
+- By aGold.
 
 cube 25:
 - By NHJ.
@@ -629,6 +632,9 @@ cube 212:
 cube 215:
 - By CraZyboy6484.
 
+cube 216:
+- By Drian114.
+
 cube 217:
 - By sharkcrome.
 - Refrence to "Kor In Space" skin of the Legend Kor in the game Brawlhalla.
@@ -647,6 +653,10 @@ cube 226:
 cube 228:
 - By bugpesto.
 - Put a strawberry elephant fancam here.
+
+cube 229:
+- By bugpesto.
+- References Sackboy from LittleBigPlanet.
 
 cube 233:
 - By Aleiz21.
@@ -775,6 +785,9 @@ cube 298:
 cube 299:
 - By electrictaco.
 
+cube 300:
+- By ChileMationsxD.
+
 cube 301:
 - By JigglypuffGD.
 
@@ -854,6 +867,9 @@ cube 344:
 cube 345:
 - By sharkcrome.
 
+cube 348:
+- By aGold.
+
 cube 351:
 - By JigglypuffGD.
 
@@ -867,6 +883,9 @@ cube 354:
 cube 357:
 - By NHJ.
 - Collab with Aleiz21.
+
+cube 360:
+- By sharkcrome.
 
 cube 361:
 - By ML500.
@@ -979,6 +998,9 @@ cube 414:
 - By cyanflower.
 - JamAttack's cube, sometimes referred to as Jamit. Originally created for them by cyanflower and directly based off their persona/mascot character, one of the most notable creator-specific cubes for following Geometry Dash's art style.
 
+cube 415:
+- By Hydr4ze.
+
 cube 418:
 - By RetroAdvance64.
 
@@ -1033,12 +1055,18 @@ cube 446:
 - By Aleiz21.
 - Collab with NHJ.
 
+cube 447:
+- By ChileMationsxD.
+
 cube 448:
 - By angelotoons05.
 - ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1367382095885897809/image.png?ex=68146150&is=68130fd0&hm=5c991b27bb90dc71cae17068db1b9ec404e81b3852d8e9bbac6420bc1278a461&)
 
 cube 449:
 - By J3anC4rlo.
+
+cube 450:
+- By alexanderx1ta.
 
 cube 453:
 - By CraZyboy6484.
@@ -1113,6 +1141,10 @@ ship 1:
 
 ship 2:
 - By KevgenGD.
+
+ship 3:
+- By RetroAdvance64.
+- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1371611300102144080/image.png?ex=6823c411&is=68227291&hm=876cf00834d43a32a298d0b991724f0c65a14786c6126c4f80a9e41801bb9ec1&)
 
 ship 4:
 - By J3anC4rlo.
@@ -1312,6 +1344,9 @@ ship 148:
 
 ship 153:
 - By TheRare5.
+
+ship 157:
+- By RetroAdvance64.
 
 ship 158:
 - By cyanflower.
@@ -1810,6 +1845,9 @@ ufo 94:
 ufo 99:
 - By J3anC4rlo.
 
+ufo 100:
+- By Hydr4ze.
+
 ufo 104:
 - By NHJ.
 
@@ -1848,6 +1886,9 @@ ufo 144:
 
 ufo 148:
 - By Sorao.
+
+ufo 149:
+- By KevgenGD.
 
 wave 1:
 - By RetroAdvance64.
@@ -1916,6 +1957,9 @@ wave 22:
 wave 23:
 - By JustHyperCL.
 
+wave 24:
+- By aGold.
+
 wave 25:
 - By sharkcrome.
 
@@ -1980,6 +2024,9 @@ wave 65:
 
 wave 66:
 - By Sorao.
+
+wave 70:
+- By Drian114.
 
 wave 78:
 - By Drian114.
@@ -2373,9 +2420,18 @@ swing 42:
 
 swing 43:
 - By JigglypuffGD.
+- Smoof :3.
+
+jetpack 2:
+- By Drian114.
+- Collab w/ Aleiz21.
 
 jetpack 3:
 - By NHJ.
+
+jetpack 6:
+- By sharkcrome.
+- In collaboration with RetroAdvance64.
 
 jetpack 8:
 - By Aleiz21.
