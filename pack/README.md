@@ -2,69 +2,71 @@
 After over 2 months of work, we present a complete design revamp of every icon in the game.
 
 ## Contributors
-- RetroAdvance64       (100 icons, 1 of those being collabs) + 3 collabs
+- RetroAdvance64       (100 icons, 1 of those being collabs) + 4 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (60 icons, 7 of those being collabs) + 6 collabs
+- Aleiz21              (74 icons, 7 of those being collabs) + 6 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- cyanflower           (59 icons, 1 of those being collabs)
+- cyanflower           (62 icons, 1 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- sharkcrome           (56 icons)
+- sharkcrome           (57 icons, 1 of those being collabs)
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- ML500                (55 icons, 2 of those being collabs)
+- ML500                (56 icons, 2 of those being collabs)
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 - NHJ                  (53 icons, 1 of those being collabs) + 3 collabs
-- bugpesto             (47 icons) + 1 collab
+- KevgenGD             (51 icons, 1 of those being collabs)
+- JigglypuffGD         (51 icons, 3 of those being collabs)
+	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
+	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
+- bugpesto             (47 icons, 1 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- JigglypuffGD         (47 icons, 2 of those being collabs)
-	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
-	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- KevgenGD             (46 icons, 1 of those being collabs)
 - Drian114             (45 icons, 2 of those being collabs) + 2 collabs
-- JustHyperCL          (36 icons, 5 of those being collabs) + 3 collabs
+- JustHyperCL          (37 icons, 5 of those being collabs) + 3 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (34 icons)
 - J3anC4rlo            (30 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- Hydr4ze              (29 icons, 2 of those being collabs)
 - CraZyboy6484         (28 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- angelotoons05        (18 icons)
-- AlexisDrawz          (16 icons) + 4 collabs
+- Hydr4ze              (28 icons, 3 of those being collabs)
+- angelotoons05        (19 icons)
+- AlexisDrawz          (17 icons, 1 of those being collabs) + 5 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons)
-- electrictaco         (12 icons, 1 of those being collabs) + 1 collab
 - KazooTheCat          (12 icons)
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
-- alexanderx1ta        (10 icons)
+- aGold                (12 icons)
+	- [aGoldDev](https://github.com/aGoldDev) on GitHub
+- electrictaco         (11 icons, 1 of those being collabs) + 2 collabs
+- AlexanderX1ta        (11 icons)
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - DreamsTT             (9 icons)
+- Luar77               (8 icons)
+	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
+	- [Luar77](https://github.com/Luar77) on GitHub
 - airiLmao             (8 icons, 3 of those being collabs) + 2 collabs
 - ReenRN               (7 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
-- Luar77               (6 icons)
-	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
-	- [Luar77](https://github.com/Luar77) on GitHub
 - Hushroom             (4 icons)
-- aGold                (4 icons)
-	- [aGoldDev](https://github.com/aGoldDev) on GitHub
+- TheRare5             (4 icons)
 - _theangeloffice_     (4 icons, 1 of those being collabs)
-- TheRare5             (3 icons)
+- danky99              (3 icons)
+- fiegael              (2 icons)
 - DibbJ                (1 icon) + 1 collab
 - LonelyChicken         + 1 collab
 - Entium               
@@ -211,7 +213,7 @@ cube 46:
 - By NHJ.
 
 cube 48:
-- By alexanderx1ta.
+- By AlexanderX1ta.
 
 cube 49:
 - By KevgenGD.
@@ -291,6 +293,9 @@ cube 73:
 cube 74:
 - By Hushroom.
 
+cube 75:
+- By sharkcrome.
+
 cube 77:
 - By sharkcrome.
 - Cube 6 has some relatives.
@@ -318,6 +323,9 @@ cube 84:
 
 cube 85:
 - By CraZyboy6484.
+
+cube 87:
+- By aGold.
 
 cube 88:
 - By JustHyperCL.
@@ -439,6 +447,12 @@ cube 128:
 
 cube 129:
 - By bugpesto.
+
+cube 133:
+- By Aleiz21.
+
+cube 134:
+- By Aleiz21.
 
 cube 137:
 - By AlexisDrawz.
@@ -679,6 +693,9 @@ cube 243:
 cube 245:
 - By RetroAdvance64.
 
+cube 248:
+- By sharkcrome.
+
 cube 250:
 - By JustHyperCL.
 
@@ -804,6 +821,12 @@ cube 303:
 cube 305:
 - By AlexisDrawz.
 
+cube 307:
+- By AlexanderX1ta.
+
+cube 309:
+- By AlexanderX1ta.
+
 cube 310:
 - By JustHyperCL.
 - A rebirth version of my first original icon ever, made  exclusively to fit to a very specific existing icon.
@@ -867,11 +890,18 @@ cube 344:
 cube 345:
 - By sharkcrome.
 
+cube 347:
+- By JigglypuffGD.
+- A reference to the 2.1 daily chest from RetroAdvance64's Supernova TP.
+
 cube 348:
 - By aGold.
 
 cube 351:
 - By JigglypuffGD.
+
+cube 352:
+- By TheRare5.
 
 cube 353:
 - By cyanflower.
@@ -984,6 +1014,9 @@ cube 403:
 cube 404:
 - By Aleiz21.
 
+cube 405:
+- By JigglypuffGD.
+
 cube 407:
 - By cyanflower.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1365341982872047688/IMG_3372.webp?ex=680cf54f&is=680ba3cf&hm=23211f03266cdd4ffdf77dfc9d126bf06bb5f1bb47f0b0ee58449e2f30b3b527&=&format=webp&width=313&height=256)
@@ -1066,7 +1099,7 @@ cube 449:
 - By J3anC4rlo.
 
 cube 450:
-- By alexanderx1ta.
+- By AlexanderX1ta.
 
 cube 453:
 - By CraZyboy6484.
@@ -1101,6 +1134,9 @@ cube 465:
 cube 467:
 - By cyanflower.
 - The "Attention" cube from Geometry Dash Lunar, directly made as a counterpart to the original cube.
+
+cube 468:
+- By JigglypuffGD.
 
 cube 472:
 - By AlexisDrawz.
@@ -1152,6 +1188,9 @@ ship 4:
 ship 7:
 - By KevgenGD.
 
+ship 8:
+- By Aleiz21.
+
 ship 9:
 - By KevgenGD.
 
@@ -1161,6 +1200,9 @@ ship 10:
 ship 12:
 - By J3anC4rlo.
 
+ship 13:
+- By Aleiz21.
+
 ship 14:
 - By sharkcrome.
 
@@ -1169,6 +1211,9 @@ ship 15:
 
 ship 16:
 - By NHJ.
+
+ship 17:
+- By Aleiz21.
 
 ship 19:
 - By JigglypuffGD.
@@ -1211,8 +1256,14 @@ ship 34:
 - By electrictaco.
 - Based on the bossfight in the level 'The Vermin Queen' by Yoreid.
 
+ship 37:
+- By Aleiz21.
+
 ship 38:
 - By Sorao.
+
+ship 39:
+- By Aleiz21.
 
 ship 41:
 - By sharkcrome.
@@ -1282,6 +1333,9 @@ ship 94:
 - By JigglypuffGD.
 - This ship is a reference to the Clanker, the shark in Clankers Cavern in the first Banjo Kazooie game.
 
+ship 99:
+- By cyanflower.
+
 ship 102:
 - By ML500.
 
@@ -1316,6 +1370,12 @@ ship 129:
 - By RetroAdvance64.
 - A direct remake to the original Ship. Uses the N64 Model of the Arwing, a combat spacecraft from the Star Fox series, as reference.
 
+ship 131:
+- By Aleiz21.
+
+ship 132:
+- By Aleiz21.
+
 ship 133:
 - By RetroAdvance64.
 - Properly references the Gjallarhorn, a weapon from the videogame Destiny.
@@ -1341,6 +1401,9 @@ ship 146:
 
 ship 148:
 - By J3anC4rlo.
+
+ship 151:
+- By Aleiz21.
 
 ship 153:
 - By TheRare5.
@@ -1511,11 +1574,14 @@ ball 44:
 ball 46:
 - By JustHyperCL.
 
+ball 47:
+- By AlexisDrawz.
+
 ball 48:
 - By NHJ.
 
-ball 50:
-- By Hydr4ze.
+ball 49:
+- By ML500.
 
 ball 51:
 - By AlexisDrawz.
@@ -1616,6 +1682,13 @@ ball 82:
 
 ball 83:
 - By Drian114.
+
+ball 84:
+- By JigglypuffGD.
+- Collab with AlexisDrawz.
+
+ball 85:
+- By ML500.
 
 ball 86:
 - By ML500.
@@ -1729,9 +1802,6 @@ ufo 12:
 ufo 14:
 - By Aleiz21.
 
-ufo 17:
-- By Hydr4ze.
-
 ufo 18:
 - By RetroAdvance64.
 - Twisted with a more "vampiric"-styled adornments.
@@ -1833,9 +1903,6 @@ ufo 76:
 ufo 78:
 - By ML500.
 
-ufo 86:
-- By Aleiz21.
-
 ufo 92:
 - By J3anC4rlo.
 
@@ -1863,6 +1930,9 @@ ufo 121:
 - Based on the transition art in the level 'Waterfall' by cherryteam.
 - ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1366690175702401044/image.png?ex=6811dce9&is=68108b69&hm=e9c149caf7bba5ea5a25fd3223d968c7dae0ec03d977c423c08c4ee7116da639&)
 
+ufo 123:
+- By KevgenGD.
+
 ufo 133:
 - By electrictaco.
 - In reference to the smiley face from change of scene by bli, inspired more so by its easter egg in bli's part in zwoop by azhir on the blimp.
@@ -1883,6 +1953,9 @@ ufo 142:
 ufo 144:
 - By Drian114.
 - A couple of extra details were added to the original design.
+
+ufo 147:
+- By aGold.
 
 ufo 148:
 - By Sorao.
@@ -1916,6 +1989,9 @@ wave 7:
 wave 8:
 - By KevgenGD.
 
+wave 9:
+- By Aleiz21.
+
 wave 10:
 - By NHJ.
 
@@ -1931,6 +2007,9 @@ wave 14:
 
 wave 15:
 - By Aleiz21.
+
+wave 16:
+- By aGold.
 
 wave 17:
 - By sharkcrome.
@@ -1966,11 +2045,17 @@ wave 25:
 wave 26:
 - By sharkcrome.
 
+wave 31:
+- By ML500.
+
 wave 32:
 - By bugpesto.
 
 wave 37:
 - By Aleiz21.
+
+wave 38:
+- By aGold.
 
 wave 41:
 - By RetroAdvance64.
@@ -2003,6 +2088,12 @@ wave 50:
 wave 51:
 - By NHJ.
 
+wave 53:
+- By aGold.
+
+wave 57:
+- By ML500.
+
 wave 60:
 - By ML500.
 - Same game reference as original (Terraria), but it's the first phase of "Plantera".
@@ -2014,6 +2105,9 @@ wave 61:
 wave 62:
 - By Luar77.
 - Indirect reference to an original character from Luar77.
+
+wave 63:
+- By Aleiz21.
 
 wave 64:
 - By CraZyboy6484.
@@ -2044,6 +2138,9 @@ wave 82:
 wave 84:
 - By Drian114.
 
+wave 85:
+- By AlexanderX1ta.
+
 wave 88:
 - By JigglypuffGD.
 
@@ -2061,6 +2158,9 @@ wave 93:
 
 wave 94:
 - By RetroAdvance64.
+
+wave 95:
+- By Aleiz21.
 
 wave 96:
 - By J3anC4rlo.
@@ -2092,6 +2192,9 @@ robot 8:
 
 robot 9:
 - By Drian114.
+
+robot 10:
+- By J3anC4rlo.
 
 robot 11:
 - By RetroAdvance64.
@@ -2134,6 +2237,10 @@ robot 29:
 robot 33:
 - By RetroAdvance64.
 - A direct remake to the original robot. Properly references Doomguy from DOOM (1993).
+
+robot 34:
+- By AlexisDrawz.
+- In Collab W. Asren! (Thank you so much brother).
 
 robot 35:
 - By NHJ.
@@ -2188,6 +2295,9 @@ robot 57:
 robot 58:
 - By KevgenGD.
 
+robot 63:
+- By ML500.
+
 robot 65:
 - By cyanflower.
 - The Miserable.
@@ -2205,6 +2315,9 @@ spider 3:
 
 spider 4:
 - By RetroAdvance64.
+
+spider 5:
+- By Aleiz21.
 
 spider 7:
 - By RetroAdvance64.
@@ -2254,6 +2367,9 @@ spider 22:
 spider 23:
 - By Aleiz21.
 
+spider 25:
+- By bugpesto.
+
 spider 26:
 - By NHJ.
 
@@ -2262,6 +2378,9 @@ spider 34:
 
 spider 36:
 - By angelotoons05.
+
+spider 39:
+- By Aleiz21.
 
 spider 46:
 - By bugpesto.
@@ -2409,6 +2528,10 @@ swing 38:
 - By RetroAdvance64.
 - A direct remake to the "Lunar" swing.
 
+swing 39:
+- By RetroAdvance64.
+- A direct remake to the original swing. The style is changed to match with Cube 396 and be consistent to the modern clock theme for Supernova.
+
 swing 40:
 - By sharkcrome.
 
@@ -2432,6 +2555,9 @@ jetpack 3:
 jetpack 6:
 - By sharkcrome.
 - In collaboration with RetroAdvance64.
+
+jetpack 7:
+- By JigglypuffGD.
 
 jetpack 8:
 - By Aleiz21.
