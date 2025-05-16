@@ -17,7 +17,7 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- Sharkcrome           (57 icons, 1 of those being collabs)
+- Sharkcrome           (56 icons, 1 of those being collabs)
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
@@ -734,6 +734,9 @@ cube 271:
 - By Drian114.
 - Just a typo that occurs when you try to write "XD" but shift to the letters on the right instead (QWERTY keyboard) ||  CAVIFAS FALLECIÓ CFFFFFF.
 
+cube 272:
+- By Drian114.
+
 cube 273:
 - By KevgenGD.
 
@@ -1041,6 +1044,9 @@ cube 420:
 cube 421:
 - By KevgenGD.
 
+cube 422:
+- By JustHyperCL.
+
 cube 428:
 - By CraZyboy6484.
 
@@ -1196,6 +1202,9 @@ ship 9:
 
 ship 10:
 - By Exetric.
+
+ship 11:
+- By J3anC4rlo.
 
 ship 12:
 - By J3anC4rlo.
