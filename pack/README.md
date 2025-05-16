@@ -2,36 +2,36 @@
 After over 2 months of work, we present a complete design revamp of every icon in the game.
 
 ## Contributors
-- RetroAdvance64       (100 icons, 1 of those being collabs) + 4 collabs
+- RetroAdvance64       (102 icons, 1 of those being collabs) + 4 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (74 icons, 7 of those being collabs) + 6 collabs
+- Aleiz21              (84 icons, 7 of those being collabs) + 6 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - cyanflower           (62 icons, 1 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- sharkcrome           (57 icons, 1 of those being collabs)
-	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
-	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
-	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
-	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- ML500                (56 icons, 2 of those being collabs)
+- ML500                (58 icons, 2 of those being collabs)
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
+- Sharkcrome           (57 icons, 1 of those being collabs)
+	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
+	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
+	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
+	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - NHJ                  (53 icons, 1 of those being collabs) + 3 collabs
 - KevgenGD             (51 icons, 1 of those being collabs)
-- JigglypuffGD         (51 icons, 3 of those being collabs)
+- JigglypuffGD         (52 icons, 3 of those being collabs)
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
+- Drian114             (50 icons, 2 of those being collabs) + 2 collabs
 - bugpesto             (47 icons, 1 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- Drian114             (45 icons, 2 of those being collabs) + 2 collabs
 - JustHyperCL          (37 icons, 5 of those being collabs) + 3 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (34 icons)
@@ -65,7 +65,7 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Hushroom             (4 icons)
 - TheRare5             (4 icons)
 - _theangeloffice_     (4 icons, 1 of those being collabs)
-- danky99              (3 icons)
+- DanKy99              (3 icons)
 - fiegael              (2 icons)
 - DibbJ                (1 icon) + 1 collab
 - LonelyChicken         + 1 collab
@@ -157,7 +157,7 @@ cube 25:
 - By NHJ.
 
 cube 27:
-- By sharkcrome.
+- By Sharkcrome.
 
 cube 28:
 - By NHJ.
@@ -166,19 +166,19 @@ cube 29:
 - By CraZyboy6484.
 
 cube 30:
-- By sharkcrome.
+- By Sharkcrome.
 
 cube 31:
-- By sharkcrome.
+- By Sharkcrome.
 
 cube 32:
 - By KevgenGD.
 
 cube 33:
-- By sharkcrome.
+- By Sharkcrome.
 
 cube 34:
-- By sharkcrome.
+- By Sharkcrome.
 
 cube 35:
 - By KevgenGD.
@@ -196,10 +196,10 @@ cube 40:
 - By KevgenGD.
 
 cube 41:
-- By sharkcrome.
+- By Sharkcrome.
 
 cube 42:
-- By sharkcrome.
+- By Sharkcrome.
 - CREEPAH!.
 
 cube 44:
@@ -294,10 +294,10 @@ cube 74:
 - By Hushroom.
 
 cube 75:
-- By sharkcrome.
+- By Sharkcrome.
 
 cube 77:
-- By sharkcrome.
+- By Sharkcrome.
 - Cube 6 has some relatives.
 
 cube 78:
@@ -451,7 +451,7 @@ cube 129:
 cube 133:
 - By Aleiz21.
 
-cube 134:
+cube 135:
 - By Aleiz21.
 
 cube 137:
@@ -462,7 +462,7 @@ cube 140:
 - By JustHyperCL.
 
 cube 141:
-- By sharkcrome.
+- By Sharkcrome.
 - Floating Spider Enemy From The Classic Nokia Game Bounce.
 - ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1368932507327795231/bounce_classic_apk.jpg?ex=681a053f&is=6818b3bf&hm=adb864fa8704b4116c867784af64bbb3f63c7af941db7842978b922a76584438&)
 
@@ -542,7 +542,7 @@ cube 166:
 - By J3anC4rlo.
 
 cube 167:
-- By sharkcrome.
+- By Sharkcrome.
 - All GD players put ya hands up !.
 
 cube 168:
@@ -581,6 +581,7 @@ cube 183:
 
 cube 184:
 - By Aleiz21.
+- Remake needed.
 
 cube 187:
 - By JigglypuffGD.
@@ -617,7 +618,7 @@ cube 201:
 - This cube's redesign is in reference to the level "BEATDEMON" by YoReid. Unlike the original cube, this one's teeth are colorable, a detail seen later on in the level during the last wave section.
 
 cube 204:
-- By sharkcrome.
+- By Sharkcrome.
 - Refrence to "Mako", a Legend from the game Brawlhalla.
 - ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1369622748296642610/Mako_1.png?ex=681c8815&is=681b3695&hm=946a499cc20a171111156077f25372218d85b0ba27c28dffb57075f16b115677&)
 
@@ -648,11 +649,6 @@ cube 215:
 
 cube 216:
 - By Drian114.
-
-cube 217:
-- By sharkcrome.
-- Refrence to "Kor In Space" skin of the Legend Kor in the game Brawlhalla.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1370855727513731253/Kor_in_Space.png?ex=68210462&is=681fb2e2&hm=0cccd1f226fef18b1ffb15f743aba41eed936743947d1f830b760f8bf2fad58f&)
 
 cube 219:
 - By JigglypuffGD.
@@ -694,7 +690,7 @@ cube 245:
 - By RetroAdvance64.
 
 cube 248:
-- By sharkcrome.
+- By Sharkcrome.
 
 cube 250:
 - By JustHyperCL.
@@ -710,12 +706,13 @@ cube 253:
 
 cube 254:
 - By Aleiz21.
+- Remake needed.
 
 cube 258:
 - By JustHyperCL.
 
 cube 261:
-- By sharkcrome.
+- By Sharkcrome.
 
 cube 263:
 - By Luar77.
@@ -842,7 +839,7 @@ cube 317:
 - By AlexisDrawz.
 
 cube 318:
-- By sharkcrome.
+- By Sharkcrome.
 - References the iconic helmet of famous producer "Marshmello".
 
 cube 319:
@@ -888,7 +885,7 @@ cube 344:
 - References the "Epic Face" a classic meme from the early 2000s.
 
 cube 345:
-- By sharkcrome.
+- By Sharkcrome.
 
 cube 347:
 - By JigglypuffGD.
@@ -915,7 +912,7 @@ cube 357:
 - Collab with Aleiz21.
 
 cube 360:
-- By sharkcrome.
+- By Sharkcrome.
 
 cube 361:
 - By ML500.
@@ -928,7 +925,7 @@ cube 363:
 - By AlexisDrawz.
 
 cube 365:
-- By sharkcrome.
+- By Sharkcrome.
 - Terraspark from the 2D hit game 🌳 Terraria.
 
 cube 368:
@@ -1185,6 +1182,9 @@ ship 3:
 ship 4:
 - By J3anC4rlo.
 
+ship 5:
+- By KevgenGD.
+
 ship 7:
 - By KevgenGD.
 
@@ -1204,7 +1204,7 @@ ship 13:
 - By Aleiz21.
 
 ship 14:
-- By sharkcrome.
+- By Sharkcrome.
 
 ship 15:
 - By RetroAdvance64.
@@ -1219,7 +1219,7 @@ ship 19:
 - By JigglypuffGD.
 
 ship 20:
-- By sharkcrome.
+- By Sharkcrome.
 
 ship 21:
 - By RetroAdvance64.
@@ -1239,6 +1239,7 @@ ship 26:
 
 ship 27:
 - By Aleiz21.
+- Remake needed.
 
 ship 28:
 - By Drian114.
@@ -1266,7 +1267,7 @@ ship 39:
 - By Aleiz21.
 
 ship 41:
-- By sharkcrome.
+- By Sharkcrome.
 
 ship 50:
 - By Drian114.
@@ -1416,7 +1417,7 @@ ship 158:
 - Collect My Noteboos.
 
 ship 162:
-- By sharkcrome.
+- By Sharkcrome.
 
 ship 164:
 - By Aleiz21.
@@ -1450,7 +1451,7 @@ ball 4:
 - By NHJ.
 
 ball 5:
-- By sharkcrome.
+- By Sharkcrome.
 
 ball 6:
 - By NHJ.
@@ -1511,7 +1512,7 @@ ball 24:
 - By JustHyperCL.
 
 ball 25:
-- By sharkcrome.
+- By Sharkcrome.
 
 ball 26:
 - By NHJ.
@@ -1534,7 +1535,7 @@ ball 32:
 - References Spiritomb's face, from Pokémon.
 
 ball 33:
-- By sharkcrome.
+- By Sharkcrome.
 - Legendary Godzilla.
 
 ball 34:
@@ -1550,7 +1551,7 @@ ball 37:
 - By CraZyboy6484.
 
 ball 38:
-- By sharkcrome.
+- By Sharkcrome.
 - Cube 31 what are you doing inside ball 38 ???.
 
 ball 39:
@@ -1569,7 +1570,7 @@ ball 43:
 - By KevgenGD.
 
 ball 44:
-- By sharkcrome.
+- By Sharkcrome.
 
 ball 46:
 - By JustHyperCL.
@@ -1593,7 +1594,7 @@ ball 54:
 - By bugpesto.
 
 ball 55:
-- By sharkcrome.
+- By Sharkcrome.
 
 ball 57:
 - By ML500.
@@ -1602,7 +1603,7 @@ ball 59:
 - By JigglypuffGD.
 
 ball 60:
-- By sharkcrome.
+- By Sharkcrome.
 
 ball 61:
 - By Drian114.
@@ -1628,7 +1629,7 @@ ball 67:
 - By bugpesto.
 
 ball 68:
-- By sharkcrome.
+- By Sharkcrome.
 - /Just Shapes And Beats/
 Nitro Fun - New Game 
 00:54 =:- Bre Beb Beb Be Aa Aow!
@@ -1697,13 +1698,16 @@ ball 87:
 - By bugpesto.
 
 ball 88:
-- By sharkcrome.
+- By Sharkcrome.
+
+ball 91:
+- By RetroAdvance64.
 
 ball 93:
 - By Hydr4ze.
 
 ball 94:
-- By sharkcrome.
+- By Sharkcrome.
 
 ball 95:
 - By Aleiz21.
@@ -1717,7 +1721,7 @@ ball 98:
 - Similar to Cube 2, this ball's redesign is also in reference to cyanflower's general liking of slime, and is also based off his primary usage of Cube 2, nicknamed "Goohead" by him. This ball also drools.
 
 ball 99:
-- By sharkcrome.
+- By Sharkcrome.
 
 ball 100:
 - By NHJ.
@@ -1749,7 +1753,7 @@ ball 109:
 - By JigglypuffGD.
 
 ball 110:
-- By sharkcrome.
+- By Sharkcrome.
 
 ball 111:
 - By Hydr4ze.
@@ -1767,7 +1771,7 @@ ball 115:
 - By Sorao.
 
 ball 116:
-- By sharkcrome.
+- By Sharkcrome.
 
 ball 117:
 - By KevgenGD.
@@ -1786,7 +1790,10 @@ ufo 4:
 - By RetroAdvance64.
 
 ufo 6:
-- By sharkcrome.
+- By Sharkcrome.
+
+ufo 7:
+- By Sharkcrome.
 
 ufo 8:
 - By cyanflower.
@@ -1838,6 +1845,9 @@ ufo 31:
 ufo 33:
 - By Aleiz21.
 
+ufo 34:
+- By Aleiz21.
+
 ufo 35:
 - By Aleiz21.
 - Collab with Drian114.
@@ -1846,19 +1856,28 @@ ufo 36:
 - By Drian114.
 - Collab w/ Aleiz21.
 
+ufo 37:
+- By Aleiz21.
+
 ufo 40:
 - By Hydr4ze.
 
 ufo 42:
 - By ML500.
 
+ufo 45:
+- By Aleiz21.
+
 ufo 47:
-- By sharkcrome.
+- By Sharkcrome.
 - Scary Mike Wozawoski.
 
 ufo 48:
 - By Drian114.
 - UFO 48 now has an insect-looking design.
+
+ufo 49:
+- By Aleiz21.
 
 ufo 50:
 - By RetroAdvance64.
@@ -1891,6 +1910,9 @@ ufo 71:
 - By RetroAdvance64.
 - A direct remake to the original UFO. It remixes into a more futuristic look to the "Boombox" UFO | Collab with Alexisdrawz.
 
+ufo 72:
+- By Aleiz21.
+
 ufo 73:
 - By Aleiz21.
 
@@ -1903,11 +1925,26 @@ ufo 76:
 ufo 78:
 - By ML500.
 
+ufo 80:
+- By Aleiz21.
+
+ufo 81:
+- By Aleiz21.
+
+ufo 83:
+- By Aleiz21.
+
 ufo 92:
 - By J3anC4rlo.
 
+ufo 93:
+- By Aleiz21.
+
 ufo 94:
 - By Sorao.
+
+ufo 95:
+- By Aleiz21.
 
 ufo 99:
 - By J3anC4rlo.
@@ -1919,7 +1956,7 @@ ufo 104:
 - By NHJ.
 
 ufo 113:
-- By sharkcrome.
+- By Sharkcrome.
 
 ufo 118:
 - By cyanflower.
@@ -2012,10 +2049,10 @@ wave 16:
 - By aGold.
 
 wave 17:
-- By sharkcrome.
+- By Sharkcrome.
 
 wave 18:
-- By sharkcrome.
+- By Sharkcrome.
 
 wave 19:
 - By Drian114.
@@ -2040,16 +2077,19 @@ wave 24:
 - By aGold.
 
 wave 25:
-- By sharkcrome.
+- By Sharkcrome.
 
 wave 26:
-- By sharkcrome.
+- By Sharkcrome.
 
 wave 31:
 - By ML500.
 
 wave 32:
 - By bugpesto.
+
+wave 34:
+- By electrictaco.
 
 wave 37:
 - By Aleiz21.
@@ -2083,7 +2123,7 @@ wave 49:
 - By JustHyperCL.
 
 wave 50:
-- By sharkcrome.
+- By Sharkcrome.
 
 wave 51:
 - By NHJ.
@@ -2126,7 +2166,7 @@ wave 78:
 - By Drian114.
 
 wave 79:
-- By sharkcrome.
+- By Sharkcrome.
 
 wave 81:
 - By bugpesto.
@@ -2340,7 +2380,6 @@ spider 13:
 spider 14:
 - By KevgenGD.
 - Collab with aleiz21 !!!.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1371142545257529364/image.png?ex=68220f81&is=6820be01&hm=f67014419257e25fffd7c6bdce5259009e3d4f723090d4dd13056bd86983113a&)
 
 spider 16:
 - By KevgenGD.
@@ -2381,6 +2420,9 @@ spider 36:
 
 spider 39:
 - By Aleiz21.
+
+spider 43:
+- By angelotoons05.
 
 spider 46:
 - By bugpesto.
@@ -2462,6 +2504,9 @@ swing 15:
 - By ML500.
 - Design based on Lady Bow from Paper Mario.
 
+swing 16:
+- By DanKy99.
+
 swing 17:
 - By Luar77.
 - Reference to an original character from Luar77.
@@ -2533,7 +2578,7 @@ swing 39:
 - A direct remake to the original swing. The style is changed to match with Cube 396 and be consistent to the modern clock theme for Supernova.
 
 swing 40:
-- By sharkcrome.
+- By Sharkcrome.
 
 swing 41:
 - By Drian114.
@@ -2553,7 +2598,7 @@ jetpack 3:
 - By NHJ.
 
 jetpack 6:
-- By sharkcrome.
+- By Sharkcrome.
 - In collaboration with RetroAdvance64.
 
 jetpack 7:
