@@ -4,48 +4,18 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>ship_126_2_001.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{6,4}</string>
-				<key>spriteSize</key>
-				<string>{160,115}</string>
-				<key>spriteSourceSize</key>
-				<string>{160,115}</string>
-				<key>textureRect</key>
-				<string>{{189,0},{160,115}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
-			<key>ship_126_extra_001.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{6,-10}</string>
-				<key>spriteSize</key>
-				<string>{151,64}</string>
-				<key>spriteSourceSize</key>
-				<string>{151,64}</string>
-				<key>textureRect</key>
-				<string>{{189,116},{151,64}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
 			<key>ship_126_glow_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{0,5}</string>
 				<key>spriteSize</key>
-				<string>{188,133}</string>
+				<string>{179,128}</string>
 				<key>spriteSourceSize</key>
-				<string>{188,133}</string>
+				<string>{179,128}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{188,133}}</string>
+				<string>{{0,0},{179,128}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -54,13 +24,43 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{0,5}</string>
 				<key>spriteSize</key>
-				<string>{180,125}</string>
+				<string>{171,120}</string>
 				<key>spriteSourceSize</key>
-				<string>{180,125}</string>
+				<string>{171,120}</string>
 				<key>textureRect</key>
-				<string>{{0,134},{180,125}}</string>
+				<string>{{0,129},{171,120}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
+			<key>ship_126_2_001.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{6,10}</string>
+				<key>spriteSize</key>
+				<string>{152,109}</string>
+				<key>spriteSourceSize</key>
+				<string>{152,109}</string>
+				<key>textureRect</key>
+				<string>{{180,0},{152,109}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
+			<key>ship_126_extra_001.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{2,-5}</string>
+				<key>spriteSize</key>
+				<string>{92,60}</string>
+				<key>spriteSourceSize</key>
+				<string>{92,60}</string>
+				<key>textureRect</key>
+				<string>{{172,129},{92,60}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,10 +76,10 @@
 			<key>realTextureFileName</key>
 			<string>icons/ship_126-uhd.png</string>
 			<key>size</key>
-			<string>{349,259}</string>
+			<string>{332,249}</string>
 			<key>textureFileName</key>
 			<string>icons/ship_126-uhd.png</string>
-			#icon by Kevgen
+			# icon by kevgen
 		</dict>
 	</dict>
 </plist>
