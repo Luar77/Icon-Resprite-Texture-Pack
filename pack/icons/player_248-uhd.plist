@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-1.5,6}</string>
+				<string>{-1,6}</string>
 				<key>spriteSize</key>
-				<string>{125,134}</string>
+				<string>{124,132}</string>
 				<key>spriteSourceSize</key>
-				<string>{182,182}</string>
+				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{133,0},{125,134}}</string>
+				<string>{{133,0},{124,132}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,28 +24,28 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-2,4.5}</string>
+				<string>{-4.5,4.5}</string>
 				<key>spriteSize</key>
-				<string>{116,119}</string>
+				<string>{109,117}</string>
 				<key>spriteSourceSize</key>
-				<string>{182,182}</string>
+				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,141},{116,119}}</string>
+				<string>{{133,133},{109,117}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>player_248_extra_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{7.5,9.5}</string>
+				<string>{5,9}</string>
 				<key>spriteSize</key>
-				<string>{93,95}</string>
+				<string>{88,94}</string>
 				<key>spriteSourceSize</key>
-				<string>{182,182}</string>
+				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{120,141},{93,95}}</string>
+				<string>{{0,141},{88,94}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -58,7 +58,7 @@
 				<key>spriteSize</key>
 				<string>{132,140}</string>
 				<key>spriteSourceSize</key>
-				<string>{182,182}</string>
+				<string>{180,180}</string>
 				<key>textureRect</key>
 				<string>{{0,0},{132,140}}</string>
 				<key>textureRotated</key>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_248-uhd.png</string>
 			<key>size</key>
-			<string>{258,257}</string>
+			<string>{257,250}</string>
 			<key>textureFileName</key>
 			<string>icons/player_248-uhd.png</string>
 		</dict>
