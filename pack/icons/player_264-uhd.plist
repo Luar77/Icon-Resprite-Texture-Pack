@@ -11,11 +11,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{118,118}</string>
+				<string>{120,120}</string>
 				<key>spriteSourceSize</key>
-				<string>{118,118}</string>
+				<string>{120,120}</string>
 				<key>textureRect</key>
-				<string>{{127,0},{118,118}}</string>
+				<string>{{129,0},{120,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -26,11 +26,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{114,114}</string>
+				<string>{109,109}</string>
 				<key>spriteSourceSize</key>
-				<string>{114,114}</string>
+				<string>{109,109}</string>
 				<key>textureRect</key>
-				<string>{{0,127},{114,114}}</string>
+				<string>{{0,129},{109,109}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,23}</string>
+				<string>{0,8}</string>
 				<key>spriteSize</key>
-				<string>{110,65}</string>
+				<string>{109,93}</string>
 				<key>spriteSourceSize</key>
-				<string>{110,65}</string>
+				<string>{109,93}</string>
 				<key>textureRect</key>
-				<string>{{127,119},{110,65}}</string>
+				<string>{{129,121},{109,93}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{126,126}</string>
+				<string>{128,128}</string>
 				<key>spriteSourceSize</key>
-				<string>{126,126}</string>
+				<string>{128,128}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{126,126}}</string>
+				<string>{{0,0},{128,128}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_264-uhd.png</string>
 			<key>size</key>
-			<string>{245,241}</string>
+			<string>{249,238}</string>
 			<key>textureFileName</key>
 			<string>icons/player_264-uhd.png</string>
 			#icon by Kevgen
