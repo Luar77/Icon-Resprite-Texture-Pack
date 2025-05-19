@@ -10,7 +10,7 @@ The credits for each individual icon are listed in the README.md provided in the
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (89 icons, 8 of those being collabs) + 6 collabs
+- Aleiz21              (88 icons, 8 of those being collabs) + 6 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - ML500                (64 icons, 2 of those being collabs)
