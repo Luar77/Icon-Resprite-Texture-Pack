@@ -2,29 +2,29 @@
 After over 2 months of work, we present a complete design revamp of every icon in the game.
 
 ## Contributors
-- RetroAdvance64       (110 icons, 2 of those being collabs) + 5 collabs
+- RetroAdvance64       (111 icons, 2 of those being collabs) + 5 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (88 icons, 8 of those being collabs) + 6 collabs
+- Aleiz21              (87 icons, 8 of those being collabs) + 6 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- ML500                (64 icons, 2 of those being collabs)
-	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
-	- [@masterl500](https://twitter.com/masterl500) on Twitter
-	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
-	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- cyanflower           (63 icons, 1 of those being collabs)
+- cyanflower           (64 icons, 1 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (62 icons, 1 of those being collabs)
+- Sharkcrome           (64 icons, 1 of those being collabs)
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
+- ML500                (63 icons, 2 of those being collabs)
+	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
+	- [@masterl500](https://twitter.com/masterl500) on Twitter
+	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
+	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 - NHJ                  (59 icons, 1 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- JigglypuffGD         (55 icons, 2 of those being collabs)
+- JigglypuffGD         (55 icons, 3 of those being collabs)
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - bugpesto             (52 icons, 2 of those being collabs) + 1 collab
@@ -33,9 +33,9 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
 - KevgenGD             (50 icons, 1 of those being collabs)
-- JustHyperCL          (38 icons, 7 of those being collabs) + 5 collabs
+- JustHyperCL          (39 icons, 7 of those being collabs) + 5 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (31 icons) + 1 collab
+- Sorao                (29 icons) + 1 collab
 - J3anC4rlo            (30 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
@@ -44,9 +44,8 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Hydr4ze              (28 icons, 3 of those being collabs)
 - AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
 - AngelozDD            (20 icons)
-- aGold                (20 icons)
-	- [https://agold.is-a.dev](https://agold.is-a.dev) on Website
-- AlexanderX1ta        (16 icons, 1 of those being collabs)
+- aGold                (20 icons)https://agold.is-a.dev
+- AlexanderX1ta        (16 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
@@ -217,6 +216,9 @@ cube 45:
 
 cube 46:
 - By NHJ.
+
+cube 47:
+- By Sorao.
 
 cube 48:
 - By AlexanderX1ta.
@@ -760,10 +762,6 @@ cube 264:
 cube 265:
 - By Drian114.
 
-cube 267:
-- By ML500.
-- Original version of the cube (Made in 2020).
-
 cube 269:
 - By RetroAdvance64.
 
@@ -1233,7 +1231,6 @@ ship 2:
 
 ship 3:
 - By RetroAdvance64.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1371611300102144080/image.png?ex=6823c411&is=68227291&hm=876cf00834d43a32a298d0b991724f0c65a14786c6126c4f80a9e41801bb9ec1&)
 
 ship 4:
 - By J3anC4rlo.
@@ -1270,9 +1267,6 @@ ship 15:
 
 ship 16:
 - By NHJ.
-
-ship 17:
-- By Aleiz21.
 
 ship 19:
 - By JigglypuffGD.
@@ -1355,7 +1349,6 @@ ship 66:
 
 ship 70:
 - By CraZyboy6484.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1371142016968429748/image.png?ex=68220f03&is=6820bd83&hm=1dd2484dbd4fc5ae9b5f8a73bd40b2832315775d3734f90ba36affb50a998ef7&)
 
 ship 71:
 - By RetroAdvance64.
@@ -2241,6 +2234,7 @@ wave 38:
 
 wave 39:
 - By Sharkcrome.
+- Refrence to Yung Venus from Nuclear Throne.
 
 wave 41:
 - By RetroAdvance64.
@@ -2263,6 +2257,7 @@ wave 47:
 
 wave 48:
 - By Aleiz21.
+- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1374473694952554587/image.png?ex=682e2de1&is=682cdc61&hm=a6d314ddee0bcef9a9ca121dabe1ebd4df846c06bd6568b7a98c026232d0c972&)
 
 wave 49:
 - By JustHyperCL.
