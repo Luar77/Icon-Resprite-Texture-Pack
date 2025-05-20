@@ -6,29 +6,29 @@ This was hosted on the [Master's World discord server](https://discord.gg/tFUyJw
 The credits for each individual icon are listed in the README.md provided in the pack itself.
 
 ## Contributors
-- RetroAdvance64       (110 icons, 2 of those being collabs) + 5 collabs
+- RetroAdvance64       (111 icons, 2 of those being collabs) + 5 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (88 icons, 8 of those being collabs) + 6 collabs
+- Aleiz21              (87 icons, 8 of those being collabs) + 6 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- ML500                (64 icons, 2 of those being collabs)
-	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
-	- [@masterl500](https://twitter.com/masterl500) on Twitter
-	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
-	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- cyanflower           (63 icons, 1 of those being collabs)
+- cyanflower           (64 icons, 1 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (62 icons, 1 of those being collabs)
+- Sharkcrome           (64 icons, 1 of those being collabs)
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
+- ML500                (63 icons, 2 of those being collabs)
+	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
+	- [@masterl500](https://twitter.com/masterl500) on Twitter
+	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
+	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 - NHJ                  (59 icons, 1 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- JigglypuffGD         (55 icons, 2 of those being collabs)
+- JigglypuffGD         (55 icons, 3 of those being collabs)
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - bugpesto             (52 icons, 2 of those being collabs) + 1 collab
@@ -37,9 +37,9 @@ The credits for each individual icon are listed in the README.md provided in the
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
 - KevgenGD             (50 icons, 1 of those being collabs)
-- JustHyperCL          (38 icons, 7 of those being collabs) + 5 collabs
+- JustHyperCL          (39 icons, 7 of those being collabs) + 5 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (31 icons) + 1 collab
+- Sorao                (29 icons) + 1 collab
 - J3anC4rlo            (30 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
@@ -48,9 +48,8 @@ The credits for each individual icon are listed in the README.md provided in the
 - Hydr4ze              (28 icons, 3 of those being collabs)
 - AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
 - AngelozDD            (20 icons)
-- aGold                (20 icons)
-	- [https://agold.is-a.dev](https://agold.is-a.dev) on Website
-- AlexanderX1ta        (16 icons, 1 of those being collabs)
+- aGold                (20 icons)https://agold.is-a.dev
+- AlexanderX1ta        (16 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
