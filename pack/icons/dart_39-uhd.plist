@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-1,0}</string>
+				<string>{-4.5,0}</string>
 				<key>spriteSize</key>
-				<string>{150,90}</string>
+				<string>{111,100}</string>
 				<key>spriteSourceSize</key>
 				<string>{202,120}</string>
 				<key>textureRect</key>
-				<string>{{0,99},{150,90}}</string>
+				<string>{{0,109},{111,100}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,28 +24,28 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-20,0}</string>
+				<string>{-6,0}</string>
 				<key>spriteSize</key>
-				<string>{32,34}</string>
+				<string>{98,90}</string>
 				<key>spriteSourceSize</key>
 				<string>{202,120}</string>
 				<key>textureRect</key>
-				<string>{{159,47},{32,34}}</string>
+				<string>{{112,109},{98,90}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>dart_39_extra_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-20,0}</string>
+				<string>{10.5,0}</string>
 				<key>spriteSize</key>
-				<string>{46,46}</string>
+				<string>{65,26}</string>
 				<key>spriteSourceSize</key>
 				<string>{202,120}</string>
 				<key>textureRect</key>
-				<string>{{159,0},{46,46}}</string>
+				<string>{{120,0},{65,26}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -54,13 +54,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-1,0}</string>
+				<string>{-4.5,0}</string>
 				<key>spriteSize</key>
-				<string>{158,98}</string>
+				<string>{119,108}</string>
 				<key>spriteSourceSize</key>
 				<string>{202,120}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{158,98}}</string>
+				<string>{{0,0},{119,108}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/dart_39-uhd.png</string>
 			<key>size</key>
-			<string>{205,189}</string>
+			<string>{210,209}</string>
 			<key>textureFileName</key>
 			<string>icons/dart_39-uhd.png</string>
 		</dict>
