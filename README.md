@@ -21,17 +21,17 @@ The credits for each individual icon are listed in the README.md provided in the
 - cyanflower           (63 icons, 1 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- NHJ                  (59 icons, 1 of those being collabs) + 4 collabs
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- Sharkcrome           (60 icons, 1 of those being collabs)
+- Sharkcrome           (62 icons, 1 of those being collabs)
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
+- NHJ                  (59 icons, 1 of those being collabs) + 4 collabs
+	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - JigglypuffGD         (55 icons, 2 of those being collabs)
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- bugpesto             (51 icons, 2 of those being collabs) + 1 collab
+- bugpesto             (52 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
@@ -48,18 +48,18 @@ The credits for each individual icon are listed in the README.md provided in the
 - Hydr4ze              (28 icons, 3 of those being collabs)
 - AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
 - AngelozDD            (20 icons)
-- aGold                (18 icons)
-	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- AlexanderX1ta        (15 icons, 1 of those being collabs)
+- aGold                (20 icons)
+	- [https://agold.is-a.dev](https://agold.is-a.dev) on Website
+- AlexanderX1ta        (16 icons, 1 of those being collabs)
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
+- electrictaco         (14 icons, 1 of those being collabs) + 2 collabs
 - ChileMationsxD       (14 icons)
-- electrictaco         (13 icons, 1 of those being collabs) + 2 collabs
 - Exetric              (12 icons) + 1 collab
-- KazooTheCat          (10 icons)
-	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - DreamsTT             (9 icons)
+- KazooTheCat          (9 icons)
+	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - Luar77               (8 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
