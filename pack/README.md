@@ -2,7 +2,7 @@
 After over 2 months of work, we present a complete design revamp of every icon in the game.
 
 ## Contributors
-- RetroAdvance64       (111 icons, 2 of those being collabs) + 5 collabs
+- RetroAdvance64       (112 icons, 2 of those being collabs) + 5 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
@@ -17,35 +17,35 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- ML500                (63 icons, 2 of those being collabs)
+- ML500                (64 icons, 2 of those being collabs)
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- NHJ                  (59 icons, 1 of those being collabs) + 4 collabs
+- NHJ                  (60 icons, 1 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - JigglypuffGD         (55 icons, 3 of those being collabs)
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
+- KevgenGD             (52 icons, 1 of those being collabs)
 - bugpesto             (52 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
-- KevgenGD             (50 icons, 1 of those being collabs)
 - JustHyperCL          (39 icons, 7 of those being collabs) + 5 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
+- CraZyboy6484         (30 icons)
+	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Sorao                (29 icons) + 1 collab
 - J3anC4rlo            (30 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- CraZyboy6484         (28 icons)
-	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Hydr4ze              (28 icons, 3 of those being collabs)
 - AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
 - AngelozDD            (20 icons)
 - aGold                (20 icons)https://agold.is-a.dev
-- AlexanderX1ta        (16 icons, 1 of those being collabs) + 1 collab
+- AlexanderX1ta        (15 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
@@ -62,7 +62,7 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - ReenRN               (7 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
-- DibbJ                (5 icons) + 1 collab
+- DibbJ                (6 icons) + 1 collab
 - Hushroom             (4 icons)
 - TheRare5             (4 icons)
 - Th3Angel0ffic3       (4 icons, 1 of those being collabs)
@@ -388,6 +388,7 @@ cube 100:
 cube 101:
 - By ReenRN.
 - This cube is based of the something about series by terminalmontage, this icon is based of Kirby’s design in the series.
+- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1374533544461996102/Poyo.mp4?ex=682e659e&is=682d141e&hm=a191e9f8665512e4b1008c566b5b4dc62a9ae506cd09ef17189ea5cff1c3b252&)
 
 cube 102:
 - By KevgenGD.
@@ -761,6 +762,9 @@ cube 264:
 
 cube 265:
 - By Drian114.
+
+cube 268:
+- By KevgenGD.
 
 cube 269:
 - By RetroAdvance64.
@@ -1386,6 +1390,9 @@ ship 92:
 
 ship 93:
 - By RetroAdvance64.
+
+ship 98:
+- By cyanflower.
 
 ship 99:
 - By cyanflower.
@@ -2076,6 +2083,9 @@ ufo 100:
 ufo 104:
 - By NHJ.
 
+ufo 106:
+- By RetroAdvance64.
+
 ufo 108:
 - By AlexanderX1ta.
 
@@ -2270,6 +2280,9 @@ wave 51:
 
 wave 53:
 - By aGold.
+
+wave 56:
+- By KevgenGD.
 
 wave 57:
 - By ML500.
