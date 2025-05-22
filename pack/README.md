@@ -35,21 +35,21 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
 - JustHyperCL          (39 icons, 7 of those being collabs) + 5 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- CraZyboy6484         (30 icons)
-	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Sorao                (29 icons) + 1 collab
 - J3anC4rlo            (30 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- CraZyboy6484         (29 icons)
+	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Hydr4ze              (28 icons, 3 of those being collabs)
+- AngelozDD            (21 icons)
 - AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
-- AngelozDD            (20 icons)
 - aGold                (20 icons)https://agold.is-a.dev
+- electrictaco         (16 icons, 1 of those being collabs) + 2 collabs
 - AlexanderX1ta        (15 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- electrictaco         (14 icons, 1 of those being collabs) + 2 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons) + 1 collab
 - DreamsTT             (9 icons)
@@ -66,7 +66,7 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Hushroom             (4 icons)
 - TheRare5             (4 icons)
 - Th3Angel0ffic3       (4 icons, 1 of those being collabs)
-- DanKy99              (2 icons) + 1 collab
+- DanKy99              (3 icons) + 1 collab
 - fiegael              (2 icons)
 - LonelyChicken         + 1 collab
 - Entium               
@@ -206,6 +206,9 @@ cube 41:
 cube 42:
 - By Sharkcrome.
 - CREEPAH!.
+
+cube 43:
+- By cyanflower.
 
 cube 44:
 - By KevgenGD.
@@ -495,6 +498,9 @@ cube 142:
 - By JustHyperCL.
 - Reference to a funny old emote but now brought to an actual icon.
 
+cube 143:
+- By AlexanderX1ta.
+
 cube 145:
 - By Sorao.
 
@@ -683,6 +689,10 @@ cube 216:
 cube 219:
 - By JigglypuffGD.
 
+cube 221:
+- By fiegael.
+- Collab with JigglypuffGD.
+
 cube 225:
 - By bugpesto.
 - References the penguin design from Mastergame by Serponge.
@@ -700,6 +710,10 @@ cube 229:
 
 cube 230:
 - By Aleiz21.
+
+cube 232:
+- By fiegael.
+- Collab with JigglypuffGD.
 
 cube 233:
 - By Aleiz21.
@@ -856,6 +870,9 @@ cube 303:
 - By RetroAdvance64.
 - "The Poopshitters" / "Chicos, estoy comiendo mortadela". | Jokes aside, this is a meme Icon referencing an infamous hyper-realistic rendition of Sans from Undertale.
 - ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1364347377397272616/image.png?ex=68095703&is=68080583&hm=482143905f79ccf058d740712267b7da29047c99872a4dda8f55c163177da8e9&)
+
+cube 304:
+- By JigglypuffGD.
 
 cube 305:
 - By AlexisDrawz.
@@ -1639,9 +1656,6 @@ ball 35:
 
 ball 36:
 - By Hydr4ze.
-
-ball 37:
-- By CraZyboy6484.
 
 ball 38:
 - By Sharkcrome.
