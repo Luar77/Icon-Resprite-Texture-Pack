@@ -39,21 +39,21 @@ The credits for each individual icon are listed in the README.md provided in the
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
 - JustHyperCL          (39 icons, 7 of those being collabs) + 5 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- CraZyboy6484         (30 icons)
-	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Sorao                (29 icons) + 1 collab
 - J3anC4rlo            (30 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- CraZyboy6484         (29 icons)
+	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Hydr4ze              (28 icons, 3 of those being collabs)
+- AngelozDD            (21 icons)
 - AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
-- AngelozDD            (20 icons)
 - aGold                (20 icons)https://agold.is-a.dev
+- electrictaco         (16 icons, 1 of those being collabs) + 2 collabs
 - AlexanderX1ta        (15 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- electrictaco         (14 icons, 1 of those being collabs) + 2 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons) + 1 collab
 - DreamsTT             (9 icons)
@@ -70,7 +70,7 @@ The credits for each individual icon are listed in the README.md provided in the
 - Hushroom             (4 icons)
 - TheRare5             (4 icons)
 - Th3Angel0ffic3       (4 icons, 1 of those being collabs)
-- DanKy99              (2 icons) + 1 collab
+- DanKy99              (3 icons) + 1 collab
 - fiegael              (2 icons)
 - LonelyChicken         + 1 collab
 - Entium               
