@@ -6,17 +6,17 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (87 icons, 8 of those being collabs) + 6 collabs
+- Aleiz21              (91 icons, 8 of those being collabs) + 6 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- cyanflower           (64 icons, 1 of those being collabs)
-	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
-	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (64 icons, 1 of those being collabs)
+- Sharkcrome           (64 icons, 1 of those being collabs) + 1 collab
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
+- cyanflower           (64 icons, 1 of those being collabs)
+	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
+	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
 - ML500                (64 icons, 2 of those being collabs)
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
@@ -24,18 +24,18 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 - NHJ                  (60 icons, 1 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- JigglypuffGD         (55 icons, 3 of those being collabs)
+- KevgenGD             (55 icons, 1 of those being collabs)
+- JigglypuffGD         (55 icons, 3 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- KevgenGD             (52 icons, 1 of those being collabs)
 - bugpesto             (52 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
-- JustHyperCL          (39 icons, 7 of those being collabs) + 5 collabs
+- JustHyperCL          (39 icons, 8 of those being collabs) + 5 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (29 icons) + 1 collab
+- Sorao                (30 icons) + 1 collab
 - J3anC4rlo            (30 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
@@ -45,16 +45,14 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - AngelozDD            (21 icons)
 - AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
 - aGold                (20 icons)https://agold.is-a.dev
-- electrictaco         (16 icons, 1 of those being collabs) + 2 collabs
-- AlexanderX1ta        (15 icons, 1 of those being collabs) + 1 collab
+- electrictaco         (16 icons, 1 of those being collabs) + 3 collabs
+- AlexanderX1ta        (16 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons) + 1 collab
 - DreamsTT             (9 icons)
-- KazooTheCat          (9 icons)
-	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - Luar77               (8 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
@@ -62,12 +60,14 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - ReenRN               (7 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
+- KazooTheCat          (7 icons)
+	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - DibbJ                (6 icons) + 1 collab
 - Hushroom             (4 icons)
 - TheRare5             (4 icons)
 - Th3Angel0ffic3       (4 icons, 1 of those being collabs)
 - DanKy99              (3 icons) + 1 collab
-- fiegael              (2 icons)
+- fiegael              (2 icons, 2 of those being collabs)
 - LonelyChicken         + 1 collab
 - Entium               
 
@@ -646,6 +646,9 @@ cube 197:
 - By cyanflower.
 - This cube's redesign is in reference to the boss character Big Dog from roguelike indie game "Nuclear Throne", speculated to be the inspiration for the original cube as well.
 
+cube 198:
+- By ML500.
+
 cube 201:
 - By cyanflower.
 - This cube's redesign is in reference to the level "BEATDEMON" by YoReid. Unlike the original cube, this one's teeth are colorable, a detail seen later on in the level during the last wave section.
@@ -762,6 +765,9 @@ cube 256:
 - By JustHyperCL.
 - Collab with AlexisDrawz.
 
+cube 257:
+- By Aleiz21.
+
 cube 258:
 - By JustHyperCL.
 
@@ -818,6 +824,9 @@ cube 283:
 cube 285:
 - By bugpesto.
 - Reworks the original icon to look more like a knight from Castle Crashers.
+
+cube 286:
+- By ML500.
 
 cube 287:
 - By NHJ.
@@ -887,6 +896,9 @@ cube 310:
 - By JustHyperCL.
 - A rebirth version of my first original icon ever, made  exclusively to fit to a very specific existing icon.
 
+cube 312:
+- By Aleiz21.
+
 cube 313:
 - By NHJ.
 
@@ -927,6 +939,9 @@ cube 329:
 - By ML500.
 - Heavily based on Asren's concept for the same icon.
 
+cube 330:
+- By Aleiz21.
+
 cube 334:
 - By ML500.
 
@@ -935,6 +950,9 @@ cube 337:
 
 cube 338:
 - By J3anC4rlo.
+
+cube 339:
+- By ML500.
 
 cube 340:
 - By ML500.
@@ -1194,6 +1212,9 @@ cube 461:
 cube 462:
 - By RetroAdvance64.
 
+cube 463:
+- By ML500.
+
 cube 464:
 - By CraZyboy6484.
 - References a frame of Aku, the main antagonist in the animated series 'Samurai Jack'.
@@ -1347,6 +1368,9 @@ ship 39:
 ship 41:
 - By Sharkcrome.
 
+ship 48:
+- By KevgenGD.
+
 ship 50:
 - By Drian114.
 
@@ -1472,6 +1496,7 @@ ship 129:
 
 ship 130:
 - By Sharkcrome.
+- Zenith From Terraria, a direct reference just like the original :).
 
 ship 131:
 - By Aleiz21.
@@ -1998,6 +2023,10 @@ ufo 42:
 ufo 45:
 - By Aleiz21.
 
+ufo 46:
+- By JigglypuffGD.
+- Based around the alien machine featured in the album cover for the song Overkill by RIOT. Collab with RetroAdvance64.
+
 ufo 47:
 - By Sharkcrome.
 - Scary Mike Wozawoski.
@@ -2021,6 +2050,13 @@ ufo 53:
 ufo 54:
 - By NHJ.
 
+ufo 56:
+- By cyanflower.
+
+ufo 57:
+- By bugpesto.
+- Jajaja.
+
 ufo 58:
 - By Aleiz21.
 
@@ -2035,6 +2071,9 @@ ufo 63:
 ufo 64:
 - By RetroAdvance64.
 - Properly references the Majora's Mask, a demon mask found in TLoZ: Majora's Mask. Interestingly, the UFO id is **64**!.
+
+ufo 66:
+- By Sharkcrome.
 
 ufo 71:
 - By RetroAdvance64.
@@ -2243,6 +2282,7 @@ wave 32:
 
 wave 33:
 - By Sharkcrome.
+- Refrence to Eater of souls from Terraria.
 
 wave 34:
 - By electrictaco.
@@ -2255,10 +2295,6 @@ wave 37:
 
 wave 38:
 - By aGold.
-
-wave 39:
-- By Sharkcrome.
-- Refrence to Yung Venus from Nuclear Throne.
 
 wave 41:
 - By RetroAdvance64.
@@ -2353,6 +2389,10 @@ wave 85:
 
 wave 86:
 - By Sharkcrome.
+- Refrence to "Calamitas", a Final Boss from Terraria Calamity mod.
+
+wave 87:
+- By bugpesto.
 
 wave 88:
 - By JigglypuffGD.
@@ -2605,8 +2645,13 @@ spider 43:
 spider 46:
 - By bugpesto.
 
+spider 47:
+- By Aleiz21.
+- Collab with JustHyperCL.
+
 spider 48:
 - By Aleiz21.
+- Offset issues.
 
 spider 49:
 - By Drian114.
