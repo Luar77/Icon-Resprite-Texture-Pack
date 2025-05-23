@@ -9,23 +9,23 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Aleiz21              (98 icons, 8 of those being collabs) + 6 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- NHJ                  (63 icons, 1 of those being collabs) + 4 collabs
+- NHJ                  (65 icons, 1 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - Sharkcrome           (64 icons, 1 of those being collabs) + 1 collab
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- ML500                (65 icons, 3 of those being collabs)
+- cyanflower           (64 icons, 1 of those being collabs)
+	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
+	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
+- ML500                (64 icons, 3 of those being collabs)
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- cyanflower           (64 icons, 1 of those being collabs)
-	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
-	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
 - KevgenGD             (56 icons, 1 of those being collabs)
-- bugpesto             (55 icons, 2 of those being collabs) + 1 collab
+- bugpesto             (56 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
@@ -33,26 +33,26 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
-- JustHyperCL          (38 icons, 8 of those being collabs) + 5 collabs
+- JustHyperCL          (39 icons, 8 of those being collabs) + 5 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (30 icons) + 1 collab
-- J3anC4rlo            (30 icons, 1 of those being collabs)
-	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
-	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - CraZyboy6484         (29 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Hydr4ze              (28 icons, 3 of those being collabs)
-- aGold                (22 icons)https://agold.is-a.dev
+- J3anC4rlo            (26 icons, 1 of those being collabs)
+	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
+	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- aGold                (22 icons)
+	- https://agold.is-a.dev
 - AngelozDD            (21 icons)
 - AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
-- electrictaco         (17 icons, 1 of those being collabs) + 3 collabs
-- AlexanderX1ta        (18 icons, 1 of those being collabs) + 1 collab
+- AlexanderX1ta        (19 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
+- electrictaco         (17 icons, 1 of those being collabs) + 3 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons) + 1 collab
-- DreamsTT             (9 icons)
 - Luar77               (8 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
@@ -62,7 +62,8 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
 - KazooTheCat          (7 icons) + 1 collab
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
-- DibbJ                (6 icons) + 1 collab
+- DreamsTT             (7 icons)
+- DibbJ                (5 icons) + 1 collab
 - Hushroom             (4 icons)
 - TheRare5             (4 icons)
 - Th3Angel0ffic3       (4 icons, 1 of those being collabs)
@@ -337,7 +338,7 @@ cube 83:
 cube 84:
 - By Exetric.
 - Based on Quasar's cube.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1366877762333184152/825E566A-72F3-4CF5-832F-8676DE345EC3.png?ex=68128b9d&is=68113a1d&hm=61902d5f860fb47ed91d4d209d9c9d97aabc06d4274d3e9fb7209db061609f39&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_84(1).png)
 
 cube 85:
 - By CraZyboy6484.
@@ -391,7 +392,7 @@ cube 100:
 cube 101:
 - By ReenRN.
 - This cube is based of the something about series by terminalmontage, this icon is based of Kirby’s design in the series.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1374533544461996102/Poyo.mp4?ex=682e659e&is=682d141e&hm=a191e9f8665512e4b1008c566b5b4dc62a9ae506cd09ef17189ea5cff1c3b252&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_101(1).mp4)
 
 cube 102:
 - By KevgenGD.
@@ -498,7 +499,7 @@ cube 140:
 cube 141:
 - By Sharkcrome.
 - Floating Spider Enemy From The Classic Nokia Game Bounce.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1368932507327795231/bounce_classic_apk.jpg?ex=681a053f&is=6818b3bf&hm=adb864fa8704b4116c867784af64bbb3f63c7af941db7842978b922a76584438&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_141(1).jpg)
 
 cube 142:
 - By JustHyperCL.
@@ -603,8 +604,8 @@ cube 178:
 
 cube 179:
 - By RetroAdvance64.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1368675974111166495/image.png?ex=68191654&is=6817c4d4&hm=e7e485e6293966b8400de67c1eb165f34d91412d3c1d4492387a4599e371b246&)
-- ![reference_image_2](https://cdn.discordapp.com/attachments/1346719830958673920/1368685420958843062/image.png?ex=68191f21&is=6817cda1&hm=3aa0854ba22a8d339b57e68d7d5b16e0b3155f81f0106f1259487c99945fc573&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_179(1).png)
+- ![reference_image_2](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_179(2).png)
 
 cube 180:
 - By RetroAdvance64.
@@ -622,10 +623,13 @@ cube 183:
 cube 184:
 - By Aleiz21.
 
+cube 186:
+- By ML500.
+
 cube 187:
 - By JigglypuffGD.
 - Based on Boy's final form in the song Boogieman from the FNF mod Twinsomnia.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1370960502452392116/image0.png?ex=682165f6&is=68201476&hm=b78caed39dab16f7aeb754933711448be1df3d6529056e89c2d9c9dfbde8f3af&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_187(1).png)
 
 cube 188:
 - By ML500.
@@ -669,7 +673,7 @@ cube 202:
 cube 204:
 - By Sharkcrome.
 - Refrence to "Mako", a Legend from the game Brawlhalla.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1369622748296642610/Mako_1.png?ex=681c8815&is=681b3695&hm=946a499cc20a171111156077f25372218d85b0ba27c28dffb57075f16b115677&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_204(1).png)
 
 cube 205:
 - By cyanflower.
@@ -693,11 +697,19 @@ cube 211:
 cube 212:
 - By Hydr4ze.
 
+cube 213:
+- By ML500.
+
 cube 215:
 - By CraZyboy6484.
 
 cube 216:
 - By Drian114.
+
+cube 217:
+- By Sharkcrome.
+- Refrence to "Kor In Space" skin of the Legend Kor in the game Brawlhalla.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_217(1).png)
 
 cube 219:
 - By JigglypuffGD.
@@ -793,6 +805,9 @@ cube 264:
 cube 265:
 - By Drian114.
 
+cube 266:
+- By NHJ.
+
 cube 268:
 - By KevgenGD.
 
@@ -819,7 +834,7 @@ cube 278:
 cube 279:
 - By RetroAdvance64.
 - This Cube references the Outfit "Sentinel" from Fortnite added in CH1:S9. Its a reverse reference as the original Cube uses the alternate "dark" style of the outfit and the remix reverts it to its original appearance.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1367625618094817310/image.png?ex=6815441c&is=6813f29c&hm=57f627270a1faa640a6613dbe4b6b361cfa8046fcb6ff3ea4ea3ada384638c78&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_279(1).png)
 
 cube 280:
 - By Sorao.
@@ -866,7 +881,7 @@ cube 296:
 cube 297:
 - By RetroAdvance64.
 - Properly remade to reflect with "Aurelius Adeus" appearance, an OC from Retro.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1364346510703333517/image.png?ex=68095634&is=680804b4&hm=ca212a4f7b43ad8756376496470fdd303ea38a9abc0739ada597a7e9a14a3d31&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_297(1).png)
 
 cube 298:
 - By ML500.
@@ -883,12 +898,12 @@ cube 301:
 cube 302:
 - By RetroAdvance64.
 - The original references a Creeper based from a popular Minecraft Resource pack "PureBDcraft" by Sphax. With this in mind, the icon is changed with the design of the Creeper from Penumbra, a Resource pack made by RetroAdvance64.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1365088255929876490/image.png?ex=680c0902&is=680ab782&hm=b1bd01fddd2e91e92a1146a94ac30e7c711f2d51f151e793cdf3b7677aca9010&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_302(1).png)
 
 cube 303:
 - By RetroAdvance64.
 - "The Poopshitters" / "Chicos, estoy comiendo mortadela". | Jokes aside, this is a meme Icon referencing an infamous hyper-realistic rendition of Sans from Undertale.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1364347377397272616/image.png?ex=68095703&is=68080583&hm=482143905f79ccf058d740712267b7da29047c99872a4dda8f55c163177da8e9&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_303(1).png)
 
 cube 304:
 - By JigglypuffGD.
@@ -1121,7 +1136,7 @@ cube 405:
 
 cube 407:
 - By cyanflower.
-- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1365341982872047688/IMG_3372.webp?ex=680cf54f&is=680ba3cf&hm=23211f03266cdd4ffdf77dfc9d126bf06bb5f1bb47f0b0ee58449e2f30b3b527&=&format=webp&width=313&height=256)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_407(1).png)
 
 cube 408:
 - By NHJ.
@@ -1152,6 +1167,11 @@ cube 421:
 
 cube 422:
 - By JustHyperCL.
+
+cube 427:
+- By JigglypuffGD.
+- A reference to the alien creatures featured in the album cover for the song The Mob by RIOT.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_427(1).jpg)
 
 cube 428:
 - By CraZyboy6484.
@@ -1205,7 +1225,7 @@ cube 447:
 
 cube 448:
 - By AngelozDD.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1367382095885897809/image.png?ex=68146150&is=68130fd0&hm=5c991b27bb90dc71cae17068db1b9ec404e81b3852d8e9bbac6420bc1278a461&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_448(1).png)
 
 cube 449:
 - By J3anC4rlo.
@@ -1262,6 +1282,9 @@ cube 472:
 
 cube 473:
 - By RetroAdvance64.
+
+cube 474:
+- By NHJ.
 
 cube 475:
 - By TheRare5.
@@ -1466,12 +1489,19 @@ ship 84:
 ship 86:
 - By NHJ.
 
+ship 88:
+- By bugpesto.
+
 ship 92:
 - By RetroAdvance64.
 - The opposite side of Ship 22. This is part of a gimmick proposed by JustHyperCL.
 
 ship 93:
 - By RetroAdvance64.
+
+ship 94:
+- By JigglypuffGD.
+- This ship is a reference to the Clanker, the shark in Clankers Cavern in the first Banjo Kazooie game.
 
 ship 98:
 - By cyanflower.
@@ -1555,7 +1585,7 @@ ship 133:
 ship 134:
 - By RetroAdvance64.
 - A direct remake to the original Ship. Faithfully references the Diamond Dog, a boss enemy from Mother 2 (Earthbound).
-- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1373551176380977232/diamonddog.png?ex=682ad2b7&is=68298137&hm=5b7c17e612261cd0a6e187d32fc48338f9cbc7bb4c3205d9f7c5f13669f364db&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_134(1).png)
 
 ship 135:
 - By bugpesto.
@@ -1577,7 +1607,7 @@ ship 146:
 - This ship is in reference to the animated "Narwhals Swimming in the Ocean" meme from 2009... Man I feel old.
 
 ship 148:
-- By J3anC4rlo.
+- By NHJ.
 
 ship 149:
 - By RetroAdvance64.
@@ -1945,6 +1975,9 @@ ball 107:
 - By bugpesto.
 - Reworked the original icon to look more similar to the base design of a Fuzzy from Mario Bros.
 
+ball 108:
+- By JigglypuffGD.
+
 ball 109:
 - By JigglypuffGD.
 
@@ -2074,7 +2107,7 @@ ufo 45:
 ufo 46:
 - By JigglypuffGD.
 - Based around the alien machine featured in the album cover for the song Overkill by RIOT. Collab with RetroAdvance64.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1375364928004690040/600x600bf-60.jpg?ex=68316be7&is=68301a67&hm=2f5e301ec4360147065edcc7299378247aac9eefc8eb72750a82268706c40840&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_46(1).jpg)
 
 ufo 47:
 - By Sharkcrome.
@@ -2160,6 +2193,9 @@ ufo 83:
 ufo 84:
 - By ML500.
 
+ufo 87:
+- By KevgenGD.
+
 ufo 90:
 - By Aleiz21.
 
@@ -2177,6 +2213,9 @@ ufo 94:
 
 ufo 95:
 - By Aleiz21.
+
+ufo 98:
+- By DibbJ.
 
 ufo 99:
 - By J3anC4rlo.
@@ -2206,7 +2245,7 @@ ufo 118:
 ufo 121:
 - By electrictaco.
 - Based on the transition art in the level 'Waterfall' by cherryteam.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1366690175702401044/image.png?ex=6811dce9&is=68108b69&hm=e9c149caf7bba5ea5a25fd3223d968c7dae0ec03d977c423c08c4ee7116da639&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_121(1).png)
 
 ufo 123:
 - By KevgenGD.
@@ -2307,7 +2346,6 @@ wave 20:
 
 wave 21:
 - By J3anC4rlo.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1370268428736397312/image.png?ex=681ee16b&is=681d8feb&hm=f26b31890288c51c9ddc03727b644dfc42eb93d1882bc8c6b1ecab2d2cd44d47&)
 
 wave 22:
 - By bugpesto.
@@ -2350,6 +2388,10 @@ wave 37:
 wave 38:
 - By aGold.
 
+wave 39:
+- By Sharkcrome.
+- Screw This Wave.
+
 wave 41:
 - By RetroAdvance64.
 
@@ -2371,7 +2413,7 @@ wave 47:
 
 wave 48:
 - By Aleiz21.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/862821634870870096/1374473694952554587/image.png?ex=682e2de1&is=682cdc61&hm=a6d314ddee0bcef9a9ca121dabe1ebd4df846c06bd6568b7a98c026232d0c972&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_48(1).png)
 
 wave 49:
 - By JustHyperCL.
@@ -2447,7 +2489,7 @@ wave 85:
 wave 86:
 - By Sharkcrome.
 - Refrence to "Calamitas", a Final Boss from Terraria Calamity mod.
-- ![reference_image_1](https://cdn.discordapp.com/attachments/1346719830958673920/1375410270469357609/Untitled238_20250523022110.png?ex=68319622&is=683044a2&hm=b1777adbcfc2f19db0f8dae432f10d641632ec2cbfd4d4ae0369ec2e53d634dd&)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_86(1).png)
 
 wave 87:
 - By bugpesto.
