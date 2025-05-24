@@ -43,7 +43,7 @@
 				<key>spriteSize</key>
 				<string>{128,120}</string>
 				<key>spriteSourceSize</key>
-				<string>{180,180}</string>
+				<string>{128,120}</string>
 				<key>textureRect</key>
 				<string>{{0,129},{128,120}}</string>
 				<key>textureRotated</key>
