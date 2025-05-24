@@ -9,7 +9,7 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Aleiz21              (98 icons, 8 of those being collabs) + 6 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- Sharkcrome           (67 icons, 1 of those being collabs) + 1 collab
+- Sharkcrome           (69 icons, 1 of those being collabs) + 1 collab
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
@@ -27,24 +27,24 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - JigglypuffGD         (62 icons, 5 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- KevgenGD             (56 icons, 1 of those being collabs)
-- bugpesto             (56 icons, 2 of those being collabs) + 1 collab
+- bugpesto             (57 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
+- KevgenGD             (57 icons, 2 of those being collabs)
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
-- JustHyperCL          (39 icons, 8 of those being collabs) + 5 collabs
+- JustHyperCL          (38 icons, 9 of those being collabs) + 5 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (30 icons) + 1 collab
-- CraZyboy6484         (29 icons)
+- CraZyboy6484         (33 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
+- Sorao                (30 icons) + 1 collab
 - Hydr4ze              (28 icons, 3 of those being collabs)
 - J3anC4rlo            (26 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- AngelozDD            (23 icons)
 - aGold                (22 icons)
 	- https://agold.is-a.dev
-- AngelozDD            (21 icons)
 - AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
 - electrictaco         (18 icons, 1 of those being collabs) + 3 collabs
 - AlexanderX1ta        (19 icons, 1 of those being collabs) + 1 collab
@@ -64,9 +64,9 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - KazooTheCat          (6 icons) + 1 collab
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - DibbJ                (5 icons) + 1 collab
+- Th3Angel0ffic3       (5 icons, 1 of those being collabs)
 - Hushroom             (4 icons)
 - TheRare5             (4 icons)
-- Th3Angel0ffic3       (4 icons, 1 of those being collabs)
 - DanKy99              (3 icons) + 1 collab
 - fiegael              (2 icons, 2 of those being collabs)
 - LonelyChicken         + 1 collab
@@ -349,6 +349,10 @@ cube 86:
 cube 87:
 - By aGold.
 
+cube 88:
+- By AngelozDD.
+- Collab with JustHyperCL.
+
 cube 89:
 - By JustHyperCL.
 - Part of the "Eye catcher" theme which was actually made out of nowhere but boredom 👁.
@@ -588,6 +592,10 @@ cube 168:
 
 cube 170:
 - By AngelozDD.
+
+cube 171:
+- By DanKy99.
+- Frankie Stein from mh.
 
 cube 174:
 - By Drian114.
@@ -843,6 +851,9 @@ cube 281:
 - By cyanflower.
 - This cube's redesign is in direct reference to the original icon's creator, rafer. More specifically, this cube's redesign is based off rafer's stylization of the Shy Guy cube as it appears in his Geometry Dash animation series, representing him.
 
+cube 282:
+- By NHJ.
+
 cube 283:
 - By ML500.
 
@@ -1090,6 +1101,7 @@ cube 384:
 
 cube 385:
 - By Th3Angel0ffic3.
+- Cube that refers to Signus, one of the bosses of the so-called Calamity Mod.
 
 cube 387:
 - By Hydr4ze.
@@ -1098,6 +1110,10 @@ cube 387:
 cube 388:
 - By Sorao.
 - Based and Inspired on Yamper from Pokemon.
+
+cube 390:
+- By KevgenGD.
+- Collab with KA200 !!! Thanks to ML5 for the advice :).
 
 cube 391:
 - By ML500.
@@ -1311,6 +1327,9 @@ cube 479:
 - By cyanflower.
 - A basic redesign of the original cube, keeping the general elements present with a symmetrical spin. The cube's mouth is also now open.
 
+cube 480:
+- By NHJ.
+
 cube 481:
 - By RetroAdvance64.
 
@@ -1477,6 +1496,9 @@ ship 73:
 
 ship 74:
 - By Aleiz21.
+
+ship 75:
+- By NHJ.
 
 ship 78:
 - By Drian114.
@@ -2287,6 +2309,10 @@ ufo 141:
 ufo 142:
 - By Drian114.
 
+ufo 143:
+- By JustHyperCL.
+- Inspired by Exeteric's cube 0.
+
 ufo 144:
 - By Drian114.
 - A couple of extra details were added to the original design.
@@ -2413,6 +2439,9 @@ wave 39:
 - By Sharkcrome.
 - Screw This Wave.
 
+wave 40:
+- By Sharkcrome.
+
 wave 41:
 - By RetroAdvance64.
 
@@ -2449,6 +2478,9 @@ wave 53:
 - By aGold.
 
 wave 54:
+- By Sharkcrome.
+
+wave 55:
 - By Sharkcrome.
 
 wave 56:
