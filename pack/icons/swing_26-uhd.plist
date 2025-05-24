@@ -9,7 +9,7 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{0,-2}</string>
 				<key>spriteSize</key>
 				<string>{121,128}</string>
 				<key>spriteSourceSize</key>
@@ -24,7 +24,7 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-2,-6}</string>
+				<string>{-2,-8}</string>
 				<key>spriteSize</key>
 				<string>{112,88}</string>
 				<key>spriteSourceSize</key>
@@ -32,29 +32,29 @@
 				<key>textureRect</key>
 				<string>{{0,138},{112,88}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>swing_26_extra_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-5,9}</string>
+				<string>{0,-2}</string>
 				<key>spriteSize</key>
-				<string>{88,39}</string>
+				<string>{121,128}</string>
 				<key>spriteSourceSize</key>
 				<string>{250,175}</string>
 				<key>textureRect</key>
-				<string>{{113,138},{88,39}}</string>
+				<string>{{130,129},{121,128}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>swing_26_glow_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{0,-2}</string>
 				<key>spriteSize</key>
 				<string>{129,137}</string>
 				<key>spriteSourceSize</key>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/swing_26-uhd.png</string>
 			<key>size</key>
-			<string>{251,226}</string>
+			<string>{251,259}</string>
 			<key>textureFileName</key>
 			<string>icons/swing_26-uhd.png</string>
 		</dict>
