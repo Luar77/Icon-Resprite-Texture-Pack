@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-2}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{144,124}</string>
+				<string>{144,123}</string>
 				<key>spriteSourceSize</key>
-				<string>{180,180}</string>
+				<string>{144,123}</string>
 				<key>textureRect</key>
-				<string>{{0,132},{144,124}}</string>
+				<string>{{0,131},{144,123}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-1}</string>
+				<string>{0,-0.5}</string>
 				<key>spriteSize</key>
-				<string>{138,116}</string>
+				<string>{138,115}</string>
 				<key>spriteSourceSize</key>
-				<string>{180,180}</string>
+				<string>{138,116}</string>
 				<key>textureRect</key>
-				<string>{{149,0},{138,116}}</string>
+				<string>{{153,0},{138,115}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -39,28 +39,28 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-1}</string>
+				<string>{0,18}</string>
 				<key>spriteSize</key>
-				<string>{138,114}</string>
+				<string>{86,18}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,257},{138,114}}</string>
+				<string>{{145,139},{86,18}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>player_93_glow_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-2.5}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{148,131}</string>
+				<string>{152,130}</string>
 				<key>spriteSourceSize</key>
-				<string>{180,180}</string>
+				<string>{152,131}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{148,131}}</string>
+				<string>{{0,0},{152,130}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_93-uhd.png</string>
 			<key>size</key>
-			<string>{265,371}</string>
+			<string>{268,254}</string>
 			<key>textureFileName</key>
 			<string>icons/player_93-uhd.png</string>
 		</dict>
