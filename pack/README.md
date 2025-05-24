@@ -9,14 +9,14 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Aleiz21              (98 icons, 8 of those being collabs) + 6 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- NHJ                  (65 icons, 1 of those being collabs) + 4 collabs
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- Sharkcrome           (64 icons, 1 of those being collabs) + 1 collab
+- Sharkcrome           (67 icons, 1 of those being collabs) + 1 collab
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- cyanflower           (64 icons, 1 of those being collabs)
+- NHJ                  (65 icons, 1 of those being collabs) + 4 collabs
+	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
+- cyanflower           (66 icons, 1 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
 - ML500                (64 icons, 3 of those being collabs)
@@ -24,14 +24,14 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
+- JigglypuffGD         (62 icons, 5 of those being collabs) + 2 collabs
+	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
+	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - KevgenGD             (56 icons, 1 of those being collabs)
 - bugpesto             (56 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- JigglypuffGD         (56 icons, 5 of those being collabs) + 2 collabs
-	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
-	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
 - JustHyperCL          (39 icons, 8 of those being collabs) + 5 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
@@ -46,11 +46,11 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- https://agold.is-a.dev
 - AngelozDD            (21 icons)
 - AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
+- electrictaco         (18 icons, 1 of those being collabs) + 3 collabs
 - AlexanderX1ta        (19 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- electrictaco         (17 icons, 1 of those being collabs) + 3 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons) + 1 collab
 - Luar77               (8 icons)
@@ -60,9 +60,9 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - ReenRN               (7 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
-- KazooTheCat          (7 icons) + 1 collab
-	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - DreamsTT             (7 icons)
+- KazooTheCat          (6 icons) + 1 collab
+	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - DibbJ                (5 icons) + 1 collab
 - Hushroom             (4 icons)
 - TheRare5             (4 icons)
@@ -1088,6 +1088,9 @@ cube 384:
 - By RetroAdvance64.
 - A direct remake to the original cube. Properly fixes the design to a more modern style.
 
+cube 385:
+- By Th3Angel0ffic3.
+
 cube 387:
 - By Hydr4ze.
 - This is a direct reference to koronba 4-gou (ころんば 4号).
@@ -1233,10 +1236,16 @@ cube 449:
 cube 450:
 - By AlexanderX1ta.
 
+cube 451:
+- By aGold.
+
 cube 453:
 - By CraZyboy6484.
 
 cube 454:
+- By CraZyboy6484.
+
+cube 455:
 - By CraZyboy6484.
 
 cube 457:
@@ -1275,6 +1284,9 @@ cube 468:
 
 cube 469:
 - By NHJ.
+
+cube 471:
+- By CraZyboy6484.
 
 cube 472:
 - By AlexisDrawz.
@@ -1488,6 +1500,9 @@ ship 84:
 
 ship 86:
 - By NHJ.
+
+ship 87:
+- By aGold.
 
 ship 88:
 - By bugpesto.
@@ -1758,6 +1773,9 @@ ball 35:
 
 ball 36:
 - By Hydr4ze.
+
+ball 37:
+- By aGold.
 
 ball 38:
 - By Sharkcrome.
@@ -2193,6 +2211,9 @@ ufo 83:
 ufo 84:
 - By ML500.
 
+ufo 86:
+- By Luar77.
+
 ufo 87:
 - By KevgenGD.
 
@@ -2426,6 +2447,9 @@ wave 51:
 
 wave 53:
 - By aGold.
+
+wave 54:
+- By Sharkcrome.
 
 wave 56:
 - By KevgenGD.
