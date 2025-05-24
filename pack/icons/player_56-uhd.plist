@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,5.5}</string>
+				<string>{0,6}</string>
 				<key>spriteSize</key>
-				<string>{124,135}</string>
+				<string>{124,134}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{133,0},{124,135}}</string>
+				<string>{{133,0},{124,134}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -30,7 +30,7 @@
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{133,136},{82,40}}</string>
+				<string>{{133,135},{82,40}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -45,7 +45,7 @@
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,144},{98,78}}</string>
+				<string>{{0,143},{98,78}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -54,13 +54,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,5.5}</string>
+				<string>{0,6}</string>
 				<key>spriteSize</key>
-				<string>{132,143}</string>
+				<string>{132,142}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{132,143}}</string>
+				<string>{{0,0},{132,142}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_56-uhd.png</string>
 			<key>size</key>
-			<string>{257,222}</string>
+			<string>{257,221}</string>
 			<key>textureFileName</key>
 			<string>icons/player_56-uhd.png</string>
 		</dict>
