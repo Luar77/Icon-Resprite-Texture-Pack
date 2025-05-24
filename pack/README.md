@@ -14,11 +14,11 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- NHJ                  (65 icons, 1 of those being collabs) + 4 collabs
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - cyanflower           (66 icons, 1 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
+- NHJ                  (64 icons, 1 of those being collabs) + 4 collabs
+	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - ML500                (64 icons, 3 of those being collabs)
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
@@ -56,21 +56,21 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Luar77               (8 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- airiLmao             (8 icons, 3 of those being collabs) + 2 collabs
 - ReenRN               (7 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
 - DreamsTT             (7 icons)
-- KazooTheCat          (6 icons) + 1 collab
-	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - DibbJ                (5 icons) + 1 collab
 - Th3Angel0ffic3       (5 icons, 1 of those being collabs)
 - Hushroom             (4 icons)
 - TheRare5             (4 icons)
 - DanKy99              (3 icons) + 1 collab
+- KazooTheCat          (1 icon) + 1 collab
+	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - fiegael              (2 icons, 2 of those being collabs)
 - LonelyChicken         + 1 collab
 - Entium               
+- airiLmao              + 2 collabs
 
 ## Icon Credits and Notes
 cube 0:
@@ -503,7 +503,7 @@ cube 140:
 cube 141:
 - By Sharkcrome.
 - Floating Spider Enemy From The Classic Nokia Game Bounce.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_141(1).jpg)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_141(1).png)
 
 cube 142:
 - By JustHyperCL.
@@ -1190,7 +1190,7 @@ cube 422:
 cube 427:
 - By JigglypuffGD.
 - A reference to the alien creatures featured in the album cover for the song The Mob by RIOT.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_427(1).jpg)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_427(1).png)
 
 cube 428:
 - By CraZyboy6484.
@@ -1496,9 +1496,6 @@ ship 73:
 
 ship 74:
 - By Aleiz21.
-
-ship 75:
-- By NHJ.
 
 ship 78:
 - By Drian114.
@@ -2147,7 +2144,7 @@ ufo 45:
 ufo 46:
 - By JigglypuffGD.
 - Based around the alien machine featured in the album cover for the song Overkill by RIOT. Collab with RetroAdvance64.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_46(1).jpg)
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_46(1).png)
 
 ufo 47:
 - By Sharkcrome.
