@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-1}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{72,62}</string>
 			<key>spriteSourceSize</key>
-			<string>{74,66}</string>
+			<string>{76,65}</string>
 			<key>textureRect</key>
-			<string>{{70,2},{72,62}}</string>
+			<string>{{69,2},{72,62}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-0.5}</string>
+			<string>{0,-0.2}</string>
 			<key>spriteSize</key>
 			<string>{69,58}</string>
 			<key>spriteSourceSize</key>
-			<string>{74,66}</string>
+			<string>{76,65}</string>
 			<key>textureRect</key>
-			<string>{{134,61},{69,58}}</string>
+			<string>{{133,2},{69,58}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -39,28 +39,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-0.5}</string>
+			<string>{0,9}</string>
 			<key>spriteSize</key>
-			<string>{69,57}</string>
+			<string>{43,9}</string>
 			<key>spriteSourceSize</key>
-			<string>{74,66}</string>
+			<string>{76,65}</string>
 			<key>textureRect</key>
-			<string>{{134,2},{69,57}}</string>
+			<string>{{2,80},{43,9}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>player_93_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-1.2}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{74,66}</string>
+			<string>{76,65}</string>
 			<key>spriteSourceSize</key>
-			<string>{74,66}</string>
+			<string>{76,65}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{74,66}}</string>
+			<string>{{2,2},{76,65}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
