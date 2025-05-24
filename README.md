@@ -13,7 +13,7 @@ The credits for each individual icon are listed in the README.md provided in the
 - Aleiz21              (98 icons, 8 of those being collabs) + 6 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- Sharkcrome           (67 icons, 1 of those being collabs) + 1 collab
+- Sharkcrome           (69 icons, 1 of those being collabs) + 1 collab
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
@@ -31,24 +31,24 @@ The credits for each individual icon are listed in the README.md provided in the
 - JigglypuffGD         (62 icons, 5 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- KevgenGD             (56 icons, 1 of those being collabs)
-- bugpesto             (56 icons, 2 of those being collabs) + 1 collab
+- bugpesto             (57 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
+- KevgenGD             (57 icons, 2 of those being collabs)
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
-- JustHyperCL          (39 icons, 8 of those being collabs) + 5 collabs
+- JustHyperCL          (38 icons, 9 of those being collabs) + 5 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (30 icons) + 1 collab
-- CraZyboy6484         (29 icons)
+- CraZyboy6484         (33 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
+- Sorao                (30 icons) + 1 collab
 - Hydr4ze              (28 icons, 3 of those being collabs)
 - J3anC4rlo            (26 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- AngelozDD            (23 icons)
 - aGold                (22 icons)
 	- https://agold.is-a.dev
-- AngelozDD            (21 icons)
 - AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
 - electrictaco         (18 icons, 1 of those being collabs) + 3 collabs
 - AlexanderX1ta        (19 icons, 1 of those being collabs) + 1 collab
@@ -68,9 +68,9 @@ The credits for each individual icon are listed in the README.md provided in the
 - KazooTheCat          (6 icons) + 1 collab
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - DibbJ                (5 icons) + 1 collab
+- Th3Angel0ffic3       (5 icons, 1 of those being collabs)
 - Hushroom             (4 icons)
 - TheRare5             (4 icons)
-- Th3Angel0ffic3       (4 icons, 1 of those being collabs)
 - DanKy99              (3 icons) + 1 collab
 - fiegael              (2 icons, 2 of those being collabs)
 - LonelyChicken         + 1 collab
