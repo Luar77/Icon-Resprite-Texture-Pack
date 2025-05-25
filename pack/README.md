@@ -2,23 +2,23 @@
 After over 2 months of work, we present a complete design revamp of every icon in the game.
 
 ## Contributors
-- RetroAdvance64       (112 icons, 2 of those being collabs) + 6 collabs
+- RetroAdvance64       (113 icons, 2 of those being collabs) + 6 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (98 icons, 8 of those being collabs) + 6 collabs
+- Aleiz21              (97 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- Sharkcrome           (69 icons, 1 of those being collabs) + 1 collab
+- Sharkcrome           (68 icons, 1 of those being collabs) + 1 collab
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
+- NHJ                  (65 icons, 1 of those being collabs) + 3 collabs
+	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - cyanflower           (66 icons, 1 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- NHJ                  (64 icons, 1 of those being collabs) + 4 collabs
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - ML500                (64 icons, 3 of those being collabs)
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
@@ -33,24 +33,24 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - KevgenGD             (57 icons, 2 of those being collabs)
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
-- JustHyperCL          (38 icons, 9 of those being collabs) + 5 collabs
+- JustHyperCL          (38 icons, 9 of those being collabs) + 6 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - CraZyboy6484         (33 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Sorao                (30 icons) + 1 collab
+- aGold                (27 icons)
+	- https://agold.is-a.dev
 - Hydr4ze              (28 icons, 3 of those being collabs)
-- J3anC4rlo            (26 icons, 1 of those being collabs)
+- AngelozDD            (23 icons, 1 of those being collabs)
+- J3anC4rlo            (23 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- AngelozDD            (23 icons)
-- aGold                (22 icons)
-	- https://agold.is-a.dev
 - AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
-- electrictaco         (18 icons, 1 of those being collabs) + 3 collabs
-- AlexanderX1ta        (19 icons, 1 of those being collabs) + 1 collab
+- AlexanderX1ta        (20 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
+- electrictaco         (18 icons, 1 of those being collabs) + 3 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons) + 1 collab
 - Luar77               (8 icons)
@@ -62,15 +62,15 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - DreamsTT             (7 icons)
 - DibbJ                (5 icons) + 1 collab
 - Th3Angel0ffic3       (5 icons, 1 of those being collabs)
+- DanKy99              (4 icons) + 1 collab
 - Hushroom             (4 icons)
 - TheRare5             (4 icons)
-- DanKy99              (3 icons) + 1 collab
 - KazooTheCat          (1 icon) + 1 collab
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
+- airiLmao              + 2 collabs
 - fiegael              (2 icons, 2 of those being collabs)
 - LonelyChicken         + 1 collab
 - Entium               
-- airiLmao              + 2 collabs
 
 ## Icon Credits and Notes
 cube 0:
@@ -283,6 +283,9 @@ cube 65:
 
 cube 66:
 - By JigglypuffGD.
+
+cube 67:
+- By ChileMationsxD.
 
 cube 68:
 - By KevgenGD.
@@ -766,6 +769,10 @@ cube 243:
 - By Drian114.
 - Someone poked his eye, now he mad.
 
+cube 244:
+- By JustHyperCL.
+- This cube references Bo Katan's helmet, a character from The Mandalorian series. Collab with electrictaco, sharkcrome.
+
 cube 245:
 - By RetroAdvance64.
 
@@ -815,6 +822,9 @@ cube 265:
 
 cube 266:
 - By NHJ.
+
+cube 267:
+- By JustHyperCL.
 
 cube 268:
 - By KevgenGD.
@@ -1209,10 +1219,6 @@ cube 433:
 cube 435:
 - By AngelozDD.
 
-cube 436:
-- By AlexisDrawz.
-- Based and Inspired on "Ghost" from the "Modern Warfare" series of Call of Duty. Uses the modern-iteration from Modern Warfare (2019) as design reference.
-
 cube 437:
 - By KevgenGD.
 
@@ -1393,6 +1399,9 @@ ship 15:
 ship 16:
 - By NHJ.
 
+ship 18:
+- By cyanflower.
+
 ship 19:
 - By JigglypuffGD.
 
@@ -1550,6 +1559,9 @@ ship 100:
 ship 102:
 - By ML500.
 
+ship 103:
+- By KevgenGD.
+
 ship 106:
 - By Aleiz21.
 
@@ -1629,12 +1641,20 @@ ship 136:
 - By bugpesto.
 - References the True Night's Edge from Terraria (special thanks to RetroAdvance for helping me with the shading!).
 
+ship 140:
+- By NHJ.
+
 ship 142:
 - By Luar77.
 - Reference to the whale present in the level "TopiaTopia" by Dibbj (also the creator of the icon this replaces!) and Luar77. Its name is "Waleia".
 
 ship 143:
 - By NHJ.
+
+ship 144:
+- By DibbJ.
+- Loosely based on the "Torment" from Sly's Futuristic Weapons Pack for the game Unturned.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_144(1).png)
 
 ship 146:
 - By JigglypuffGD.
@@ -1810,7 +1830,8 @@ ball 41:
 - By Hydr4ze.
 
 ball 42:
-- By bugpesto.
+- By RetroAdvance64.
+- The Ball references the appearance of "Giygas", a boss enemy and main antagonist from Earthbound (Mother 2) (1994).
 
 ball 43:
 - By KevgenGD.
@@ -2296,6 +2317,10 @@ ufo 133:
 ufo 134:
 - By NHJ.
 
+ufo 137:
+- By bugpesto.
+- References parts of a car engine. Not so car-like, but engine enough.
+
 ufo 139:
 - By DreamsTT.
 
@@ -2514,8 +2539,18 @@ wave 66:
 wave 67:
 - By NHJ.
 
+wave 68:
+- By NHJ.
+
+wave 69:
+- By NHJ.
+
 wave 70:
 - By Drian114.
+
+wave 75:
+- By AlexanderX1ta.
+- This wave represents the statue of the new god of Fear & Hunger from the game Fear & Hunger by Miro Haverinen.
 
 wave 78:
 - By Drian114.
@@ -2695,6 +2730,10 @@ robot 49:
 robot 52:
 - By Sorao.
 
+robot 53:
+- By ML500.
+- Collab with Dib.
+
 robot 54:
 - By RetroAdvance64.
 - A direct remake. Properly references the "Pinky", a demon enemy found in DOOM (1993).
@@ -2833,6 +2872,10 @@ spider 56:
 - By RetroAdvance64.
 - A direct remake to the original Spider.
 
+spider 57:
+- By JigglypuffGD.
+- Collab with KazooTheCat.
+
 spider 60:
 - By Drian114.
 - Reference to the boss seen in the level "Critical Hit"  from The Impossible Game 2. 
@@ -2861,6 +2904,9 @@ swing 2:
 
 swing 5:
 - By Drian114.
+
+swing 6:
+- By KevgenGD.
 
 swing 7:
 - By KevgenGD.
@@ -2899,6 +2945,10 @@ swing 18:
 
 swing 19:
 - By NHJ.
+
+swing 22:
+- By RetroAdvance64.
+- A direct remake to the original Swing. Reverses the role from Wheatley to the Space Core from Portal 2.
 
 swing 23:
 - By RetroAdvance64.
