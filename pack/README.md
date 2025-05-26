@@ -2,7 +2,7 @@
 After over 2 months of work, we present a complete design revamp of every icon in the game.
 
 ## Contributors
-- RetroAdvance64       (113 icons, 2 of those being collabs) + 6 collabs
+- RetroAdvance64       (113 icons, 2 of those being collabs) + 7 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
@@ -16,10 +16,10 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - NHJ                  (65 icons, 1 of those being collabs) + 3 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- cyanflower           (66 icons, 1 of those being collabs)
+- cyanflower           (66 icons, 2 of those being collabs)
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- ML500                (64 icons, 3 of those being collabs)
+- ML500                (64 icons, 3 of those being collabs) + 1 collab
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
@@ -33,11 +33,11 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - KevgenGD             (57 icons, 2 of those being collabs)
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
-- JustHyperCL          (38 icons, 9 of those being collabs) + 6 collabs
+- JustHyperCL          (38 icons, 10 of those being collabs) + 6 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- CraZyboy6484         (33 icons)
+- Sorao                (34 icons, 1 of those being collabs) + 1 collab
+- CraZyboy6484         (34 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Sorao                (30 icons) + 1 collab
 - aGold                (27 icons)
 	- https://agold.is-a.dev
 - Hydr4ze              (28 icons, 3 of those being collabs)
@@ -45,7 +45,7 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - J3anC4rlo            (23 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- AlexisDrawz          (18 icons, 2 of those being collabs) + 7 collabs
+- AlexisDrawz          (18 icons, 2 of those being collabs) + 8 collabs
 - AlexanderX1ta        (20 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
@@ -56,10 +56,10 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Luar77               (8 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- ReenRN               (7 icons) + 1 collab
+- DreamsTT             (7 icons)
+- ReenRN               (5 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
-- DreamsTT             (7 icons)
 - DibbJ                (5 icons) + 1 collab
 - Th3Angel0ffic3       (5 icons, 1 of those being collabs)
 - DanKy99              (4 icons) + 1 collab
@@ -674,6 +674,9 @@ cube 199:
 - By JigglypuffGD.
 - Collab with Alexanderx1ta.
 
+cube 200:
+- By NHJ.
+
 cube 201:
 - By cyanflower.
 - This cube's redesign is in reference to the level "BEATDEMON" by YoReid. Unlike the original cube, this one's teeth are colorable, a detail seen later on in the level during the last wave section.
@@ -735,6 +738,9 @@ cube 225:
 
 cube 226:
 - By RetroAdvance64.
+
+cube 227:
+- By CraZyboy6484.
 
 cube 228:
 - By bugpesto.
@@ -1682,6 +1688,9 @@ ship 158:
 - By cyanflower.
 - Collect My Noteboos.
 
+ship 159:
+- By Sorao.
+
 ship 162:
 - By Sharkcrome.
 
@@ -1795,6 +1804,11 @@ ball 29:
 
 ball 30:
 - By Drian114.
+
+ball 31:
+- By Sharkcrome.
+- Based on a version of the Batarang.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ball_31(1).png)
 
 ball 32:
 - By bugpesto.
@@ -2231,6 +2245,9 @@ ufo 74:
 ufo 76:
 - By Aleiz21.
 
+ufo 77:
+- By ML500.
+
 ufo 78:
 - By ML500.
 - Reference to the "Empress of Light" from Terraria.
@@ -2344,6 +2361,7 @@ ufo 147:
 
 ufo 148:
 - By Sorao.
+- Collab with alexisdrawz.
 
 ufo 149:
 - By KevgenGD.
@@ -2551,6 +2569,7 @@ wave 70:
 wave 75:
 - By AlexanderX1ta.
 - This wave represents the statue of the new god of Fear & Hunger from the game Fear & Hunger by Miro Haverinen.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_75(1).png)
 
 wave 78:
 - By Drian114.
@@ -2945,6 +2964,9 @@ swing 18:
 
 swing 19:
 - By NHJ.
+
+swing 21:
+- By Sorao.
 
 swing 22:
 - By RetroAdvance64.
