@@ -9,50 +9,51 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - Aleiz21              (97 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- Sharkcrome           (68 icons, 1 of those being collabs) + 1 collab
+- Sharkcrome           (70 icons, 1 of those being collabs) + 1 collab
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- NHJ                  (65 icons, 1 of those being collabs) + 3 collabs
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- cyanflower           (66 icons, 2 of those being collabs)
-	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
-	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- ML500                (64 icons, 3 of those being collabs) + 1 collab
+- ML500                (69 icons, 3 of those being collabs) + 1 collab
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
+- cyanflower           (68 icons, 2 of those being collabs) + 1 collab
+	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
+	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
+- NHJ                  (65 icons, 1 of those being collabs) + 3 collabs
+	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - JigglypuffGD         (62 icons, 5 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- bugpesto             (57 icons, 2 of those being collabs) + 1 collab
+- bugpesto             (59 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - KevgenGD             (57 icons, 2 of those being collabs)
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
-- JustHyperCL          (38 icons, 10 of those being collabs) + 6 collabs
+- JustHyperCL          (38 icons, 10 of those being collabs) + 7 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (34 icons, 1 of those being collabs) + 1 collab
-- CraZyboy6484         (34 icons)
+- CraZyboy6484         (33 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - aGold                (27 icons)
 	- https://agold.is-a.dev
 - Hydr4ze              (28 icons, 3 of those being collabs)
+- AlexanderX1ta        (23 icons, 1 of those being collabs) + 1 collab
+	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
+	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
+	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - AngelozDD            (23 icons, 1 of those being collabs)
 - J3anC4rlo            (23 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- AlexisDrawz          (18 icons, 2 of those being collabs) + 8 collabs
-- AlexanderX1ta        (20 icons, 1 of those being collabs) + 1 collab
-	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
-	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
-	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- electrictaco         (18 icons, 1 of those being collabs) + 3 collabs
+- electrictaco         (19 icons, 1 of those being collabs) + 3 collabs
+- AlexisDrawz          (18 icons, 4 of those being collabs) + 8 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons) + 1 collab
+- DibbJ                (9 icons) + 1 collab
 - Luar77               (8 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
@@ -60,7 +61,6 @@ After over 2 months of work, we present a complete design revamp of every icon i
 - ReenRN               (5 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
-- DibbJ                (5 icons) + 1 collab
 - Th3Angel0ffic3       (5 icons, 1 of those being collabs)
 - DanKy99              (4 icons) + 1 collab
 - Hushroom             (4 icons)
@@ -141,6 +141,9 @@ cube 18:
 
 cube 19:
 - By NHJ.
+
+cube 20:
+- By ML500.
 
 cube 21:
 - By JigglypuffGD.
@@ -266,6 +269,10 @@ cube 59:
 
 cube 60:
 - By Drian114.
+
+cube 61:
+- By bugpesto.
+- Reworked the original icon to look more similar to the promotional art design of Super Meat Boy.
 
 cube 62:
 - By Exetric.
@@ -446,6 +453,9 @@ cube 115:
 cube 116:
 - By J3anC4rlo.
 
+cube 117:
+- By ML500.
+
 cube 118:
 - By Aleiz21.
 
@@ -489,6 +499,9 @@ cube 131:
 
 cube 133:
 - By Aleiz21.
+
+cube 134:
+- By aGold.
 
 cube 135:
 - By Aleiz21.
@@ -588,7 +601,8 @@ cube 166:
 
 cube 167:
 - By Sharkcrome.
-- All GD players put ya hands up !.
+- Refrence to Boom Kitty
+All GD Players Put Ya Hands Up !.
 
 cube 168:
 - By RetroAdvance64.
@@ -648,6 +662,9 @@ cube 188:
 
 cube 189:
 - By bugpesto.
+
+cube 190:
+- By AlexanderX1ta.
 
 cube 191:
 - By RetroAdvance64.
@@ -731,6 +748,9 @@ cube 219:
 cube 221:
 - By fiegael.
 - Collab with JigglypuffGD.
+
+cube 222:
+- By JigglypuffGD.
 
 cube 225:
 - By bugpesto.
@@ -817,6 +837,9 @@ cube 258:
 cube 261:
 - By Sharkcrome.
 
+cube 262:
+- By AlexanderX1ta.
+
 cube 263:
 - By Luar77.
 
@@ -882,6 +905,9 @@ cube 286:
 
 cube 287:
 - By NHJ.
+
+cube 288:
+- By ML500.
 
 cube 289:
 - By Sorao.
@@ -960,6 +986,7 @@ cube 315:
 
 cube 317:
 - By AlexisDrawz.
+- In Collab W. JustHyperCL! (Thank you so much brother).
 
 cube 318:
 - By Sharkcrome.
@@ -968,6 +995,9 @@ cube 318:
 cube 319:
 - By cyanflower.
 - A basic redesign of the original cube that turns the question mark into the Pusab font's question mark, amongst other miniscule changes.
+
+cube 320:
+- By AlexanderX1ta.
 
 cube 322:
 - By JigglypuffGD.
@@ -996,6 +1026,9 @@ cube 329:
 
 cube 330:
 - By Aleiz21.
+
+cube 333:
+- By ML500.
 
 cube 334:
 - By ML500.
@@ -1095,6 +1128,7 @@ cube 374:
 
 cube 376:
 - By Sorao.
+- Just a slight reimagined version of cube 376. In collaboration with cyanflower :)))) had huge help from his part.
 
 cube 377:
 - By cyanflower.
@@ -1118,6 +1152,9 @@ cube 384:
 cube 385:
 - By Th3Angel0ffic3.
 - Cube that refers to Signus, one of the bosses of the so-called Calamity Mod.
+
+cube 386:
+- By cyanflower.
 
 cube 387:
 - By Hydr4ze.
@@ -1169,6 +1206,9 @@ cube 404:
 cube 405:
 - By JigglypuffGD.
 
+cube 406:
+- By ML500.
+
 cube 407:
 - By cyanflower.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_407(1).png)
@@ -1193,6 +1233,9 @@ cube 415:
 cube 418:
 - By RetroAdvance64.
 
+cube 419:
+- By JigglypuffGD.
+
 cube 420:
 - By cyanflower.
 - Collect My Pages.
@@ -1202,6 +1245,9 @@ cube 421:
 
 cube 422:
 - By JustHyperCL.
+
+cube 426:
+- By Sharkcrome.
 
 cube 427:
 - By JigglypuffGD.
@@ -1288,6 +1334,7 @@ cube 459:
 
 cube 461:
 - By AlexisDrawz.
+- In Collab W. Cyanflower! (Thank you so much pal).
 
 cube 462:
 - By RetroAdvance64.
@@ -1312,9 +1359,6 @@ cube 468:
 
 cube 469:
 - By NHJ.
-
-cube 471:
-- By CraZyboy6484.
 
 cube 472:
 - By AlexisDrawz.
@@ -1480,6 +1524,10 @@ ship 48:
 
 ship 50:
 - By Drian114.
+
+ship 51:
+- By electrictaco.
+- Collab with JustHyperCL.
 
 ship 54:
 - By RetroAdvance64.
