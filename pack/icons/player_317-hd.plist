@@ -13,9 +13,9 @@
 			<key>spriteSize</key>
 			<string>{61,62}</string>
 			<key>spriteSourceSize</key>
-			<string>{66,67}</string>
+			<string>{64,65}</string>
 			<key>textureRect</key>
-			<string>{{70,2},{61,62}}</string>
+			<string>{{68,2},{61,62}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -28,9 +28,9 @@
 			<key>spriteSize</key>
 			<string>{56,57}</string>
 			<key>spriteSourceSize</key>
-			<string>{66,67}</string>
+			<string>{64,65}</string>
 			<key>textureRect</key>
-			<string>{{70,66},{56,57}}</string>
+			<string>{{68,66},{56,57}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -43,11 +43,11 @@
 			<key>spriteSize</key>
 			<string>{56,54}</string>
 			<key>spriteSourceSize</key>
-			<string>{66,67}</string>
+			<string>{64,65}</string>
 			<key>textureRect</key>
-			<string>{{128,66},{56,54}}</string>
+			<string>{{2,69},{56,54}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>player_317_glow_001.png</key>
 		<dict>
@@ -56,11 +56,11 @@
 			<key>spriteOffset</key>
 			<string>{0,-0.5}</string>
 			<key>spriteSize</key>
-			<string>{66,67}</string>
+			<string>{64,65}</string>
 			<key>spriteSourceSize</key>
-			<string>{66,67}</string>
+			<string>{64,65}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{66,67}}</string>
+			<string>{{2,2},{64,65}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
