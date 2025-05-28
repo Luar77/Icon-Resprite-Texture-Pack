@@ -1,5 +1,5 @@
 # GD Community Remix Texture Pack (version 1.0.0-alpha)  
-Texture pack collab, featuring over 30 people, that took over 2 months to finish.  
+Texture pack collab, featuring over 30 people, that took over 3 months to finish.  
 Every icon in the game has been remade from scratch in the styles of everyone who participated.  
   
 This was hosted on the [Master's World discord server](https://discord.gg/tFUyJw5), with organization provided via the Jones Bot by Luar77 (which took just as long to develop), and quality assurance/management by the admin team (ML500, Luar77, Sorao). Shout out to Dibbj (who has also contributed some icons) for sponsoring the development of the bot for the project with a 50€ donation (you really didn't have to, but thanks).
@@ -7,29 +7,29 @@ This was hosted on the [Master's World discord server](https://discord.gg/tFUyJw
 Credits for each individual icon are listed in the README.md provided in the pack itself.  
   
 ## Contributors  
-- RetroAdvance64       (113 icons, 2 of those being collabs) + 7 collabs
+- RetroAdvance64       (114 icons, 2 of those being collabs) + 7 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 - Aleiz21              (97 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- Sharkcrome           (70 icons, 1 of those being collabs) + 1 collab
-	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
-	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
-	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
-	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- ML500                (69 icons, 3 of those being collabs) + 1 collab
+- ML500                (79 icons, 3 of those being collabs) + 1 collab
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
+- Sharkcrome           (72 icons, 1 of those being collabs) + 1 collab
+	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
+	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
+	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
+	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - cyanflower           (68 icons, 2 of those being collabs) + 1 collab
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- NHJ                  (65 icons, 1 of those being collabs) + 3 collabs
+- NHJ                  (66 icons, 1 of those being collabs) + 3 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- JigglypuffGD         (62 icons, 5 of those being collabs) + 2 collabs
+- JigglypuffGD         (68 icons, 5 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - bugpesto             (59 icons, 2 of those being collabs) + 1 collab
@@ -38,31 +38,36 @@ Credits for each individual icon are listed in the README.md provided in the pac
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - KevgenGD             (57 icons, 2 of those being collabs)
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
-- JustHyperCL          (38 icons, 10 of those being collabs) + 7 collabs
+	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
+	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
+	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
+- JustHyperCL          (40 icons, 10 of those being collabs) + 7 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (34 icons, 1 of those being collabs) + 1 collab
-- CraZyboy6484         (33 icons)
+- CraZyboy6484         (34 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - aGold                (27 icons)
 	- https://agold.is-a.dev
 - Hydr4ze              (28 icons, 3 of those being collabs)
-- AlexanderX1ta        (23 icons, 1 of those being collabs) + 1 collab
-	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
-	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
-	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- AngelozDD            (23 icons, 1 of those being collabs)
+- AngelozDD            (25 icons, 1 of those being collabs)
 - J3anC4rlo            (23 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- AlexanderX1ta        (21 icons, 1 of those being collabs) + 1 collab
+	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
+	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
+	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - electrictaco         (19 icons, 1 of those being collabs) + 3 collabs
 - AlexisDrawz          (18 icons, 4 of those being collabs) + 8 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons) + 1 collab
+	- [@Exetric](https://twitter.com/Exetric) on Twitter
+	- [EthanHazel](https://github.com/EthanHazel) on GitHub
 - DibbJ                (9 icons) + 1 collab
+- DreamsTT             (9 icons)
 - Luar77               (8 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- DreamsTT             (7 icons)
 - ReenRN               (5 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
