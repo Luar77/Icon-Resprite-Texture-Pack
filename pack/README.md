@@ -1,30 +1,30 @@
 # GD Community Remix Texture Pack (version 1.0.0-alpha)
-After over 2 months of work, we present a complete design revamp of every icon in the game.
+After over 3 months of work, we present a complete design revamp of every icon in the game.
 
 ## Contributors
-- RetroAdvance64       (113 icons, 2 of those being collabs) + 7 collabs
+- RetroAdvance64       (114 icons, 2 of those being collabs) + 7 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 - Aleiz21              (97 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- Sharkcrome           (70 icons, 1 of those being collabs) + 1 collab
-	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
-	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
-	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
-	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- ML500                (69 icons, 3 of those being collabs) + 1 collab
+- ML500                (79 icons, 3 of those being collabs) + 1 collab
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
+- Sharkcrome           (72 icons, 1 of those being collabs) + 1 collab
+	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
+	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
+	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
+	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - cyanflower           (68 icons, 2 of those being collabs) + 1 collab
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- NHJ                  (65 icons, 1 of those being collabs) + 3 collabs
+- NHJ                  (66 icons, 1 of those being collabs) + 3 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- JigglypuffGD         (62 icons, 5 of those being collabs) + 2 collabs
+- JigglypuffGD         (68 icons, 5 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - bugpesto             (59 icons, 2 of those being collabs) + 1 collab
@@ -33,31 +33,36 @@ After over 2 months of work, we present a complete design revamp of every icon i
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - KevgenGD             (57 icons, 2 of those being collabs)
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
-- JustHyperCL          (38 icons, 10 of those being collabs) + 7 collabs
+	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
+	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
+	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
+- JustHyperCL          (40 icons, 10 of those being collabs) + 7 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (34 icons, 1 of those being collabs) + 1 collab
-- CraZyboy6484         (33 icons)
+- CraZyboy6484         (34 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - aGold                (27 icons)
 	- https://agold.is-a.dev
 - Hydr4ze              (28 icons, 3 of those being collabs)
-- AlexanderX1ta        (23 icons, 1 of those being collabs) + 1 collab
-	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
-	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
-	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- AngelozDD            (23 icons, 1 of those being collabs)
+- AngelozDD            (25 icons, 1 of those being collabs)
 - J3anC4rlo            (23 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- AlexanderX1ta        (21 icons, 1 of those being collabs) + 1 collab
+	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
+	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
+	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - electrictaco         (19 icons, 1 of those being collabs) + 3 collabs
 - AlexisDrawz          (18 icons, 4 of those being collabs) + 8 collabs
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons) + 1 collab
+	- [@Exetric](https://twitter.com/Exetric) on Twitter
+	- [EthanHazel](https://github.com/EthanHazel) on GitHub
 - DibbJ                (9 icons) + 1 collab
+- DreamsTT             (9 icons)
 - Luar77               (8 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- DreamsTT             (7 icons)
 - ReenRN               (5 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
@@ -497,6 +502,9 @@ cube 129:
 cube 131:
 - By NHJ.
 
+cube 132:
+- By JigglypuffGD.
+
 cube 133:
 - By Aleiz21.
 
@@ -613,6 +621,12 @@ cube 170:
 cube 171:
 - By DanKy99.
 - Frankie Stein from mh.
+
+cube 172:
+- By DreamsTT.
+
+cube 173:
+- By KevgenGD.
 
 cube 174:
 - By Drian114.
@@ -834,6 +848,9 @@ cube 257:
 cube 258:
 - By JustHyperCL.
 
+cube 260:
+- By AlexanderX1ta.
+
 cube 261:
 - By Sharkcrome.
 
@@ -915,6 +932,9 @@ cube 289:
 cube 290:
 - By RetroAdvance64.
 
+cube 291:
+- By KevgenGD.
+
 cube 292:
 - By Sorao.
 
@@ -984,6 +1004,9 @@ cube 315:
 - By ML500.
 - Design based on A-60 from Rooms/Doors (Roblox).
 
+cube 316:
+- By Sharkcrome.
+
 cube 317:
 - By AlexisDrawz.
 - In Collab W. JustHyperCL! (Thank you so much brother).
@@ -1027,6 +1050,10 @@ cube 329:
 cube 330:
 - By Aleiz21.
 
+cube 331:
+- By JigglypuffGD.
+- Based on 4 of the corner block design pieces from Nine Circles put together. This block design was popular and started in 1.9.
+
 cube 333:
 - By ML500.
 
@@ -1063,6 +1090,12 @@ cube 347:
 
 cube 348:
 - By aGold.
+
+cube 349:
+- By AlexanderX1ta.
+
+cube 350:
+- By AlexanderX1ta.
 
 cube 351:
 - By JigglypuffGD.
@@ -1321,6 +1354,10 @@ cube 454:
 
 cube 455:
 - By CraZyboy6484.
+
+cube 456:
+- By JigglypuffGD.
+- Based on an OC by RetroUpgrade, the Silver Knight.
 
 cube 457:
 - By cyanflower.
@@ -1710,6 +1747,10 @@ ship 144:
 - Loosely based on the "Torment" from Sly's Futuristic Weapons Pack for the game Unturned.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_144(1).png)
 
+ship 145:
+- By Sharkcrome.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_145(1).png)
+
 ship 146:
 - By JigglypuffGD.
 - This ship is in reference to the animated "Narwhals Swimming in the Ocean" meme from 2009... Man I feel old.
@@ -1754,6 +1795,9 @@ ship 166:
 
 ship 167:
 - By ML500.
+
+ship 168:
+- By JigglypuffGD.
 
 ship 169:
 - By RetroAdvance64.
@@ -1855,7 +1899,7 @@ ball 30:
 
 ball 31:
 - By Sharkcrome.
-- Based on a version of the Batarang.
+- References the famous Batarang.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ball_31(1).png)
 
 ball 32:
@@ -2049,6 +2093,10 @@ ball 90:
 ball 91:
 - By RetroAdvance64.
 
+ball 92:
+- By RetroAdvance64.
+- In collaboration with AngeloToons.
+
 ball 93:
 - By Hydr4ze.
 
@@ -2141,6 +2189,9 @@ ufo 3:
 ufo 4:
 - By RetroAdvance64.
 
+ufo 6:
+- By Sharkcrome.
+
 ufo 7:
 - By Sharkcrome.
 
@@ -2170,6 +2221,9 @@ ufo 18:
 
 ufo 19:
 - By bugpesto.
+
+ufo 20:
+- By JigglypuffGD.
 
 ufo 21:
 - By CraZyboy6484.
@@ -2242,6 +2296,9 @@ ufo 49:
 
 ufo 50:
 - By RetroAdvance64.
+
+ufo 51:
+- By Drian114.
 
 ufo 52:
 - By ML500.
@@ -2342,12 +2399,17 @@ ufo 95:
 
 ufo 98:
 - By DibbJ.
+- Reshaped with a sharper and more menacing look.
 
 ufo 99:
 - By J3anC4rlo.
 
 ufo 100:
 - By Hydr4ze.
+
+ufo 102:
+- By Drian114.
+- Resembles the look of the average persian cat; a bit squeezed, though.
 
 ufo 104:
 - By NHJ.
@@ -2363,6 +2425,9 @@ ufo 111:
 
 ufo 113:
 - By Sharkcrome.
+
+ufo 115:
+- By Drian114.
 
 ufo 118:
 - By cyanflower.
@@ -2614,16 +2679,28 @@ wave 69:
 wave 70:
 - By Drian114.
 
+wave 72:
+- By Sharkcrome.
+
+wave 73:
+- By AlexanderX1ta.
+
 wave 75:
 - By AlexanderX1ta.
 - This wave represents the statue of the new god of Fear & Hunger from the game Fear & Hunger by Miro Haverinen.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_75(1).png)
+
+wave 76:
+- By Drian114.
 
 wave 78:
 - By Drian114.
 
 wave 79:
 - By Sharkcrome.
+
+wave 80:
+- By cyanflower.
 
 wave 81:
 - By bugpesto.
@@ -2995,6 +3072,11 @@ swing 12:
 
 swing 13:
 - By Drian114.
+
+swing 14:
+- By Luar77.
+- Based on the Drone enemies from Ultrakill.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/swing_14(1).png)
 
 swing 15:
 - By ML500.
