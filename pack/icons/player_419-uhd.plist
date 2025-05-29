@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-0.5,5.5}</string>
+				<string>{-1,6}</string>
 				<key>spriteSize</key>
-				<string>{60,92}</string>
+				<string>{59,93}</string>
 				<key>spriteSourceSize</key>
 				<string>{185,185}</string>
 				<key>textureRect</key>
-				<string>{{0,129},{60,92}}</string>
+				<string>{{0,129},{59,93}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -61,7 +61,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_419-uhd.png</string>
 			<key>size</key>
-			<string>{249,189}</string>
+			<string>{249,188}</string>
 			<key>textureFileName</key>
 			<string>icons/player_419-uhd.png</string>
 		</dict>
