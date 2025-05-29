@@ -1,30 +1,32 @@
 # GD Community Remix Texture Pack (version 1.0.0-alpha)
-After over 3 months of work, we present a complete design revamp of every icon in the game.
+After over 3 months of work, we present a complete design revamp of every icon in the game. Available in high and medium quality.
+
+Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (114 icons, 2 of those being collabs) + 7 collabs
+- RetroAdvance64       (113 icons, 3 of those being collabs) + 7 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 - Aleiz21              (97 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- ML500                (79 icons, 3 of those being collabs) + 1 collab
+- ML500                (78 icons, 5 of those being collabs) + 1 collab
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- Sharkcrome           (72 icons, 1 of those being collabs) + 1 collab
+- Sharkcrome           (74 icons, 1 of those being collabs) + 1 collab
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- cyanflower           (68 icons, 2 of those being collabs) + 1 collab
+- NHJ                  (72 icons, 1 of those being collabs) + 3 collabs
+	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
+- cyanflower           (69 icons, 2 of those being collabs) + 2 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- NHJ                  (66 icons, 1 of those being collabs) + 3 collabs
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- JigglypuffGD         (68 icons, 5 of those being collabs) + 2 collabs
+- JigglypuffGD         (69 icons, 5 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - bugpesto             (59 icons, 2 of those being collabs) + 1 collab
@@ -38,28 +40,28 @@ After over 3 months of work, we present a complete design revamp of every icon i
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
 - JustHyperCL          (40 icons, 10 of those being collabs) + 7 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (34 icons, 1 of those being collabs) + 1 collab
-- CraZyboy6484         (34 icons)
+- Sorao                (34 icons, 2 of those being collabs) + 1 collab
+- CraZyboy6484         (33 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- aGold                (27 icons)
+- aGold                (28 icons)
 	- https://agold.is-a.dev
-- Hydr4ze              (28 icons, 3 of those being collabs)
-- AngelozDD            (25 icons, 1 of those being collabs)
 - J3anC4rlo            (23 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- AlexisDrawz          (18 icons, 4 of those being collabs) + 10 collabs
 - AlexanderX1ta        (21 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
+- AngelozDD            (21 icons, 1 of those being collabs)
 - electrictaco         (19 icons, 1 of those being collabs) + 3 collabs
-- AlexisDrawz          (18 icons, 4 of those being collabs) + 8 collabs
+- Hydr4ze              (18 icons, 1 of those being collabs)
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
-- DibbJ                (9 icons) + 1 collab
-- DreamsTT             (9 icons)
+- DreamsTT             (10 icons)
+- Dibbj                (9 icons) + 1 collab
 - Luar77               (8 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
@@ -67,9 +69,9 @@ After over 3 months of work, we present a complete design revamp of every icon i
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
 - Th3Angel0ffic3       (5 icons, 1 of those being collabs)
-- DanKy99              (4 icons) + 1 collab
 - Hushroom             (4 icons)
 - TheRare5             (4 icons)
+- DanKy99              (4 icons)
 - KazooTheCat          (1 icon) + 1 collab
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - airiLmao              + 2 collabs
@@ -175,9 +177,6 @@ cube 27:
 
 cube 28:
 - By NHJ.
-
-cube 29:
-- By CraZyboy6484.
 
 cube 30:
 - By Sharkcrome.
@@ -463,6 +462,7 @@ cube 117:
 
 cube 118:
 - By Aleiz21.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_118(1).png)
 
 cube 119:
 - By NHJ.
@@ -715,6 +715,9 @@ cube 201:
 cube 202:
 - By AlexanderX1ta.
 
+cube 203:
+- By JigglypuffGD.
+
 cube 204:
 - By Sharkcrome.
 - Refrence to "Mako", a Legend from the game Brawlhalla.
@@ -815,6 +818,9 @@ cube 244:
 
 cube 245:
 - By RetroAdvance64.
+
+cube 246:
+- By electrictaco.
 
 cube 248:
 - By Sharkcrome.
@@ -1040,9 +1046,6 @@ cube 326:
 - By RetroAdvance64.
 - References the "Mole" a trap object often found in dungeons in TLoZ: A Link Between Worlds. Replaces the "Medusa" icon which is also another trap found in that game.
 
-cube 328:
-- By ML500.
-
 cube 329:
 - By ML500.
 - Heavily based on Asren's concept for the same icon.
@@ -1142,6 +1145,9 @@ cube 368:
 - By ML500.
 - Collab with AlexisDrawz.
 
+cube 369:
+- By ML500.
+
 cube 370:
 - By JigglypuffGD.
 
@@ -1217,6 +1223,9 @@ cube 396:
 - By RetroAdvance64.
 - A direct remake to the original cube.
 
+cube 397:
+- By bugpesto.
+
 cube 398:
 - By NHJ.
 
@@ -1244,7 +1253,7 @@ cube 406:
 
 cube 407:
 - By cyanflower.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_407(1).png)
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1365341982872047688/IMG_3372.webp?ex=680cf54f&is=680ba3cf&hm=23211f03266cdd4ffdf77dfc9d126bf06bb5f1bb47f0b0ee58449e2f30b3b527&=&format=webp&width=313&height=256)
 
 cube 408:
 - By NHJ.
@@ -1279,13 +1288,19 @@ cube 421:
 cube 422:
 - By JustHyperCL.
 
+cube 423:
+- By aGold.
+
+cube 424:
+- By JigglypuffGD.
+
 cube 426:
 - By Sharkcrome.
 
 cube 427:
 - By JigglypuffGD.
 - A reference to the alien creatures featured in the album cover for the song The Mob by RIOT.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_427(1).png)
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1375364696110137434/artworks-000356601213-w1udzg-t500x500.jpg?ex=68316bb0&is=68301a30&hm=fcf66a72dc6ebcae55cb2e2862b5285c83658d6ff8a9e6926e56ab6083e1fc11&=&format=webp&width=625&height=625)
 
 cube 428:
 - By CraZyboy6484.
@@ -1346,6 +1361,9 @@ cube 450:
 cube 451:
 - By aGold.
 
+cube 452:
+- By ML500.
+
 cube 453:
 - By CraZyboy6484.
 
@@ -1396,6 +1414,10 @@ cube 468:
 
 cube 469:
 - By NHJ.
+
+cube 470:
+- By ML500.
+- Taking more emphasis on the source material the original references (Masked Dedede from Kirby Triple Deluxe).
 
 cube 472:
 - By AlexisDrawz.
@@ -1528,7 +1550,7 @@ ship 32:
 - By KevgenGD.
 
 ship 33:
-- By DibbJ.
+- By Dibbj.
 - Direct remake, with a more sharp and technological approach.
 
 ship 34:
@@ -1597,6 +1619,12 @@ ship 73:
 ship 74:
 - By Aleiz21.
 
+ship 76:
+- By aGold.
+
+ship 77:
+- By RetroAdvance64.
+
 ship 78:
 - By Drian114.
 
@@ -1625,6 +1653,7 @@ ship 87:
 
 ship 88:
 - By bugpesto.
+- Can I haz chezburger plx.
 
 ship 92:
 - By RetroAdvance64.
@@ -1659,6 +1688,9 @@ ship 106:
 ship 107:
 - By RetroAdvance64.
 - A direct remake to the original Ship. Properly references the "Hivehand", a weapon from Half Life (1998).
+
+ship 108:
+- By Sharkcrome.
 
 ship 109:
 - By KevgenGD.
@@ -1732,6 +1764,12 @@ ship 136:
 - By bugpesto.
 - References the True Night's Edge from Terraria (special thanks to RetroAdvance for helping me with the shading!).
 
+ship 137:
+- By cyanflower.
+
+ship 138:
+- By RetroAdvance64.
+
 ship 140:
 - By NHJ.
 
@@ -1743,7 +1781,7 @@ ship 143:
 - By NHJ.
 
 ship 144:
-- By DibbJ.
+- By Dibbj.
 - Loosely based on the "Torment" from Sly's Futuristic Weapons Pack for the game Unturned.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_144(1).png)
 
@@ -2051,6 +2089,9 @@ ball 76:
 - By Luar77.
 - Indirect reference to an original character from Luar77.
 
+ball 77:
+- By aGold.
+
 ball 78:
 - By KevgenGD.
 
@@ -2109,6 +2150,9 @@ ball 95:
 ball 96:
 - By Hydr4ze.
 - Collab with JustHyperCL.
+
+ball 97:
+- By bugpesto.
 
 ball 98:
 - By cyanflower.
@@ -2398,7 +2442,7 @@ ufo 95:
 - By Aleiz21.
 
 ufo 98:
-- By DibbJ.
+- By Dibbj.
 - Reshaped with a sharper and more menacing look.
 
 ufo 99:
@@ -2454,6 +2498,9 @@ ufo 137:
 ufo 139:
 - By DreamsTT.
 
+ufo 140:
+- By Sharkcrome.
+
 ufo 141:
 - By JustHyperCL.
 - Collab with AlexisDrawz.
@@ -2480,9 +2527,6 @@ ufo 149:
 - By KevgenGD.
 
 wave 1:
-- By RetroAdvance64.
-
-wave 2:
 - By RetroAdvance64.
 
 wave 3:
@@ -2563,6 +2607,9 @@ wave 25:
 wave 26:
 - By Sharkcrome.
 
+wave 28:
+- By aGold.
+
 wave 31:
 - By ML500.
 
@@ -2641,6 +2688,10 @@ wave 56:
 
 wave 57:
 - By ML500.
+
+wave 59:
+- By RetroAdvance64.
+- A direct remake to the original Wave. References the "Devourer of Gods", a boss enemy from the Calamity Mod for Terraria.
 
 wave 60:
 - By ML500.
@@ -2828,6 +2879,10 @@ robot 28:
 robot 29:
 - By J3anC4rlo.
 
+robot 31:
+- By ML500.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/robot_31(1).mp4)
+
 robot 33:
 - By RetroAdvance64.
 - A direct remake to the original robot. Properly references Doomguy from DOOM (1993).
@@ -2855,10 +2910,6 @@ robot 40:
 robot 41:
 - By Drian114.
 - Robot 41 has been redesigned to have the appearance of a velociraptor, while keeping the same vibe of its original T-Rex counterpart.
-
-robot 42:
-- By RetroAdvance64.
-- A direct remake to the original robot. References the soldier designs from the film "Jin-Roh: The Wolf Brigade" (1999).
 
 robot 45:
 - By RetroAdvance64.
@@ -2899,6 +2950,9 @@ robot 63:
 robot 65:
 - By cyanflower.
 - The Miserable.
+
+robot 66:
+- By ML500.
 
 robot 68:
 - By bugpesto.
@@ -2962,9 +3016,6 @@ spider 22:
 
 spider 23:
 - By Aleiz21.
-
-spider 25:
-- By bugpesto.
 
 spider 26:
 - By NHJ.
