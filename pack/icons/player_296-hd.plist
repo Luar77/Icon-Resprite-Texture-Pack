@@ -41,13 +41,13 @@
 			<key>spriteOffset</key>
 			<string>{-0.5,-0.8}</string>
 			<key>spriteSize</key>
-			<string>{55,25}</string>
+			<string>{52,25}</string>
 			<key>spriteSourceSize</key>
 			<string>{71,64}</string>
 			<key>textureRect</key>
-			<string>{{195,2},{55,25}}</string>
+			<string>{{68,71},{52,25}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>player_296_glow_001.png</key>
 		<dict>
