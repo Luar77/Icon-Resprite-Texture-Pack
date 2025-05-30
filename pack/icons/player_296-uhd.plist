@@ -41,11 +41,11 @@
 				<key>spriteOffset</key>
 				<string>{-1,-1.5}</string>
 				<key>spriteSize</key>
-				<string>{110,49}</string>
+				<string>{104,49}</string>
 				<key>spriteSourceSize</key>
 				<string>{220,220}</string>
 				<key>textureRect</key>
-				<string>{{135,129},{110,49}}</string>
+				<string>{{143,125},{104,49}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
