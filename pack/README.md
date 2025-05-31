@@ -11,7 +11,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - Aleiz21              (100 icons, 8 of those being collabs) + 3 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- ML500                (83 icons, 5 of those being collabs) + 1 collab
+- ML500                (84 icons, 5 of those being collabs) + 1 collab
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
@@ -23,13 +23,13 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - NHJ                  (72 icons, 1 of those being collabs) + 3 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- cyanflower           (70 icons, 2 of those being collabs) + 2 collabs
+- cyanflower           (69 icons, 2 of those being collabs) + 2 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
 - JigglypuffGD         (71 icons, 6 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- bugpesto             (58 icons, 2 of those being collabs) + 1 collab
+- bugpesto             (60 icons, 1 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
@@ -38,29 +38,29 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
-- JustHyperCL          (41 icons, 10 of those being collabs) + 7 collabs
+- JustHyperCL          (41 icons, 11 of those being collabs) + 7 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (35 icons, 2 of those being collabs) + 1 collab
 - CraZyboy6484         (32 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- aGold                (28 icons)
+- aGold                (31 icons)
 	- https://agold.is-a.dev
 - J3anC4rlo            (23 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- AlexisDrawz          (18 icons, 4 of those being collabs) + 10 collabs
-- AngelozDD            (21 icons, 1 of those being collabs)
+- AlexisDrawz          (18 icons, 4 of those being collabs) + 11 collabs
 - AlexanderX1ta        (20 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- electrictaco         (18 icons, 1 of those being collabs) + 3 collabs
-- Hydr4ze              (18 icons, 1 of those being collabs)
+- AngelozDD            (20 icons, 1 of those being collabs)
+- electrictaco         (18 icons, 1 of those being collabs) + 2 collabs
+- Hydr4ze              (19 icons, 1 of those being collabs)
 - ChileMationsxD       (14 icons)
 - Exetric              (12 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
-- DreamsTT             (10 icons)
+- DreamsTT             (11 icons)
 - Dibbj                (9 icons) + 1 collab
 - Luar77               (9 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
@@ -622,6 +622,9 @@ cube 171:
 cube 172:
 - By DreamsTT.
 
+cube 173:
+- By DreamsTT.
+
 cube 174:
 - By Drian114.
 
@@ -658,6 +661,8 @@ cube 184:
 
 cube 185:
 - By DreamsTT.
+- <reference to Metal Slug grenade-launching robot>.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_185(1).png)
 
 cube 186:
 - By ML500.
@@ -798,9 +803,21 @@ cube 234:
 - By Aleiz21.
 - Collab w/ Drian114.
 
+cube 236:
+- By bugpesto.
+- References the GD chomping monster's design.
+
 cube 237:
 - By cyanflower.
 - This cube's redesign is in reference to the character Isaac from famous roguelike indie game "The Binding of Isaac". The tears on this cube's eyes are directly based off the original cube's tears, instead of the flat downwards design usually incorporated with Isaac.
+
+cube 238:
+- By DreamsTT.
+
+cube 239:
+- By JigglypuffGD.
+- Loosely based off of an art of a Tree Blight from D&D I saw floating around on Twitter.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_239(1).png)
 
 cube 241:
 - By Hydr4ze.
@@ -858,6 +875,9 @@ cube 257:
 cube 258:
 - By JustHyperCL.
 
+cube 259:
+- By JigglypuffGD.
+
 cube 260:
 - By AlexanderX1ta.
 
@@ -898,6 +918,9 @@ cube 272:
 cube 273:
 - By KevgenGD.
 
+cube 274:
+- By bugpesto.
+
 cube 275:
 - By cyanflower.
 - This cube's redesign is in reference to Tokyo Machine music label "CHOMPO"'s mascot of the same name, and has been noticed by one of CHOMPO's managers in the past!.
@@ -922,6 +945,9 @@ cube 282:
 
 cube 283:
 - By ML500.
+
+cube 284:
+- By aGold.
 
 cube 285:
 - By bugpesto.
@@ -1148,6 +1174,9 @@ cube 365:
 - By Sharkcrome.
 - Terraspark from the 2D hit game 🌳 Terraria.
 
+cube 366:
+- By JigglypuffGD.
+
 cube 368:
 - By ML500.
 - Collab with AlexisDrawz.
@@ -1278,6 +1307,10 @@ cube 414:
 
 cube 415:
 - By Hydr4ze.
+
+cube 416:
+- By JustHyperCL.
+- Collab with AlexisDrawz.
 
 cube 418:
 - By RetroAdvance64.
@@ -1519,6 +1552,10 @@ ship 15:
 ship 16:
 - By NHJ.
 
+ship 17:
+- By Dibbj.
+- Only minor visual adjustments have been done to this icon. To keep the spirit of the original, it has been done without an extra layer.
+
 ship 18:
 - By cyanflower.
 
@@ -1586,6 +1623,9 @@ ship 41:
 ship 43:
 - By ML500.
 
+ship 44:
+- By KevgenGD.
+
 ship 46:
 - By Aleiz21.
 
@@ -1635,6 +1675,7 @@ ship 74:
 
 ship 76:
 - By aGold.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_76(1).png)
 
 ship 77:
 - By RetroAdvance64.
@@ -1714,6 +1755,10 @@ ship 110:
 
 ship 111:
 - By bugpesto.
+
+ship 114:
+- By bugpesto.
+- References the Zero Point Energy Field Manipulator (aka Gravity Gun) from Half Life, keeping the game reference of the original icon.
 
 ship 115:
 - By RetroAdvance64.
@@ -2498,6 +2543,9 @@ ufo 113:
 ufo 115:
 - By Drian114.
 
+ufo 116:
+- By JigglypuffGD.
+
 ufo 118:
 - By cyanflower.
 - Survive My Toys.
@@ -2521,6 +2569,9 @@ ufo 133:
 
 ufo 134:
 - By NHJ.
+
+ufo 135:
+- By JigglypuffGD.
 
 ufo 137:
 - By bugpesto.
@@ -2793,6 +2844,7 @@ wave 82:
 
 wave 83:
 - By aGold.
+- Collab with sharkcrome.
 
 wave 84:
 - By Drian114.
@@ -2882,9 +2934,15 @@ robot 13:
 robot 15:
 - By RetroAdvance64.
 
+robot 16:
+- By ML500.
+
 robot 17:
 - By RetroAdvance64.
 - Gives the original robot an aggressive/metal look. To make matters worse, according to the author remaking the icon, they suggested him to listen "Kagada de Perro - Drogadicto" (Dogshit - Drug Addict) for the full experience and had a lot of fun.
+
+robot 18:
+- By ML500.
 
 robot 21:
 - By RetroAdvance64.
@@ -2899,6 +2957,9 @@ robot 24:
 
 robot 25:
 - By Aleiz21.
+
+robot 26:
+- By ML500.
 
 robot 27:
 - By bugpesto.
@@ -2953,6 +3014,9 @@ robot 49:
 - By RetroAdvance64.
 - A direct remake to the original robot. Properly referencing the Hunter from Bloodborne.
 
+robot 50:
+- By ML500.
+
 robot 52:
 - By Sorao.
 
@@ -2964,6 +3028,9 @@ robot 54:
 - By RetroAdvance64.
 - A direct remake. Properly references the "Pinky", a demon enemy found in DOOM (1993).
 
+robot 55:
+- By ML500.
+
 robot 56:
 - By JustHyperCL.
 - Re-design of metal sonic with more dettails inspirated in the original design.
@@ -2974,6 +3041,9 @@ robot 57:
 
 robot 58:
 - By KevgenGD.
+
+robot 61:
+- By bugpesto.
 
 robot 63:
 - By ML500.
@@ -3000,6 +3070,9 @@ spider 4:
 
 spider 5:
 - By Aleiz21.
+
+spider 6:
+- By KevgenGD.
 
 spider 7:
 - By RetroAdvance64.
@@ -3046,6 +3119,10 @@ spider 23:
 
 spider 26:
 - By NHJ.
+
+spider 27:
+- By cyanflower.
+- This spider’s redesign is in reference to the boss Core from the originally freeware game “Cave Story”. This redesign is based on the Labyrinth boss rather than the rematch as Undead Core, which the original spider was based on (and then changed by RobTop to use a Cube face rather than the original’s direct replica of the original face).
 
 spider 33:
 - By ML500.
