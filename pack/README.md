@@ -4,11 +4,11 @@ After over 3 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (116 icons, 3 of those being collabs) + 8 collabs
+- RetroAdvance64       (117 icons, 3 of those being collabs) + 8 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (100 icons, 8 of those being collabs) + 3 collabs
+- Aleiz21              (98 icons, 8 of those being collabs) + 3 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - ML500                (84 icons, 5 of those being collabs) + 1 collab
@@ -33,18 +33,19 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- KevgenGD             (55 icons, 1 of those being collabs)
+- KevgenGD             (54 icons, 1 of those being collabs)
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
 - JustHyperCL          (41 icons, 11 of those being collabs) + 7 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (35 icons, 2 of those being collabs) + 1 collab
+- Sorao                (36 icons, 2 of those being collabs) + 1 collab
 - CraZyboy6484         (32 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - aGold                (31 icons)
 	- https://agold.is-a.dev
+- AngelozDD            (23 icons, 1 of those being collabs)
 - J3anC4rlo            (23 icons, 1 of those being collabs)
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
@@ -53,10 +54,9 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- AngelozDD            (20 icons, 1 of those being collabs)
-- electrictaco         (18 icons, 1 of those being collabs) + 2 collabs
+- electrictaco         (19 icons, 1 of those being collabs) + 2 collabs
 - Hydr4ze              (19 icons, 1 of those being collabs)
-- ChileMationsxD       (14 icons)
+- ChileMationsxD       (13 icons)
 - Exetric              (12 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
@@ -462,7 +462,6 @@ cube 117:
 
 cube 118:
 - By Aleiz21.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_118(1).png)
 
 cube 119:
 - By NHJ.
@@ -1020,6 +1019,9 @@ cube 304:
 cube 305:
 - By AlexisDrawz.
 
+cube 306:
+- By Sharkcrome.
+
 cube 307:
 - By AlexanderX1ta.
 
@@ -1301,6 +1303,10 @@ cube 410:
 - By bugpesto.
 - Reworks the original design to make the icon look like a trampoline from Super Smash Bros. Brawl.
 
+cube 413:
+- By Sharkcrome.
+- Refrence to the Airborne Robots Monster that appears in 2%.
+
 cube 414:
 - By cyanflower.
 - JamAttack's cube, sometimes referred to as Jamit. Originally created for them by cyanflower and directly based off their persona/mascot character, one of the most notable creator-specific cubes for following Geometry Dash's art style.
@@ -1362,9 +1368,6 @@ cube 433:
 
 cube 435:
 - By AngelozDD.
-
-cube 437:
-- By KevgenGD.
 
 cube 439:
 - By ChileMationsxD.
@@ -1522,6 +1525,9 @@ ship 4:
 ship 5:
 - By KevgenGD.
 
+ship 6:
+- By Sharkcrome.
+
 ship 7:
 - By KevgenGD.
 
@@ -1660,9 +1666,6 @@ ship 65:
 ship 66:
 - By Hydr4ze.
 
-ship 70:
-- By CraZyboy6484.
-
 ship 71:
 - By RetroAdvance64.
 
@@ -1675,7 +1678,6 @@ ship 74:
 
 ship 76:
 - By aGold.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_76(1).png)
 
 ship 77:
 - By RetroAdvance64.
@@ -1929,9 +1931,6 @@ ball 7:
 
 ball 8:
 - By Sorao.
-
-ball 9:
-- By Aleiz21.
 
 ball 10:
 - By NHJ.
@@ -2190,6 +2189,10 @@ ball 87:
 ball 88:
 - By Sharkcrome.
 
+ball 89:
+- By Sorao.
+- Collaboration with ML5, another goat that helped a lot <:OlaNena:1122627551202910289>.
+
 ball 90:
 - By AlexisDrawz.
 - In Collab W. NHJ! (Thank you so much fella).
@@ -2382,9 +2385,6 @@ ufo 42:
 - By ML500.
 - Reference to the "hand holding a gun" meme.
 
-ufo 45:
-- By Aleiz21.
-
 ufo 46:
 - By JigglypuffGD.
 - Based around the alien machine featured in the album cover for the song Overkill by RIOT. Collab with RetroAdvance64.
@@ -2443,6 +2443,9 @@ ufo 64:
 
 ufo 66:
 - By Sharkcrome.
+
+ufo 70:
+- By RetroAdvance64.
 
 ufo 71:
 - By RetroAdvance64.
@@ -2597,6 +2600,9 @@ ufo 143:
 ufo 144:
 - By Drian114.
 - A couple of extra details were added to the original design.
+
+ufo 145:
+- By cyanflower.
 
 ufo 147:
 - By aGold.
@@ -3003,6 +3009,10 @@ robot 41:
 - By Drian114.
 - Robot 41 has been redesigned to have the appearance of a velociraptor, while keeping the same vibe of its original T-Rex counterpart.
 
+robot 44:
+- By RetroAdvance64.
+- A direct 'Sidegrade' to the original Robot. Switches the role from a Swordsman to an Axeman.
+
 robot 45:
 - By RetroAdvance64.
 - A direct remake to the original robot. References "Monstercat", a mascot featured for the electronic music record label of the same name.
@@ -3030,6 +3040,7 @@ robot 54:
 
 robot 55:
 - By ML500.
+- CAN ANY OF THE OTHER FUCKING ADMINS RATE THIS DAMN THING ALREADY.
 
 robot 56:
 - By JustHyperCL.
@@ -3041,6 +3052,9 @@ robot 57:
 
 robot 58:
 - By KevgenGD.
+
+robot 60:
+- By electrictaco.
 
 robot 61:
 - By bugpesto.
