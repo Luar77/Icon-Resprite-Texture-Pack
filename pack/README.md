@@ -1611,6 +1611,10 @@ ship 34:
 - By electrictaco.
 - Based on the bossfight in the level 'The Vermin Queen' by Yoreid.
 
+ship 35:
+- By Sharkcrome.
+- References the alien fish "The Intruder" from the Feeding Frenzy games.
+
 ship 37:
 - By Aleiz21.
 
@@ -2298,6 +2302,9 @@ ufo 3:
 
 ufo 4:
 - By RetroAdvance64.
+
+ufo 5:
+- By Sharkcrome.
 
 ufo 6:
 - By Sharkcrome.
