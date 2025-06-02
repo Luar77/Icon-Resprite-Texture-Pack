@@ -11,68 +11,68 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - Aleiz21              (98 icons, 8 of those being collabs) + 3 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- ML500                (84 icons, 4 of those being collabs) + 1 collab
+- ML500                (86 icons, 4 of those being collabs) + 2 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- Sharkcrome           (82 icons, 1 of those being collabs) + 2 collabs
+- Sharkcrome           (81 icons, 1 of those being collabs) + 2 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- NHJ                  (72 icons, 1 of those being collabs) + 3 collabs
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- cyanflower           (70 icons, 2 of those being collabs) + 2 collabs
-	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
-	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- JigglypuffGD         (71 icons, 6 of those being collabs) + 2 collabs
+- JigglypuffGD         (75 icons, 6 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- bugpesto             (63 icons, 2 of those being collabs) + 1 collab
+- NHJ                  (72 icons, 1 of those being collabs) + 3 collabs
+	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
+- cyanflower           (71 icons, 2 of those being collabs) + 2 collabs
+	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
+	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
+- bugpesto             (64 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- KevgenGD             (54 icons, 1 of those being collabs)
+- KevgenGD             (56 icons, 1 of those being collabs)
 - Drian114             (50 icons, 2 of those being collabs) + 2 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
-- JustHyperCL          (41 icons, 10 of those being collabs) + 8 collabs
+- JustHyperCL          (42 icons, 10 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (36 icons, 3 of those being collabs) + 1 collab
+- Sorao                (37 icons, 3 of those being collabs) + 1 collab
 - CraZyboy6484         (33 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- aGold                (31 icons, 2 of those being collabs)
+- aGold                (32 icons, 2 of those being collabs)
 	- https://agold.is-a.dev
-- AngelozDD            (23 icons, 1 of those being collabs)
-- J3anC4rlo            (23 icons, 1 of those being collabs)
+- AngelozDD            (23 icons, 1 of those being collabs) + 1 collab
+- J3anC4rlo            (23 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - AlexisDrawz          (18 icons, 4 of those being collabs) + 10 collabs
-- AlexanderX1ta        (20 icons, 1 of those being collabs) + 1 collab
+- AlexanderX1ta        (21 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - electrictaco         (19 icons, 2 of those being collabs) + 3 collabs
 - Hydr4ze              (19 icons, 1 of those being collabs)
 - ChileMationsxD       (13 icons)
+- DreamsTT             (13 icons)
+- Dibbj                (12 icons) + 2 collabs
 - Exetric              (12 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
-- DreamsTT             (12 icons)
-- Dibbj                (9 icons) + 1 collab
 - Luar77               (9 icons)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- ReenRN               (6 icons)
+- ReenRN               (6 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
+- TheRare5             (5 icons)
 - Th3Angel0ffic3       (5 icons, 1 of those being collabs)
 - Hushroom             (4 icons)
-- TheRare5             (4 icons)
 - DanKy99              (4 icons)
-- KazooTheCat          (1 icon) + 1 collab
+- KazooTheCat          (1 icon) + 2 collabs
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - airiLmao              + 2 collabs
 - fiegael              (2 icons, 2 of those being collabs)
@@ -532,6 +532,9 @@ cube 142:
 - By JustHyperCL.
 - Reference to a funny old emote but now brought to an actual icon.
 
+cube 143:
+- By TheRare5.
+
 cube 145:
 - By Sorao.
 
@@ -686,7 +689,7 @@ cube 191:
 
 cube 192:
 - By bugpesto.
-- Collab with GDReen. 👍.
+- Collab with ReenRN 👍.
 
 cube 193:
 - By RetroAdvance64.
@@ -1126,6 +1129,9 @@ cube 344:
 cube 345:
 - By Sharkcrome.
 
+cube 346:
+- By aGold.
+
 cube 347:
 - By JigglypuffGD.
 - A reference to the 2.1 daily chest from RetroAdvance64's Supernova TP.
@@ -1247,7 +1253,7 @@ cube 388:
 
 cube 390:
 - By KevgenGD.
-- Collab with KA200 !!! Thanks to ML5 for the advice :).
+- Collab with KazooTheCat !!! Thanks to ML5 for the advice :).
 
 cube 391:
 - By ML500.
@@ -1485,6 +1491,9 @@ cube 475:
 
 cube 476:
 - By Sorao.
+
+cube 477:
+- By aGold.
 
 cube 478:
 - By aGold.
@@ -1844,7 +1853,7 @@ ship 140:
 
 ship 141:
 - By Dibbj.
-- Reshaped into a less bulky, and rather more streamlined like an aquatic creature.
+- Reshaped to be less bulky and rather streamlined like an aquatic creature.
 
 ship 142:
 - By Luar77.
@@ -2098,6 +2107,10 @@ ball 56:
 ball 57:
 - By ML500.
 
+ball 58:
+- By aGold.
+- Collab with electrictaco.
+
 ball 59:
 - By JigglypuffGD.
 
@@ -2204,7 +2217,7 @@ ball 88:
 
 ball 89:
 - By Sorao.
-- Collaboration with ML5, another goat that helped a lot <:OlaNena:1122627551202910289>.
+- Collab with ML500. Thank you my goat <:OlaNena:1122627551202910289>.
 
 ball 90:
 - By AlexisDrawz.
@@ -2215,7 +2228,7 @@ ball 91:
 
 ball 92:
 - By RetroAdvance64.
-- In collaboration with AngeloToons.
+- In collaboration with AngelozDD.
 
 ball 93:
 - By Hydr4ze.
@@ -2376,6 +2389,9 @@ ufo 29:
 ufo 31:
 - By cyanflower.
 - A basic redesign of the original UFO that aims to polish it to fit more with modern icon creation standards.
+
+ufo 32:
+- By aGold.
 
 ufo 33:
 - By Aleiz21.
@@ -2569,6 +2585,7 @@ ufo 115:
 
 ufo 116:
 - By JigglypuffGD.
+- In reference to the daily level crown from base game GD.
 
 ufo 118:
 - By cyanflower.
@@ -2596,6 +2613,7 @@ ufo 134:
 
 ufo 135:
 - By JigglypuffGD.
+- Based around the design of Spider 49.
 
 ufo 137:
 - By bugpesto.
@@ -2637,6 +2655,10 @@ ufo 149:
 
 wave 1:
 - By RetroAdvance64.
+
+wave 2:
+- By JustHyperCL.
+- Modified version of the wave 2 made by RetroAdvance64 in order to fit more to the original wave by having a triangle-esque shape. Collab with RetroAdvance64.
 
 wave 3:
 - By Sorao.
@@ -3048,12 +3070,15 @@ robot 49:
 robot 50:
 - By ML500.
 
+robot 51:
+- By KevgenGD.
+
 robot 52:
 - By Sorao.
 
 robot 53:
 - By ML500.
-- Collab with Dib.
+- Collab with DibbJ.
 
 robot 54:
 - By RetroAdvance64.
@@ -3126,6 +3151,9 @@ spider 12:
 
 spider 13:
 - By TheRare5.
+
+spider 14:
+- By Luar77.
 
 spider 16:
 - By KevgenGD.
@@ -3251,6 +3279,10 @@ swing 6:
 swing 7:
 - By KevgenGD.
 - This is a reference to a character from the cartoon "Kikoriki".
+
+swing 8:
+- By JigglypuffGD.
+- Based on the parasite form of Black Impostor from the song Finale in Impostor v4.
 
 swing 9:
 - By RetroAdvance64.
