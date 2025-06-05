@@ -64,7 +64,7 @@ Apparently some people were really insisting on helping with the development cos
 - AngelozDD            (19 icons, 1 of those being collabs) + 2 collabs
 - Hydr4ze              (20 icons, 1 of those being collabs)
 - electrictaco         (19 icons, 3 of those being collabs) + 3 collabs
-- Dibbj                (14 icons) + 2 collabs
+- Dibbj                (13 icons) + 2 collabs
 - Exetric              (12 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
