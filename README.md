@@ -48,23 +48,23 @@ Apparently some people were really insisting on helping with the development cos
 - KevgenGD             (58 icons, 1 of those being collabs)
 - JustHyperCL          (42 icons, 12 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- aGold                (39 icons, 2 of those being collabs) + 1 collab
+- aGold                (40 icons, 2 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
 - CraZyboy6484         (37 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Sorao                (36 icons, 3 of those being collabs) + 1 collab
+- Sorao                (37 icons, 3 of those being collabs) + 1 collab
 - J3anC4rlo            (23 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- AlexanderX1ta        (23 icons, 1 of those being collabs) + 1 collab
+- AlexanderX1ta        (22 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- AngelozDD            (22 icons, 1 of those being collabs) + 2 collabs
 - AlexisDrawz          (18 icons, 6 of those being collabs) + 10 collabs
+- AngelozDD            (19 icons, 1 of those being collabs) + 2 collabs
+- Hydr4ze              (20 icons, 1 of those being collabs)
 - electrictaco         (19 icons, 3 of those being collabs) + 3 collabs
-- Hydr4ze              (19 icons, 1 of those being collabs)
-- Dibbj                (13 icons) + 2 collabs
+- Dibbj                (14 icons) + 2 collabs
 - Exetric              (12 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
