@@ -56,7 +56,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - AngelozDD            (19 icons, 1 of those being collabs) + 2 collabs
 - Hydr4ze              (20 icons, 1 of those being collabs)
 - electrictaco         (19 icons, 3 of those being collabs) + 3 collabs
-- Dibbj                (14 icons) + 2 collabs
+- Dibbj                (13 icons) + 2 collabs
 - Exetric              (12 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
@@ -1383,6 +1383,7 @@ cube 411:
 cube 413:
 - By Sharkcrome.
 - Refrence to the Airborne Robots Monster that appears in 2%.
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1380292303008039142/Untitled238_20250531013607.png?ex=684358e1&is=68420761&hm=2e824e6d1d42bce1452f5c09071bca24b7211fd085cbfea6536399a7c02fb073&=&format=webp&quality=lossless&width=930&height=930)
 
 cube 414:
 - By cyanflower.
@@ -1712,6 +1713,7 @@ ship 34:
 ship 35:
 - By Sharkcrome.
 - References the alien fish "The Intruder" from the Feeding Frenzy games.
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1380292034140831806/AlienFish.png?ex=684358a1&is=68420721&hm=a976d89eb29536941bcaf74bc971a4bda6533d69bfbeb9329d0d5d8a4924b0d0&=&format=webp&quality=lossless&width=614&height=378)
 
 ship 37:
 - By Aleiz21.
@@ -1981,7 +1983,6 @@ ship 144:
 
 ship 145:
 - By Sharkcrome.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_145(1).png)
 
 ship 146:
 - By JigglypuffGD.
@@ -2268,6 +2269,7 @@ Nitro Fun - New Game
 00:54 =:- Bre Beb Beb Be Aa Aow!
 Bre Beb Beb Be Aa Aow!
 Aa Aow Ooo Eee ... ~HAAAAA!!~.
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1380291414122037258/Untitled238_20250601191747.png?ex=6843580d&is=6842068d&hm=2082ab754d8726dae11362726283bac3962d574ea76d87de89078415dd1cf80e&=&format=webp&quality=lossless&width=930&height=930)
 
 ball 69:
 - By CraZyboy6484.
@@ -2551,6 +2553,7 @@ ufo 44:
 - By Sharkcrome.
 - References the crown phase of the Boss in the "Just Shapes & Beats" game
 the level with the **Nitro Fun - Final Boss** song.
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1380291414122037258/Untitled238_20250601191747.png?ex=6843580d&is=6842068d&hm=2082ab754d8726dae11362726283bac3962d574ea76d87de89078415dd1cf80e&=&format=webp&quality=lossless&width=930&height=930)
 
 ufo 46:
 - By JigglypuffGD.
