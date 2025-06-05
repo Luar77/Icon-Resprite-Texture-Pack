@@ -40,23 +40,23 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - KevgenGD             (58 icons, 1 of those being collabs)
 - JustHyperCL          (42 icons, 12 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- aGold                (39 icons, 2 of those being collabs) + 1 collab
+- aGold                (40 icons, 2 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
 - CraZyboy6484         (37 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Sorao                (36 icons, 3 of those being collabs) + 1 collab
+- Sorao                (37 icons, 3 of those being collabs) + 1 collab
 - J3anC4rlo            (23 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- AlexanderX1ta        (23 icons, 1 of those being collabs) + 1 collab
+- AlexanderX1ta        (22 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- AngelozDD            (22 icons, 1 of those being collabs) + 2 collabs
 - AlexisDrawz          (18 icons, 6 of those being collabs) + 10 collabs
+- AngelozDD            (19 icons, 1 of those being collabs) + 2 collabs
+- Hydr4ze              (20 icons, 1 of those being collabs)
 - electrictaco         (19 icons, 3 of those being collabs) + 3 collabs
-- Hydr4ze              (19 icons, 1 of those being collabs)
-- Dibbj                (13 icons) + 2 collabs
+- Dibbj                (14 icons) + 2 collabs
 - Exetric              (12 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
@@ -328,7 +328,6 @@ cube 76:
 
 cube 77:
 - By Sharkcrome.
-- Cube 6 has some relatives.
 
 cube 78:
 - By RetroAdvance64.
@@ -650,6 +649,10 @@ cube 175:
 cube 176:
 - By CraZyboy6484.
 
+cube 177:
+- By bugpesto.
+- Good strawberry morning.
+
 cube 178:
 - By RetroAdvance64.
 - The cube references to Sir Daniel Fortesque, a character from MediEvil.
@@ -784,6 +787,9 @@ cube 217:
 - Refrence to "Kor In Space" skin of the Legend Kor in the game Brawlhalla.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_217(1).png)
 
+cube 218:
+- By ML500.
+
 cube 219:
 - By JigglypuffGD.
 
@@ -793,6 +799,9 @@ cube 221:
 
 cube 222:
 - By JigglypuffGD.
+
+cube 224:
+- By aGold.
 
 cube 225:
 - By bugpesto.
@@ -805,8 +814,7 @@ cube 227:
 - By CraZyboy6484.
 
 cube 228:
-- By bugpesto.
-- Put a strawberry elephant fancam here.
+- By ML500.
 
 cube 229:
 - By bugpesto.
@@ -1158,6 +1166,9 @@ cube 340:
 - By ML500.
 - Design based on Ambus from Doors (Roblox).
 
+cube 341:
+- By ML500.
+
 cube 343:
 - By ML500.
 
@@ -1230,6 +1241,7 @@ cube 366:
 
 cube 367:
 - By RetroAdvance64.
+- A direct remake to the original Cube. Fun fact: The Tank cube is inspired by the tank designs from the video game "Advance Wars" for the GBA.
 
 cube 368:
 - By ML500.
@@ -1365,6 +1377,9 @@ cube 410:
 - By bugpesto.
 - Reworks the original design to make the icon look like a trampoline from Super Smash Bros. Brawl.
 
+cube 411:
+- By AlexanderX1ta.
+
 cube 413:
 - By Sharkcrome.
 - Refrence to the Airborne Robots Monster that appears in 2%.
@@ -1419,6 +1434,10 @@ cube 429:
 cube 430:
 - By JigglypuffGD.
 - Based on the icon artists OC Riley, who has a similar mouth structure to the original cube.
+
+cube 431:
+- By ML500.
+- Same source as the original reference (Binding of Isaac), but it's Delirium instead (one of the final bosses).
 
 cube 432:
 - By JigglypuffGD.
@@ -1690,6 +1709,10 @@ ship 34:
 - By electrictaco.
 - Based on the bossfight in the level 'The Vermin Queen' by Yoreid.
 
+ship 35:
+- By Sharkcrome.
+- References the alien fish "The Intruder" from the Feeding Frenzy games.
+
 ship 37:
 - By Aleiz21.
 
@@ -1760,6 +1783,11 @@ ship 73:
 
 ship 74:
 - By Aleiz21.
+
+ship 75:
+- By aGold.
+- References the bossfight from the level "Aura" by Serponge.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_75(1).png)
 
 ship 76:
 - By aGold.
@@ -1853,6 +1881,7 @@ ship 111:
 
 ship 113:
 - By RetroAdvance64.
+- A direct remake to the original Ship.
 
 ship 114:
 - By bugpesto.
@@ -1860,6 +1889,7 @@ ship 114:
 
 ship 115:
 - By RetroAdvance64.
+- A direct remake to the original Ship.
 
 ship 116:
 - By bugpesto.
@@ -2127,6 +2157,7 @@ ball 34:
 
 ball 35:
 - By Aleiz21.
+- ![reference_image_1](https://media.discordapp.net/attachments/862821634870870096/1380119925879865374/image.png?ex=6842b857&is=684166d7&hm=2fd439e7cfb75ed0b3ceb1b49ea04df09098e79e8e86dab86fd2e9489da5fb38&=&format=webp&quality=lossless&width=318&height=298)
 
 ball 36:
 - By Hydr4ze.
@@ -2329,6 +2360,7 @@ ball 94:
 
 ball 95:
 - By Aleiz21.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ball_95(1).png)
 
 ball 96:
 - By Hydr4ze.
@@ -2445,6 +2477,9 @@ ufo 13:
 ufo 14:
 - By Aleiz21.
 
+ufo 17:
+- By aGold.
+
 ufo 18:
 - By RetroAdvance64.
 - Twisted with a more "vampiric"-styled adornments.
@@ -2476,6 +2511,7 @@ ufo 28:
 
 ufo 29:
 - By Aleiz21.
+- ![reference_image_1](https://media.discordapp.net/attachments/862821634870870096/1380121414622777394/image.png?ex=6842b9ba&is=6841683a&hm=eb131db1f762fbe7db40b641cba06c925caa2f399732abdc81159034e5fdbc73&=&format=webp&quality=lossless&width=368&height=311)
 
 ufo 31:
 - By cyanflower.
@@ -2580,6 +2616,7 @@ ufo 67:
 
 ufo 70:
 - By RetroAdvance64.
+- A direct remake to the original UFO. The idea execution is now repurposed.
 
 ufo 71:
 - By RetroAdvance64.
@@ -2631,6 +2668,7 @@ ufo 87:
 
 ufo 90:
 - By Aleiz21.
+- ![reference_image_1](https://media.discordapp.net/attachments/862821634870870096/1380122265836064888/image.png?ex=6842ba85&is=68416905&hm=310aa6abc91178bd9752a596d422d1429aefb71d123e075be4c1cb603ccf5c0d&=&format=webp&quality=lossless&width=164&height=65)
 
 ufo 91:
 - By ML500.
@@ -2969,6 +3007,9 @@ wave 72:
 wave 73:
 - By AlexanderX1ta.
 
+wave 74:
+- By Dibbj.
+
 wave 75:
 - By AlexanderX1ta.
 - This wave represents the statue of the new god of Fear & Hunger from the game Fear & Hunger by Miro Haverinen.
@@ -3102,6 +3143,9 @@ robot 21:
 robot 22:
 - By KevgenGD.
 
+robot 23:
+- By RetroAdvance64.
+
 robot 24:
 - By RetroAdvance64.
 - A proper remake referencing Zero from the Mega Man X series.
@@ -3161,6 +3205,10 @@ robot 44:
 robot 45:
 - By RetroAdvance64.
 - A direct remake to the original robot. References "Monstercat", a mascot featured for the electronic music record label of the same name.
+
+robot 47:
+- By RetroAdvance64.
+- A direct remake to the original Robot.
 
 robot 48:
 - By DreamsTT.
@@ -3304,6 +3352,9 @@ spider 34:
 
 spider 36:
 - By AngelozDD.
+
+spider 37:
+- By KevgenGD.
 
 spider 39:
 - By Aleiz21.
@@ -3510,6 +3561,7 @@ swing 41:
 
 swing 42:
 - By Aleiz21.
+- ![reference_image_1](https://media.discordapp.net/attachments/862821634870870096/1380125815832051786/image.png?ex=6842bdd3&is=68416c53&hm=184cdf80ffd9b5ad94536ca030340f680192407534b361c43ad7e388a3f1c641&=&format=webp&quality=lossless&width=295&height=273)
 
 swing 43:
 - By JigglypuffGD.
@@ -3531,3 +3583,4 @@ jetpack 7:
 
 jetpack 8:
 - By Aleiz21.
+- ![reference_image_1](https://media.discordapp.net/attachments/862821634870870096/1380126344024821870/image.png?ex=6842be51&is=68416cd1&hm=fc961ce937371d18461561437250b931e0793209d61b86e11659837e7ec0d332&=&format=webp&quality=lossless&width=350&height=288)
