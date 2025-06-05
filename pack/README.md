@@ -42,17 +42,17 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - aGold                (39 icons, 2 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
-- CraZyboy6484         (36 icons)
+- CraZyboy6484         (37 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Sorao                (36 icons, 3 of those being collabs) + 1 collab
 - J3anC4rlo            (23 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- AngelozDD            (22 icons, 1 of those being collabs) + 2 collabs
-- AlexanderX1ta        (22 icons, 1 of those being collabs) + 1 collab
+- AlexanderX1ta        (23 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
+- AngelozDD            (22 icons, 1 of those being collabs) + 2 collabs
 - AlexisDrawz          (18 icons, 6 of those being collabs) + 10 collabs
 - electrictaco         (19 icons, 3 of those being collabs) + 3 collabs
 - Hydr4ze              (19 icons, 1 of those being collabs)
@@ -624,6 +624,10 @@ All GD Players Put Ya Hands Up !.
 cube 168:
 - By RetroAdvance64.
 
+cube 169:
+- By CraZyboy6484.
+- References that green monster in "Slam", the first monster gauntlet level.
+
 cube 170:
 - By AngelozDD.
 
@@ -710,6 +714,9 @@ cube 194:
 - Reference to Monstercat logo.
 
 cube 195:
+- By RetroAdvance64.
+
+cube 196:
 - By RetroAdvance64.
 
 cube 197:
@@ -835,8 +842,15 @@ cube 239:
 - Loosely based off of an art of a Tree Blight from D&D I saw floating around on Twitter.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_239(1).png)
 
+cube 240:
+- By CraZyboy6484.
+
 cube 241:
 - By Hydr4ze.
+
+cube 242:
+- By CraZyboy6484.
+- Direct reference to the Iron Giant movie.
 
 cube 243:
 - By Drian114.
@@ -943,6 +957,9 @@ cube 274:
 cube 275:
 - By cyanflower.
 - This cube's redesign is in reference to Tokyo Machine music label "CHOMPO"'s mascot of the same name, and has been noticed by one of CHOMPO's managers in the past!.
+
+cube 276:
+- By RetroAdvance64.
 
 cube 277:
 - By CraZyboy6484.
@@ -1952,6 +1969,10 @@ ship 150:
 
 ship 151:
 - By Aleiz21.
+
+ship 152:
+- By Dibbj.
+- Reshaped, less clunky.
 
 ship 153:
 - By TheRare5.
