@@ -13,9 +13,9 @@
 				<key>spriteSize</key>
 				<string>{140,140}</string>
 				<key>spriteSourceSize</key>
-				<string>{170,170}</string>
+				<string>{148,148}</string>
 				<key>textureRect</key>
-				<string>{{147,0},{140,140}}</string>
+				<string>{{149,0},{140,140}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{-7,-9}</string>
 				<key>spriteSize</key>
-				<string>{124,102}</string>
+				<string>{116,112}</string>
 				<key>spriteSourceSize</key>
-				<string>{170,170}</string>
+				<string>{148,148}</string>
 				<key>textureRect</key>
-				<string>{{0,147},{124,102}}</string>
+				<string>{{0,149},{116,112}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -41,13 +41,13 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{96,76}</string>
+				<string>{26,30}</string>
 				<key>spriteSourceSize</key>
-				<string>{170,170}</string>
+				<string>{148,148}</string>
 				<key>textureRect</key>
-				<string>{{125,147},{96,76}}</string>
+				<string>{{117,149},{26,30}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>player_ball_08_glow_001.png</key>
 			<dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{146,146}</string>
+				<string>{148,148}</string>
 				<key>spriteSourceSize</key>
-				<string>{170,170}</string>
+				<string>{148,148}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{146,146}}</string>
+				<string>{{0,0},{148,148}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_ball_08-uhd.png</string>
 			<key>size</key>
-			<string>{287,249}</string>
+			<string>{289,261}</string>
 			<key>textureFileName</key>
 			<string>icons/player_ball_08-uhd.png</string>
 		</dict>
