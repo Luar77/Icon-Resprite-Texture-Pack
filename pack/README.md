@@ -4,14 +4,14 @@ After over 3 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (124 icons, 3 of those being collabs) + 12 collabs
+- RetroAdvance64       (124 icons, 3 of those being collabs) + 13 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 - Aleiz21              (99 icons, 8 of those being collabs) + 3 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- ML500                (90 icons, 5 of those being collabs) + 3 collabs
+- ML500                (96 icons, 7 of those being collabs) + 3 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
@@ -27,24 +27,24 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (74 icons, 2 of those being collabs) + 2 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- NHJ                  (72 icons, 1 of those being collabs) + 3 collabs
+- NHJ                  (73 icons, 2 of those being collabs) + 3 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - bugpesto             (68 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- Drian114             (60 icons, 3 of those being collabs) + 2 collabs
+- Drian114             (61 icons, 3 of those being collabs) + 2 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
-- KevgenGD             (58 icons, 1 of those being collabs)
-- JustHyperCL          (42 icons, 12 of those being collabs) + 8 collabs
-	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- aGold                (40 icons, 2 of those being collabs) + 1 collab
+- KevgenGD             (60 icons, 1 of those being collabs)
+- aGold                (42 icons, 2 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
-- CraZyboy6484         (37 icons)
+- JustHyperCL          (41 icons, 13 of those being collabs) + 8 collabs
+	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
+- CraZyboy6484         (38 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Sorao                (37 icons, 3 of those being collabs) + 1 collab
+- Sorao                (36 icons, 3 of those being collabs) + 3 collabs
 - J3anC4rlo            (23 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
@@ -52,11 +52,11 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- AlexisDrawz          (18 icons, 6 of those being collabs) + 10 collabs
-- AngelozDD            (19 icons, 1 of those being collabs) + 2 collabs
+- AlexisDrawz          (18 icons, 6 of those being collabs) + 11 collabs
+- AngelozDD            (19 icons, 1 of those being collabs) + 3 collabs
+- electrictaco         (19 icons, 3 of those being collabs) + 4 collabs
 - Hydr4ze              (20 icons, 1 of those being collabs)
-- electrictaco         (19 icons, 3 of those being collabs) + 3 collabs
-- Dibbj                (13 icons) + 2 collabs
+- Dibbj                (14 icons) + 2 collabs
 - Exetric              (12 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
@@ -148,6 +148,9 @@ cube 18:
 
 cube 19:
 - By NHJ.
+
+cube 20:
+- By Drian114.
 
 cube 21:
 - By JigglypuffGD.
@@ -793,6 +796,9 @@ cube 218:
 cube 219:
 - By JigglypuffGD.
 
+cube 220:
+- By Aleiz21.
+
 cube 221:
 - By fiegael.
 - Collab with JigglypuffGD.
@@ -1140,6 +1146,9 @@ cube 331:
 - By JigglypuffGD.
 - Based on 4 of the corner block design pieces from Nine Circles put together. This block design was popular and started in 1.9.
 
+cube 332:
+- By Drian114.
+
 cube 333:
 - By ML500.
 
@@ -1168,6 +1177,9 @@ cube 340:
 
 cube 341:
 - By ML500.
+
+cube 342:
+- By Aleiz21.
 
 cube 343:
 - By ML500.
@@ -1267,6 +1279,9 @@ cube 373:
 cube 374:
 - By AlexisDrawz.
 
+cube 375:
+- By aGold.
+
 cube 376:
 - By Sorao.
 - Just a slight reimagined version of cube 376. In collaboration with cyanflower :)))) had huge help from his part.
@@ -1286,9 +1301,15 @@ cube 379:
 cube 380:
 - By CraZyboy6484.
 
+cube 381:
+- By Aleiz21.
+
 cube 382:
 - By ML500.
 - Pending remake.
+
+cube 383:
+- By Aleiz21.
 
 cube 384:
 - By RetroAdvance64.
@@ -1395,6 +1416,9 @@ cube 415:
 cube 416:
 - By JustHyperCL.
 - Collab with AlexisDrawz.
+
+cube 417:
+- By Aleiz21.
 
 cube 418:
 - By RetroAdvance64.
@@ -1605,9 +1629,6 @@ cube 484:
 cube 485:
 - By cyanflower.
 - Same as Cube 4, but with the original's unique glow gimmick.
-
-ship 1:
-- By Sorao.
 
 ship 2:
 - By KevgenGD.
@@ -1897,6 +1918,9 @@ ship 116:
 - By bugpesto.
 - References the Megashark gun from Terraria.
 
+ship 117:
+- By Dibbj.
+
 ship 118:
 - By bugpesto.
 
@@ -1910,6 +1934,9 @@ ship 122:
 ship 123:
 - By RetroAdvance64.
 - Properly references the "Dragonfolly", a boss enemy from the Calamity Mod for Terraria.
+
+ship 124:
+- By Dibbj.
 
 ship 125:
 - By JustHyperCL.
@@ -2076,7 +2103,8 @@ ball 7:
 - By Sorao.
 
 ball 8:
-- By Sorao.
+- By ML500.
+- Collab with Sorao.
 
 ball 10:
 - By NHJ.
@@ -2290,7 +2318,8 @@ ball 73:
 - By Aleiz21.
 
 ball 74:
-- By Sorao.
+- By ML500.
+- Collab with Sorao. The design based on "Queso", a boss based on a design made by Retro which has became a joke character in this server.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ball_74(1).png)
 
 ball 75:
@@ -2479,6 +2508,9 @@ ufo 13:
 ufo 14:
 - By Aleiz21.
 
+ufo 16:
+- By bugpesto.
+
 ufo 17:
 - By aGold.
 
@@ -2542,6 +2574,9 @@ ufo 37:
 ufo 40:
 - By Hydr4ze.
 
+ufo 41:
+- By Aleiz21.
+
 ufo 42:
 - By ML500.
 - Reference to the "hand holding a gun" meme.
@@ -2603,6 +2638,9 @@ ufo 60:
 - By bugpesto.
 - From old Nintendo to new Nintendo, the evolution is crazy.
 
+ufo 62:
+- By Drian114.
+
 ufo 63:
 - By RetroAdvance64.
 - A direct remake. Fitting with Supernova's modern standards.
@@ -2611,11 +2649,20 @@ ufo 64:
 - By RetroAdvance64.
 - Properly references the Majora's Mask, a demon mask found in TLoZ: Majora's Mask. Interestingly, the UFO id is **64**!.
 
+ufo 65:
+- By Drian114.
+
 ufo 66:
 - By Sharkcrome.
 
 ufo 67:
 - By RetroAdvance64.
+
+ufo 68:
+- By Drian114.
+
+ufo 69:
+- By Drian114.
 
 ufo 70:
 - By RetroAdvance64.
@@ -2702,6 +2749,9 @@ ufo 102:
 - By Drian114.
 - Resembles the look of the average persian cat; a bit squeezed, though.
 
+ufo 103:
+- By aGold.
+
 ufo 104:
 - By NHJ.
 
@@ -2764,10 +2814,6 @@ ufo 139:
 
 ufo 140:
 - By Sharkcrome.
-
-ufo 141:
-- By JustHyperCL.
-- Collab with AlexisDrawz.
 
 ufo 142:
 - By Drian114.
@@ -2844,6 +2890,7 @@ wave 15:
 
 wave 16:
 - By aGold.
+- To remake.
 
 wave 17:
 - By Sharkcrome.
@@ -2908,6 +2955,7 @@ wave 37:
 
 wave 38:
 - By aGold.
+- To remake.
 
 wave 39:
 - By Sharkcrome.
@@ -2918,6 +2966,10 @@ wave 40:
 
 wave 41:
 - By RetroAdvance64.
+
+wave 42:
+- By NHJ.
+- Collab with Electrictaco.
 
 wave 43:
 - By Exetric.
@@ -3187,6 +3239,10 @@ robot 35:
 robot 36:
 - By J3anC4rlo.
 
+robot 37:
+- By Aleiz21.
+- I told u it was gonna be better once it was done.
+
 robot 38:
 - By bugpesto.
 - Reworked the original icon to look more similar to the design of a Mechakoopa from Mario Bros.
@@ -3208,6 +3264,9 @@ robot 44:
 robot 45:
 - By RetroAdvance64.
 - A direct remake to the original robot. References "Monstercat", a mascot featured for the electronic music record label of the same name.
+
+robot 46:
+- By Aleiz21.
 
 robot 47:
 - By RetroAdvance64.
@@ -3336,6 +3395,9 @@ spider 22:
 spider 23:
 - By Aleiz21.
 
+spider 24:
+- By aGold.
+
 spider 25:
 - By bugpesto.
 
@@ -3365,6 +3427,9 @@ spider 39:
 spider 40:
 - By DanKy99.
 
+spider 42:
+- By KevgenGD.
+
 spider 43:
 - By AngelozDD.
 
@@ -3384,6 +3449,9 @@ spider 49:
 
 spider 50:
 - By JigglypuffGD.
+
+spider 51:
+- By Aleiz21.
 
 spider 53:
 - By NHJ.
@@ -3412,6 +3480,9 @@ spider 60:
 
 spider 62:
 - By RetroAdvance64.
+
+spider 64:
+- By Aleiz21.
 
 spider 67:
 - By cyanflower.
@@ -3576,6 +3647,10 @@ jetpack 2:
 
 jetpack 3:
 - By NHJ.
+
+jetpack 5:
+- By electrictaco.
+- Collab with JustHyperCL, RetroAdvance64.
 
 jetpack 6:
 - By Sharkcrome.
