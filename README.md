@@ -1,4 +1,4 @@
-# GD Community Remix Texture Pack (version 1.0.0-alpha)
+# Project Remix Texture Pack (version 1.0.0-alpha)
 Texture pack collab, featuring over 30 people, that took over 3 months to finish.
 Every icon in the game has been remade from scratch in the styles of everyone who participated.
 
@@ -16,7 +16,7 @@ Apparently some people were really insisting on helping with the development cos
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (99 icons, 8 of those being collabs) + 3 collabs
+- Aleiz21              (100 icons, 8 of those being collabs) + 3 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - ML500                (96 icons, 7 of those being collabs) + 3 collabs
@@ -41,17 +41,17 @@ Apparently some people were really insisting on helping with the development cos
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
+- KevgenGD             (61 icons, 1 of those being collabs)
 - Drian114             (61 icons, 3 of those being collabs) + 2 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
-- KevgenGD             (60 icons, 1 of those being collabs)
-- aGold                (42 icons, 2 of those being collabs) + 1 collab
+- CraZyboy6484         (43 icons)
+	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
+- aGold                (43 icons, 2 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
 - JustHyperCL          (41 icons, 13 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- CraZyboy6484         (38 icons)
-	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Sorao                (36 icons, 3 of those being collabs) + 3 collabs
 - J3anC4rlo            (23 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
