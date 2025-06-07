@@ -1,4 +1,4 @@
-# GD Community Remix Texture Pack (version 1.0.0-alpha)
+# Project Remix Texture Pack (version 1.0.0-alpha)
 After over 3 months of work, we present a complete design revamp of every icon in the game. Available in high and medium quality.
 
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
@@ -8,7 +8,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (99 icons, 8 of those being collabs) + 3 collabs
+- Aleiz21              (100 icons, 8 of those being collabs) + 3 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - ML500                (96 icons, 7 of those being collabs) + 3 collabs
@@ -33,17 +33,17 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
+- KevgenGD             (61 icons, 1 of those being collabs)
 - Drian114             (61 icons, 3 of those being collabs) + 2 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
-- KevgenGD             (60 icons, 1 of those being collabs)
-- aGold                (42 icons, 2 of those being collabs) + 1 collab
+- CraZyboy6484         (43 icons)
+	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
+- aGold                (43 icons, 2 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
 - JustHyperCL          (41 icons, 13 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- CraZyboy6484         (38 icons)
-	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Sorao                (36 icons, 3 of those being collabs) + 3 collabs
 - J3anC4rlo            (23 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
@@ -546,6 +546,9 @@ cube 142:
 cube 143:
 - By TheRare5.
 
+cube 144:
+- By KevgenGD.
+
 cube 145:
 - By Sorao.
 
@@ -805,6 +808,9 @@ cube 221:
 
 cube 222:
 - By JigglypuffGD.
+
+cube 223:
+- By CraZyboy6484.
 
 cube 224:
 - By aGold.
@@ -1770,6 +1776,9 @@ ship 51:
 - By electrictaco.
 - Collab with JustHyperCL.
 
+ship 53:
+- By KevgenGD.
+
 ship 54:
 - By RetroAdvance64.
 - A fun twist from its original design to give a more futuristic bike appearance.
@@ -1850,6 +1859,13 @@ ship 87:
 ship 88:
 - By bugpesto.
 - Can I haz chezburger plx.
+
+ship 89:
+- By CraZyboy6484.
+- References the Mr Beast logo.
+
+ship 90:
+- By CraZyboy6484.
 
 ship 92:
 - By RetroAdvance64.
@@ -2186,7 +2202,6 @@ ball 34:
 
 ball 35:
 - By Aleiz21.
-- ![reference_image_1](https://media.discordapp.net/attachments/862821634870870096/1380119925879865374/image.png?ex=6842b857&is=684166d7&hm=2fd439e7cfb75ed0b3ceb1b49ea04df09098e79e8e86dab86fd2e9489da5fb38&=&format=webp&quality=lossless&width=318&height=298)
 
 ball 36:
 - By Hydr4ze.
@@ -2391,7 +2406,6 @@ ball 94:
 
 ball 95:
 - By Aleiz21.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ball_95(1).png)
 
 ball 96:
 - By Hydr4ze.
@@ -2545,7 +2559,6 @@ ufo 28:
 
 ufo 29:
 - By Aleiz21.
-- ![reference_image_1](https://media.discordapp.net/attachments/862821634870870096/1380121414622777394/image.png?ex=6842b9ba&is=6841683a&hm=eb131db1f762fbe7db40b641cba06c925caa2f399732abdc81159034e5fdbc73&=&format=webp&quality=lossless&width=368&height=311)
 
 ufo 31:
 - By cyanflower.
@@ -2718,7 +2731,6 @@ ufo 87:
 
 ufo 90:
 - By Aleiz21.
-- ![reference_image_1](https://media.discordapp.net/attachments/862821634870870096/1380122265836064888/image.png?ex=6842ba85&is=68416905&hm=310aa6abc91178bd9752a596d422d1429aefb71d123e075be4c1cb603ccf5c0d&=&format=webp&quality=lossless&width=164&height=65)
 
 ufo 91:
 - By ML500.
@@ -2788,6 +2800,9 @@ ufo 121:
 - By electrictaco.
 - Based on the transition art in the level 'Waterfall' by cherryteam.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_121(1).png)
+
+ufo 122:
+- By CraZyboy6484.
 
 ufo 123:
 - By KevgenGD.
@@ -2989,7 +3004,6 @@ wave 47:
 
 wave 48:
 - By Aleiz21.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_48(1).png)
 
 wave 49:
 - By JustHyperCL.
@@ -3014,6 +3028,9 @@ wave 56:
 
 wave 57:
 - By ML500.
+
+wave 58:
+- By Th3Angel0ffic3.
 
 wave 59:
 - By RetroAdvance64.
@@ -3635,7 +3652,6 @@ swing 41:
 
 swing 42:
 - By Aleiz21.
-- ![reference_image_1](https://media.discordapp.net/attachments/862821634870870096/1380125815832051786/image.png?ex=6842bdd3&is=68416c53&hm=184cdf80ffd9b5ad94536ca030340f680192407534b361c43ad7e388a3f1c641&=&format=webp&quality=lossless&width=295&height=273)
 
 swing 43:
 - By JigglypuffGD.
@@ -3661,4 +3677,3 @@ jetpack 7:
 
 jetpack 8:
 - By Aleiz21.
-- ![reference_image_1](https://media.discordapp.net/attachments/862821634870870096/1380126344024821870/image.png?ex=6842be51&is=68416cd1&hm=fc961ce937371d18461561437250b931e0793209d61b86e11659837e7ec0d332&=&format=webp&quality=lossless&width=350&height=288)
