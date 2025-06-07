@@ -39,7 +39,7 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{1,0}</string>
 				<key>spriteSize</key>
 				<string>{138,117}</string>
 				<key>spriteSourceSize</key>
