@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-0.2,0}</string>
+			<string>{-1.2,-0.2}</string>
 			<key>spriteSize</key>
-			<string>{67,67}</string>
+			<string>{75,72}</string>
 			<key>spriteSourceSize</key>
-			<string>{71,71}</string>
+			<string>{79,76}</string>
 			<key>textureRect</key>
-			<string>{{75,2},{67,67}}</string>
+			<string>{{80,2},{75,72}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0.5}</string>
+			<string>{0.8,1.2}</string>
 			<key>spriteSize</key>
-			<string>{61,60}</string>
+			<string>{66,65}</string>
 			<key>spriteSourceSize</key>
-			<string>{71,71}</string>
+			<string>{79,76}</string>
 			<key>textureRect</key>
-			<string>{{144,2},{61,60}}</string>
+			<string>{{154,2},{66,65}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -39,13 +39,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-0.5,4.5}</string>
+			<string>{0,4.5}</string>
 			<key>spriteSize</key>
-			<string>{55,52}</string>
+			<string>{62,57}</string>
 			<key>spriteSourceSize</key>
-			<string>{71,71}</string>
+			<string>{79,76}</string>
 			<key>textureRect</key>
-			<string>{{75,71},{55,52}}</string>
+			<string>{{154,69},{62,57}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -54,13 +54,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-0.2,0}</string>
+			<string>{-1.2,-0.2}</string>
 			<key>spriteSize</key>
-			<string>{71,71}</string>
+			<string>{79,76}</string>
 			<key>spriteSourceSize</key>
-			<string>{71,71}</string>
+			<string>{79,76}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{71,71}}</string>
+			<string>{{2,2},{79,76}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -76,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/player_ball_110-hd.png</string>
 		<key>size</key>
-		<string>{256,128}</string>
+		<string>{256,256}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
