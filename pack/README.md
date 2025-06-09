@@ -11,7 +11,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - Aleiz21              (100 icons, 8 of those being collabs) + 3 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- ML500                (96 icons, 7 of those being collabs) + 3 collabs
+- ML500                (99 icons, 8 of those being collabs) + 3 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
@@ -33,18 +33,18 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- KevgenGD             (61 icons, 1 of those being collabs)
-- Drian114             (61 icons, 3 of those being collabs) + 2 collabs
+- Drian114             (63 icons, 3 of those being collabs) + 2 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
+- KevgenGD             (61 icons, 1 of those being collabs)
 - CraZyboy6484         (43 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - aGold                (43 icons, 2 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
 - JustHyperCL          (41 icons, 13 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (36 icons, 3 of those being collabs) + 3 collabs
+- Sorao                (34 icons, 3 of those being collabs) + 3 collabs
 - J3anC4rlo            (23 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
@@ -52,11 +52,11 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
+- electrictaco         (20 icons, 3 of those being collabs) + 4 collabs
 - AlexisDrawz          (18 icons, 6 of those being collabs) + 11 collabs
 - AngelozDD            (19 icons, 1 of those being collabs) + 3 collabs
-- electrictaco         (19 icons, 3 of those being collabs) + 4 collabs
 - Hydr4ze              (20 icons, 1 of those being collabs)
-- Dibbj                (14 icons) + 2 collabs
+- Dibbj                (13 icons) + 3 collabs
 - Exetric              (12 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
@@ -180,6 +180,9 @@ cube 28:
 
 cube 29:
 - By RetroAdvance64.
+
+cube 30:
+- By aGold.
 
 cube 31:
 - By Sharkcrome.
@@ -700,6 +703,7 @@ cube 187:
 cube 188:
 - By ML500.
 - Design heavily based on the Minecraft skin of the Argentinian youtuber "Farfadox".
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1381249010307694592/image.png?ex=6846d3e2&is=68458262&hm=bf576d64f274455ac79e540a4375315b5fa6519ece25e4b979bd86c5295fd80c&=&format=webp&quality=lossless&width=424&height=248)
 
 cube 189:
 - By bugpesto.
@@ -1796,6 +1800,17 @@ ship 57:
 ship 59:
 - By Hydr4ze.
 
+ship 62:
+- By CraZyboy6484.
+
+ship 63:
+- By cyanflower.
+- Collab with ML500.
+
+ship 64:
+- By JustHyperCL.
+- Golden scar from Fortnite. Collab with RetroAdvance64.
+
 ship 65:
 - By RetroAdvance64.
 - Enough pointing at. Now gives the blow.
@@ -1918,6 +1933,9 @@ ship 110:
 ship 111:
 - By bugpesto.
 
+ship 112:
+- By CraZyboy6484.
+
 ship 113:
 - By RetroAdvance64.
 - A direct remake to the original Ship.
@@ -1943,6 +1961,10 @@ ship 118:
 ship 119:
 - By RetroAdvance64.
 - A direct remake to the original Ship. A more clean and modernized version of the idea that in retrospect, it was poorly implemented.
+
+ship 121:
+- By ML500.
+- Collab with Dibbj.
 
 ship 122:
 - By Luar77.
@@ -2050,6 +2072,9 @@ ship 152:
 
 ship 153:
 - By TheRare5.
+
+ship 154:
+- By CraZyboy6484.
 
 ship 155:
 - By NHJ.
@@ -2509,6 +2534,9 @@ ufo 8:
 ufo 9:
 - By Sorao.
 
+ufo 10:
+- By DreamsTT.
+
 ufo 11:
 - By Sharkcrome.
 
@@ -2583,6 +2611,10 @@ ufo 36:
 
 ufo 37:
 - By Aleiz21.
+
+ufo 38:
+- By Dibbj.
+- Collaboration with Aleiz21.
 
 ufo 40:
 - By Hydr4ze.
@@ -2724,7 +2756,7 @@ ufo 84:
 - By ML500.
 
 ufo 86:
-- By Luar77.
+- By ML500.
 
 ufo 87:
 - By KevgenGD.
@@ -2844,6 +2876,9 @@ ufo 144:
 ufo 145:
 - By cyanflower.
 
+ufo 146:
+- By ML500.
+
 ufo 147:
 - By aGold.
 
@@ -2905,7 +2940,7 @@ wave 15:
 
 wave 16:
 - By aGold.
-- To remake.
+- Dahs obr from jomtri dahs.
 
 wave 17:
 - By Sharkcrome.
@@ -2970,7 +3005,6 @@ wave 37:
 
 wave 38:
 - By aGold.
-- To remake.
 
 wave 39:
 - By Sharkcrome.
@@ -3090,6 +3124,10 @@ wave 75:
 wave 76:
 - By Drian114.
 
+wave 77:
+- By cyanflower.
+- Occult.
+
 wave 78:
 - By Drian114.
 
@@ -3207,6 +3245,9 @@ robot 17:
 
 robot 18:
 - By ML500.
+
+robot 19:
+- By aGold.
 
 robot 21:
 - By RetroAdvance64.
@@ -3386,6 +3427,9 @@ spider 13:
 
 spider 14:
 - By Luar77.
+
+spider 15:
+- By electrictaco.
 
 spider 16:
 - By KevgenGD.
