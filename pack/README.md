@@ -27,25 +27,25 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (74 icons, 2 of those being collabs) + 2 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- NHJ                  (73 icons, 2 of those being collabs) + 3 collabs
+- NHJ                  (72 icons, 2 of those being collabs) + 3 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - bugpesto             (68 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- Drian114             (63 icons, 3 of those being collabs) + 2 collabs
+- Drian114             (65 icons, 3 of those being collabs) + 2 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
 - KevgenGD             (61 icons, 1 of those being collabs)
-- aGold                (44 icons, 2 of those being collabs) + 1 collab
+- aGold                (46 icons, 2 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
 - CraZyboy6484         (43 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (41 icons, 13 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (34 icons, 3 of those being collabs) + 3 collabs
-- J3anC4rlo            (23 icons, 1 of those being collabs) + 1 collab
+- J3anC4rlo            (22 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - AlexanderX1ta        (22 icons, 1 of those being collabs) + 1 collab
@@ -56,7 +56,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - AlexisDrawz          (18 icons, 6 of those being collabs) + 11 collabs
 - AngelozDD            (19 icons, 1 of those being collabs) + 3 collabs
 - Hydr4ze              (20 icons, 1 of those being collabs)
-- Dibbj                (13 icons) + 3 collabs
+- Dibbj                (14 icons) + 3 collabs
 - Exetric              (12 icons) + 1 collab
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
@@ -1102,6 +1102,9 @@ cube 312:
 cube 313:
 - By NHJ.
 
+cube 314:
+- By ML500.
+
 cube 315:
 - By ML500.
 - Design based on A-60 from Rooms/Doors (Roblox).
@@ -1809,7 +1812,7 @@ ship 63:
 
 ship 64:
 - By JustHyperCL.
-- Golden scar from Fortnite. Collab with RetroAdvance64.
+- REMINDER: WILL ADD SHADING SOON OK.
 
 ship 65:
 - By RetroAdvance64.
@@ -2161,9 +2164,6 @@ ball 13:
 
 ball 14:
 - By bugpesto.
-
-ball 15:
-- By J3anC4rlo.
 
 ball 16:
 - By cyanflower.
@@ -2779,6 +2779,10 @@ ufo 94:
 ufo 95:
 - By Aleiz21.
 
+ufo 96:
+- By bugpesto.
+- References the prominently present symbol in "Deltarune" by Toby Fox.
+
 ufo 98:
 - By Dibbj.
 - Reshaped with a sharper and more menacing look.
@@ -3249,6 +3253,9 @@ robot 18:
 robot 19:
 - By aGold.
 
+robot 20:
+- By ML500.
+
 robot 21:
 - By RetroAdvance64.
 - Despite featuring no resemblance to the original robot, the twist is switching the robot duo from Guy-Manuel to Thomas, both from Daft Punk.
@@ -3388,6 +3395,9 @@ robot 65:
 robot 66:
 - By ML500.
 
+robot 67:
+- By ML500.
+
 robot 68:
 - By bugpesto.
 - Reworked the original icon to look more similar to the base design of a Bob-omb.
@@ -3468,6 +3478,10 @@ spider 26:
 spider 27:
 - By cyanflower.
 - This spider’s redesign is in reference to the boss Core from the originally freeware game “Cave Story”. This redesign is based on the Labyrinth boss rather than the rematch as Undead Core, which the original spider was based on (and then changed by RobTop to use a Cube face rather than the original’s direct replica of the original face).
+
+spider 29:
+- By Sharkcrome.
+- High Tech Speeding Camera With Built-In Tracker.
 
 spider 33:
 - By ML500.
@@ -3707,6 +3721,11 @@ jetpack 2:
 
 jetpack 3:
 - By NHJ.
+
+jetpack 4:
+- By Luar77.
+- Based on the character V1 from Ultrakill.
+- ![reference_image_1](https://media.discordapp.net/attachments/824435035347615777/1381585911585968178/1024px-Concept_v1_ortho_armless.png?ex=68480da5&is=6846bc25&hm=12cf1481ec2e7f40a58a6506c52c1d491f2b6754182aa0a478b7359e284fb3ef&=&format=webp&quality=lossless&width=1126&height=930)
 
 jetpack 5:
 - By electrictaco.
