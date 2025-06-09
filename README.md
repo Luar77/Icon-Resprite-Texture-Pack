@@ -46,10 +46,10 @@ Apparently some people were really insisting on helping with the development cos
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
 - KevgenGD             (61 icons, 1 of those being collabs)
+- aGold                (44 icons, 2 of those being collabs) + 1 collab
+	- https://agold.is-a.dev
 - CraZyboy6484         (43 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- aGold                (43 icons, 2 of those being collabs) + 1 collab
-	- https://agold.is-a.dev
 - JustHyperCL          (41 icons, 13 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (34 icons, 3 of those being collabs) + 3 collabs
