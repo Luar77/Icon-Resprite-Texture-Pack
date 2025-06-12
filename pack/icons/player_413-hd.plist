@@ -39,15 +39,15 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,15.8}</string>
+			<string>{0,-0.2}</string>
 			<key>spriteSize</key>
-			<string>{46,20}</string>
+			<string>{58,53}</string>
 			<key>spriteSourceSize</key>
 			<string>{70,66}</string>
 			<key>textureRect</key>
-			<string>{{2,74},{46,20}}</string>
+			<string>{{132,70},{58,53}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>player_413_glow_001.png</key>
 		<dict>
