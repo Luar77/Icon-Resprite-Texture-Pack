@@ -11,11 +11,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{120,120}</string>
+				<string>{121,121}</string>
 				<key>spriteSourceSize</key>
-				<string>{120,120}</string>
+				<string>{121,121}</string>
 				<key>textureRect</key>
-				<string>{{129,0},{120,120}}</string>
+				<string>{{130,0},{121,121}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -26,13 +26,13 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{106,101}</string>
+				<string>{103,113}</string>
 				<key>spriteSourceSize</key>
-				<string>{106,101}</string>
+				<string>{103,113}</string>
 				<key>textureRect</key>
-				<string>{{0,129},{106,101}}</string>
+				<string>{{0,130},{103,113}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>player_133_extra_001.png</key>
 			<dict>
@@ -41,11 +41,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{103,103}</string>
+				<string>{110,110}</string>
 				<key>spriteSourceSize</key>
-				<string>{103,103}</string>
+				<string>{110,110}</string>
 				<key>textureRect</key>
-				<string>{{129,121},{103,103}}</string>
+				<string>{{130,122},{110,110}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{128,128}</string>
+				<string>{129,129}</string>
 				<key>spriteSourceSize</key>
-				<string>{128,128}</string>
+				<string>{129,129}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{128,128}}</string>
+				<string>{{0,0},{129,129}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_133-uhd.png</string>
 			<key>size</key>
-			<string>{249,230}</string>
+			<string>{251,233}</string>
 			<key>textureFileName</key>
 			<string>icons/player_133-uhd.png</string>
 		</dict>
