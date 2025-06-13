@@ -12,19 +12,19 @@ Apparently some people were really insisting on helping with the development cos
 - JigglypuffGD ($20 donation)
 
 ## Contributors
-- RetroAdvance64       (126 icons, 3 of those being collabs) + 12 collabs
+- RetroAdvance64       (127 icons, 3 of those being collabs) + 12 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (101 icons, 8 of those being collabs) + 4 collabs
-	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
-	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- ML500                (100 icons, 8 of those being collabs) + 3 collabs
+- ML500                (104 icons, 8 of those being collabs) + 3 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- JigglypuffGD         (79 icons, 6 of those being collabs) + 2 collabs
+- Aleiz21              (103 icons, 8 of those being collabs) + 4 collabs
+	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
+	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
+- JigglypuffGD         (80 icons, 6 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - cyanflower           (75 icons, 2 of those being collabs) + 2 collabs
@@ -32,40 +32,40 @@ Apparently some people were really insisting on helping with the development cos
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
 - NHJ                  (74 icons, 2 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- Sharkcrome           (73 icons, 1 of those being collabs) + 2 collabs
+- Sharkcrome           (71 icons, 1 of those being collabs) + 2 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- Drian114             (70 icons, 3 of those being collabs) + 3 collabs
-	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
-	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
-	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
 - bugpesto             (70 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- KevgenGD             (59 icons, 2 of those being collabs)
-- aGold                (48 icons, 2 of those being collabs) + 1 collab
+- Drian114             (69 icons, 3 of those being collabs) + 4 collabs
+	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
+	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
+	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
+- KevgenGD             (59 icons, 2 of those being collabs) + 1 collab
+- aGold                (49 icons, 2 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
-- CraZyboy6484         (43 icons)
+- CraZyboy6484         (42 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- JustHyperCL          (42 icons, 11 of those being collabs) + 8 collabs
+- JustHyperCL          (40 icons, 11 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (37 icons, 4 of those being collabs) + 3 collabs
+- Sorao                (35 icons, 4 of those being collabs) + 3 collabs
 - AlexanderX1ta        (22 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - AlexisDrawz          (18 icons, 6 of those being collabs) + 12 collabs
-- electrictaco         (19 icons, 4 of those being collabs) + 5 collabs
-- AngelozDD            (18 icons, 1 of those being collabs) + 3 collabs
-- Hydr4ze              (18 icons, 1 of those being collabs)
+- electrictaco         (20 icons, 5 of those being collabs) + 5 collabs
+- AngelozDD            (19 icons, 1 of those being collabs) + 3 collabs
 - J3anC4rlo            (17 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- Dibbj                (15 icons, 1 of those being collabs) + 3 collabs
-- DreamsTT             (14 icons, 1 of those being collabs)
+- Hydr4ze              (17 icons, 1 of those being collabs)
+- Dibbj                (14 icons, 1 of those being collabs) + 3 collabs
+- KetsuTT              (14 icons, 1 of those being collabs)
 - Exetric              (12 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
