@@ -11,11 +11,11 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{60,60}</string>
+			<string>{61,61}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,64}</string>
+			<string>{65,65}</string>
 			<key>textureRect</key>
-			<string>{{68,2},{60,60}}</string>
+			<string>{{69,2},{61,61}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -26,13 +26,13 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{53,51}</string>
+			<string>{52,57}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,64}</string>
+			<string>{65,65}</string>
 			<key>textureRect</key>
-			<string>{{2,68},{53,51}}</string>
+			<string>{{69,65},{52,57}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>player_133_extra_001.png</key>
 		<dict>
@@ -41,11 +41,11 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{52,52}</string>
+			<string>{55,55}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,64}</string>
+			<string>{65,65}</string>
 			<key>textureRect</key>
-			<string>{{55,68},{52,52}}</string>
+			<string>{{2,69},{55,55}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -56,11 +56,11 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{64,64}</string>
+			<string>{65,65}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,64}</string>
+			<string>{65,65}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{64,64}}</string>
+			<string>{{2,2},{65,65}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
