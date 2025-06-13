@@ -4,19 +4,19 @@ After over 3 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (126 icons, 3 of those being collabs) + 12 collabs
+- RetroAdvance64       (127 icons, 3 of those being collabs) + 12 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (101 icons, 8 of those being collabs) + 4 collabs
-	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
-	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- ML500                (100 icons, 8 of those being collabs) + 3 collabs
+- ML500                (104 icons, 8 of those being collabs) + 3 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- JigglypuffGD         (79 icons, 6 of those being collabs) + 2 collabs
+- Aleiz21              (103 icons, 8 of those being collabs) + 4 collabs
+	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
+	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
+- JigglypuffGD         (80 icons, 6 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - cyanflower           (75 icons, 2 of those being collabs) + 2 collabs
@@ -24,40 +24,40 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
 - NHJ                  (74 icons, 2 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- Sharkcrome           (73 icons, 1 of those being collabs) + 2 collabs
+- Sharkcrome           (71 icons, 1 of those being collabs) + 2 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- Drian114             (70 icons, 3 of those being collabs) + 3 collabs
-	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
-	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
-	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
 - bugpesto             (70 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- KevgenGD             (59 icons, 2 of those being collabs)
-- aGold                (48 icons, 2 of those being collabs) + 1 collab
+- Drian114             (69 icons, 3 of those being collabs) + 4 collabs
+	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
+	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
+	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
+- KevgenGD             (59 icons, 2 of those being collabs) + 1 collab
+- aGold                (49 icons, 2 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
-- CraZyboy6484         (43 icons)
+- CraZyboy6484         (42 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- JustHyperCL          (42 icons, 11 of those being collabs) + 8 collabs
+- JustHyperCL          (40 icons, 11 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (37 icons, 4 of those being collabs) + 3 collabs
+- Sorao                (35 icons, 4 of those being collabs) + 3 collabs
 - AlexanderX1ta        (22 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - AlexisDrawz          (18 icons, 6 of those being collabs) + 12 collabs
-- electrictaco         (19 icons, 4 of those being collabs) + 5 collabs
-- AngelozDD            (18 icons, 1 of those being collabs) + 3 collabs
-- Hydr4ze              (18 icons, 1 of those being collabs)
+- electrictaco         (20 icons, 5 of those being collabs) + 5 collabs
+- AngelozDD            (19 icons, 1 of those being collabs) + 3 collabs
 - J3anC4rlo            (17 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- Dibbj                (15 icons, 1 of those being collabs) + 3 collabs
-- DreamsTT             (14 icons, 1 of those being collabs)
+- Hydr4ze              (17 icons, 1 of those being collabs)
+- Dibbj                (14 icons, 1 of those being collabs) + 3 collabs
+- KetsuTT              (14 icons, 1 of those being collabs)
 - Exetric              (12 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
@@ -195,6 +195,9 @@ cube 33:
 
 cube 34:
 - By Sharkcrome.
+
+cube 35:
+- By Drian114.
 
 cube 36:
 - By NHJ.
@@ -526,6 +529,9 @@ cube 137:
 - By AlexisDrawz.
 - It is based on the character/OC of "DanyCactus" a star/demongrinder and creator levels from GD and the GD Cuban Community!.
 
+cube 138:
+- By Hydr4ze.
+
 cube 139:
 - By aGold.
 
@@ -639,10 +645,10 @@ cube 171:
 - Frankie Stein from mh.
 
 cube 172:
-- By DreamsTT.
+- By KetsuTT.
 
 cube 173:
-- By DreamsTT.
+- By KetsuTT.
 
 cube 174:
 - By Drian114.
@@ -670,7 +676,7 @@ cube 180:
 - By RetroAdvance64.
 
 cube 181:
-- By DreamsTT.
+- By KetsuTT.
 
 cube 182:
 - By bugpesto.
@@ -683,7 +689,7 @@ cube 184:
 - By Aleiz21.
 
 cube 185:
-- By DreamsTT.
+- By KetsuTT.
 - <reference to Metal Slug grenade-launching robot>.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_185(1).png)
 
@@ -782,6 +788,9 @@ cube 211:
 cube 213:
 - By ML500.
 
+cube 215:
+- By CraZyboy6484.
+
 cube 216:
 - By Drian114.
 
@@ -852,7 +861,7 @@ cube 237:
 - This cube's redesign is in reference to the character Isaac from famous roguelike indie game "The Binding of Isaac". The tears on this cube's eyes are directly based off the original cube's tears, instead of the flat downwards design usually incorporated with Isaac.
 
 cube 238:
-- By DreamsTT.
+- By KetsuTT.
 
 cube 239:
 - By JigglypuffGD.
@@ -907,7 +916,6 @@ cube 253:
 
 cube 254:
 - By Aleiz21.
-- Remake needed.
 
 cube 255:
 - By AlexanderX1ta.
@@ -918,9 +926,6 @@ cube 256:
 
 cube 257:
 - By Aleiz21.
-
-cube 258:
-- By JustHyperCL.
 
 cube 259:
 - By JigglypuffGD.
@@ -1625,6 +1630,9 @@ cube 476:
 cube 477:
 - By aGold.
 
+cube 478:
+- By aGold.
+
 cube 479:
 - By cyanflower.
 - A basic redesign of the original cube, keeping the general elements present with a symmetrical spin. The cube's mouth is also now open.
@@ -1769,6 +1777,9 @@ ship 40:
 ship 41:
 - By Sharkcrome.
 
+ship 42:
+- By Aleiz21.
+
 ship 43:
 - By ML500.
 
@@ -1831,12 +1842,20 @@ ship 66:
 ship 67:
 - By RetroAdvance64.
 
+ship 69:
+- By Drian114.
+- Direct reference to the fish emoji from discord. It's just a bit stretched, that's all 🐟.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_69(1).png)
+
 ship 70:
 - By KevgenGD.
 - Collab with electrictaco.
 
 ship 71:
 - By RetroAdvance64.
+
+ship 72:
+- By aGold.
 
 ship 73:
 - By RetroAdvance64.
@@ -2201,6 +2220,9 @@ ball 19:
 ball 20:
 - By NHJ.
 
+ball 22:
+- By aGold.
+
 ball 23:
 - By JigglypuffGD.
 
@@ -2475,7 +2497,7 @@ ball 104:
 - By ML500.
 
 ball 105:
-- By DreamsTT.
+- By KetsuTT.
 
 ball 106:
 - By cyanflower.
@@ -2508,6 +2530,9 @@ ball 114:
 
 ball 115:
 - By Sorao.
+
+ball 116:
+- By ML500.
 
 ball 117:
 - By KevgenGD.
@@ -2545,7 +2570,7 @@ ufo 9:
 - By Sorao.
 
 ufo 10:
-- By DreamsTT.
+- By KetsuTT.
 
 ufo 11:
 - By Sharkcrome.
@@ -2588,6 +2613,10 @@ ufo 24:
 
 ufo 25:
 - By CraZyboy6484.
+
+ufo 26:
+- By ML500.
+- Collab with AlexisDrawz. STILL subject to changes.
 
 ufo 27:
 - By KevgenGD.
@@ -2644,6 +2673,10 @@ ufo 44:
 - References the crown phase of the Boss in the "Just Shapes & Beats" game
 the level with the **Nitro Fun - Final Boss** song.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1380291414122037258/Untitled238_20250601191747.png?ex=6843580d&is=6842068d&hm=2082ab754d8726dae11362726283bac3962d574ea76d87de89078415dd1cf80e&=&format=webp&quality=lossless&width=930&height=930)
+
+ufo 45:
+- By Sharkcrome.
+- Takes inspiration from an old artwork by Sharkcrome titled "Circular Claymore".
 
 ufo 46:
 - By JigglypuffGD.
@@ -2793,6 +2826,9 @@ ufo 96:
 - By bugpesto.
 - References the prominently present symbol in "Deltarune" by Toby Fox.
 
+ufo 97:
+- By electrictaco.
+
 ufo 98:
 - By Dibbj.
 - Reshaped with a sharper and more menacing look.
@@ -2821,6 +2857,9 @@ ufo 106:
 
 ufo 108:
 - By AlexanderX1ta.
+
+ufo 109:
+- By bugpesto.
 
 ufo 111:
 - By Drian114.
@@ -2862,6 +2901,12 @@ ufo 123:
 ufo 124:
 - By Aleiz21.
 
+ufo 128:
+- By CraZyboy6484.
+
+ufo 131:
+- By Drian114.
+
 ufo 133:
 - By electrictaco.
 
@@ -2876,8 +2921,13 @@ ufo 137:
 - By bugpesto.
 - References parts of a car engine. Not so car-like, but engine enough.
 
+ufo 138:
+- By ML500.
+- Design heavily based on a demon skull artwork shown in "The Apocalyptic Trilogy" by APTeam.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_138(1).png)
+
 ufo 139:
-- By DreamsTT.
+- By KetsuTT.
 
 ufo 140:
 - By Sharkcrome.
@@ -3023,9 +3073,6 @@ wave 36:
 wave 37:
 - By Aleiz21.
 
-wave 38:
-- By aGold.
-
 wave 39:
 - By Sharkcrome.
 - Screw This Wave.
@@ -3054,7 +3101,7 @@ wave 46:
 - By ML500.
 
 wave 47:
-- By JustHyperCL.
+- By ML500.
 
 wave 48:
 - By Aleiz21.
@@ -3250,9 +3297,6 @@ robot 12:
 - By JigglypuffGD.
 - <a:eyeswtf:761656988450422834>.
 
-robot 13:
-- By CraZyboy6484.
-
 robot 15:
 - By RetroAdvance64.
 
@@ -3326,7 +3370,7 @@ robot 38:
 - Reworked the original icon to look more similar to the design of a Mechakoopa from Mario Bros.
 
 robot 39:
-- By DreamsTT.
+- By KetsuTT.
 
 robot 41:
 - By Drian114.
@@ -3348,7 +3392,7 @@ robot 47:
 - A direct remake to the original Robot.
 
 robot 48:
-- By DreamsTT.
+- By KetsuTT.
 
 robot 49:
 - By RetroAdvance64.
@@ -3386,7 +3430,7 @@ robot 58:
 - By KevgenGD.
 
 robot 59:
-- By DreamsTT.
+- By KetsuTT.
 
 robot 60:
 - By electrictaco.
@@ -3516,6 +3560,9 @@ spider 39:
 spider 40:
 - By DanKy99.
 
+spider 41:
+- By aGold.
+
 spider 42:
 - By KevgenGD.
 
@@ -3546,7 +3593,7 @@ spider 53:
 - By NHJ.
 
 spider 54:
-- By DreamsTT.
+- By KetsuTT.
 - The spider is a remix of the original and has an Egyptian theme, in this case I collaborated with RetroAdvance64. Thank you for helping me with this bro.
 
 spider 55:
@@ -3648,7 +3695,7 @@ swing 17:
 - Reference to an original character from Luar77.
 
 swing 18:
-- By DreamsTT.
+- By KetsuTT.
 
 swing 19:
 - By NHJ.
