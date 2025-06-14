@@ -1802,6 +1802,9 @@ ship 51:
 - By electrictaco.
 - Collab with JustHyperCL.
 
+ship 52:
+- By ML500.
+
 ship 53:
 - By KevgenGD.
 
@@ -1841,6 +1844,9 @@ ship 66:
 
 ship 67:
 - By RetroAdvance64.
+
+ship 68:
+- By ML500.
 
 ship 69:
 - By Drian114.
@@ -2677,6 +2683,7 @@ the level with the **Nitro Fun - Final Boss** song.
 ufo 45:
 - By Sharkcrome.
 - Takes inspiration from an old artwork by Sharkcrome titled "Circular Claymore".
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1383208584631816282/Untitled312_20201222071400.png?ex=684df4e1&is=684ca361&hm=8de4aee358e8c68b2dc0928fe66f48359263b6016a07e5debb1499e36dfebecb&=&format=webp&quality=lossless&width=930&height=930)
 
 ufo 46:
 - By JigglypuffGD.
