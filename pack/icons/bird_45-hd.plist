@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,2.5}</string>
 			<key>spriteSize</key>
-			<string>{78,45}</string>
+			<string>{78,44}</string>
 			<key>spriteSourceSize</key>
-			<string>{82,76}</string>
+			<string>{82,73}</string>
 			<key>textureRect</key>
-			<string>{{53,2},{78,45}}</string>
+			<string>{{53,2},{78,44}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,2.5}</string>
 			<key>spriteSize</key>
-			<string>{66,32}</string>
+			<string>{68,34}</string>
 			<key>spriteSourceSize</key>
-			<string>{82,76}</string>
+			<string>{82,73}</string>
 			<key>textureRect</key>
-			<string>{{2,86},{66,32}}</string>
+			<string>{{2,86},{68,34}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -39,13 +39,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,21}</string>
+			<string>{0,21.25}</string>
 			<key>spriteSize</key>
 			<string>{60,60}</string>
 			<key>spriteSourceSize</key>
-			<string>{82,76}</string>
+			<string>{82,73}</string>
 			<key>textureRect</key>
-			<string>{{100,2},{60,60}}</string>
+			<string>{{99,2},{60,60}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -54,13 +54,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,2.25}</string>
+			<string>{0,4.75}</string>
 			<key>spriteSize</key>
 			<string>{64,37}</string>
 			<key>spriteSourceSize</key>
-			<string>{82,76}</string>
+			<string>{82,73}</string>
 			<key>textureRect</key>
-			<string>{{70,82},{64,37}}</string>
+			<string>{{72,82},{64,37}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -69,11 +69,11 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,2.5}</string>
 			<key>spriteSize</key>
 			<string>{82,49}</string>
 			<key>spriteSourceSize</key>
-			<string>{82,76}</string>
+			<string>{82,73}</string>
 			<key>textureRect</key>
 			<string>{{2,2},{82,49}}</string>
 			<key>textureRotated</key>
