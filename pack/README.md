@@ -4,25 +4,25 @@ After over 3 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (127 icons, 3 of those being collabs) + 12 collabs
+- RetroAdvance64       (127 icons, 3 of those being collabs) + 14 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
+- Aleiz21              (104 icons, 8 of those being collabs) + 4 collabs
+	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
+	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - ML500                (104 icons, 8 of those being collabs) + 3 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- Aleiz21              (103 icons, 8 of those being collabs) + 4 collabs
-	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
-	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - JigglypuffGD         (80 icons, 6 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- cyanflower           (75 icons, 2 of those being collabs) + 2 collabs
+- cyanflower           (74 icons, 2 of those being collabs) + 2 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- NHJ                  (74 icons, 2 of those being collabs) + 4 collabs
+- NHJ                  (73 icons, 2 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - Sharkcrome           (71 icons, 1 of those being collabs) + 2 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
@@ -33,30 +33,30 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- Drian114             (69 icons, 3 of those being collabs) + 4 collabs
+- Drian114             (69 icons, 4 of those being collabs) + 4 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
 - KevgenGD             (59 icons, 2 of those being collabs) + 1 collab
-- aGold                (49 icons, 2 of those being collabs) + 1 collab
+- aGold                (49 icons, 4 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
 - CraZyboy6484         (42 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- JustHyperCL          (40 icons, 11 of those being collabs) + 8 collabs
+- JustHyperCL          (40 icons, 12 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (35 icons, 4 of those being collabs) + 3 collabs
 - AlexanderX1ta        (22 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- AlexisDrawz          (18 icons, 6 of those being collabs) + 12 collabs
 - electrictaco         (20 icons, 5 of those being collabs) + 5 collabs
-- AngelozDD            (19 icons, 1 of those being collabs) + 3 collabs
+- AlexisDrawz          (17 icons, 6 of those being collabs) + 12 collabs
+- AngelozDD            (17 icons, 1 of those being collabs) + 3 collabs
 - J3anC4rlo            (17 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- Hydr4ze              (17 icons, 1 of those being collabs)
-- Dibbj                (14 icons, 1 of those being collabs) + 3 collabs
+- Hydr4ze              (16 icons, 1 of those being collabs)
+- Dibbj                (14 icons, 1 of those being collabs) + 4 collabs
 - KetsuTT              (14 icons, 1 of those being collabs)
 - Exetric              (12 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
@@ -74,7 +74,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - DanKy99              (4 icons)
 - KazooTheCat          (1 icon) + 2 collabs
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
-- airiLmao              + 2 collabs
+- airiLmao              + 3 collabs
 - fiegael              (2 icons, 2 of those being collabs)
 - LonelyChicken         + 1 collab
 
@@ -375,7 +375,7 @@ cube 88:
 
 cube 89:
 - By JustHyperCL.
-- Part of the "Eye catcher" theme which was actually made out of nowhere but boredom 👁.
+- Another reference to Ethan's default cube but adapted to a new shape.
 
 cube 90:
 - By AngelozDD.
@@ -446,6 +446,9 @@ cube 109:
 cube 110:
 - By bugpesto.
 - The first icon that (kind of) started this entire project, originally made for Rifct!.
+
+cube 111:
+- By aGold.
 
 cube 112:
 - By CraZyboy6484.
@@ -529,9 +532,6 @@ cube 137:
 - By AlexisDrawz.
 - It is based on the character/OC of "DanyCactus" a star/demongrinder and creator levels from GD and the GD Cuban Community!.
 
-cube 138:
-- By Hydr4ze.
-
 cube 139:
 - By aGold.
 
@@ -604,9 +604,9 @@ cube 159:
 - By ML500.
 - Design based on Boomlings that change colours (They look like the french one).
 
-cube 160:
+cube 161:
 - By JustHyperCL.
-- ToshDeluxe reference.
+- Collab with AngelozDD.
 
 cube 162:
 - By JustHyperCL.
@@ -717,7 +717,7 @@ cube 191:
 
 cube 192:
 - By bugpesto.
-- Collab with ReenRN 👍.
+- Collab with ReenRN. 👍 [fixme].
 
 cube 193:
 - By RetroAdvance64.
@@ -927,6 +927,9 @@ cube 256:
 cube 257:
 - By Aleiz21.
 
+cube 258:
+- By aGold.
+
 cube 259:
 - By JigglypuffGD.
 
@@ -991,7 +994,7 @@ cube 278:
 
 cube 279:
 - By RetroAdvance64.
-- This Cube references the Outfit "Sentinel" from Fortnite added in CH1:S9. Its a reverse reference as the original Cube uses the alternate "dark" style of the outfit and the remix reverts it to its original appearance.
+- [Re-made by the original artist] -- A Sidegrade version of the cube. Both versions of the cube references the Fortnite Skin "Sentinel" released in CH1:S9, the remix version uses the "default" style while the original uses the "dark" style.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_279(1).png)
 
 cube 280:
@@ -1050,7 +1053,7 @@ cube 296:
 
 cube 297:
 - By RetroAdvance64.
-- Properly remade to reflect with "Aurelius Adeus" appearance, an OC from Retro.
+- [Re-made by the original artist] -- Reflects the appearance of "Aurelius Adeus", An OC from Retro.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_297(1).png)
 
 cube 298:
@@ -1058,6 +1061,7 @@ cube 298:
 
 cube 299:
 - By electrictaco.
+- Fixme.
 
 cube 300:
 - By ChileMationsxD.
@@ -1067,12 +1071,12 @@ cube 301:
 
 cube 302:
 - By RetroAdvance64.
-- The original references a Creeper based from a popular Minecraft Resource pack "PureBDcraft" by Sphax. With this in mind, the icon is changed with the design of the Creeper from Penumbra, a Resource pack made by RetroAdvance64.
+- [Re-made by the original artist] -- More of a sidegrade to the cube as the original references the Creeper from Sphax's PureBDCraft, a Minecraft resource pack. The remix version takes the role of the Creeper from Retro's Penumbra resource pack.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_302(1).png)
 
 cube 303:
 - By RetroAdvance64.
-- "The Poopshitters" / "Chicos, estoy comiendo mortadela". | Jokes aside, this is a meme Icon referencing an infamous hyper-realistic rendition of Sans from Undertale.
+- [Re-made by the original artist] - "Chicos, estoy comiendo mortadela". | Jokes aside, this is a meme Icon referencing an infamous hyper-realistic rendition of Sans from Undertale.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_303(1).png)
 
 cube 304:
@@ -1086,6 +1090,9 @@ cube 306:
 
 cube 307:
 - By AlexanderX1ta.
+
+cube 308:
+- By NHJ.
 
 cube 309:
 - By AlexanderX1ta.
@@ -1141,7 +1148,8 @@ cube 325:
 
 cube 326:
 - By RetroAdvance64.
-- References the "Mole" a trap object often found in dungeons in TLoZ: A Link Between Worlds. Replaces the "Medusa" icon which is also another trap found in that game.
+- [Re-made by the original artist] -- The remix version of the cube references a "Mole" which is a recurring 'obstacle' trap found in TLoZ: A Link to the Past / A Link Between Worlds. The original cube also makes reference to a 'fire' trap found in both games (Medusa).
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_326(1).png)
 
 cube 327:
 - By Aleiz21.
@@ -1197,10 +1205,11 @@ cube 343:
 
 cube 344:
 - By RetroAdvance64.
-- References the "Epic Face" a classic meme from the early 2000s.
+- [Re-made by the original artist] -- The Icon references the classic meme "Awesome Face".
 
 cube 345:
 - By Sharkcrome.
+- Impending redesign soon.. [fixme].
 
 cube 346:
 - By aGold.
@@ -1267,11 +1276,12 @@ cube 366:
 
 cube 367:
 - By RetroAdvance64.
-- A direct remake to the original Cube. Fun fact: The Tank cube is inspired by the tank designs from the video game "Advance Wars" for the GBA.
+- [Re-made by the original artist] -- The shape of the cube (both original and remix) is inspired by the tank designs from the videogame "Advance Wars" for the Gameboy Advance.
 
 cube 368:
 - By ML500.
 - Collab with AlexisDrawz.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_368(1).png)
 
 cube 369:
 - By ML500.
@@ -1310,7 +1320,7 @@ cube 378:
 
 cube 379:
 - By RetroAdvance64.
-- A direct remake to the original cube. References Niko from Oneshot.
+- [Re-made by the original artist] -- References Niko from Oneshot.
 
 cube 380:
 - By CraZyboy6484.
@@ -1320,13 +1330,14 @@ cube 381:
 
 cube 382:
 - By RetroAdvance64.
+- [Re-made by the original artist].
 
 cube 383:
 - By Aleiz21.
 
 cube 384:
 - By RetroAdvance64.
-- A direct remake to the original cube. Properly fixes the design to a more modern style.
+- [Re-made by the original artist] -- The idea of a "bird-like" statue is properly executed.
 
 cube 385:
 - By Th3Angel0ffic3.
@@ -1366,7 +1377,7 @@ cube 395:
 
 cube 396:
 - By RetroAdvance64.
-- A direct remake to the original cube.
+- [Re-made by the original artist] -- Redesigned to go on-par with the "Time" Icon theme/flair for Supernova.
 
 cube 397:
 - By bugpesto.
@@ -1455,6 +1466,9 @@ cube 423:
 
 cube 424:
 - By JigglypuffGD.
+
+cube 425:
+- By NHJ.
 
 cube 426:
 - By Sharkcrome.
@@ -1611,6 +1625,9 @@ cube 470:
 - By ML500.
 - Taking more emphasis on the source material the original references (Masked Dedede from Kirby Triple Deluxe).
 
+cube 471:
+- By NHJ.
+
 cube 472:
 - By AlexisDrawz.
 - Based on the official cover of Metroid: Samus Returns.
@@ -1685,6 +1702,9 @@ ship 9:
 
 ship 10:
 - By Exetric.
+
+ship 11:
+- By NHJ.
 
 ship 13:
 - By Aleiz21.
@@ -1835,6 +1855,10 @@ ship 63:
 - By cyanflower.
 - Collab with ML500.
 
+ship 64:
+- By JustHyperCL.
+- Golden scar from Fortnite. Collab with RetroAdvance64.
+
 ship 65:
 - By RetroAdvance64.
 - Enough pointing at. Now gives the blow.
@@ -1923,6 +1947,7 @@ ship 92:
 
 ship 93:
 - By RetroAdvance64.
+- [Re-made by the original artist] -- Ported from Supernova | Properly references a "Ghost" which is a 'rapid-assault' vehicle from the Halo Series.
 
 ship 94:
 - By JigglypuffGD.
@@ -1933,7 +1958,7 @@ ship 95:
 
 ship 96:
 - By RetroAdvance64.
-- A direct remake to the original Ship. Properly references "Quetzalcoatl", a mythical deity spoken among the Aztecs and Mayans and is often depicted as a Feathered-Serpent dragon-like figure. Taking a spin into a more-cybernetic artstyle.
+- [Re-made by the original artist] -- Properly references "Quetzalcoatl", a mythical deity spoken among the Aztecs and Mayans and is often depicted as a Feathered-Snake-dragon figure. Taking a spin into a more-cybernetic artstyle.
 
 ship 98:
 - By cyanflower.
@@ -1943,7 +1968,7 @@ ship 99:
 
 ship 100:
 - By RetroAdvance64.
-- A direct remake to the original ship. In collaboration with Sorao.
+- [Re-made by the original artist] -- In collaboration with Sorao.
 
 ship 102:
 - By ML500.
@@ -1960,7 +1985,7 @@ ship 106:
 
 ship 107:
 - By RetroAdvance64.
-- A direct remake to the original Ship. Properly references the "Hivehand", a weapon from Half Life (1998).
+- [Re-made by the original artist] -- Ported from Supernova | Properly references the "Hivehand", an alien weapon featured in the first Half-Life (1998). Though this version takes the model from Black Mesa (2020).
 
 ship 108:
 - By Sharkcrome.
@@ -1980,7 +2005,7 @@ ship 112:
 
 ship 113:
 - By RetroAdvance64.
-- A direct remake to the original Ship.
+- [Re-made by the original artist] -- The central part (the 2 rotated lines) is changed to look more like a speed indicator.
 
 ship 114:
 - By bugpesto.
@@ -1988,7 +2013,7 @@ ship 114:
 
 ship 115:
 - By RetroAdvance64.
-- A direct remake to the original Ship.
+- [Re-made by the original artist] -- Ported from Supernova.
 
 ship 116:
 - By bugpesto.
@@ -2002,7 +2027,7 @@ ship 118:
 
 ship 119:
 - By RetroAdvance64.
-- A direct remake to the original Ship. A more clean and modernized version of the idea that in retrospect, it was poorly implemented.
+- [Re-made by the original artist] -- "No idea what i was smoking with the details back in the day".
 
 ship 121:
 - By ML500.
@@ -2013,7 +2038,7 @@ ship 122:
 
 ship 123:
 - By RetroAdvance64.
-- Properly references the "Dragonfolly", a boss enemy from the Calamity Mod for Terraria.
+- [Re-made by the original artist] -- References the "Dragonfolly", a 'Post-Moon Lord' boss enemy from the Calamity Mod for Terraria.
 
 ship 124:
 - By Dibbj.
@@ -2027,14 +2052,15 @@ ship 126:
 
 ship 127:
 - By RetroAdvance64.
-- A direct remake to the original Ship.
+- [Re-made by the original artist] -- Details were significantly reduced from the original :).
 
 ship 128:
 - By RetroAdvance64.
+- [Re-made by the original artist].
 
 ship 129:
 - By RetroAdvance64.
-- A direct remake to the original Ship. Uses the N64 Model of the Arwing, a combat spacecraft from the Star Fox series, as reference.
+- [Re-made by the original artist] -- Ported from Supernova | The original ship design makes reference to an "Arwing" from the Star Fox series. The modern version uses the N64 version of the Arwing as reference.
 
 ship 130:
 - By Sharkcrome.
@@ -2048,16 +2074,16 @@ ship 132:
 
 ship 133:
 - By RetroAdvance64.
-- Properly references the Gjallarhorn, a weapon from the videogame Destiny.
+- [Re-made by the original artist] -- Properly references the Gjallarhorn, an exotic rocket-launcher from Destiny 2.
 
 ship 134:
 - By RetroAdvance64.
-- A direct remake to the original Ship. Faithfully references the Diamond Dog, a boss enemy from Mother 2 (Earthbound).
+- [Re-made by the original artist] -- Properly references the Diamond Dog, a boss enemy featured in EarthBound (1994).
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_134(1).png)
 
 ship 135:
 - By bugpesto.
-- References the early-game Corruption enemies in Terraria, mixing both the Eater of Souls and Eater of Worlds's designs.
+- References the early-game Corruption enemies in Terraria, mixing both the Eater of Souls and Eater of Worlds's designs [fixme].
 
 ship 136:
 - By bugpesto.
@@ -2419,7 +2445,8 @@ ball 78:
 
 ball 79:
 - By RetroAdvance64.
-- Prime Queso. This is somewhat a direct remake to the original ball.
+- [Re-made by the original artist] -- Prime Queso. / "tuere el queso".
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ball_79(1).png)
 
 ball 80:
 - By Hushroom.
@@ -2459,6 +2486,7 @@ ball 90:
 
 ball 91:
 - By RetroAdvance64.
+- [Re-made by the original artist].
 
 ball 92:
 - By RetroAdvance64.
@@ -2469,6 +2497,7 @@ ball 93:
 
 ball 94:
 - By Sharkcrome.
+- Impending redesign soon.. [fixme].
 
 ball 95:
 - By Aleiz21.
@@ -2682,8 +2711,6 @@ the level with the **Nitro Fun - Final Boss** song.
 
 ufo 45:
 - By Sharkcrome.
-- Takes inspiration from an old artwork by Sharkcrome titled "Circular Claymore".
-- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1383208584631816282/Untitled312_20201222071400.png?ex=684df4e1&is=684ca361&hm=8de4aee358e8c68b2dc0928fe66f48359263b6016a07e5debb1499e36dfebecb&=&format=webp&quality=lossless&width=930&height=930)
 
 ufo 46:
 - By JigglypuffGD.
@@ -2738,11 +2765,11 @@ ufo 62:
 
 ufo 63:
 - By RetroAdvance64.
-- A direct remake. Fitting with Supernova's modern standards.
+- [Re-made by the original artist] -- Ported from Supernova.
 
 ufo 64:
 - By RetroAdvance64.
-- Properly references the Majora's Mask, a demon mask found in TLoZ: Majora's Mask. Interestingly, the UFO id is **64**!.
+- [Re-made by the original artist] -- Ported from Supernova | References the Majora's Mask, a powerful cursed mask featured in TLoZ: Majora's Mask. Interestingly, the UFO id is 64!".
 
 ufo 65:
 - By Drian114.
@@ -2752,6 +2779,7 @@ ufo 66:
 
 ufo 67:
 - By RetroAdvance64.
+- [Re-made by the original artist] -- The horns are more curved upwards.
 
 ufo 68:
 - By Drian114.
@@ -2761,11 +2789,11 @@ ufo 69:
 
 ufo 70:
 - By RetroAdvance64.
-- A direct remake to the original UFO. The idea execution is now repurposed.
+- [Re-made by the original artist] -- Idea execution is repurposed to be clear.
 
 ufo 71:
 - By RetroAdvance64.
-- A direct remake to the original UFO. It remixes into a more futuristic look to the "Boombox" UFO | Collab with Alexisdrawz.
+- [Re-made by the original artist] -- In collaboration with AlexisDrawz -- "Somewhat distant but the idea in mind (At least for Supernova) is remixing the classic boombox ufo into something more futuristic looking".
 
 ufo 72:
 - By Aleiz21.
@@ -2778,6 +2806,7 @@ ufo 74:
 
 ufo 75:
 - By RetroAdvance64.
+- [Re-made by the original artist] -- Ported from Supernova.
 
 ufo 76:
 - By Aleiz21.
@@ -2910,6 +2939,7 @@ ufo 124:
 
 ufo 128:
 - By CraZyboy6484.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_128(1).png)
 
 ufo 131:
 - By Drian114.
@@ -3021,6 +3051,7 @@ wave 16:
 
 wave 17:
 - By Sharkcrome.
+- Impending redesign incoming.. [fixme].
 
 wave 18:
 - By Sharkcrome.
@@ -3058,11 +3089,16 @@ wave 28:
 wave 29:
 - By aGold.
 
+wave 30:
+- By Drian114.
+- Collab with airiLmao.
+
 wave 31:
 - By ML500.
 
 wave 32:
 - By bugpesto.
+- [fixme].
 
 wave 33:
 - By Sharkcrome.
@@ -3142,7 +3178,7 @@ wave 58:
 
 wave 59:
 - By RetroAdvance64.
-- A direct remake to the original Wave. References the "Devourer of Gods", a boss enemy from the Calamity Mod for Terraria.
+- [Re-made by the original artist] -- References the "Devourer of Gods", a 'Post-Moon Lord' boss enemy from the Calamity Mod for Terraria.
 
 wave 60:
 - By ML500.
@@ -3304,6 +3340,10 @@ robot 12:
 - By JigglypuffGD.
 - <a:eyeswtf:761656988450422834>.
 
+robot 13:
+- By aGold.
+- Collaboration with RetroAdvance64 :D.
+
 robot 15:
 - By RetroAdvance64.
 
@@ -3350,13 +3390,20 @@ robot 28:
 - By cyanflower.
 - As with the original, this robot is based off GiggsRH's Wubbaduck. This version is not mechanized, and has limb textures taken from RetroAdvance64.
 
+robot 29:
+- By ML500.
+
+robot 30:
+- By RetroAdvance64.
+- [Re-made by the original artist].
+
 robot 31:
 - By ML500.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/robot_31(1).mp4)
 
 robot 33:
 - By RetroAdvance64.
-- A direct remake to the original robot. Properly references Doomguy from DOOM (1993).
+- [Re-made by the original artist] -- Properly references the "Doomguy", the playable character featured in DOOM (1993).
 
 robot 34:
 - By AlexisDrawz.
@@ -3378,6 +3425,7 @@ robot 38:
 
 robot 39:
 - By KetsuTT.
+- [fixme].
 
 robot 41:
 - By Drian114.
@@ -3385,25 +3433,25 @@ robot 41:
 
 robot 44:
 - By RetroAdvance64.
-- A direct 'Sidegrade' to the original Robot. Switches the role from a Swordsman to an Axeman.
+- [Re-made by the original artist] -- More of a sidegrade version of the Robot switching the role from a Swordsman to an Axeman.
 
 robot 45:
 - By RetroAdvance64.
-- A direct remake to the original robot. References "Monstercat", a mascot featured for the electronic music record label of the same name.
+- [Re-made by the original artist] -- References the "Monstercat", a mascot featured for the electronic music record label of the same name.
 
 robot 46:
 - By Aleiz21.
 
 robot 47:
 - By RetroAdvance64.
-- A direct remake to the original Robot.
+- [Re-made by the original artist] -- "A bit clunky to get ideas around but it works".
 
 robot 48:
 - By KetsuTT.
 
 robot 49:
 - By RetroAdvance64.
-- A direct remake to the original robot. Properly referencing the Hunter from Bloodborne.
+- [Re-made by the original artist] -- Properly references The Hunter, the playable protagonist of Bloodborne.
 
 robot 50:
 - By ML500.
@@ -3420,7 +3468,7 @@ robot 53:
 
 robot 54:
 - By RetroAdvance64.
-- A direct remake. Properly references the "Pinky", a demon enemy found in DOOM (1993).
+- [Re-made by the original artist] -- Properly references the Pinky, an enemy demon featured in DOOM (1993).
 
 robot 55:
 - By ML500.
@@ -3569,6 +3617,7 @@ spider 40:
 
 spider 41:
 - By aGold.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/spider_41(1).png)
 
 spider 42:
 - By KevgenGD.
@@ -3605,11 +3654,11 @@ spider 54:
 
 spider 55:
 - By RetroAdvance64.
-- A direct remake to the original spider.
+- [Re-made by the original artist].
 
 spider 56:
 - By RetroAdvance64.
-- A direct remake to the original Spider.
+- [Re-made by the original artist].
 
 spider 57:
 - By JigglypuffGD.
@@ -3642,7 +3691,7 @@ spider 69:
 
 swing 1:
 - By bugpesto.
-- References a pokéball!.
+- References a pokéball! [fixme].
 
 swing 2:
 - By JigglypuffGD.
@@ -3715,11 +3764,11 @@ swing 21:
 
 swing 22:
 - By RetroAdvance64.
-- A direct remake to the original Swing. Reverses the role from Wheatley to the Space Core from Portal 2.
+- [Re-made by the original artist] -- A sidegrade version of the icon. The 'Space Core' takes the role instead of Wheatley.
 
 swing 23:
 - By RetroAdvance64.
-- A direct remake to the original Swing. References the "Cacodemon", an enemy from DOOM (1993).
+- [Re-made by the original artist] -- Properly references the Cacodemon, an enemy demon featured in DOOM (1993).
 
 swing 24:
 - By Drian114.
@@ -3761,7 +3810,7 @@ swing 34:
 
 swing 35:
 - By RetroAdvance64.
-- A direct remake to the original swing. Properly references "Hermaeus Mora", a prominent lore character in the Elder Scrolls series.
+- [Re-made by the original artist] -- Properly references "Hermaeus Mora", a prominent lore character in the Elder Scrolls series.
 
 swing 36:
 - By JigglypuffGD.
@@ -3771,11 +3820,11 @@ swing 37:
 
 swing 38:
 - By RetroAdvance64.
-- A direct remake to the "Lunar" swing.
+- [Re-made by the original artist] -- Ported from Supernova.
 
 swing 39:
 - By RetroAdvance64.
-- A direct remake to the original swing. The style is changed to match with Cube 396 and be consistent to the modern clock theme for Supernova.
+- [Re-made by the original artist] -- Redesigned to go on-par with the "Time" Icon theme/flair for Supernova.
 
 swing 41:
 - By Drian114.
