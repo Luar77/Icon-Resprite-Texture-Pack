@@ -4,26 +4,26 @@ After over 3 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (127 icons, 3 of those being collabs) + 14 collabs
+- RetroAdvance64       (128 icons, 3 of those being collabs) + 14 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 - Aleiz21              (104 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- ML500                (104 icons, 8 of those being collabs) + 3 collabs
+- ML500                (100 icons, 8 of those being collabs) + 3 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- JigglypuffGD         (80 icons, 6 of those being collabs) + 2 collabs
+- JigglypuffGD         (80 icons, 8 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
+- NHJ                  (75 icons, 2 of those being collabs) + 4 collabs
+	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - cyanflower           (74 icons, 2 of those being collabs) + 2 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- NHJ                  (73 icons, 2 of those being collabs) + 4 collabs
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - Sharkcrome           (71 icons, 1 of those being collabs) + 2 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
@@ -42,21 +42,22 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- https://agold.is-a.dev
 - CraZyboy6484         (42 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- JustHyperCL          (40 icons, 12 of those being collabs) + 8 collabs
+- JustHyperCL          (39 icons, 11 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (35 icons, 4 of those being collabs) + 3 collabs
+- Sorao                (34 icons, 4 of those being collabs) + 3 collabs
 - AlexanderX1ta        (22 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- electrictaco         (20 icons, 5 of those being collabs) + 5 collabs
+- electrictaco         (20 icons, 5 of those being collabs) + 6 collabs
 - AlexisDrawz          (17 icons, 6 of those being collabs) + 12 collabs
-- AngelozDD            (17 icons, 1 of those being collabs) + 3 collabs
+- AngelozDD            (17 icons, 1 of those being collabs) + 2 collabs
+- Dibbj                (16 icons, 1 of those being collabs) + 4 collabs
+	- [@lwtuseater.bsky.social‬](https://bsky.app/profile/lwtuseater.bsky.social‬) on Bluesky
 - J3anC4rlo            (17 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - Hydr4ze              (16 icons, 1 of those being collabs)
-- Dibbj                (14 icons, 1 of those being collabs) + 4 collabs
 - KetsuTT              (14 icons, 1 of those being collabs)
 - Exetric              (12 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
@@ -65,7 +66,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - Luar77               (11 icons, 1 of those being collabs)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- ReenRN               (6 icons) + 1 collab
+- ReenRN               (5 icons) + 1 collab
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
 - TheRare5             (5 icons)
@@ -130,7 +131,7 @@ cube 13:
 
 cube 14:
 - By ML500.
-- Pending remake, it's free to steal if asked.
+- Ported from Master Pack.
 
 cube 15:
 - By cyanflower.
@@ -160,6 +161,7 @@ cube 22:
 
 cube 23:
 - By ML500.
+- Ported from Master Pack.
 
 cube 24:
 - By aGold.
@@ -210,6 +212,7 @@ cube 38:
 
 cube 39:
 - By JigglypuffGD.
+- Collab with ml5 fixme.
 
 cube 40:
 - By KevgenGD.
@@ -426,6 +429,7 @@ cube 103:
 
 cube 104:
 - By JigglypuffGD.
+- Fixme.
 
 cube 105:
 - By CraZyboy6484.
@@ -583,7 +587,7 @@ cube 153:
 
 cube 154:
 - By ML500.
-- Based on Potbor (The shopkeeper of the Community Shop).
+- Remake based on Potbor, the shopkeeper of the Community Shop.
 
 cube 155:
 - By AlexisDrawz.
@@ -602,11 +606,11 @@ cube 158:
 
 cube 159:
 - By ML500.
-- Design based on Boomlings that change colours (They look like the french one).
+- Remake based on a Boomling named Borro, changes colors each move.
 
 cube 161:
 - By JustHyperCL.
-- Collab with AngelozDD.
+- This cube references the popular youtuber ToshDeluxe.
 
 cube 162:
 - By JustHyperCL.
@@ -703,7 +707,7 @@ cube 187:
 
 cube 188:
 - By ML500.
-- Design heavily based on the Minecraft skin of the Argentinian youtuber "Farfadox".
+- Remake based on a Minecraft skin of an Argentinian Minecraft Youtuber named Farfadox.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1381249010307694592/image.png?ex=6846d3e2&is=68458262&hm=bf576d64f274455ac79e540a4375315b5fa6519ece25e4b979bd86c5295fd80c&=&format=webp&quality=lossless&width=424&height=248)
 
 cube 189:
@@ -714,10 +718,6 @@ cube 190:
 
 cube 191:
 - By RetroAdvance64.
-
-cube 192:
-- By bugpesto.
-- Collab with ReenRN. 👍 [fixme].
 
 cube 193:
 - By RetroAdvance64.
@@ -777,6 +777,7 @@ cube 208:
 
 cube 209:
 - By ML500.
+- Ported from Master Pack.
 
 cube 210:
 - By ML500.
@@ -1112,7 +1113,7 @@ cube 314:
 
 cube 315:
 - By ML500.
-- Design based on A-60 from Rooms/Doors (Roblox).
+- Remake based on A-60, an entity from the Roblox game: Rooms.
 
 cube 316:
 - By Sharkcrome.
@@ -1144,7 +1145,7 @@ cube 324:
 
 cube 325:
 - By ML500.
-- Same game reference as original (Kirby), but it's "Morpho Knight" instead.
+- Remake based on Morpho Knight, because the original references Kirby.
 
 cube 326:
 - By RetroAdvance64.
@@ -1188,11 +1189,11 @@ cube 338:
 
 cube 339:
 - By ML500.
-- Design heavily based on "Pusheen the Cat".
+- Remake inspired by Pusheen the Cat.
 
 cube 340:
 - By ML500.
-- Design based on Ambus from Doors (Roblox).
+- Remake inspired by Ambush, an entity from the Roblox game: Doors.
 
 cube 341:
 - By ML500.
@@ -1209,7 +1210,6 @@ cube 344:
 
 cube 345:
 - By Sharkcrome.
-- Impending redesign soon.. [fixme].
 
 cube 346:
 - By aGold.
@@ -1295,7 +1295,7 @@ cube 371:
 
 cube 372:
 - By ML500.
-- Based on a drawn emoji that's blushin (Seen sometimes on Discord servers).
+- Remake based on a drawn blushing emoji.
 
 cube 373:
 - By Exetric.
@@ -1367,10 +1367,15 @@ cube 391:
 
 cube 392:
 - By ML500.
-- Taking heavy inspiration from the original version of this cube that had the lines in the middle.
+- Remake based on the original version (Retro's) of the cube.
 
 cube 393:
 - By NHJ.
+
+cube 394:
+- By cyanflower.
+- Directly based on Subwoofer's general social media avatar, which was made by ML500. Created with the latter's approval.
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1383890904422682674/ML5_subwoofer.jpg?ex=68507057&is=684f1ed7&hm=bf9c9e18079a31137a6fb3ffc2ac6f9271359ab1d6e801cfc5a29a575c8aa046&=&format=webp&width=200&height=200)
 
 cube 395:
 - By NHJ.
@@ -1397,7 +1402,7 @@ cube 401:
 
 cube 402:
 - By ML500.
-- Same source as the original reference (Portal), but the remake is inspired by the core design from Portal 1.
+- Remake based on how the personality cores look in Portal 1, because the original references their design in Portal 2.
 
 cube 403:
 - By AlexisDrawz.
@@ -1428,7 +1433,6 @@ cube 411:
 
 cube 413:
 - By Sharkcrome.
-- Refrence to the Airborne Robots Monster that appears in 2%.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1380292303008039142/Untitled238_20250531013607.png?ex=684358e1&is=68420761&hm=2e824e6d1d42bce1452f5c09071bca24b7211fd085cbfea6536399a7c02fb073&=&format=webp&quality=lossless&width=930&height=930)
 
 cube 414:
@@ -1490,7 +1494,7 @@ cube 430:
 
 cube 431:
 - By ML500.
-- Same source as the original reference (Binding of Isaac), but it's Delirium instead (one of the final bosses).
+- Remake based on Delirium, because the original references Binding of Isaac.
 
 cube 432:
 - By JigglypuffGD.
@@ -1532,6 +1536,9 @@ cube 441:
 cube 442:
 - By JigglypuffGD.
 - In reference to a helmet design of Samus.
+
+cube 443:
+- By NHJ.
 
 cube 444:
 - By Aleiz21.
@@ -1972,6 +1979,7 @@ ship 100:
 
 ship 102:
 - By ML500.
+- Ported from Master Pack.
 
 ship 103:
 - By KevgenGD.
@@ -2180,6 +2188,7 @@ ship 165:
 
 ship 166:
 - By ML500.
+- Ported from Master Pack.
 
 ship 167:
 - By ML500.
@@ -2245,9 +2254,6 @@ ball 17:
 
 ball 18:
 - By cyanflower.
-
-ball 19:
-- By JustHyperCL.
 
 ball 20:
 - By NHJ.
@@ -2426,7 +2432,7 @@ ball 73:
 
 ball 74:
 - By ML500.
-- Collab with Sorao. The design based on "Queso", a boss based on a design made by Retro which has became a joke character in this server.
+- Collab with Sorao — Remake based on the boss design from my level: Queso the Boss.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ball_74(1).png)
 
 ball 75:
@@ -2651,7 +2657,7 @@ ufo 25:
 
 ufo 26:
 - By ML500.
-- Collab with AlexisDrawz. STILL subject to changes.
+- Collab with AlexisDrawz.
 
 ufo 27:
 - By KevgenGD.
@@ -2698,7 +2704,7 @@ ufo 41:
 
 ufo 42:
 - By ML500.
-- Reference to the "hand holding a gun" meme.
+- Remake based on the meme of a hand holding a gun.
 
 ufo 43:
 - By RetroAdvance64.
@@ -2816,11 +2822,11 @@ ufo 77:
 
 ufo 78:
 - By ML500.
-- Reference to the "Empress of Light" from Terraria.
+- Remake inspired by Empress of Light, from Terraria.
 
 ufo 79:
 - By ML500.
-- Reference to the "G keyboard skeleton" meme.
+- Remake based on a skeleton yelling at a keyboard / "G" meme.
 
 ufo 80:
 - By Aleiz21.
@@ -2839,6 +2845,10 @@ ufo 86:
 
 ufo 87:
 - By KevgenGD.
+
+ufo 88:
+- By aGold.
+- Collaboration with Dibbj.
 
 ufo 90:
 - By Aleiz21.
@@ -2944,6 +2954,9 @@ ufo 128:
 ufo 131:
 - By Drian114.
 
+ufo 132:
+- By RetroAdvance64.
+
 ufo 133:
 - By electrictaco.
 
@@ -2960,7 +2973,7 @@ ufo 137:
 
 ufo 138:
 - By ML500.
-- Design heavily based on a demon skull artwork shown in "The Apocalyptic Trilogy" by APTeam.
+- Remake based on an artwork shown in The Apocalyptic Trilogy by APTeam.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_138(1).png)
 
 ufo 139:
@@ -2985,6 +2998,7 @@ ufo 145:
 
 ufo 146:
 - By ML500.
+- Remake based on Rattledash and Press Start skull.
 
 ufo 147:
 - By aGold.
@@ -3012,6 +3026,7 @@ wave 4:
 
 wave 5:
 - By ML500.
+- Ported from Master Pack.
 
 wave 6:
 - By cyanflower.
@@ -3142,9 +3157,11 @@ wave 45:
 
 wave 46:
 - By ML500.
+- [fixme].
 
 wave 47:
 - By ML500.
+- Remake inspired on Athanel, an own character with the eye design applied to the wave.
 
 wave 48:
 - By Aleiz21.
@@ -3182,11 +3199,11 @@ wave 59:
 
 wave 60:
 - By ML500.
-- Same game reference as original (Terraria), but it's the first phase of "Plantera".
+- Remake based on the first phase of Plantera from Terraria, because the original references the second phase of the same boss.
 
 wave 61:
 - By ML500.
-- Collab with DibbJ.
+- Collab with DibbJ — Ported from Master Pack.
 
 wave 62:
 - By Luar77.
@@ -3288,7 +3305,7 @@ wave 92:
 
 wave 93:
 - By ML500.
-- Same game reference as original (Super Mario), but it's a "Banzai / Bomber Bill" now.
+- Remake based on Bomber bill, because the original also references Super Mario.
 
 wave 94:
 - By RetroAdvance64.
@@ -3431,6 +3448,9 @@ robot 41:
 - By Drian114.
 - Robot 41 has been redesigned to have the appearance of a velociraptor, while keeping the same vibe of its original T-Rex counterpart.
 
+robot 42:
+- By ML500.
+
 robot 44:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- More of a sidegrade version of the Robot switching the role from a Swordsman to an Axeman.
@@ -3535,6 +3555,9 @@ spider 7:
 spider 8:
 - By RetroAdvance64.
 
+spider 9:
+- By ML500.
+
 spider 10:
 - By RetroAdvance64.
 
@@ -3592,6 +3615,10 @@ spider 29:
 - By Sharkcrome.
 - High Tech Speeding Camera With Built-In Tracker.
 
+spider 32:
+- By bugpesto.
+- Properly references a hermit crab, with some details taken from the pokémon "Dwebble".
+
 spider 33:
 - By ML500.
 - Spider design inspired by Retro's Supernova style.
@@ -3617,7 +3644,6 @@ spider 40:
 
 spider 41:
 - By aGold.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/spider_41(1).png)
 
 spider 42:
 - By KevgenGD.
@@ -3644,6 +3670,9 @@ spider 50:
 
 spider 51:
 - By Aleiz21.
+
+spider 52:
+- By bugpesto.
 
 spider 53:
 - By NHJ.
