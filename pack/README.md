@@ -11,20 +11,20 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - Aleiz21              (104 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- ML500                (100 icons, 8 of those being collabs) + 3 collabs
+- ML500                (103 icons, 8 of those being collabs) + 4 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
+- NHJ                  (77 icons, 2 of those being collabs) + 4 collabs
+	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - JigglypuffGD         (80 icons, 8 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- NHJ                  (75 icons, 2 of those being collabs) + 4 collabs
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - cyanflower           (74 icons, 2 of those being collabs) + 2 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (71 icons, 1 of those being collabs) + 2 collabs
+- Sharkcrome           (70 icons, 1 of those being collabs) + 2 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
@@ -38,13 +38,13 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
 - KevgenGD             (59 icons, 2 of those being collabs) + 1 collab
-- aGold                (49 icons, 4 of those being collabs) + 1 collab
+- aGold                (51 icons, 4 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
 - CraZyboy6484         (42 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (39 icons, 11 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (34 icons, 4 of those being collabs) + 3 collabs
+- Sorao                (32 icons, 4 of those being collabs) + 3 collabs
 - AlexanderX1ta        (22 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
@@ -212,7 +212,9 @@ cube 38:
 
 cube 39:
 - By JigglypuffGD.
-- Collab with ml5 fixme.
+- Collab with ML500.
+
+YOUR TAKING TOO LONG.
 
 cube 40:
 - By KevgenGD.
@@ -608,6 +610,9 @@ cube 159:
 - By ML500.
 - Remake based on a Boomling named Borro, changes colors each move.
 
+cube 160:
+- By ML500.
+
 cube 161:
 - By JustHyperCL.
 - This cube references the popular youtuber ToshDeluxe.
@@ -894,6 +899,10 @@ cube 246:
 - By electrictaco.
 - A remake of the cube that faces forward instead of to the side.
 
+cube 247:
+- By NHJ.
+- Narwhal.
+
 cube 248:
 - By Sharkcrome.
 
@@ -1155,6 +1164,9 @@ cube 326:
 cube 327:
 - By Aleiz21.
 
+cube 328:
+- By aGold.
+
 cube 329:
 - By ML500.
 - Heavily based on Asren's concept for the same icon.
@@ -1252,6 +1264,9 @@ cube 357:
 
 cube 358:
 - By JigglypuffGD.
+
+cube 359:
+- By NHJ.
 
 cube 360:
 - By Sharkcrome.
@@ -1414,6 +1429,9 @@ cube 404:
 cube 405:
 - By JigglypuffGD.
 
+cube 406:
+- By Drian114.
+
 cube 407:
 - By cyanflower.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1365341982872047688/IMG_3372.webp?ex=680cf54f&is=680ba3cf&hm=23211f03266cdd4ffdf77dfc9d126bf06bb5f1bb47f0b0ee58449e2f30b3b527&=&format=webp&width=313&height=256)
@@ -1432,8 +1450,7 @@ cube 411:
 - By AlexanderX1ta.
 
 cube 413:
-- By Sharkcrome.
-- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1380292303008039142/Untitled238_20250531013607.png?ex=684358e1&is=68420761&hm=2e824e6d1d42bce1452f5c09071bca24b7211fd085cbfea6536399a7c02fb073&=&format=webp&quality=lossless&width=930&height=930)
+- By ML500.
 
 cube 414:
 - By cyanflower.
@@ -1822,6 +1839,9 @@ ship 46:
 ship 48:
 - By KevgenGD.
 
+ship 49:
+- By NHJ.
+
 ship 50:
 - By Drian114.
 
@@ -1903,7 +1923,7 @@ ship 74:
 
 ship 75:
 - By aGold.
-- References the bossfight from the level "Aura" by Serponge.
+- References the bossfight from the level "Aura" by Serponge [fixme].
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_75(1).png)
 
 ship 76:
@@ -2036,6 +2056,10 @@ ship 118:
 ship 119:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- "No idea what i was smoking with the details back in the day".
+
+ship 120:
+- By Dibbj.
+- What more to love than an evil grin and a fat cannon.
 
 ship 121:
 - By ML500.
@@ -2255,6 +2279,9 @@ ball 17:
 ball 18:
 - By cyanflower.
 
+ball 19:
+- By aGold.
+
 ball 20:
 - By NHJ.
 
@@ -2354,9 +2381,6 @@ ball 51:
 ball 52:
 - By AlexisDrawz.
 
-ball 53:
-- By Sorao.
-
 ball 54:
 - By bugpesto.
 
@@ -2398,7 +2422,6 @@ ball 65:
 
 ball 66:
 - By JustHyperCL.
-- Attempt to recreate Luar's icon style.
 
 ball 67:
 - By bugpesto.
@@ -2503,7 +2526,6 @@ ball 93:
 
 ball 94:
 - By Sharkcrome.
-- Impending redesign soon.. [fixme].
 
 ball 95:
 - By Aleiz21.
@@ -2834,6 +2856,9 @@ ufo 80:
 ufo 81:
 - By Aleiz21.
 
+ufo 82:
+- By JigglypuffGD.
+
 ufo 83:
 - By Aleiz21.
 
@@ -2923,6 +2948,9 @@ ufo 116:
 - By JigglypuffGD.
 - In reference to the daily level crown from base game GD.
 
+ufo 117:
+- By Sorao.
+
 ufo 118:
 - By cyanflower.
 - Survive My Toys.
@@ -2981,6 +3009,10 @@ ufo 139:
 
 ufo 140:
 - By Sharkcrome.
+
+ufo 141:
+- By JustHyperCL.
+- Collab with AlexisDrawz. Personal reminder to make a better plist and glow at night [fixme].
 
 ufo 142:
 - By Drian114.
@@ -3066,7 +3098,6 @@ wave 16:
 
 wave 17:
 - By Sharkcrome.
-- Impending redesign incoming.. [fixme].
 
 wave 18:
 - By Sharkcrome.
@@ -3130,6 +3161,9 @@ wave 36:
 
 wave 37:
 - By Aleiz21.
+
+wave 38:
+- By JustHyperCL.
 
 wave 39:
 - By Sharkcrome.
@@ -3233,6 +3267,9 @@ wave 69:
 
 wave 70:
 - By Drian114.
+
+wave 71:
+- By NHJ.
 
 wave 72:
 - By Sharkcrome.
@@ -3520,6 +3557,9 @@ robot 62:
 robot 63:
 - By ML500.
 
+robot 64:
+- By ML500.
+
 robot 65:
 - By cyanflower.
 - The Miserable.
@@ -3573,6 +3613,9 @@ spider 13:
 spider 14:
 - By Luar77.
 
+spider 15:
+- By KevgenGD.
+
 spider 16:
 - By KevgenGD.
 
@@ -3617,7 +3660,7 @@ spider 29:
 
 spider 32:
 - By bugpesto.
-- Properly references a hermit crab, with some details taken from the pokémon "Dwebble".
+- Properly references a hermit crab, with some details taken from the pokémon "Dwebble". [fixme].
 
 spider 33:
 - By ML500.
@@ -3698,6 +3741,9 @@ spider 60:
 - Reference to the boss seen in the level "Critical Hit"  from The Impossible Game 2. 
 
 (Design doesn't fully convince me, not sure if I'll change it or not).
+
+spider 61:
+- By AlexanderX1ta.
 
 spider 62:
 - By RetroAdvance64.
