@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-4}</string>
+				<string>{0,-4.5}</string>
 				<key>spriteSize</key>
-				<string>{144,73}</string>
+				<string>{146,74}</string>
 				<key>spriteSourceSize</key>
-				<string>{152,83}</string>
+				<string>{152,81}</string>
 				<key>textureRect</key>
-				<string>{{0,84},{144,73}}</string>
+				<string>{{0,82},{146,74}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-12}</string>
+				<string>{7.5,4.5}</string>
 				<key>spriteSize</key>
-				<string>{136,49}</string>
+				<string>{91,48}</string>
 				<key>spriteSourceSize</key>
-				<string>{152,83}</string>
+				<string>{152,81}</string>
 				<key>textureRect</key>
-				<string>{{153,0},{136,49}}</string>
+				<string>{{153,0},{91,48}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{1.5,-7.5}</string>
+				<string>{2,-7.5}</string>
 				<key>spriteSize</key>
-				<string>{15,16}</string>
+				<string>{14,14}</string>
 				<key>spriteSourceSize</key>
-				<string>{152,83}</string>
+				<string>{152,81}</string>
 				<key>textureRect</key>
-				<string>{{145,137},{15,16}}</string>
+				<string>{{147,92},{14,14}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,-4}</string>
 				<key>spriteSize</key>
-				<string>{152,83}</string>
+				<string>{152,81}</string>
 				<key>spriteSourceSize</key>
-				<string>{152,83}</string>
+				<string>{152,81}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{152,83}}</string>
+				<string>{{0,0},{152,81}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/ship_01-uhd.png</string>
 			<key>size</key>
-			<string>{202,157}</string>
+			<string>{201,156}</string>
 			<key>textureFileName</key>
 			<string>icons/ship_01-uhd.png</string>
 		</dict>
