@@ -171,8 +171,8 @@ cube 25:
 
 cube 26:
 - By Sharkcrome.
-- Reference to Ben10 Omnitrix 
-It's Hero Time !.
+- Reference to Ben 10 Omnitrix 
+" It's Hero Time ! ".
 
 cube 27:
 - By Sharkcrome.
@@ -2127,6 +2127,10 @@ ship 137:
 ship 138:
 - By RetroAdvance64.
 
+ship 139:
+- By Dibbj.
+- Collab with ML5.
+
 ship 140:
 - By NHJ.
 
@@ -2337,6 +2341,9 @@ ball 36:
 
 ball 37:
 - By aGold.
+
+ball 38:
+- By Drian114.
 
 ball 39:
 - By NHJ.
