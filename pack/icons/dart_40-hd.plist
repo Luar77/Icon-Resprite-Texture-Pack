@@ -9,11 +9,11 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{5.2,0}</string>
+			<string>{5.25,0}</string>
 			<key>spriteSize</key>
 			<string>{53,44}</string>
 			<key>spriteSourceSize</key>
-			<string>{57,48}</string>
+			<string>{58,48}</string>
 			<key>textureRect</key>
 			<string>{{52,2},{53,44}}</string>
 			<key>textureRotated</key>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{4.2,0}</string>
+			<string>{6,0}</string>
 			<key>spriteSize</key>
-			<string>{15,8}</string>
+			<string>{15,12}</string>
 			<key>spriteSourceSize</key>
-			<string>{57,48}</string>
+			<string>{58,48}</string>
 			<key>textureRect</key>
-			<string>{{98,35},{15,8}}</string>
+			<string>{{98,26},{15,12}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -39,13 +39,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{12.2,0}</string>
+			<string>{11.75,0}</string>
 			<key>spriteSize</key>
-			<string>{31,22}</string>
+			<string>{22,22}</string>
 			<key>spriteSourceSize</key>
-			<string>{57,48}</string>
+			<string>{58,48}</string>
 			<key>textureRect</key>
-			<string>{{98,2},{31,22}}</string>
+			<string>{{98,2},{22,22}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -54,13 +54,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{5.2,0}</string>
+			<string>{5.75,0}</string>
 			<key>spriteSize</key>
-			<string>{57,48}</string>
+			<string>{58,48}</string>
 			<key>spriteSourceSize</key>
-			<string>{57,48}</string>
+			<string>{58,48}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{57,48}}</string>
+			<string>{{2,2},{58,48}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -76,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/dart_40-hd.png</string>
 		<key>size</key>
-		<string>{128,128}</string>
+		<string>{128,64}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
