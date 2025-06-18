@@ -8,14 +8,14 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- Aleiz21              (104 icons, 8 of those being collabs) + 4 collabs
-	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
-	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- ML500                (103 icons, 8 of those being collabs) + 4 collabs
+- ML500                (104 icons, 8 of those being collabs) + 4 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
+- Aleiz21              (104 icons, 8 of those being collabs) + 4 collabs
+	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
+	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - NHJ                  (77 icons, 2 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - JigglypuffGD         (80 icons, 8 of those being collabs) + 2 collabs
@@ -44,7 +44,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (39 icons, 11 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (32 icons, 4 of those being collabs) + 3 collabs
+- Sorao                (31 icons, 4 of those being collabs) + 3 collabs
 - AlexanderX1ta        (22 icons, 1 of those being collabs) + 1 collab
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
@@ -73,9 +73,9 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - Th3Angel0ffic3       (5 icons, 1 of those being collabs)
 - Hushroom             (4 icons)
 - DanKy99              (4 icons)
+- airiLmao             (1 icon) + 3 collabs
 - KazooTheCat          (1 icon) + 2 collabs
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
-- airiLmao              + 3 collabs
 - fiegael              (2 icons, 2 of those being collabs)
 - LonelyChicken         + 1 collab
 
@@ -528,9 +528,6 @@ cube 133:
 cube 134:
 - By aGold.
 
-cube 135:
-- By Aleiz21.
-
 cube 136:
 - By AlexanderX1ta.
 
@@ -728,10 +725,6 @@ cube 193:
 - By RetroAdvance64.
 - The idea featuring the cube resembling a sock puppet is inspired from the shape of the original cube.
 
-cube 194:
-- By Aleiz21.
-- Reference to Monstercat logo.
-
 cube 195:
 - By RetroAdvance64.
 
@@ -847,6 +840,12 @@ cube 229:
 cube 230:
 - By Aleiz21.
 
+cube 231:
+- By JigglypuffGD.
+- Vague reference to the character "Tower" created by ScorchVX
+
+Collab with cyanflower.
+
 cube 232:
 - By fiegael.
 - Collab with JigglypuffGD.
@@ -933,9 +932,6 @@ cube 255:
 cube 256:
 - By JustHyperCL.
 - Collab with AlexisDrawz.
-
-cube 257:
-- By Aleiz21.
 
 cube 258:
 - By aGold.
@@ -1765,6 +1761,9 @@ ship 22:
 ship 23:
 - By CraZyboy6484.
 
+ship 24:
+- By JigglypuffGD.
+
 ship 25:
 - By J3anC4rlo.
 
@@ -1773,7 +1772,7 @@ ship 26:
 
 ship 27:
 - By Aleiz21.
-- Remake needed.
+- Fixme.
 
 ship 28:
 - By Drian114.
@@ -2255,6 +2254,10 @@ ball 8:
 - By ML500.
 - Collab with Sorao.
 
+ball 9:
+- By electrictaco.
+- Fixme.
+
 ball 10:
 - By NHJ.
 
@@ -2329,9 +2332,6 @@ ball 32:
 ball 33:
 - By Sharkcrome.
 - Legendary Godzilla.
-
-ball 34:
-- By Aleiz21.
 
 ball 35:
 - By Aleiz21.
@@ -2600,6 +2600,7 @@ ball 114:
 
 ball 115:
 - By Sorao.
+- Based on Maritima by ML5.
 
 ball 116:
 - By ML500.
@@ -2650,9 +2651,6 @@ ufo 12:
 - A redesign of the original UFO that incorporates a more obvious "eye" element to it.
 
 ufo 13:
-- By Aleiz21.
-
-ufo 14:
 - By Aleiz21.
 
 ufo 16:
@@ -2939,6 +2937,9 @@ ufo 108:
 ufo 109:
 - By bugpesto.
 
+ufo 110:
+- By JigglypuffGD.
+
 ufo 111:
 - By Drian114.
 
@@ -2982,9 +2983,15 @@ ufo 123:
 ufo 124:
 - By Aleiz21.
 
+ufo 125:
+- By Aleiz21.
+
 ufo 128:
 - By CraZyboy6484.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_128(1).png)
+
+ufo 129:
+- By Aleiz21.
 
 ufo 131:
 - By Drian114.
@@ -3405,6 +3412,9 @@ robot 13:
 - By aGold.
 - Collaboration with RetroAdvance64 :D.
 
+robot 14:
+- By Drian114.
+
 robot 15:
 - By RetroAdvance64.
 
@@ -3543,7 +3553,7 @@ robot 56:
 
 robot 57:
 - By electrictaco.
-- Inspired by the character Ghost Rider from Marvel Comics, with the skull being from the geometry dash editor.
+- Inspired by the character Ghost Rider from Marvel Comics, with the skull being from the geometry dash editor [fixme].
 
 robot 58:
 - By KevgenGD.
@@ -3660,6 +3670,9 @@ spider 26:
 spider 27:
 - By cyanflower.
 - This spider’s redesign is in reference to the boss Core from the originally freeware game “Cave Story”. This redesign is based on the Labyrinth boss rather than the rematch as Undead Core, which the original spider was based on (and then changed by RobTop to use a Cube face rather than the original’s direct replica of the original face).
+
+spider 28:
+- By KevgenGD.
 
 spider 29:
 - By Sharkcrome.
