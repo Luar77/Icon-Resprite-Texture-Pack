@@ -8,20 +8,20 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- ML500                (104 icons, 8 of those being collabs) + 4 collabs
+- ML500                (106 icons, 8 of those being collabs) + 5 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- Aleiz21              (104 icons, 8 of those being collabs) + 4 collabs
+- Aleiz21              (103 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - NHJ                  (77 icons, 2 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- JigglypuffGD         (80 icons, 8 of those being collabs) + 2 collabs
+- JigglypuffGD         (81 icons, 9 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- cyanflower           (74 icons, 2 of those being collabs) + 2 collabs
+- cyanflower           (74 icons, 2 of those being collabs) + 3 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
 - Sharkcrome           (70 icons, 1 of those being collabs) + 2 collabs
@@ -51,13 +51,13 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - electrictaco         (20 icons, 5 of those being collabs) + 6 collabs
 - AlexisDrawz          (17 icons, 6 of those being collabs) + 12 collabs
-- AngelozDD            (17 icons, 1 of those being collabs) + 2 collabs
-- Dibbj                (16 icons, 1 of those being collabs) + 4 collabs
-	- [@lwtuseater.bsky.social‬](https://bsky.app/profile/lwtuseater.bsky.social‬) on Bluesky
 - J3anC4rlo            (17 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- Dibbj                (16 icons, 2 of those being collabs) + 4 collabs
+	- [@lwtuseater.bsky.social‬](https://bsky.app/profile/lwtuseater.bsky.social‬) on Bluesky
 - Hydr4ze              (16 icons, 1 of those being collabs)
+- AngelozDD            (14 icons, 1 of those being collabs) + 2 collabs
 - KetsuTT              (14 icons, 1 of those being collabs)
 - Exetric              (12 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
@@ -725,6 +725,10 @@ cube 193:
 - By RetroAdvance64.
 - The idea featuring the cube resembling a sock puppet is inspired from the shape of the original cube.
 
+cube 194:
+- By Aleiz21.
+- Icon reference to the Monstercat logo.
+
 cube 195:
 - By RetroAdvance64.
 
@@ -845,6 +849,7 @@ cube 231:
 - Vague reference to the character "Tower" created by ScorchVX
 
 Collab with cyanflower.
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1384920151148855418/image0.jpg?ex=68542ee6&is=6852dd66&hm=7402db141faf84c49d1ad797b1742b110701d066ac6ad65c54215e9f19214be8&=&format=webp&width=1138&height=930)
 
 cube 232:
 - By fiegael.
@@ -1106,6 +1111,9 @@ cube 309:
 cube 310:
 - By JustHyperCL.
 - A rebirth version of my first original icon ever, made  exclusively to fit to a very specific existing icon.
+
+cube 311:
+- By ML500.
 
 cube 312:
 - By Aleiz21.
@@ -1626,7 +1634,7 @@ cube 464:
 
 cube 465:
 - By cyanflower.
-- A redesign that turns the cube into a dumpling bowl, following the idea of "a legged cube with something pointing out of it at the top".
+- Fixme.
 
 cube 466:
 - By Drian114.
@@ -1725,6 +1733,10 @@ ship 10:
 
 ship 11:
 - By NHJ.
+
+ship 12:
+- By Dibbj.
+- Truthful remake to the original.       burd.
 
 ship 13:
 - By Aleiz21.
@@ -1919,6 +1931,7 @@ ship 73:
 
 ship 74:
 - By Aleiz21.
+- Fixme.
 
 ship 75:
 - By aGold.
@@ -2102,6 +2115,7 @@ ship 131:
 
 ship 132:
 - By Aleiz21.
+- Fixme.
 
 ship 133:
 - By RetroAdvance64.
@@ -2128,14 +2142,14 @@ ship 138:
 
 ship 139:
 - By Dibbj.
-- Collab with ML5.
+- Collab with ML500.
 
 ship 140:
 - By NHJ.
 
 ship 141:
 - By Dibbj.
-- Reshaped to be less bulky and rather streamlined like an aquatic creature.
+- Direct, more streamlined redesign.
 
 ship 142:
 - By Luar77.
@@ -2793,6 +2807,10 @@ ufo 60:
 - By bugpesto.
 - From old Nintendo to new Nintendo, the evolution is crazy.
 
+ufo 61:
+- By JigglypuffGD.
+- References the final boss of the level The Mayhem War by HHyper.
+
 ufo 62:
 - By Drian114.
 
@@ -2870,6 +2888,9 @@ ufo 83:
 ufo 84:
 - By ML500.
 
+ufo 85:
+- By Sharkcrome.
+
 ufo 86:
 - By ML500.
 
@@ -2897,6 +2918,7 @@ ufo 94:
 
 ufo 95:
 - By Aleiz21.
+- Fixme.
 
 ufo 96:
 - By bugpesto.
@@ -2933,6 +2955,7 @@ ufo 106:
 
 ufo 108:
 - By AlexanderX1ta.
+- Fixme.
 
 ufo 109:
 - By bugpesto.
@@ -3251,7 +3274,7 @@ wave 60:
 
 wave 61:
 - By ML500.
-- Collab with DibbJ — Ported from Master Pack.
+- Collab with Dibbj — Ported from Master Pack.
 
 wave 62:
 - By Luar77.
@@ -3602,6 +3625,7 @@ spider 4:
 
 spider 5:
 - By Aleiz21.
+- Fixme.
 
 spider 6:
 - By KevgenGD.
