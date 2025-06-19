@@ -13,18 +13,18 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-- Aleiz21              (103 icons, 8 of those being collabs) + 4 collabs
+- Aleiz21              (103 icons, 9 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - NHJ                  (77 icons, 2 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- JigglypuffGD         (81 icons, 9 of those being collabs) + 2 collabs
+- JigglypuffGD         (81 icons, 10 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- cyanflower           (74 icons, 2 of those being collabs) + 3 collabs
+- cyanflower           (74 icons, 2 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (70 icons, 1 of those being collabs) + 2 collabs
+- Sharkcrome           (70 icons, 1 of those being collabs) + 4 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
@@ -45,11 +45,11 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - JustHyperCL          (39 icons, 11 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (31 icons, 4 of those being collabs) + 3 collabs
-- AlexanderX1ta        (22 icons, 1 of those being collabs) + 1 collab
+- AlexanderX1ta        (22 icons, 1 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- electrictaco         (20 icons, 5 of those being collabs) + 6 collabs
+- electrictaco         (20 icons, 5 of those being collabs) + 7 collabs
 - AlexisDrawz          (17 icons, 6 of those being collabs) + 12 collabs
 - J3anC4rlo            (17 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
@@ -66,13 +66,13 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - Luar77               (11 icons, 1 of those being collabs)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- ReenRN               (5 icons) + 1 collab
+- TheRare5             (5 icons)
+- ReenRN               (5 icons)
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
-- TheRare5             (5 icons)
 - Th3Angel0ffic3       (5 icons, 1 of those being collabs)
 - Hushroom             (4 icons)
-- DanKy99              (4 icons)
+- DanKy99              (3 icons)
 - airiLmao             (1 icon) + 3 collabs
 - KazooTheCat          (1 icon) + 2 collabs
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
@@ -720,6 +720,10 @@ cube 190:
 
 cube 191:
 - By RetroAdvance64.
+
+cube 192:
+- By bugpesto.
+- 👌.
 
 cube 193:
 - By RetroAdvance64.
@@ -2306,6 +2310,10 @@ ball 19:
 ball 20:
 - By NHJ.
 
+ball 21:
+- By bugpesto.
+- Collab with alexanderX1ta, electrictaco, sharkcrome.
+
 ball 22:
 - By aGold.
 
@@ -3016,6 +3024,9 @@ ufo 128:
 ufo 129:
 - By Aleiz21.
 
+ufo 130:
+- By Luar77.
+
 ufo 131:
 - By Drian114.
 
@@ -3165,6 +3176,7 @@ wave 25:
 
 wave 26:
 - By Sharkcrome.
+- Impending redesign .. [fixme].
 
 wave 28:
 - By aGold.
