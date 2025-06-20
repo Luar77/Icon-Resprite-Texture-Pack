@@ -8,7 +8,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- ML500                (110 icons, 8 of those being collabs) + 5 collabs
+- ML500                (111 icons, 8 of those being collabs) + 5 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
@@ -51,7 +51,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - AlexisDrawz          (19 icons, 6 of those being collabs) + 12 collabs
 - electrictaco         (20 icons, 5 of those being collabs) + 7 collabs
-- Dibbj                (18 icons, 2 of those being collabs) + 5 collabs
+- Dibbj                (17 icons, 2 of those being collabs) + 5 collabs
 	- [@lwtuseater.bsky.social‬](https://bsky.app/profile/lwtuseater.bsky.social‬) on Bluesky
 - AngelozDD            (17 icons, 1 of those being collabs) + 2 collabs
 - KetsuTT              (16 icons, 1 of those being collabs)
@@ -227,7 +227,7 @@ cube 43:
 
 cube 44:
 - By KevgenGD.
-- [fix me].
+- [fixme].
 
 cube 45:
 - By Drian114.
@@ -1829,6 +1829,9 @@ ship 45:
 ship 46:
 - By Aleiz21.
 
+ship 47:
+- By airiLmao.
+
 ship 48:
 - By KevgenGD.
 
@@ -3121,10 +3124,6 @@ wave 22:
 wave 23:
 - By JustHyperCL.
 
-wave 24:
-- By aGold.
-- Fixme.
-
 wave 28:
 - By aGold.
 
@@ -3141,6 +3140,9 @@ wave 31:
 wave 32:
 - By bugpesto.
 - [fixme].
+
+wave 33:
+- By bugpesto.
 
 wave 34:
 - By electrictaco.
@@ -3196,10 +3198,6 @@ wave 50:
 
 wave 51:
 - By NHJ.
-
-wave 53:
-- By aGold.
-- [fixme].
 
 wave 54:
 - By Sharkcrome.
