@@ -2394,6 +2394,10 @@ ball 53:
 ball 54:
 - By bugpesto.
 
+ball 55:
+- By ML500.
+- Luar's third ball (I think that's a tumor at this point).
+
 ball 56:
 - By AlexanderX1ta.
 - Collab with AlexisDrawz.
@@ -3124,6 +3128,9 @@ wave 22:
 wave 23:
 - By JustHyperCL.
 
+wave 25:
+- By KevgenGD.
+
 wave 28:
 - By aGold.
 
@@ -3498,6 +3505,11 @@ robot 49:
 robot 50:
 - By ML500.
 
+robot 51:
+- By Luar77.
+- Based on the Gutterman from ULTRAKILL.
+- ![reference_image_1](https://media.discordapp.net/attachments/824435035347615777/1385682646302199919/1920px-Concept_gutterman.png?ex=6856f507&is=6855a387&hm=f9d3a59fad2dc3288a0b9dd5da4252249c43f7a23f80b0deb4e1c5be5886f7b7&=&format=webp&quality=lossless&width=1834&height=800)
+
 robot 52:
 - By Sorao.
 
@@ -3567,7 +3579,6 @@ spider 4:
 
 spider 5:
 - By Aleiz21.
-- Fixme.
 
 spider 6:
 - By KevgenGD.
