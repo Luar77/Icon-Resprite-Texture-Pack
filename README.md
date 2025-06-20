@@ -16,7 +16,7 @@ Apparently some people were really insisting on helping with the development cos
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- ML500                (110 icons, 8 of those being collabs) + 5 collabs
+- ML500                (111 icons, 8 of those being collabs) + 5 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
@@ -59,7 +59,7 @@ Apparently some people were really insisting on helping with the development cos
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - AlexisDrawz          (19 icons, 6 of those being collabs) + 12 collabs
 - electrictaco         (20 icons, 5 of those being collabs) + 7 collabs
-- Dibbj                (18 icons, 2 of those being collabs) + 5 collabs
+- Dibbj                (17 icons, 2 of those being collabs) + 5 collabs
 	- [@lwtuseater.bsky.social‬](https://bsky.app/profile/lwtuseater.bsky.social‬) on Bluesky
 - AngelozDD            (17 icons, 1 of those being collabs) + 2 collabs
 - KetsuTT              (16 icons, 1 of those being collabs)
