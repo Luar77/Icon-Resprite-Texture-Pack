@@ -4,11 +4,11 @@ After over 3 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (128 icons, 3 of those being collabs) + 14 collabs
+- RetroAdvance64       (130 icons, 3 of those being collabs) + 14 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- ML500                (106 icons, 8 of those being collabs) + 5 collabs
+- ML500                (110 icons, 8 of those being collabs) + 5 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
@@ -24,46 +24,46 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (74 icons, 2 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (70 icons, 1 of those being collabs) + 4 collabs
+- Drian114             (75 icons, 4 of those being collabs) + 4 collabs
+	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
+	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
+	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
+- bugpesto             (73 icons, 2 of those being collabs) + 1 collab
+	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
+	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
+	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
+- Sharkcrome           (58 icons, 1 of those being collabs) + 4 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- bugpesto             (70 icons, 2 of those being collabs) + 1 collab
-	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
-	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
-	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- Drian114             (69 icons, 4 of those being collabs) + 4 collabs
-	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
-	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
-	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
-- KevgenGD             (59 icons, 2 of those being collabs) + 1 collab
-- aGold                (51 icons, 4 of those being collabs) + 1 collab
+- KevgenGD             (52 icons, 2 of those being collabs) + 1 collab
+- aGold                (52 icons, 4 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
 - CraZyboy6484         (42 icons)
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- JustHyperCL          (39 icons, 11 of those being collabs) + 8 collabs
+- JustHyperCL          (38 icons, 11 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (31 icons, 4 of those being collabs) + 3 collabs
 - AlexanderX1ta        (22 icons, 1 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
+- AlexisDrawz          (19 icons, 6 of those being collabs) + 12 collabs
 - electrictaco         (20 icons, 5 of those being collabs) + 7 collabs
-- AlexisDrawz          (17 icons, 6 of those being collabs) + 12 collabs
-- J3anC4rlo            (17 icons, 1 of those being collabs) + 1 collab
+- Dibbj                (18 icons, 2 of those being collabs) + 5 collabs
+	- [@lwtuseater.bsky.social‬](https://bsky.app/profile/lwtuseater.bsky.social‬) on Bluesky
+- AngelozDD            (17 icons, 1 of those being collabs) + 2 collabs
+- KetsuTT              (16 icons, 1 of those being collabs)
+- J3anC4rlo            (14 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- Dibbj                (16 icons, 2 of those being collabs) + 4 collabs
-	- [@lwtuseater.bsky.social‬](https://bsky.app/profile/lwtuseater.bsky.social‬) on Bluesky
-- Hydr4ze              (16 icons, 1 of those being collabs)
-- AngelozDD            (14 icons, 1 of those being collabs) + 2 collabs
-- KetsuTT              (14 icons, 1 of those being collabs)
+- Hydr4ze              (14 icons, 1 of those being collabs)
 - Exetric              (12 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
 - ChileMationsxD       (12 icons)
-- Luar77               (11 icons, 1 of those being collabs)
+- Luar77               (12 icons, 2 of those being collabs)
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
 - TheRare5             (5 icons)
@@ -88,14 +88,14 @@ cube 1:
 
 cube 2:
 - By cyanflower.
-- This cube's changes are in reference to cyanflower's general liking of slime, including his online persona/mascot being a "slimeboy". cyanflower primarily uses Cube 2, and has nicknamed it "Goohead".
+- A slime-themed redesign of the original cube. cyanflower loves slimes :D.
 
 cube 3:
 - By NHJ.
 
 cube 4:
 - By cyanflower.
-- It's quite literally the same cube but shiny. The outline is also slightly different given it is a recreation by cyanflower.
+- Shiny!.
 
 cube 5:
 - By NHJ.
@@ -127,7 +127,7 @@ cube 12:
 
 cube 13:
 - By cyanflower.
-- A basic redesign of the original cube that makes its monitor-esque appearance clearer. Contrary to popular belief, Cube 269 was not intentionally based on the beta/flipped version of the original cube.
+- Changed to a more monitor-like design. Contrary to popular belief, Cube 269 was not based on the beta version of the original cube.
 
 cube 14:
 - By ML500.
@@ -143,9 +143,6 @@ cube 16:
 cube 17:
 - By cyanflower.
 - A basic redesign of the original cube. Keeps the general idea, but trianglizes it.
-
-cube 18:
-- By JigglypuffGD.
 
 cube 19:
 - By NHJ.
@@ -193,7 +190,8 @@ cube 32:
 - By KevgenGD.
 
 cube 33:
-- By Sharkcrome.
+- By Drian114.
+- This version remixes the original cube 33 adding some aspects of cube 31 as well.
 
 cube 34:
 - By Sharkcrome.
@@ -216,9 +214,6 @@ cube 39:
 
 YOUR TAKING TOO LONG.
 
-cube 40:
-- By KevgenGD.
-
 cube 41:
 - By Sharkcrome.
 
@@ -228,9 +223,11 @@ cube 42:
 
 cube 43:
 - By cyanflower.
+- Complexified, but the basic pattern idea remains.
 
 cube 44:
 - By KevgenGD.
+- [fix me].
 
 cube 45:
 - By Drian114.
@@ -324,9 +321,6 @@ cube 71:
 
 cube 72:
 - By AngelozDD.
-
-cube 73:
-- By Hydr4ze.
 
 cube 74:
 - By Hushroom.
@@ -423,9 +417,6 @@ cube 101:
 - This cube is based of the something about series by terminalmontage, this icon is based of Kirby’s design in the series.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_101(1).mp4)
 
-cube 102:
-- By KevgenGD.
-
 cube 103:
 - By AngelozDD.
 
@@ -464,7 +455,7 @@ cube 113:
 
 cube 114:
 - By cyanflower.
-- This cube's redesign is in reference to YoReid, and his general level art styles, heavily inspired by games which use pixel art styles.
+- Changes the cube to have a pixel design, inspired by YoReid. insert jones_biting_nails here.
 
 cube 115:
 - By NHJ.
@@ -515,6 +506,7 @@ cube 129:
 
 cube 130:
 - By cyanflower.
+- A basic redesign of the original cube.
 
 cube 131:
 - By NHJ.
@@ -741,7 +733,7 @@ cube 196:
 
 cube 197:
 - By cyanflower.
-- This cube's redesign is in reference to the boss character Big Dog from roguelike indie game "Nuclear Throne", speculated to be the inspiration for the original cube as well.
+- Changed to a design directly based on Big Dog from the game Nuclear Throne, which might have been the original cube’s inspiration point.
 
 cube 198:
 - By ML500.
@@ -764,9 +756,7 @@ cube 203:
 - By JigglypuffGD.
 
 cube 204:
-- By Sharkcrome.
-- Refrence to "Mako", a Legend from the game Brawlhalla.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_204(1).png)
+- By RetroAdvance64.
 
 cube 205:
 - By cyanflower.
@@ -794,6 +784,11 @@ cube 211:
 
 cube 213:
 - By ML500.
+
+cube 214:
+- By electrictaco.
+- Based on the 'Whisperer' enemy from the Minecraft Dungeons DLC Jungle Awakens.
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1381102969923305603/image.png?ex=68464bdf&is=6844fa5f&hm=285de48abfbc625ab810c05b06b2366454aa0e228796a5931cdc81aa3f5139ea&=&format=webp&quality=lossless&width=698&height=930)
 
 cube 215:
 - By CraZyboy6484.
@@ -872,7 +867,7 @@ cube 236:
 
 cube 237:
 - By cyanflower.
-- This cube's redesign is in reference to the character Isaac from famous roguelike indie game "The Binding of Isaac". The tears on this cube's eyes are directly based off the original cube's tears, instead of the flat downwards design usually incorporated with Isaac.
+- Changed to a design directly based on Isaac from the game The Binding of Isaac. Keeps the original cube’s flowing tear design rather than the original source’s simple-lined tear design.
 
 cube 238:
 - By KetsuTT.
@@ -996,7 +991,7 @@ cube 274:
 
 cube 275:
 - By cyanflower.
-- This cube's redesign is in reference to Tokyo Machine music label "CHOMPO"'s mascot of the same name, and has been noticed by one of CHOMPO's managers in the past!.
+- Changed to a design directly based on CHOMPO, the mascot of the label of the same name by Tokyo Machine.
 
 cube 276:
 - By RetroAdvance64.
@@ -1017,16 +1012,13 @@ cube 280:
 
 cube 281:
 - By cyanflower.
-- This cube's redesign is in direct reference to the original icon's creator, rafer. More specifically, this cube's redesign is based off rafer's stylization of the Shy Guy cube as it appears in his Geometry Dash animation series, representing him.
+- Changed to a design directly based on rafer’s version of the Shy Guy cube from his Geometry Dash level animations. Also approved by rafer!.
 
 cube 282:
 - By NHJ.
 
 cube 283:
 - By ML500.
-
-cube 284:
-- By aGold.
 
 cube 285:
 - By bugpesto.
@@ -1255,7 +1247,7 @@ cube 352:
 
 cube 353:
 - By cyanflower.
-- An unrelated pattern cube that just so happened to fit well as a replacement.
+- A basic redesign of the original cube.
 
 cube 354:
 - By Sorao.
@@ -1335,7 +1327,7 @@ cube 376:
 
 cube 377:
 - By cyanflower.
-- Made to fit in with Sorao's redesign of Cube 376, following the "Advanced Gameboy" idea of it. Like the original cube, this one has a "hostile" spin on the cube it's a counterpart of, having a mad expression and a heavy secondary gradient.
+- Made to fit in with Sorao’s “Advanced Gameboy” redesign of Cube 376, but based on the original cube’s mad expression and heavy gradient.
 
 cube 378:
 - By JigglypuffGD.
@@ -1368,6 +1360,7 @@ cube 385:
 
 cube 386:
 - By cyanflower.
+- Keeps the original’s knight design idea while changing the armor and adding a Cube face.
 
 cube 387:
 - By Hydr4ze.
@@ -1442,6 +1435,7 @@ cube 406:
 
 cube 407:
 - By cyanflower.
+- Keeps the original’s reference to Ash from the game The End is Nigh, but now front-facing and based on a different expression from the original game.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1365341982872047688/IMG_3372.webp?ex=680cf54f&is=680ba3cf&hm=23211f03266cdd4ffdf77dfc9d126bf06bb5f1bb47f0b0ee58449e2f30b3b527&=&format=webp&width=313&height=256)
 
 cube 408:
@@ -1552,7 +1546,7 @@ cube 439:
 
 cube 440:
 - By cyanflower.
-- A basic redesign of the original cube, now with an additional splatter affected by player color.
+- A basic redesign of the original cube. Has an added color splatter gimmick.
 
 cube 441:
 - By CraZyboy6484.
@@ -1583,12 +1577,6 @@ cube 447:
 cube 448:
 - By AngelozDD.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_448(1).png)
-
-cube 449:
-- By J3anC4rlo.
-
-cube 450:
-- By AlexanderX1ta.
 
 cube 451:
 - By aGold.
@@ -1684,7 +1672,7 @@ cube 478:
 
 cube 479:
 - By cyanflower.
-- A basic redesign of the original cube, keeping the general elements present with a symmetrical spin. The cube's mouth is also now open.
+- A basic redesign of the original cube. Made symmetrical as well.
 
 cube 480:
 - By NHJ.
@@ -1698,7 +1686,7 @@ cube 482:
 
 cube 483:
 - By cyanflower.
-- A basic redesign of the original cube, now going for a more general alien theming with two antennas and a curved mouth. A gradient and eye highlights have also been added.
+- Redesigned to lean more into a generic alien look. Gleeble.
 
 cube 484:
 - By ReenRN.
@@ -1745,9 +1733,6 @@ ship 12:
 ship 13:
 - By Aleiz21.
 
-ship 14:
-- By Sharkcrome.
-
 ship 15:
 - By RetroAdvance64.
 
@@ -1760,6 +1745,7 @@ ship 17:
 
 ship 18:
 - By cyanflower.
+- Changes the ship into a simple needle/spaceship fusion design.
 
 ship 19:
 - By JigglypuffGD.
@@ -1780,9 +1766,6 @@ ship 23:
 ship 24:
 - By JigglypuffGD.
 
-ship 25:
-- By J3anC4rlo.
-
 ship 26:
 - By CraZyboy6484.
 
@@ -1799,12 +1782,6 @@ ship 29:
 ship 30:
 - By Hydr4ze.
 
-ship 31:
-- By JigglypuffGD.
-
-ship 32:
-- By KevgenGD.
-
 ship 33:
 - By Dibbj.
 - Direct remake, with a more sharp and technological approach.
@@ -1820,6 +1797,7 @@ ship 35:
 
 ship 36:
 - By Dibbj.
+- Fixme.
 
 ship 37:
 - By Aleiz21.
@@ -1895,7 +1873,7 @@ ship 62:
 
 ship 63:
 - By cyanflower.
-- Collab with ML500.
+- Changes the ship to a crow. Collab with ML500.
 
 ship 64:
 - By JustHyperCL.
@@ -2005,9 +1983,11 @@ ship 96:
 
 ship 98:
 - By cyanflower.
+- Keeps the original’s Eye of Cthulhu reference while basing it on the second phase of the boss from Terraria.
 
 ship 99:
 - By cyanflower.
+- Changed to a ship directly based on the Railcannon weapon from the game ULTRAKILL, keeping the original ship’s railgun idea.
 
 ship 100:
 - By RetroAdvance64.
@@ -2140,6 +2120,7 @@ ship 136:
 
 ship 137:
 - By cyanflower.
+- Changed into the Monado Blade from the game series Xenoblade Chronicles, following the theme of “iconic video game swords”. The execution of the extra layer/color distribution are also based on the original Buster Sword ship.
 
 ship 138:
 - By RetroAdvance64.
@@ -2212,7 +2193,6 @@ ship 158:
 
 ship 159:
 - By Sorao.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_159(1).png)
 
 ship 161:
 - By Dibbj.
@@ -2285,9 +2265,6 @@ ball 11:
 ball 12:
 - By ChileMationsxD.
 
-ball 13:
-- By KevgenGD.
-
 ball 14:
 - By bugpesto.
 
@@ -2296,13 +2273,14 @@ ball 15:
 
 ball 16:
 - By cyanflower.
-- A redesign that turns this ball into a shrimp, based on an older attempted redesign by icon artist Hydr4ze. cyanflower loves shrimp.
+- Redesigned to look like a shrimp, based on an older attempted redesign by icon artist Hydr4ze. cyanflower loves shrimp.
 
 ball 17:
 - By NHJ.
 
 ball 18:
 - By cyanflower.
+- Changed to a ball directly based on the Cyclones from the mobile game The Battle Cats, specifically the Black Cyclone.
 
 ball 19:
 - By aGold.
@@ -2319,9 +2297,6 @@ ball 22:
 
 ball 23:
 - By JigglypuffGD.
-
-ball 24:
-- By JustHyperCL.
 
 ball 25:
 - By Sharkcrome.
@@ -2410,11 +2385,11 @@ ball 51:
 ball 52:
 - By AlexisDrawz.
 
+ball 53:
+- By JustHyperCL.
+
 ball 54:
 - By bugpesto.
-
-ball 55:
-- By Sharkcrome.
 
 ball 56:
 - By AlexanderX1ta.
@@ -2429,9 +2404,6 @@ ball 58:
 
 ball 59:
 - By JigglypuffGD.
-
-ball 60:
-- By Sharkcrome.
 
 ball 61:
 - By Drian114.
@@ -2550,9 +2522,6 @@ ball 92:
 - By RetroAdvance64.
 - In collaboration with AngelozDD.
 
-ball 93:
-- By Hydr4ze.
-
 ball 94:
 - By Sharkcrome.
 
@@ -2568,7 +2537,7 @@ ball 97:
 
 ball 98:
 - By cyanflower.
-- Similar to Cube 2, this ball's redesign is also in reference to cyanflower's general liking of slime, and is also based off his primary usage of Cube 2, nicknamed "Goohead" by him. This ball also drools.
+- Fixme.
 
 ball 99:
 - By Sharkcrome.
@@ -2657,7 +2626,7 @@ ufo 7:
 
 ufo 8:
 - By cyanflower.
-- This UFO's redesign is in reference to the character Jack Frost from the Atlus role-playing game series "Shin Megami Tensei".
+- Changed to a design directly based on Jack Frost from the game series Shin Megami Tensei. Heeho!.
 
 ufo 9:
 - By Sorao.
@@ -2670,7 +2639,7 @@ ufo 11:
 
 ufo 12:
 - By cyanflower.
-- A redesign of the original UFO that incorporates a more obvious "eye" element to it.
+- Redesigns the UFO to have an eye-focused design.
 
 ufo 13:
 - By Aleiz21.
@@ -2719,15 +2688,12 @@ ufo 29:
 
 ufo 31:
 - By cyanflower.
-- A basic redesign of the original UFO that aims to polish it to fit more with modern icon creation standards.
+- A redesign of the UFO that keeps the original’s elements as faithfully as possible.
 
 ufo 32:
 - By aGold.
 
 ufo 33:
-- By Aleiz21.
-
-ufo 34:
 - By Aleiz21.
 
 ufo 35:
@@ -2757,12 +2723,6 @@ ufo 42:
 
 ufo 43:
 - By RetroAdvance64.
-
-ufo 44:
-- By Sharkcrome.
-- References the crown phase of the Boss in the "Just Shapes & Beats" game
-the level with the **Nitro Fun - Final Boss** song.
-- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1380291414122037258/Untitled238_20250601191747.png?ex=6843580d&is=6842068d&hm=2082ab754d8726dae11362726283bac3962d574ea76d87de89078415dd1cf80e&=&format=webp&quality=lossless&width=930&height=930)
 
 ufo 45:
 - By Sharkcrome.
@@ -2803,6 +2763,7 @@ ufo 55:
 
 ufo 56:
 - By cyanflower.
+- Made consistent with the Wubbaduck robot.
 
 ufo 57:
 - By bugpesto.
@@ -2833,9 +2794,6 @@ ufo 64:
 ufo 65:
 - By Drian114.
 
-ufo 66:
-- By Sharkcrome.
-
 ufo 67:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- The horns are more curved upwards.
@@ -2860,9 +2818,6 @@ ufo 72:
 ufo 73:
 - By Aleiz21.
 
-ufo 74:
-- By KevgenGD.
-
 ufo 75:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- Ported from Supernova.
@@ -2885,7 +2840,7 @@ ufo 80:
 - By Aleiz21.
 
 ufo 81:
-- By Aleiz21.
+- By KevgenGD.
 
 ufo 82:
 - By JigglypuffGD.
@@ -2915,9 +2870,6 @@ ufo 90:
 ufo 91:
 - By ML500.
 
-ufo 92:
-- By J3anC4rlo.
-
 ufo 93:
 - By Aleiz21.
 
@@ -2926,7 +2878,6 @@ ufo 94:
 
 ufo 95:
 - By Aleiz21.
-- Fixme.
 
 ufo 96:
 - By bugpesto.
@@ -2957,6 +2908,7 @@ ufo 104:
 
 ufo 105:
 - By aGold.
+- [fixme].
 
 ufo 106:
 - By RetroAdvance64.
@@ -2976,9 +2928,6 @@ ufo 111:
 
 ufo 112:
 - By Aleiz21.
-
-ufo 113:
-- By Sharkcrome.
 
 ufo 115:
 - By Drian114.
@@ -3026,6 +2975,9 @@ ufo 129:
 
 ufo 130:
 - By Luar77.
+- Collab with Dibbj.
+Reference to the UBE™ from the level "TopiaTopia" by Dibbj and Luar77. UFO Booster Extension (UBE for short) is the official name of the piece that gets attached to the player's ufo (the thing this icon references), that allows the player to perform a longer jump when charged.
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1385318707043242075/image.png?ex=6855a215&is=68545095&hm=20f80fd7a4f7ad7e048c3116eb75c4f382f9263816a11cffff1e3e8c957e85cb&=&format=webp&quality=lossless&width=523&height=394)
 
 ufo 131:
 - By Drian114.
@@ -3075,6 +3027,7 @@ ufo 144:
 
 ufo 145:
 - By cyanflower.
+- Changed into a more devilish design based on the original UFO’s “pixel demon” premise.
 
 ufo 146:
 - By ML500.
@@ -3170,13 +3123,7 @@ wave 23:
 
 wave 24:
 - By aGold.
-
-wave 25:
-- By Sharkcrome.
-
-wave 26:
-- By Sharkcrome.
-- Impending redesign .. [fixme].
+- Fixme.
 
 wave 28:
 - By aGold.
@@ -3195,10 +3142,6 @@ wave 32:
 - By bugpesto.
 - [fixme].
 
-wave 33:
-- By Sharkcrome.
-- Refrence to Eater of souls from Terraria.
-
 wave 34:
 - By electrictaco.
 
@@ -3213,10 +3156,6 @@ wave 37:
 
 wave 38:
 - By JustHyperCL.
-
-wave 39:
-- By Sharkcrome.
-- Screw This Wave.
 
 wave 40:
 - By Sharkcrome.
@@ -3233,7 +3172,7 @@ wave 43:
 
 wave 44:
 - By cyanflower.
-- A hilariously basic redesign that removes a single line from the original's design to turn it into a "V" letter. The idea for this redesign was not sparked from anything else.
+- Drops a single line from the original design to turn the letter into “V” instead. The idea for this redesign was not sparked by anything else.
 
 wave 45:
 - By JustHyperCL.
@@ -3260,6 +3199,7 @@ wave 51:
 
 wave 53:
 - By aGold.
+- [fixme].
 
 wave 54:
 - By Sharkcrome.
@@ -3349,6 +3289,7 @@ wave 79:
 
 wave 80:
 - By cyanflower.
+- A basic redesign of the original wave.
 
 wave 81:
 - By bugpesto.
@@ -3473,9 +3414,6 @@ robot 21:
 - By RetroAdvance64.
 - Despite featuring no resemblance to the original robot, the twist is switching the robot duo from Guy-Manuel to Thomas, both from Daft Punk.
 
-robot 22:
-- By KevgenGD.
-
 robot 23:
 - By RetroAdvance64.
 
@@ -3491,10 +3429,11 @@ robot 26:
 
 robot 27:
 - By bugpesto.
+- [fixme].
 
 robot 28:
 - By cyanflower.
-- As with the original, this robot is based off GiggsRH's Wubbaduck. This version is not mechanized, and has limb textures taken from RetroAdvance64.
+- Keeps the original’s Wubbaduck reference, but de-mechanized. Limb textures taken from RetroAdvance64.
 
 robot 29:
 - By ML500.
@@ -3529,10 +3468,6 @@ robot 38:
 - By bugpesto.
 - Reworked the original icon to look more similar to the design of a Mechakoopa from Mario Bros.
 
-robot 39:
-- By KetsuTT.
-- [fixme].
-
 robot 41:
 - By Drian114.
 - Robot 41 has been redesigned to have the appearance of a velociraptor, while keeping the same vibe of its original T-Rex counterpart.
@@ -3565,9 +3500,6 @@ robot 49:
 robot 50:
 - By ML500.
 
-robot 51:
-- By KevgenGD.
-
 robot 52:
 - By Sorao.
 
@@ -3589,9 +3521,6 @@ robot 56:
 robot 57:
 - By electrictaco.
 - Inspired by the character Ghost Rider from Marvel Comics, with the skull being from the geometry dash editor [fixme].
-
-robot 58:
-- By KevgenGD.
 
 robot 59:
 - By KetsuTT.
@@ -3628,6 +3557,9 @@ robot 68:
 
 spider 1:
 - By RetroAdvance64.
+
+spider 2:
+- By Sharkcrome.
 
 spider 3:
 - By JigglypuffGD.
@@ -3669,9 +3601,6 @@ spider 14:
 spider 15:
 - By KevgenGD.
 
-spider 16:
-- By KevgenGD.
-
 spider 17:
 - By bugpesto.
 
@@ -3690,9 +3619,6 @@ spider 21:
 
 spider 22:
 - By JigglypuffGD.
-
-spider 23:
-- By Aleiz21.
 
 spider 24:
 - By aGold.
@@ -3750,6 +3676,11 @@ spider 42:
 spider 43:
 - By AngelozDD.
 
+spider 44:
+- By Drian114.
+- Based on one of the earliest fan-made spiders before update 2.1 came out.
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1385401666290974860/image.png?ex=6855ef58&is=68549dd8&hm=ba65db2a26c83f731073b4b97b5e60f3242b00f6bba0faa43551e7a7916fde2f&=&format=webp&quality=lossless&width=500&height=410)
+
 spider 46:
 - By bugpesto.
 
@@ -3759,7 +3690,7 @@ spider 47:
 
 spider 48:
 - By Aleiz21.
-- Offset issues.
+- Fixme.
 
 spider 49:
 - By Drian114.
@@ -3769,9 +3700,6 @@ spider 50:
 
 spider 51:
 - By Aleiz21.
-
-spider 52:
-- By bugpesto.
 
 spider 53:
 - By NHJ.
@@ -3829,6 +3757,7 @@ swing 2:
 
 swing 3:
 - By cyanflower.
+- Changed to have a jester-like appearance.
 
 swing 4:
 - By JustHyperCL.
@@ -3842,7 +3771,8 @@ swing 6:
 
 swing 7:
 - By KevgenGD.
-- This is a reference to a character from the cartoon "Kikoriki".
+- [fixme].
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1385528520998125628/kiko_2.png?ex=6856657d&is=685513fd&hm=733f486883d40cfae901799557f5cdc081d743ad44f65db173f273a2deb929a4&=&format=webp&quality=lossless&width=1200&height=675)
 
 swing 8:
 - By JigglypuffGD.
@@ -3867,7 +3797,7 @@ swing 13:
 
 swing 14:
 - By Luar77.
-- Based on the Drone enemies from Ultrakill.
+- Based on the Drone enemies from ULTRAKILL.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/swing_14(1).png)
 
 swing 15:
@@ -3979,7 +3909,7 @@ jetpack 3:
 
 jetpack 4:
 - By Luar77.
-- Collab with NHJ. Based on the character V1 from Ultrakill.
+- Collab with NHJ. Based on the character V1 from ULTRAKILL.
 - ![reference_image_1](https://media.discordapp.net/attachments/824435035347615777/1381585911585968178/1024px-Concept_v1_ortho_armless.png?ex=68480da5&is=6846bc25&hm=12cf1481ec2e7f40a58a6506c52c1d491f2b6754182aa0a478b7359e284fb3ef&=&format=webp&quality=lossless&width=1126&height=930)
 
 jetpack 5:
