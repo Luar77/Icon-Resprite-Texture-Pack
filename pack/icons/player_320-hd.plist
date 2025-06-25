@@ -9,15 +9,15 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,0.25}</string>
 			<key>spriteSize</key>
-			<string>{60,60}</string>
+			<string>{60,61}</string>
 			<key>spriteSourceSize</key>
-			<string>{66,66}</string>
+			<string>{65,65}</string>
 			<key>textureRect</key>
-			<string>{{70,64},{60,60}}</string>
+			<string>{{69,2},{60,61}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>player_320_2_001.png</key>
 		<dict>
@@ -28,24 +28,9 @@
 			<key>spriteSize</key>
 			<string>{55,55}</string>
 			<key>spriteSourceSize</key>
-			<string>{66,66}</string>
+			<string>{65,65}</string>
 			<key>textureRect</key>
-			<string>{{132,64},{55,55}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
-		<key>player_320_extra_001.png</key>
-		<dict>
-			<key>aliases</key>
-			<array/>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{60,60}</string>
-			<key>spriteSourceSize</key>
-			<string>{66,66}</string>
-			<key>textureRect</key>
-			<string>{{70,2},{60,60}}</string>
+			<string>{{2,69},{55,55}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -56,11 +41,11 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{66,66}</string>
+			<string>{65,65}</string>
 			<key>spriteSourceSize</key>
-			<string>{66,66}</string>
+			<string>{65,65}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{66,66}}</string>
+			<string>{{2,2},{65,65}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
