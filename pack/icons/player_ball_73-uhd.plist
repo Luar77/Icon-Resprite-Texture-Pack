@@ -11,11 +11,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{135,130}</string>
+				<string>{142,142}</string>
 				<key>spriteSourceSize</key>
-				<string>{135,130}</string>
+				<string>{152,152}</string>
 				<key>textureRect</key>
-				<string>{{0,139},{135,130}}</string>
+				<string>{{153,0},{142,142}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -26,26 +26,26 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{128,123}</string>
+				<string>{132,132}</string>
 				<key>spriteSourceSize</key>
-				<string>{128,123}</string>
+				<string>{152,152}</string>
 				<key>textureRect</key>
-				<string>{{144,0},{128,123}}</string>
+				<string>{{0,153},{132,132}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>player_ball_73_extra_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{10,-10}</string>
 				<key>spriteSize</key>
-				<string>{124,119}</string>
+				<string>{92,78}</string>
 				<key>spriteSourceSize</key>
-				<string>{124,119}</string>
+				<string>{152,152}</string>
 				<key>textureRect</key>
-				<string>{{144,129},{124,119}}</string>
+				<string>{{133,153},{92,78}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{143,138}</string>
+				<string>{152,152}</string>
 				<key>spriteSourceSize</key>
-				<string>{143,138}</string>
+				<string>{152,152}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{143,138}}</string>
+				<string>{{0,0},{152,152}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_ball_73-uhd.png</string>
 			<key>size</key>
-			<string>{267,269}</string>
+			<string>{295,285}</string>
 			<key>textureFileName</key>
 			<string>icons/player_ball_73-uhd.png</string>
 		</dict>
