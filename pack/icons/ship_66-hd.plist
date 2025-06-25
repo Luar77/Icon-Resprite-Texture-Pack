@@ -9,43 +9,43 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-1}</string>
 			<key>spriteSize</key>
-			<string>{80,44}</string>
+			<string>{76,39}</string>
 			<key>spriteSourceSize</key>
-			<string>{84,48}</string>
+			<string>{80,43}</string>
 			<key>textureRect</key>
-			<string>{{52,2},{80,44}}</string>
+			<string>{{47,2},{76,39}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>ship_66_2_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-11,0}</string>
+			<string>{-10.75,-1.25}</string>
 			<key>spriteSize</key>
-			<string>{44,40}</string>
+			<string>{38,31}</string>
 			<key>spriteSourceSize</key>
-			<string>{84,48}</string>
+			<string>{80,43}</string>
 			<key>textureRect</key>
-			<string>{{77,84},{44,40}}</string>
+			<string>{{47,43},{38,31}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>ship_66_extra_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-0.5,6.5}</string>
+			<string>{2.5,-1.25}</string>
 			<key>spriteSize</key>
-			<string>{73,24}</string>
+			<string>{63,31}</string>
 			<key>spriteSourceSize</key>
-			<string>{84,48}</string>
+			<string>{80,43}</string>
 			<key>textureRect</key>
-			<string>{{2,88},{73,24}}</string>
+			<string>{{2,84},{63,31}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -54,13 +54,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-1}</string>
 			<key>spriteSize</key>
-			<string>{84,48}</string>
+			<string>{80,43}</string>
 			<key>spriteSourceSize</key>
-			<string>{84,48}</string>
+			<string>{80,43}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{84,48}}</string>
+			<string>{{2,2},{80,43}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -76,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/ship_66-hd.png</string>
 		<key>size</key>
-		<string>{256,128}</string>
+		<string>{128,128}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
