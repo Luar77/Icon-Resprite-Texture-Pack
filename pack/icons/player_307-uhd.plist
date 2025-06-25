@@ -11,11 +11,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{121,121}</string>
+				<string>{120,120}</string>
 				<key>spriteSourceSize</key>
-				<string>{163,142}</string>
+				<string>{720,720}</string>
 				<key>textureRect</key>
-				<string>{{131,0},{121,121}}</string>
+				<string>{{132,0},{120,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -28,9 +28,9 @@
 				<key>spriteSize</key>
 				<string>{84,84}</string>
 				<key>spriteSourceSize</key>
-				<string>{110,122}</string>
+				<string>{720,720}</string>
 				<key>textureRect</key>
-				<string>{{0,131},{84,84}}</string>
+				<string>{{0,132},{84,84}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -43,7 +43,7 @@
 				<key>spriteSize</key>
 				<string>{130,130}</string>
 				<key>spriteSourceSize</key>
-				<string>{162,139}</string>
+				<string>{720,720}</string>
 				<key>textureRect</key>
 				<string>{{0,0},{130,130}}</string>
 				<key>textureRotated</key>
@@ -55,13 +55,13 @@
 			<key>format</key>
 			<integer>3</integer>
 			<key>pixelFormat</key>
-			<string>RGBA4444</string>
+			<string>RGBA8888</string>
 			<key>premultiplyAlpha</key>
 			<false/>
 			<key>realTextureFileName</key>
 			<string>icons/player_307-uhd.png</string>
 			<key>size</key>
-			<string>{252,215}</string>
+			<string>{252,216}</string>
 			<key>textureFileName</key>
 			<string>icons/player_307-uhd.png</string>
 		</dict>
