@@ -4,33 +4,18 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>player_320_extra_001.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,0}</string>
-				<key>spriteSize</key>
-				<string>{120,120}</string>
-				<key>spriteSourceSize</key>
-				<string>{720,720}</string>
-				<key>textureRect</key>
-				<string>{{133,0},{120,120}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
 			<key>player_320_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{0,0.5}</string>
 				<key>spriteSize</key>
-				<string>{120,120}</string>
+				<string>{120,121}</string>
 				<key>spriteSourceSize</key>
 				<string>{720,720}</string>
 				<key>textureRect</key>
-				<string>{{133,121},{120,120}}</string>
+				<string>{{132,0},{120,121}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -45,7 +30,7 @@
 				<key>spriteSourceSize</key>
 				<string>{720,720}</string>
 				<key>textureRect</key>
-				<string>{{0,133},{110,110}}</string>
+				<string>{{0,132},{110,110}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -56,11 +41,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{132,132}</string>
+				<string>{130,130}</string>
 				<key>spriteSourceSize</key>
 				<string>{720,720}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{132,132}}</string>
+				<string>{{0,0},{130,130}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +61,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_320-uhd.png</string>
 			<key>size</key>
-			<string>{253,253}</string>
+			<string>{252,242}</string>
 			<key>textureFileName</key>
 			<string>icons/player_320-uhd.png</string>
 		</dict>
