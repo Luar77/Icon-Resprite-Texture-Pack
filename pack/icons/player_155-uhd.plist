@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{1.5,-6.5}</string>
 				<key>spriteSize</key>
-				<string>{128,122}</string>
+				<string>{139,139}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,135},{128,122}}</string>
+				<string>{{146,0},{139,139}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0.5}</string>
+				<string>{1.5,-6.5}</string>
 				<key>spriteSize</key>
-				<string>{120,113}</string>
+				<string>{129,131}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{141,0},{120,113}}</string>
+				<string>{{0,146},{129,131}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-1}</string>
+				<string>{0,-9.5}</string>
 				<key>spriteSize</key>
-				<string>{114,104}</string>
+				<string>{64,59}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{129,135},{114,104}}</string>
+				<string>{{132,146},{64,59}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -54,13 +54,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{1.5,-6.5}</string>
 				<key>spriteSize</key>
-				<string>{140,134}</string>
+				<string>{145,145}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{140,134}}</string>
+				<string>{{0,0},{145,145}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_155-uhd.png</string>
 			<key>size</key>
-			<string>{254,257}</string>
+			<string>{285,275}</string>
 			<key>textureFileName</key>
 			<string>icons/player_155-uhd.png</string>
 		</dict>
