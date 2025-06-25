@@ -11,11 +11,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{101,78}</string>
+				<string>{96,99}</string>
 				<key>spriteSourceSize</key>
-				<string>{101,78}</string>
+				<string>{96,99}</string>
 				<key>textureRect</key>
-				<string>{{0,87},{101,78}}</string>
+				<string>{{105,0},{96,99}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -26,11 +26,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{97,74}</string>
+				<string>{92,95}</string>
 				<key>spriteSourceSize</key>
-				<string>{97,74}</string>
+				<string>{92,95}</string>
 				<key>textureRect</key>
-				<string>{{110,0},{97,74}}</string>
+				<string>{{0,108},{92,95}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{14.5,0.5}</string>
+				<string>{-1,11}</string>
 				<key>spriteSize</key>
-				<string>{16,15}</string>
+				<string>{81,67}</string>
 				<key>spriteSourceSize</key>
-				<string>{101,78}</string>
+				<string>{81,67}</string>
 				<key>textureRect</key>
-				<string>{{102,87},{16,15}}</string>
+				<string>{{105,100},{81,67}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{109,86}</string>
+				<string>{104,107}</string>
 				<key>spriteSourceSize</key>
-				<string>{109,86}</string>
+				<string>{104,107}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{109,86}}</string>
+				<string>{{0,0},{104,107}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/dart_08-uhd.png</string>
 			<key>size</key>
-			<string>{207,165}</string>
+			<string>{201,203}</string>
 			<key>textureFileName</key>
 			<string>icons/dart_08-uhd.png</string>
 			#icon by Kevgen
