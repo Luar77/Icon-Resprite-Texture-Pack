@@ -9,7 +9,7 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-4.5}</string>
+				<string>{0,-9}</string>
 				<key>spriteSize</key>
 				<string>{146,74}</string>
 				<key>spriteSourceSize</key>
@@ -24,7 +24,7 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{7.5,4.5}</string>
+				<string>{7.5,0}</string>
 				<key>spriteSize</key>
 				<string>{91,48}</string>
 				<key>spriteSourceSize</key>
@@ -34,27 +34,12 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>ship_01_extra_001.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{2,-7.5}</string>
-				<key>spriteSize</key>
-				<string>{14,14}</string>
-				<key>spriteSourceSize</key>
-				<string>{152,81}</string>
-				<key>textureRect</key>
-				<string>{{147,92},{14,14}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
 			<key>ship_01_glow_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-4}</string>
+				<string>{0,-9}</string>
 				<key>spriteSize</key>
 				<string>{152,81}</string>
 				<key>spriteSourceSize</key>
