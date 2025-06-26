@@ -19,13 +19,13 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - NHJ                  (78 icons, 2 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- JigglypuffGD         (81 icons, 11 of those being collabs) + 2 collabs
-	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
-	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- Drian114             (77 icons, 6 of those being collabs) + 3 collabs
+- Drian114             (79 icons, 6 of those being collabs) + 3 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
+- JigglypuffGD         (81 icons, 11 of those being collabs) + 2 collabs
+	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
+	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - bugpesto             (75 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
@@ -53,7 +53,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - electrictaco         (22 icons, 6 of those being collabs) + 7 collabs
 - AlexisDrawz          (20 icons, 7 of those being collabs) + 12 collabs
 - AngelozDD            (20 icons, 1 of those being collabs) + 2 collabs
-- Dibbj                (16 icons, 2 of those being collabs) + 6 collabs
+- Dibbj                (17 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - KetsuTT              (16 icons, 2 of those being collabs)
 - J3anC4rlo            (14 icons, 1 of those being collabs) + 1 collab
@@ -523,6 +523,9 @@ cube 133:
 
 cube 134:
 - By aGold.
+
+cube 135:
+- By Aleiz21.
 
 cube 136:
 - By AlexanderX1ta.
@@ -1810,6 +1813,10 @@ ship 29:
 ship 30:
 - By NHJ.
 
+ship 31:
+- By JigglypuffGD.
+- Collab with Dibbj.
+
 ship 33:
 - By Dibbj.
 - Direct remake, with a more sharp and technological approach.
@@ -1983,6 +1990,9 @@ ship 87:
 ship 88:
 - By bugpesto.
 - Can I haz chezburger plx.
+
+ship 90:
+- By ML500.
 
 ship 92:
 - By RetroAdvance64.
@@ -2367,6 +2377,9 @@ ball 33:
 - By Sharkcrome.
 - Legendary Godzilla.
 
+ball 35:
+- By Aleiz21.
+
 ball 36:
 - By Hydr4ze.
 
@@ -2742,6 +2755,9 @@ ufo 32:
 ufo 33:
 - By Aleiz21.
 
+ufo 34:
+- By Aleiz21.
+
 ufo 35:
 - By Aleiz21.
 - Collab with Drian114.
@@ -2769,6 +2785,9 @@ ufo 42:
 
 ufo 43:
 - By RetroAdvance64.
+
+ufo 44:
+- By Aleiz21.
 
 ufo 45:
 - By Sharkcrome.
@@ -2867,6 +2886,10 @@ ufo 72:
 ufo 73:
 - By Aleiz21.
 
+ufo 74:
+- By bugpesto.
+- References the Camera Lakitu from Super Mario 64 DS.
+
 ufo 75:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- Ported from Supernova.
@@ -2921,6 +2944,10 @@ ufo 90:
 
 ufo 91:
 - By ML500.
+
+ufo 92:
+- By ML500.
+- Prone to changes, it has bugs.
 
 ufo 93:
 - By Aleiz21.
@@ -3049,6 +3076,7 @@ ufo 135:
 
 ufo 136:
 - By electrictaco.
+- The remake of the ufo features a non-conventional dome, meant to represent paper being printed from a typewriter.
 
 ufo 137:
 - By bugpesto.
@@ -3107,7 +3135,6 @@ wave 2:
 
 wave 3:
 - By Sorao.
-- Fixme.
 
 wave 4:
 - By JustHyperCL.
@@ -3115,7 +3142,6 @@ wave 4:
 
 wave 5:
 - By ML500.
-- Ported from Master Pack.
 
 wave 6:
 - By cyanflower.
@@ -3214,6 +3240,9 @@ wave 37:
 
 wave 38:
 - By JustHyperCL.
+
+wave 39:
+- By Sharkcrome.
 
 wave 40:
 - By Sharkcrome.
@@ -3373,7 +3402,8 @@ wave 85:
 
 wave 86:
 - By Sharkcrome.
-- Refrence to "Calamitas", a Final Boss from Terraria Calamity mod.
+- Refrence to "Calamitas", a Final Boss from Terraria Calamity mod
+FixMe, or CALAMITY well ensue.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_86(1).png)
 
 wave 87:
@@ -3672,6 +3702,9 @@ spider 14:
 spider 15:
 - By KevgenGD.
 
+spider 16:
+- By Aleiz21.
+
 spider 17:
 - By bugpesto.
 
@@ -3696,11 +3729,6 @@ spider 24:
 
 spider 25:
 - By bugpesto.
-
-spider 26:
-- By NHJ.
-- Fixme.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/spider_26(1).png)
 
 spider 27:
 - By cyanflower.
@@ -3800,6 +3828,10 @@ spider 56:
 spider 57:
 - By JigglypuffGD.
 - Collab with KazooTheCat.
+
+spider 58:
+- By Aleiz21.
+- Collab with cyanflower.
 
 spider 60:
 - By Drian114.
