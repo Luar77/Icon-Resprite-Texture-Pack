@@ -9,28 +9,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-0.2,-5}</string>
+			<string>{0,-7.25}</string>
 			<key>spriteSize</key>
-			<string>{88,40}</string>
+			<string>{78,38}</string>
 			<key>spriteSourceSize</key>
-			<string>{92,44}</string>
+			<string>{82,43}</string>
 			<key>textureRect</key>
-			<string>{{48,2},{88,40}}</string>
+			<string>{{2,86},{78,38}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>ship_84_2_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-5.5,-5}</string>
+			<string>{-5.5,-7.25}</string>
 			<key>spriteSize</key>
-			<string>{49,36}</string>
+			<string>{57,34}</string>
 			<key>spriteSourceSize</key>
-			<string>{92,44}</string>
+			<string>{82,43}</string>
 			<key>textureRect</key>
-			<string>{{90,2},{49,36}}</string>
+			<string>{{82,2},{57,34}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -39,13 +39,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-1.5,-5}</string>
+			<string>{6.5,-7.25}</string>
 			<key>spriteSize</key>
-			<string>{10,10}</string>
+			<string>{17,3}</string>
 			<key>spriteSourceSize</key>
-			<string>{92,44}</string>
+			<string>{82,43}</string>
 			<key>textureRect</key>
-			<string>{{2,96},{10,10}}</string>
+			<string>{{118,2},{17,3}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -54,13 +54,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-0.2,-5}</string>
+			<string>{0,-7.5}</string>
 			<key>spriteSize</key>
-			<string>{92,44}</string>
+			<string>{82,43}</string>
 			<key>spriteSourceSize</key>
-			<string>{92,44}</string>
+			<string>{82,43}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{92,44}}</string>
+			<string>{{2,2},{82,43}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -76,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/ship_84-hd.png</string>
 		<key>size</key>
-		<string>{256,128}</string>
+		<string>{128,128}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
