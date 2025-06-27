@@ -1,10 +1,10 @@
 # Project Remix Texture Pack (version 1.0.0-alpha)
-After over 3 months of work, we present a complete design revamp of every icon in the game. Available in high and medium quality.
+After over 4 months of work, we present a complete design revamp of every icon in the game. Available in high and medium quality.
 
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (132 icons, 3 of those being collabs) + 15 collabs
+- RetroAdvance64       (133 icons, 3 of those being collabs) + 15 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
@@ -19,7 +19,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - NHJ                  (78 icons, 2 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- Drian114             (80 icons, 6 of those being collabs) + 3 collabs
+- Drian114             (81 icons, 9 of those being collabs) + 3 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
@@ -33,7 +33,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (73 icons, 2 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (60 icons, 1 of those being collabs) + 5 collabs
+- Sharkcrome           (60 icons, 1 of those being collabs) + 6 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
@@ -53,7 +53,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - electrictaco         (22 icons, 6 of those being collabs) + 7 collabs
 - AlexisDrawz          (20 icons, 7 of those being collabs) + 12 collabs
 - AngelozDD            (20 icons, 1 of those being collabs) + 3 collabs
-- Dibbj                (17 icons, 2 of those being collabs) + 6 collabs
+- Dibbj                (18 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - KetsuTT              (16 icons, 3 of those being collabs)
 - J3anC4rlo            (14 icons, 1 of those being collabs) + 1 collab
@@ -297,6 +297,9 @@ cube 62:
 
 cube 63:
 - By ReenRN.
+
+cube 64:
+- By cyanflower.
 
 cube 65:
 - By cyanflower.
@@ -1838,6 +1841,7 @@ ship 37:
 
 ship 38:
 - By Sorao.
+- Fixme.
 
 ship 39:
 - By Aleiz21.
@@ -1856,6 +1860,7 @@ ship 43:
 
 ship 44:
 - By KevgenGD.
+- Fixme.
 
 ship 45:
 - By KevgenGD.
@@ -1976,6 +1981,7 @@ ship 83:
 
 ship 84:
 - By Sorao.
+- Collab with ML5 (main idea and shape).
 
 ship 85:
 - By RetroAdvance64.
@@ -1989,6 +1995,9 @@ ship 87:
 ship 88:
 - By bugpesto.
 - Can I haz chezburger plx.
+
+ship 89:
+- By RetroAdvance64.
 
 ship 90:
 - By ML500.
@@ -2011,6 +2020,9 @@ ship 95:
 ship 96:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- Properly references "Quetzalcoatl", a mythical deity spoken among the Aztecs and Mayans and is often depicted as a Feathered-Snake-dragon figure. Taking a spin into a more-cybernetic artstyle.
+
+ship 97:
+- By KevgenGD.
 
 ship 98:
 - By cyanflower.
@@ -3049,7 +3061,6 @@ ufo 125:
 
 ufo 128:
 - By CraZyboy6484.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_128(1).png)
 
 ufo 129:
 - By Aleiz21.
@@ -3575,6 +3586,10 @@ robot 41:
 robot 42:
 - By ML500.
 
+robot 43:
+- By JustHyperCL.
+- Collab with AlexisDrawz, RetroAdvance64.
+
 robot 44:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- More of a sidegrade version of the Robot switching the role from a Swordsman to an Axeman.
@@ -3809,6 +3824,9 @@ spider 47:
 - By Aleiz21.
 - Collab with JustHyperCL.
 
+spider 48:
+- By Dibbj.
+
 spider 49:
 - By Drian114.
 
@@ -3947,6 +3965,7 @@ swing 20:
 
 swing 21:
 - By Sorao.
+- Fixme.
 
 swing 22:
 - By RetroAdvance64.
