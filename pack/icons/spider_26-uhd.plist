@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-2}</string>
+				<string>{1,-2}</string>
 				<key>spriteSize</key>
-				<string>{120,111}</string>
+				<string>{120,113}</string>
 				<key>spriteSourceSize</key>
-				<string>{120,111}</string>
+				<string>{120,113}</string>
 				<key>textureRect</key>
-				<string>{{139,0},{120,111}}</string>
+				<string>{{139,0},{120,113}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -105,7 +105,7 @@
 				<key>spriteSourceSize</key>
 				<string>{51,80}</string>
 				<key>textureRect</key>
-				<string>{{251,83},{51,80}}</string>
+				<string>{{253,83},{51,80}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -150,7 +150,7 @@
 				<key>spriteSourceSize</key>
 				<string>{58,82}</string>
 				<key>textureRect</key>
-				<string>{{251,0},{58,82}}</string>
+				<string>{{253,0},{58,82}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -211,7 +211,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/spider_26-uhd.png</string>
 			<key>size</key>
-			<string>{309,306}</string>
+			<string>{311,306}</string>
 			<key>textureFileName</key>
 			<string>icons/spider_26-uhd.png</string>
 		</dict>
