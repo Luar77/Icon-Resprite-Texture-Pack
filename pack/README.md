@@ -19,11 +19,11 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - NHJ                  (78 icons, 2 of those being collabs) + 4 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- Drian114             (81 icons, 9 of those being collabs) + 3 collabs
+- Drian114             (81 icons, 9 of those being collabs) + 4 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social‬](https://bsky.app/profile/drian-114.bsky.social‬) on Bluesky
-- JigglypuffGD         (81 icons, 11 of those being collabs) + 2 collabs
+- JigglypuffGD         (81 icons, 12 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - bugpesto             (75 icons, 2 of those being collabs) + 1 collab
@@ -33,17 +33,17 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (73 icons, 2 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (60 icons, 1 of those being collabs) + 6 collabs
+- Sharkcrome           (60 icons, 1 of those being collabs) + 7 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - KevgenGD             (54 icons, 2 of those being collabs) + 1 collab
-- aGold                (53 icons, 4 of those being collabs) + 1 collab
+- aGold                (53 icons, 5 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
-- CraZyboy6484         (41 icons)
+- CraZyboy6484         (41 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- JustHyperCL          (37 icons, 12 of those being collabs) + 9 collabs
+- JustHyperCL          (37 icons, 12 of those being collabs) + 10 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (30 icons, 4 of those being collabs) + 3 collabs
 - AlexanderX1ta        (23 icons, 1 of those being collabs) + 2 collabs
@@ -52,10 +52,10 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - electrictaco         (22 icons, 6 of those being collabs) + 7 collabs
 - AlexisDrawz          (20 icons, 7 of those being collabs) + 12 collabs
-- AngelozDD            (20 icons, 1 of those being collabs) + 3 collabs
+- AngelozDD            (19 icons, 1 of those being collabs) + 4 collabs
 - Dibbj                (18 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
-- KetsuTT              (16 icons, 3 of those being collabs)
+- KetsuTT              (16 icons, 4 of those being collabs)
 - J3anC4rlo            (14 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
@@ -144,6 +144,9 @@ cube 16:
 cube 17:
 - By cyanflower.
 - A basic redesign of the original cube. Keeps the general idea, but trianglizes it.
+
+cube 18:
+- By KevgenGD.
 
 cube 19:
 - By NHJ.
@@ -456,6 +459,7 @@ cube 110:
 
 cube 111:
 - By aGold.
+- [fixme].
 
 cube 112:
 - By CraZyboy6484.
@@ -881,6 +885,9 @@ cube 234:
 - By Aleiz21.
 - Collab w/ Drian114.
 
+cube 235:
+- By ML500.
+
 cube 236:
 - By bugpesto.
 - References the GD chomping monster's design.
@@ -996,6 +1003,9 @@ cube 268:
 
 cube 269:
 - By RetroAdvance64.
+
+cube 270:
+- By aGold.
 
 cube 271:
 - By Drian114.
@@ -1214,7 +1224,6 @@ cube 334:
 
 cube 335:
 - By aGold.
-- [fixme].
 
 cube 336:
 - By ML500.
@@ -1255,6 +1264,9 @@ cube 346:
 cube 347:
 - By JigglypuffGD.
 - A reference to the 2.1 daily chest from RetroAdvance64's Supernova TP.
+
+cube 348:
+- By aGold.
 
 cube 349:
 - By AlexanderX1ta.
@@ -1514,6 +1526,7 @@ cube 421:
 
 cube 422:
 - By JustHyperCL.
+- [fixme].
 
 cube 423:
 - By aGold.
@@ -1614,6 +1627,7 @@ cube 449:
 
 cube 450:
 - By aGold.
+- [fixme].
 
 cube 451:
 - By aGold.
@@ -1751,6 +1765,10 @@ ship 5:
 ship 6:
 - By Sharkcrome.
 
+ship 7:
+- By JigglypuffGD.
+- Collab with ElectricTaco.
+
 ship 8:
 - By Aleiz21.
 
@@ -1770,6 +1788,10 @@ ship 12:
 
 ship 13:
 - By Aleiz21.
+
+ship 14:
+- By ML500.
+- Luar not included.
 
 ship 15:
 - By RetroAdvance64.
@@ -1803,6 +1825,12 @@ ship 23:
 
 ship 24:
 - By JigglypuffGD.
+
+ship 25:
+- By JigglypuffGD.
+- Collab with Drian114.
+
+Ash our beloved.
 
 ship 26:
 - By CraZyboy6484.
@@ -1981,7 +2009,7 @@ ship 83:
 
 ship 84:
 - By Sorao.
-- Collab with ML5 (main idea and shape).
+- Thanks to ML5 for the idea and shape.
 
 ship 85:
 - By RetroAdvance64.
@@ -2509,15 +2537,12 @@ ball 69:
 
 ball 70:
 - By JustHyperCL.
-- [fixme].
 
 ball 71:
 - By JustHyperCL.
-- [fixme].
 
 ball 72:
 - By JustHyperCL.
-- [fixme].
 
 ball 73:
 - By Drian114.
@@ -2715,6 +2740,10 @@ ufo 12:
 
 ufo 13:
 - By Aleiz21.
+
+ufo 15:
+- By KetsuTT.
+- Collab with JustHyperCL.
 
 ufo 16:
 - By bugpesto.
@@ -3100,9 +3129,6 @@ ufo 138:
 - Remake based on an artwork shown in The Apocalyptic Trilogy by APTeam.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_138(1).png)
 
-ufo 139:
-- By KetsuTT.
-
 ufo 140:
 - By Sharkcrome.
 
@@ -3216,6 +3242,10 @@ wave 22:
 
 wave 23:
 - By JustHyperCL.
+
+wave 24:
+- By aGold.
+- Collab with sharkcrome.
 
 wave 25:
 - By KevgenGD.
@@ -3521,6 +3551,9 @@ robot 21:
 - By RetroAdvance64.
 - Despite featuring no resemblance to the original robot, the twist is switching the robot duo from Guy-Manuel to Thomas, both from Daft Punk.
 
+robot 22:
+- By RetroAdvance64.
+
 robot 23:
 - By RetroAdvance64.
 
@@ -3641,9 +3674,6 @@ robot 56:
 robot 57:
 - By electrictaco.
 - Inspired by the character Ghost Rider from Marvel Comics, with the skull being from the geometry dash editor [fixme].
-
-robot 59:
-- By KetsuTT.
 
 robot 60:
 - By electrictaco.
