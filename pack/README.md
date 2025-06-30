@@ -4,7 +4,7 @@ After over 4 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (133 icons, 3 of those being collabs) + 15 collabs
+- RetroAdvance64       (134 icons, 3 of those being collabs) + 15 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
@@ -45,7 +45,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (37 icons, 12 of those being collabs) + 10 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (30 icons, 4 of those being collabs) + 3 collabs
+- Sorao                (29 icons, 4 of those being collabs) + 3 collabs
 - AlexanderX1ta        (23 icons, 1 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
@@ -1979,6 +1979,9 @@ ship 73:
 - By RetroAdvance64.
 - The Ship is heavily transformed into a trident-like weapon, inspired from the 3 spikes placed on front of the original ship.
 
+ship 74:
+- By Drian114.
+
 ship 75:
 - By aGold.
 - References the bossfight of the level "Aura" by Serponge.
@@ -3087,6 +3090,9 @@ ufo 124:
 
 ufo 125:
 - By Aleiz21.
+
+ufo 126:
+- By RetroAdvance64.
 
 ufo 128:
 - By CraZyboy6484.
