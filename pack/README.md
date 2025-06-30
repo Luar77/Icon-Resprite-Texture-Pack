@@ -3853,6 +3853,9 @@ spider 44:
 - Based on one of the earliest fan-made spiders before update 2.1 came out.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1385401666290974860/image.png?ex=6855ef58&is=68549dd8&hm=ba65db2a26c83f731073b4b97b5e60f3242b00f6bba0faa43551e7a7916fde2f&=&format=webp&quality=lossless&width=500&height=410)
 
+spider 45:
+- By electrictaco.
+
 spider 46:
 - By bugpesto.
 
