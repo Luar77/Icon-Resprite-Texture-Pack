@@ -30,7 +30,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- cyanflower           (73 icons, 2 of those being collabs) + 4 collabs
+- cyanflower           (71 icons, 2 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
 - Sharkcrome           (60 icons, 1 of those being collabs) + 7 collabs
@@ -46,11 +46,11 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - JustHyperCL          (37 icons, 12 of those being collabs) + 10 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (29 icons, 4 of those being collabs) + 3 collabs
+- electrictaco         (23 icons, 6 of those being collabs) + 7 collabs
 - AlexanderX1ta        (23 icons, 1 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- electrictaco         (22 icons, 6 of those being collabs) + 7 collabs
 - AlexisDrawz          (20 icons, 7 of those being collabs) + 12 collabs
 - AngelozDD            (19 icons, 1 of those being collabs) + 4 collabs
 - Dibbj                (18 icons, 2 of those being collabs) + 6 collabs
@@ -459,7 +459,6 @@ cube 110:
 
 cube 111:
 - By aGold.
-- [fixme].
 
 cube 112:
 - By CraZyboy6484.
@@ -811,7 +810,7 @@ cube 213:
 
 cube 214:
 - By electrictaco.
-- Based on the 'Whisperer' enemy from the Minecraft Dungeons DLC Jungle Awakens.
+- Fixme.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1381102969923305603/image.png?ex=68464bdf&is=6844fa5f&hm=285de48abfbc625ab810c05b06b2366454aa0e228796a5931cdc81aa3f5139ea&=&format=webp&quality=lossless&width=698&height=930)
 
 cube 215:
@@ -963,7 +962,7 @@ cube 255:
 
 cube 256:
 - By JustHyperCL.
-- Collab with AlexisDrawz [fixme].
+- Collab with AlexisDrawz.
 
 cube 257:
 - By Aleiz21.
@@ -1099,7 +1098,6 @@ cube 298:
 
 cube 299:
 - By electrictaco.
-- Fixme.
 
 cube 300:
 - By ChileMationsxD.
@@ -1165,7 +1163,7 @@ cube 317:
 
 cube 318:
 - By Sharkcrome.
-- References the iconic helmet of famous producer "Marshmello".
+- The helmet says : fixme :V.
 
 cube 319:
 - By cyanflower.
@@ -1627,7 +1625,6 @@ cube 449:
 
 cube 450:
 - By aGold.
-- [fixme].
 
 cube 451:
 - By aGold.
@@ -1812,6 +1809,7 @@ ship 19:
 
 ship 20:
 - By Sharkcrome.
+- "fixme" signal lost.
 
 ship 21:
 - By RetroAdvance64.
@@ -1933,6 +1931,10 @@ ship 56:
 ship 57:
 - By RetroAdvance64.
 
+ship 59:
+- By Drian114.
+- Collab with crazyboy6484. fixme.
+
 ship 60:
 - By NHJ.
 
@@ -2025,7 +2027,7 @@ ship 87:
 
 ship 88:
 - By bugpesto.
-- Can I haz chezburger plx.
+- [fixme].
 
 ship 89:
 - By RetroAdvance64.
@@ -2744,6 +2746,10 @@ ufo 12:
 ufo 13:
 - By Aleiz21.
 
+ufo 14:
+- By Drian114.
+- Collab with Sharkcrome.
+
 ufo 15:
 - By KetsuTT.
 - Collab with JustHyperCL.
@@ -2790,6 +2796,9 @@ ufo 28:
 ufo 29:
 - By Aleiz21.
 
+ufo 30:
+- By electrictaco.
+
 ufo 31:
 - By cyanflower.
 - A redesign of the UFO that keeps the original’s elements as faithfully as possible.
@@ -2818,6 +2827,10 @@ ufo 38:
 - By Dibbj.
 - Collaboration with Aleiz21.
 
+ufo 39:
+- By Drian114.
+- Collab with AngelozDD.
+
 ufo 40:
 - By Hydr4ze.
 
@@ -2844,7 +2857,8 @@ ufo 46:
 
 ufo 47:
 - By Sharkcrome.
-- Scary Mike Wozawoski.
+- Refrences a frame where Mike Wozawoski appears scary.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_47(1).png)
 
 ufo 48:
 - By Drian114.
@@ -3053,6 +3067,9 @@ ufo 111:
 ufo 112:
 - By Aleiz21.
 
+ufo 113:
+- By electrictaco.
+
 ufo 115:
 - By Drian114.
 
@@ -3134,6 +3151,9 @@ ufo 138:
 - By ML500.
 - Remake based on an artwork shown in The Apocalyptic Trilogy by APTeam.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_138(1).png)
+
+ufo 139:
+- By KetsuTT.
 
 ufo 140:
 - By Sharkcrome.
@@ -3679,7 +3699,12 @@ robot 56:
 
 robot 57:
 - By electrictaco.
-- Inspired by the character Ghost Rider from Marvel Comics, with the skull being from the geometry dash editor [fixme].
+
+robot 58:
+- By JigglypuffGD.
+- Loosely based off of K-VRC from the netflix show Love, Death & Robots.
+
+Collab with ElectricTaco.
 
 robot 60:
 - By electrictaco.
@@ -3953,7 +3978,6 @@ swing 6:
 
 swing 7:
 - By KevgenGD.
-- [fixme].
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1385528520998125628/kiko_2.png?ex=6856657d&is=685513fd&hm=733f486883d40cfae901799557f5cdc081d743ad44f65db173f273a2deb929a4&=&format=webp&quality=lossless&width=1200&height=675)
 
 swing 8:
