@@ -52,7 +52,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - AlexisDrawz          (20 icons, 7 of those being collabs) + 12 collabs
-- AngelozDD            (19 icons, 1 of those being collabs) + 4 collabs
+- AngelozDD            (20 icons, 1 of those being collabs) + 4 collabs
 - Dibbj                (18 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - KetsuTT              (16 icons, 4 of those being collabs)
@@ -234,7 +234,6 @@ cube 43:
 
 cube 44:
 - By KevgenGD.
-- [fixme].
 
 cube 45:
 - By Drian114.
@@ -555,7 +554,7 @@ cube 140:
 
 cube 141:
 - By Sharkcrome.
-- Floating Spider Enemy From The Classic Nokia Game Bounce.
+- Refrence to the floating spider enemy from the classic Nokia game Bounce .. [FixMe].
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_141(1).png)
 
 cube 142:
@@ -774,9 +773,6 @@ cube 202:
 
 cube 203:
 - By JigglypuffGD.
-
-cube 204:
-- By RetroAdvance64.
 
 cube 205:
 - By cyanflower.
@@ -1163,7 +1159,7 @@ cube 317:
 
 cube 318:
 - By Sharkcrome.
-- The helmet says : fixme :V.
+- Refrence to the iconic helmet of the popular producer Marshmello.
 
 cube 319:
 - By cyanflower.
@@ -1537,6 +1533,7 @@ cube 425:
 
 cube 426:
 - By Sharkcrome.
+- Kris Cross .. Fixme Boss.
 
 cube 427:
 - By JigglypuffGD.
@@ -1931,10 +1928,6 @@ ship 56:
 ship 57:
 - By RetroAdvance64.
 
-ship 59:
-- By Drian114.
-- Collab with crazyboy6484. fixme.
-
 ship 60:
 - By NHJ.
 
@@ -2288,7 +2281,7 @@ ship 161:
 
 ship 162:
 - By Sharkcrome.
-- Hypothetical Jeep convertible.
+- Fixme .. the mechanic is open.
 
 ship 163:
 - By KevgenGD.
@@ -2340,7 +2333,7 @@ ball 8:
 
 ball 9:
 - By electrictaco.
-- Fixme.
+- Thanks to Aleiz21 for the help with this icon.
 
 ball 10:
 - By NHJ.
@@ -3276,6 +3269,9 @@ wave 24:
 wave 25:
 - By KevgenGD.
 
+wave 26:
+- By AngelozDD.
+
 wave 28:
 - By aGold.
 
@@ -3708,7 +3704,7 @@ Collab with ElectricTaco.
 
 robot 60:
 - By electrictaco.
-- Collab with aGold.
+- [fixme] collab with agold.
 
 robot 61:
 - By bugpesto.
