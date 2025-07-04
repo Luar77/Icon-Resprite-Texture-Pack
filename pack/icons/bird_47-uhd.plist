@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,9.5}</string>
+				<string>{0,9}</string>
 				<key>spriteSize</key>
-				<string>{164,95}</string>
+				<string>{162,96}</string>
 				<key>spriteSourceSize</key>
 				<string>{250,250}</string>
 				<key>textureRect</key>
-				<string>{{0,104},{164,95}}</string>
+				<string>{{0,105},{162,96}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,6}</string>
+				<string>{0,4.5}</string>
 				<key>spriteSize</key>
-				<string>{154,78}</string>
+				<string>{154,81}</string>
 				<key>spriteSourceSize</key>
 				<string>{250,250}</string>
 				<key>textureRect</key>
-				<string>{{173,0},{154,78}}</string>
+				<string>{{171,0},{154,81}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,43}</string>
+				<string>{0,48}</string>
 				<key>spriteSize</key>
 				<string>{118,108}</string>
 				<key>spriteSourceSize</key>
 				<string>{250,250}</string>
 				<key>textureRect</key>
-				<string>{{252,0},{118,108}}</string>
+				<string>{{253,0},{118,108}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -60,7 +60,7 @@
 				<key>spriteSourceSize</key>
 				<string>{250,250}</string>
 				<key>textureRect</key>
-				<string>{{0,200},{150,83}}</string>
+				<string>{{0,202},{150,83}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -69,13 +69,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,9.5}</string>
+				<string>{0,9}</string>
 				<key>spriteSize</key>
-				<string>{172,103}</string>
+				<string>{170,104}</string>
 				<key>spriteSourceSize</key>
 				<string>{250,250}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{172,103}}</string>
+				<string>{{0,0},{170,104}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -91,7 +91,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/bird_47-uhd.png</string>
 			<key>size</key>
-			<string>{360,283}</string>
+			<string>{361,285}</string>
 			<key>textureFileName</key>
 			<string>icons/bird_47-uhd.png</string>
 		</dict>
