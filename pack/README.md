@@ -512,6 +512,7 @@ cube 127:
 cube 128:
 - By Drian114.
 - Cube 128 is now a direct reference from the logo of **Pac-Maze**, a now deleted mobile game which the original creator took inspiration for this icon.      PD: translation: good but don't be angry.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_128(1).png)
 
 cube 129:
 - By bugpesto.
@@ -1806,7 +1807,7 @@ ship 19:
 
 ship 20:
 - By Sharkcrome.
-- "fixme" signal lost.
+- Toredesign.
 
 ship 21:
 - By RetroAdvance64.
@@ -1883,7 +1884,6 @@ ship 43:
 
 ship 44:
 - By KevgenGD.
-- Fixme.
 
 ship 45:
 - By KevgenGD.
@@ -1927,6 +1927,10 @@ ship 56:
 
 ship 57:
 - By RetroAdvance64.
+
+ship 59:
+- By Drian114.
+- Collab with crazyboy6484, ml5.
 
 ship 60:
 - By NHJ.
@@ -2603,7 +2607,7 @@ ball 89:
 
 ball 90:
 - By AlexisDrawz.
-- In Collab W. NHJ! (Thank you so much fella).
+- In Collab with ML500!.
 
 ball 91:
 - By RetroAdvance64.
@@ -2855,7 +2859,7 @@ ufo 47:
 
 ufo 48:
 - By Drian114.
-- UFO 48 now has an insect-looking design.
+- UFO 48 now has an insect-looking design. fixme (glow).
 
 ufo 49:
 - By Aleiz21.
@@ -3364,6 +3368,7 @@ wave 54:
 
 wave 55:
 - By Sharkcrome.
+- Redesigned to resemble a bird.
 
 wave 56:
 - By KevgenGD.
@@ -3468,8 +3473,7 @@ wave 85:
 
 wave 86:
 - By Sharkcrome.
-- Refrence to "Calamitas", a Final Boss from Terraria Calamity mod
-FixMe, or CALAMITY well ensue.
+- Refrence to "Calamitas", a Final Boss from Terraria Calamity mod.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_86(1).png)
 
 wave 87:
