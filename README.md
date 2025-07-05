@@ -34,7 +34,7 @@ Apparently some people were really insisting on helping with the development cos
 - JigglypuffGD         (81 icons, 12 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- bugpesto             (75 icons, 2 of those being collabs) + 1 collab
+- bugpesto             (74 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
@@ -59,8 +59,8 @@ Apparently some people were really insisting on helping with the development cos
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
+- AngelozDD            (21 icons, 1 of those being collabs) + 4 collabs
 - AlexisDrawz          (20 icons, 7 of those being collabs) + 12 collabs
-- AngelozDD            (20 icons, 1 of those being collabs) + 4 collabs
 - Dibbj                (18 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - KetsuTT              (16 icons, 4 of those being collabs)
