@@ -54,7 +54,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-0.2,6.2}</string>
+			<string>{-0.25,6.25}</string>
 			<key>spriteSize</key>
 			<string>{68,22}</string>
 			<key>spriteSourceSize</key>
