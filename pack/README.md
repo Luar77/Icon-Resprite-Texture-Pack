@@ -26,7 +26,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - JigglypuffGD         (81 icons, 12 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- bugpesto             (75 icons, 2 of those being collabs) + 1 collab
+- bugpesto             (74 icons, 2 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
@@ -51,8 +51,8 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
+- AngelozDD            (21 icons, 1 of those being collabs) + 4 collabs
 - AlexisDrawz          (20 icons, 7 of those being collabs) + 12 collabs
-- AngelozDD            (20 icons, 1 of those being collabs) + 4 collabs
 - Dibbj                (18 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - KetsuTT              (16 icons, 4 of those being collabs)
@@ -555,7 +555,7 @@ cube 140:
 
 cube 141:
 - By Sharkcrome.
-- Refrence to the floating spider enemy from the classic Nokia game Bounce .. [FixMe].
+- Refrence to the floating spider enemy from the classic Nokia game Bounce.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_141(1).png)
 
 cube 142:
@@ -2032,6 +2032,11 @@ ship 89:
 ship 90:
 - By ML500.
 
+ship 91:
+- By bugpesto.
+- References the enemy boss "Kingfin" from Super Mario Galaxy, with some details taken from another enemy, "Fishbone".
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1390998857713979532/Kingfish-Super-Mario-Galaxy.png?ex=686a4c23&is=6868faa3&hm=141cb2d26001e5cc6192400ce913b00b91597ed4feb754dda172be2de4dcd686&=&format=webp&quality=lossless&width=1600&height=800)
+
 ship 92:
 - By RetroAdvance64.
 - The opposite side of Ship 22. This is part of a gimmick proposed by JustHyperCL.
@@ -3291,10 +3296,6 @@ wave 31:
 
 wave 32:
 - By bugpesto.
-- [fixme].
-
-wave 33:
-- By bugpesto.
 
 wave 34:
 - By electrictaco.
@@ -3957,7 +3958,7 @@ spider 69:
 
 swing 1:
 - By bugpesto.
-- References a pokéball! [fixme].
+- References a pokéball!.
 
 swing 2:
 - By JigglypuffGD.
