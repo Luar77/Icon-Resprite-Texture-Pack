@@ -15,7 +15,7 @@
 				<key>spriteSourceSize</key>
 				<string>{108,84}</string>
 				<key>textureRect</key>
-				<string>{{0,95},{108,84}}</string>
+				<string>{{0,93},{108,84}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -30,7 +30,7 @@
 				<key>spriteSourceSize</key>
 				<string>{102,78}</string>
 				<key>textureRect</key>
-				<string>{{119,0},{102,78}}</string>
+				<string>{{117,0},{102,78}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{118,94}</string>
+				<string>{116,92}</string>
 				<key>spriteSourceSize</key>
-				<string>{118,94}</string>
+				<string>{116,92}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{118,94}}</string>
+				<string>{{0,0},{116,92}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/dart_32-uhd.png</string>
 			<key>size</key>
-			<string>{197,179}</string>
+			<string>{195,177}</string>
 			<key>textureFileName</key>
 			<string>icons/dart_32-uhd.png</string>
 		</dict>
