@@ -1160,7 +1160,7 @@ cube 317:
 
 cube 318:
 - By Sharkcrome.
-- Refrence to the iconic helmet of the popular producer Marshmello.
+- Toredesign this damn cube once again because it's a fatahs.
 
 cube 319:
 - By cyanflower.
@@ -1623,6 +1623,7 @@ cube 449:
 
 cube 450:
 - By aGold.
+- Fixme.
 
 cube 451:
 - By aGold.
@@ -2820,7 +2821,7 @@ ufo 35:
 
 ufo 36:
 - By Drian114.
-- Collab w/ Aleiz21.
+- Collab with Aleiz 21. fixme (glow).
 
 ufo 37:
 - By Aleiz21.
@@ -2864,7 +2865,7 @@ ufo 47:
 
 ufo 48:
 - By Drian114.
-- UFO 48 now has an insect-looking design. fixme (glow).
+- Now has an insect-looking design. fixme (glow).
 
 ufo 49:
 - By Aleiz21.
@@ -3038,7 +3039,7 @@ ufo 100:
 
 ufo 102:
 - By Drian114.
-- Resembles the look of the average persian cat; a bit squeezed, though.
+- Resembles the look of the average persian cat; a bit squeezed, though. fixme(glow.
 
 ufo 103:
 - By aGold.
@@ -3065,6 +3066,7 @@ ufo 110:
 
 ufo 111:
 - By Drian114.
+- Fixme(glow).
 
 ufo 112:
 - By Aleiz21.
@@ -3166,6 +3168,7 @@ ufo 141:
 
 ufo 142:
 - By Drian114.
+- Fixme(glow).
 
 ufo 143:
 - By JustHyperCL.
@@ -3173,7 +3176,7 @@ ufo 143:
 
 ufo 144:
 - By Drian114.
-- A couple of extra details were added to the original design.
+- A couple of extra details were added to the original design. fixme (glow).
 
 ufo 145:
 - By cyanflower.
