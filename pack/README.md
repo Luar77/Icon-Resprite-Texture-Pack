@@ -53,7 +53,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - AngelozDD            (21 icons, 1 of those being collabs) + 4 collabs
 - AlexisDrawz          (20 icons, 7 of those being collabs) + 12 collabs
-- Dibbj                (18 icons, 2 of those being collabs) + 6 collabs
+- Dibbj                (19 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - KetsuTT              (16 icons, 4 of those being collabs)
 - J3anC4rlo            (14 icons, 1 of those being collabs) + 1 collab
@@ -166,6 +166,7 @@ cube 23:
 
 cube 24:
 - By aGold.
+- Fixme (blurry glow).
 
 cube 25:
 - By NHJ.
@@ -1160,7 +1161,7 @@ cube 317:
 
 cube 318:
 - By Sharkcrome.
-- Toredesign this damn cube once again because it's a fatahs.
+- Reference to the iconic helmet of "Marshmello".
 
 cube 319:
 - By cyanflower.
@@ -1627,6 +1628,7 @@ cube 450:
 
 cube 451:
 - By aGold.
+- Fixme.
 
 cube 452:
 - By ML500.
@@ -1770,7 +1772,6 @@ ship 8:
 
 ship 9:
 - By KevgenGD.
-- Fixme.
 
 ship 10:
 - By Exetric.
@@ -2821,7 +2822,7 @@ ufo 35:
 
 ufo 36:
 - By Drian114.
-- Collab with Aleiz 21. fixme (glow).
+- Collab with Aleiz21.
 
 ufo 37:
 - By Aleiz21.
@@ -2865,7 +2866,7 @@ ufo 47:
 
 ufo 48:
 - By Drian114.
-- Now has an insect-looking design. fixme (glow).
+- Now has an insect-looking design.
 
 ufo 49:
 - By Aleiz21.
@@ -3039,11 +3040,10 @@ ufo 100:
 
 ufo 102:
 - By Drian114.
-- Resembles the look of the average persian cat; a bit squeezed, though. fixme(glow.
+- Resembles the look of the average persian cat; a bit squeezed, though.
 
 ufo 103:
 - By aGold.
-- [fixme].
 
 ufo 104:
 - By NHJ.
@@ -3066,13 +3066,15 @@ ufo 110:
 
 ufo 111:
 - By Drian114.
-- Fixme(glow).
 
 ufo 112:
 - By Aleiz21.
 
 ufo 113:
 - By electrictaco.
+
+ufo 114:
+- By Dibbj.
 
 ufo 115:
 - By Drian114.
@@ -3176,7 +3178,7 @@ ufo 143:
 
 ufo 144:
 - By Drian114.
-- A couple of extra details were added to the original design. fixme (glow).
+- A couple of extra details were added to the original design.
 
 ufo 145:
 - By cyanflower.
