@@ -61,7 +61,7 @@ Apparently some people were really insisting on helping with the development cos
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - AngelozDD            (21 icons, 1 of those being collabs) + 4 collabs
 - AlexisDrawz          (20 icons, 7 of those being collabs) + 12 collabs
-- Dibbj                (18 icons, 2 of those being collabs) + 6 collabs
+- Dibbj                (19 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - KetsuTT              (16 icons, 4 of those being collabs)
 - J3anC4rlo            (14 icons, 1 of those being collabs) + 1 collab
