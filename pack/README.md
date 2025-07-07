@@ -8,7 +8,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- ML500                (111 icons, 7 of those being collabs) + 9 collabs
+- ML500                (110 icons, 7 of those being collabs) + 9 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
@@ -776,6 +776,9 @@ cube 202:
 cube 203:
 - By JigglypuffGD.
 
+cube 204:
+- By RetroAdvance64.
+
 cube 205:
 - By cyanflower.
 - A basic redesign of the original cube that changes its pose, makes its belly fully secondary, gives it a closed mouth expression inspired by the Medium Demon's face, alongside other changes.
@@ -805,11 +808,6 @@ cube 212:
 
 cube 213:
 - By ML500.
-
-cube 214:
-- By electrictaco.
-- Fixme.
-- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1381102969923305603/image.png?ex=68464bdf&is=6844fa5f&hm=285de48abfbc625ab810c05b06b2366454aa0e228796a5931cdc81aa3f5139ea&=&format=webp&quality=lossless&width=698&height=930)
 
 cube 215:
 - By CraZyboy6484.
@@ -1807,10 +1805,6 @@ ship 18:
 ship 19:
 - By JigglypuffGD.
 
-ship 20:
-- By Sharkcrome.
-- Toredesign.
-
 ship 21:
 - By RetroAdvance64.
 - The Ship design although resembling the original in its shape, its more heavily themed into an occultist/eldritch-like beast.
@@ -1929,6 +1923,9 @@ ship 56:
 
 ship 57:
 - By RetroAdvance64.
+
+ship 58:
+- By KevgenGD.
 
 ship 59:
 - By Drian114.
@@ -2292,7 +2289,7 @@ ship 161:
 
 ship 162:
 - By Sharkcrome.
-- Fixme .. the mechanic is open.
+- Slope Slide Dashing.
 
 ship 163:
 - By KevgenGD.
@@ -2999,9 +2996,6 @@ ufo 88:
 - By aGold.
 - Collaboration with Dibbj.
 
-ufo 89:
-- By bugpesto.
-
 ufo 90:
 - By Aleiz21.
 
@@ -3014,9 +3008,6 @@ ufo 92:
 
 ufo 93:
 - By Aleiz21.
-
-ufo 94:
-- By Sorao.
 
 ufo 95:
 - By Aleiz21.
@@ -3711,10 +3702,6 @@ robot 58:
 - Loosely based off of K-VRC from the netflix show Love, Death & Robots.
 
 Collab with ElectricTaco.
-
-robot 60:
-- By electrictaco.
-- [fixme] collab with agold.
 
 robot 61:
 - By bugpesto.
