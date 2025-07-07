@@ -34,21 +34,6 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>player_ball_41_extra_001.png</key>
-		<dict>
-			<key>aliases</key>
-			<array/>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{9,9}</string>
-			<key>spriteSourceSize</key>
-			<string>{75,75}</string>
-			<key>textureRect</key>
-			<string>{{220,2},{9,9}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
 		<key>player_ball_41_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
