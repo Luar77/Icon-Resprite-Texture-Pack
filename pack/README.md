@@ -4,7 +4,7 @@ After over 4 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (134 icons, 3 of those being collabs) + 15 collabs
+- RetroAdvance64       (136 icons, 3 of those being collabs) + 15 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
@@ -41,11 +41,11 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - KevgenGD             (54 icons, 2 of those being collabs) + 1 collab
 - aGold                (53 icons, 5 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
-- CraZyboy6484         (41 icons) + 1 collab
+- CraZyboy6484         (40 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (37 icons, 12 of those being collabs) + 10 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (29 icons, 4 of those being collabs) + 3 collabs
+- Sorao                (28 icons, 4 of those being collabs) + 3 collabs
 - electrictaco         (23 icons, 6 of those being collabs) + 7 collabs
 - AlexanderX1ta        (23 icons, 1 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
@@ -187,6 +187,7 @@ cube 29:
 
 cube 30:
 - By aGold.
+- Fixme.
 
 cube 31:
 - By Sharkcrome.
@@ -368,9 +369,6 @@ cube 84:
 - By Exetric.
 - Based on Quasar's cube.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_84(1).png)
-
-cube 85:
-- By CraZyboy6484.
 
 cube 86:
 - By aGold.
@@ -1934,6 +1932,9 @@ ship 59:
 ship 60:
 - By NHJ.
 
+ship 61:
+- By AlexisDrawz.
+
 ship 62:
 - By CraZyboy6484.
 
@@ -2289,7 +2290,9 @@ ship 161:
 
 ship 162:
 - By Sharkcrome.
-- Slope Slide Dashing.
+- Loosely based on the default car in Hill Climb Racing, which is a Jeep convertible 
+[ Slope Slide Dashing ].
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1391621424078258378/Hill_Climb_Racing_Logo_On_Play_Store.png?ex=686c8ff2&is=686b3e72&hm=4d08744d98d13321e1b07dde2728a96f3a57d602f609670962c661318cb1abe1&=&format=webp&quality=lossless&width=640&height=640)
 
 ship 163:
 - By KevgenGD.
@@ -2863,7 +2866,7 @@ ufo 47:
 
 ufo 48:
 - By Drian114.
-- Now has an insect-looking design.
+- UFO 48 now has an insect-looking design.
 
 ufo 49:
 - By Aleiz21.
@@ -3161,7 +3164,6 @@ ufo 141:
 
 ufo 142:
 - By Drian114.
-- Fixme(glow).
 
 ufo 143:
 - By JustHyperCL.
