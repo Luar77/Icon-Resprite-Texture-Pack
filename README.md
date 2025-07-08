@@ -12,7 +12,7 @@ Apparently some people were really insisting on helping with the development cos
 - JigglypuffGD ($20 donation)
 
 ## Contributors
-- RetroAdvance64       (134 icons, 3 of those being collabs) + 15 collabs
+- RetroAdvance64       (136 icons, 3 of those being collabs) + 15 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
@@ -49,11 +49,11 @@ Apparently some people were really insisting on helping with the development cos
 - KevgenGD             (54 icons, 2 of those being collabs) + 1 collab
 - aGold                (53 icons, 5 of those being collabs) + 1 collab
 	- https://agold.is-a.dev
-- CraZyboy6484         (41 icons) + 1 collab
+- CraZyboy6484         (40 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (37 icons, 12 of those being collabs) + 10 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (29 icons, 4 of those being collabs) + 3 collabs
+- Sorao                (28 icons, 4 of those being collabs) + 3 collabs
 - electrictaco         (23 icons, 6 of those being collabs) + 7 collabs
 - AlexanderX1ta        (23 icons, 1 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
