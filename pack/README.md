@@ -4,11 +4,11 @@ After over 4 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (136 icons, 3 of those being collabs) + 16 collabs
+- RetroAdvance64       (137 icons, 4 of those being collabs) + 16 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-- ML500                (110 icons, 7 of those being collabs) + 10 collabs
+- ML500                (109 icons, 7 of those being collabs) + 11 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
@@ -26,46 +26,46 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - JigglypuffGD         (81 icons, 13 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- bugpesto             (74 icons, 3 of those being collabs) + 1 collab
-	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
-	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
-	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - cyanflower           (71 icons, 2 of those being collabs) + 5 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
+- bugpesto             (74 icons, 4 of those being collabs) + 1 collab
+	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
+	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
+	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - Sharkcrome           (60 icons, 2 of those being collabs) + 8 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - KevgenGD             (54 icons, 2 of those being collabs) + 1 collab
-- aGold                (53 icons, 5 of those being collabs) + 1 collab
+- aGold                (53 icons, 6 of those being collabs)
 	- https://agold.is-a.dev
 - CraZyboy6484         (40 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (37 icons, 14 of those being collabs) + 10 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (28 icons, 4 of those being collabs) + 3 collabs
-- electrictaco         (23 icons, 6 of those being collabs) + 8 collabs
-- AngelozDD            (22 icons, 1 of those being collabs) + 4 collabs
+- electrictaco         (23 icons, 5 of those being collabs) + 8 collabs
 - AlexanderX1ta        (23 icons, 1 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
+- AngelozDD            (21 icons, 1 of those being collabs) + 4 collabs
 - AlexisDrawz          (20 icons, 7 of those being collabs) + 12 collabs
-- Dibbj                (19 icons, 2 of those being collabs) + 6 collabs
+- Dibbj                (19 icons, 2 of those being collabs) + 7 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - KetsuTT              (16 icons, 3 of those being collabs)
 - J3anC4rlo            (14 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- Luar77               (13 icons, 3 of those being collabs) + 1 collab
+	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
+	- [Luar77](https://github.com/Luar77) on GitHub
 - Exetric              (12 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
 - ChileMationsxD       (12 icons)
-- Luar77               (13 icons, 3 of those being collabs)
-	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
-	- [Luar77](https://github.com/Luar77) on GitHub
 - Hydr4ze              (9 icons, 1 of those being collabs)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
@@ -166,7 +166,6 @@ cube 23:
 
 cube 24:
 - By aGold.
-- Fixme (blurry glow).
 
 cube 25:
 - By NHJ.
@@ -187,7 +186,6 @@ cube 29:
 
 cube 30:
 - By aGold.
-- Fixme.
 
 cube 31:
 - By Sharkcrome.
@@ -1168,6 +1166,9 @@ cube 320:
 - Reference to the slaughterhouse river monster.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1387139239816335542/Screenshot_20250624_083049_YouTube.jpg?ex=685c4196&is=685af016&hm=4bedd799be66b15ed63fe6ce477f3c4811e8852e27336e97acfcae5b2f272820&=&format=webp&width=1733&height=800)
 
+cube 321:
+- By electrictaco.
+
 cube 322:
 - By JigglypuffGD.
 
@@ -1620,11 +1621,6 @@ cube 449:
 
 cube 450:
 - By aGold.
-- Fixme.
-
-cube 451:
-- By aGold.
-- Fixme.
 
 cube 452:
 - By ML500.
@@ -1696,6 +1692,7 @@ cube 471:
 cube 472:
 - By AlexisDrawz.
 - Based on the official cover of Metroid: Samus Returns.
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1392649359618998404/metroid-samus-returns-recensione-cover-1620x800.jpg?ex=68704d49&is=686efbc9&hm=af66871b62a21937149b4fed80556d8dab29cc24cff09f3a1d6cd2f609022fa3&=&format=webp)
 
 cube 473:
 - By RetroAdvance64.
@@ -1930,7 +1927,7 @@ ship 58:
 
 ship 59:
 - By Drian114.
-- Collab with crazyboy6484, ml5.
+- Collab with CraZyboy6484 and ML500.
 
 ship 60:
 - By NHJ.
@@ -1997,6 +1994,10 @@ ship 77:
 
 ship 78:
 - By Drian114.
+
+ship 79:
+- By bugpesto.
+- References a "Spine Coaster" from New Super Mario Bros. Wii.
 
 ship 80:
 - By RetroAdvance64.
@@ -2444,6 +2445,7 @@ ball 36:
 
 ball 37:
 - By aGold.
+- Fixme.
 
 ball 38:
 - By Drian114.
@@ -2783,6 +2785,10 @@ ufo 20:
 ufo 21:
 - By CraZyboy6484.
 
+ufo 22:
+- By RetroAdvance64.
+- In collaboration with AngeloToons.
+
 ufo 23:
 - By bugpesto.
 - What goes on in Scratch's mind? ... apparently a cube.
@@ -3062,9 +3068,12 @@ ufo 105:
 ufo 106:
 - By RetroAdvance64.
 
+ufo 107:
+- By bugpesto.
+- Collab with dibbj.
+
 ufo 108:
 - By AlexanderX1ta.
-- Fixme.
 
 ufo 109:
 - By bugpesto.
@@ -3719,6 +3728,10 @@ robot 58:
 
 Collab with ElectricTaco.
 
+robot 60:
+- By electrictaco.
+- Remakes the original to have a more beast-like resemblance instead of being part beast part machine.
+
 robot 61:
 - By bugpesto.
 
@@ -3987,6 +4000,7 @@ swing 6:
 
 swing 7:
 - By KevgenGD.
+- Character from the cartoon Kikoriki.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1385528520998125628/kiko_2.png?ex=6856657d&is=685513fd&hm=733f486883d40cfae901799557f5cdc081d743ad44f65db173f273a2deb929a4&=&format=webp&quality=lossless&width=1200&height=675)
 
 swing 8:
