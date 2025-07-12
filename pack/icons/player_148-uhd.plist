@@ -11,11 +11,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{130,126}</string>
+				<string>{120,120}</string>
 				<key>spriteSourceSize</key>
-				<string>{130,126}</string>
+				<string>{120,120}</string>
 				<key>textureRect</key>
-				<string>{{0,135},{130,126}}</string>
+				<string>{{129,0},{120,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -26,26 +26,26 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{124,120}</string>
+				<string>{112,112}</string>
 				<key>spriteSourceSize</key>
-				<string>{124,120}</string>
+				<string>{112,112}</string>
 				<key>textureRect</key>
-				<string>{{139,0},{124,120}}</string>
+				<string>{{0,129},{112,112}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>player_148_extra_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,11}</string>
+				<string>{0,4.5}</string>
 				<key>spriteSize</key>
-				<string>{118,90}</string>
+				<string>{79,98}</string>
 				<key>spriteSourceSize</key>
-				<string>{118,90}</string>
+				<string>{79,98}</string>
 				<key>textureRect</key>
-				<string>{{139,125},{118,90}}</string>
+				<string>{{113,129},{79,98}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{138,134}</string>
+				<string>{128,128}</string>
 				<key>spriteSourceSize</key>
-				<string>{138,134}</string>
+				<string>{128,128}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{138,134}}</string>
+				<string>{{0,0},{128,128}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,10 +76,10 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_148-uhd.png</string>
 			<key>size</key>
-			<string>{259,261}</string>
+			<string>{249,241}</string>
 			<key>textureFileName</key>
 			<string>icons/player_148-uhd.png</string>
-			#icon by Kevgen
+			#icon By Kevgen
 		</dict>
 	</dict>
 </plist>
