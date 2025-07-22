@@ -9,7 +9,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 	- [@retroadvance64](https://www.tiktok.com/@retroadvance64) on TikTok
-- ML500                (109 icons, 7 of those being collabs) + 12 collabs
+- ML500                (111 icons, 7 of those being collabs) + 13 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
@@ -27,14 +27,14 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - JigglypuffGD         (81 icons, 13 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- cyanflower           (71 icons, 2 of those being collabs) + 5 collabs
-	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
-	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- bugpesto             (74 icons, 6 of those being collabs) + 1 collab
+- bugpesto             (74 icons, 5 of those being collabs) + 2 collabs
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- Sharkcrome           (60 icons, 2 of those being collabs) + 8 collabs
+- cyanflower           (71 icons, 3 of those being collabs) + 5 collabs
+	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
+	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
+- Sharkcrome           (59 icons, 2 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
@@ -44,17 +44,17 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- https://agold.is-a.dev
 - CraZyboy6484         (40 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- JustHyperCL          (36 icons, 14 of those being collabs) + 10 collabs
+- JustHyperCL          (35 icons, 14 of those being collabs) + 11 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (28 icons, 4 of those being collabs) + 3 collabs
+- AlexisDrawz          (23 icons, 7 of those being collabs) + 13 collabs
 - electrictaco         (23 icons, 5 of those being collabs) + 8 collabs
-- AngelozDD            (22 icons, 1 of those being collabs) + 6 collabs
-- AlexisDrawz          (20 icons, 7 of those being collabs) + 14 collabs
-- AlexanderX1ta        (23 icons, 1 of those being collabs) + 2 collabs
+- AngelozDD            (21 icons, 1 of those being collabs) + 6 collabs
+- AlexanderX1ta        (22 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- Dibbj                (19 icons, 2 of those being collabs) + 7 collabs
+- Dibbj                (20 icons, 3 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - J3anC4rlo            (14 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
@@ -73,12 +73,12 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - ReenRN               (5 icons)
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
-- Th3Angel0ffic3       (5 icons, 1 of those being collabs)
 - Hushroom             (4 icons)
 - DanKy99              (3 icons)
-- airiLmao             (1 icon, 1 of those being collabs) + 3 collabs
+- airiLmao             (2 icons, 2 of those being collabs) + 3 collabs
 - KazooTheCat          (1 icon) + 2 collabs
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
+- Th3Angel0ffic3       (1 icon)
 - fiegael              (2 icons, 2 of those being collabs)
 - LonelyChicken         + 1 collab
 
@@ -277,7 +277,7 @@ cube 55:
 - References the Nine Circles block design seen in wave sections.
 
 cube 56:
-- By Th3Angel0ffic3.
+- By bugpesto.
 
 cube 57:
 - By ChileMationsxD.
@@ -346,6 +346,7 @@ cube 76:
 
 cube 77:
 - By Sharkcrome.
+- ToRedesign.
 
 cube 78:
 - By RetroAdvance64.
@@ -370,6 +371,9 @@ cube 84:
 - By Exetric.
 - Based on Quasar's cube.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_84(1).png)
+
+cube 85:
+- By ML500.
 
 cube 86:
 - By aGold.
@@ -409,7 +413,7 @@ cube 96:
 - By Hushroom.
 
 cube 97:
-- By Th3Angel0ffic3.
+- By JustHyperCL.
 
 cube 98:
 - By JigglypuffGD.
@@ -418,8 +422,8 @@ cube 99:
 - By Sorao.
 
 cube 100:
-- By JustHyperCL.
-- Reference to the popular emoji from steam "steamhappy". Both arms and legs where adapted to reference to an already existing icon (view cube 97).
+- By RetroAdvance64.
+- The Icon references the classic meme "Awesome Face".
 
 cube 101:
 - By ReenRN.
@@ -1251,8 +1255,7 @@ cube 343:
 - By ML500.
 
 cube 344:
-- By RetroAdvance64.
-- [Re-made by the original artist] -- The Icon references the classic meme "Awesome Face".
+- By ML500.
 
 cube 345:
 - By Sharkcrome.
@@ -1392,10 +1395,6 @@ cube 384:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- The idea of a "bird-like" statue is properly executed.
 
-cube 385:
-- By Th3Angel0ffic3.
-- Cube that refers to Signus, one of the bosses of the so-called Calamity Mod.
-
 cube 386:
 - By cyanflower.
 - Keeps the original’s knight design idea while changing the armor and adding a Cube face.
@@ -1524,8 +1523,10 @@ cube 421:
 - By KevgenGD.
 
 cube 422:
-- By JustHyperCL.
-- [fixme].
+- By airiLmao.
+- Collab with JustHyperCL.
+
+An icon that brings me further back into my icon creating roots with weird pointy shapes similar to the style of Naotyu. The center point being done in a similar to the shading/lighting from ML5 cubes.
 
 cube 423:
 - By aGold.
@@ -1538,7 +1539,6 @@ cube 425:
 
 cube 426:
 - By Sharkcrome.
-- Kris Cross .. Fixme Boss.
 
 cube 427:
 - By JigglypuffGD.
@@ -1671,10 +1671,6 @@ cube 464:
 - By CraZyboy6484.
 - References a frame of Aku, the main antagonist in the animated series 'Samurai Jack'.
 
-cube 465:
-- By cyanflower.
-- Fixme.
-
 cube 466:
 - By Drian114.
 
@@ -1806,15 +1802,9 @@ ship 18:
 ship 19:
 - By JigglypuffGD.
 
-ship 20:
-- By Sharkcrome.
-
 ship 21:
 - By RetroAdvance64.
 - The Ship design although resembling the original in its shape, its more heavily themed into an occultist/eldritch-like beast.
-
-ship 22:
-- By RetroAdvance64.
 
 ship 23:
 - By CraZyboy6484.
@@ -1893,7 +1883,9 @@ ship 46:
 
 ship 47:
 - By airiLmao.
-- Collab with NHJ….
+- Collab with NHJ...
+
+An updated rendition of the poriginal ship with a somewhat more cybernetic look to it. The ribs also have a slight stacked look to them creating more separation of the once one-dimensional feeling original icon.
 
 ship 48:
 - By KevgenGD.
@@ -2034,7 +2026,7 @@ ship 87:
 
 ship 88:
 - By bugpesto.
-- [fixme].
+- A reference to the nyan cat. Can I haz chezburgr now plx.
 
 ship 89:
 - By RetroAdvance64.
@@ -2439,9 +2431,9 @@ ball 32:
 - By bugpesto.
 - References Spiritomb's face, from Pokémon.
 
-ball 33:
+ball 34:
 - By Sharkcrome.
-- Legendary Godzilla.
+- Collab with cyanflower (lineart).
 
 ball 35:
 - By Aleiz21.
@@ -3004,9 +2996,6 @@ ufo 83:
 ufo 84:
 - By ML500.
 
-ufo 85:
-- By Sharkcrome.
-
 ufo 86:
 - By ML500.
 
@@ -3016,6 +3005,10 @@ ufo 87:
 ufo 88:
 - By aGold.
 - Collaboration with Dibbj.
+
+ufo 89:
+- By bugpesto.
+- Collab with AlexisDrawz.
 
 ufo 90:
 - By Aleiz21.
@@ -3075,8 +3068,8 @@ ufo 106:
 - By RetroAdvance64.
 
 ufo 107:
-- By bugpesto.
-- Collab with dibbj.
+- By Dibbj.
+- Collab with bugpesto.
 
 ufo 108:
 - By AlexanderX1ta.
@@ -3101,6 +3094,7 @@ ufo 114:
 
 ufo 115:
 - By Drian114.
+- Collab with angelotoons05.
 
 ufo 116:
 - By JigglypuffGD.
@@ -3310,6 +3304,9 @@ wave 25:
 
 wave 26:
 - By AngelozDD.
+
+wave 27:
+- By AlexisDrawz.
 
 wave 28:
 - By aGold.
@@ -3989,6 +3986,14 @@ spider 61:
 spider 62:
 - By RetroAdvance64.
 
+spider 63:
+- By AlexanderX1ta.
+- Collab with sharkcrome. 
+
+Refrence to the cannon weapon skin called "Sonic Boom" from Battle Pass Season 2 of the game Brawlhalla
+
+Fixme.
+
 spider 64:
 - By Aleiz21.
 
@@ -4101,8 +4106,7 @@ swing 25:
 - [Collab with bugpesto] This swing references to a beast ball from pokémon.
 
 swing 26:
-- By Th3Angel0ffic3.
-- My name is... (Collab with AlexisDrawz // This swing refers to Guilty Spark 343).
+- By AlexisDrawz.
 
 swing 27:
 - By RetroAdvance64.
