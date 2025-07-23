@@ -57,7 +57,7 @@ Apparently some people were really insisting on helping with the development cos
 - Sorao                (28 icons, 4 of those being collabs) + 3 collabs
 - AlexisDrawz          (23 icons, 7 of those being collabs) + 13 collabs
 - electrictaco         (23 icons, 5 of those being collabs) + 8 collabs
-- AngelozDD            (21 icons, 1 of those being collabs) + 6 collabs
+- AngelozDD            (20 icons, 1 of those being collabs) + 6 collabs
 - AlexanderX1ta        (22 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
