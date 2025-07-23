@@ -9,28 +9,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0.5,0}</string>
 			<key>spriteSize</key>
-			<string>{53,49}</string>
+			<string>{60,47}</string>
 			<key>spriteSourceSize</key>
-			<string>{57,53}</string>
+			<string>{64,51}</string>
 			<key>textureRect</key>
-			<string>{{2,61},{53,49}}</string>
+			<string>{{55,2},{60,47}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>robot_27_01_2_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{3.5,-1}</string>
+			<string>{0.5,0}</string>
 			<key>spriteSize</key>
-			<string>{41,42}</string>
+			<string>{58,44}</string>
 			<key>spriteSourceSize</key>
-			<string>{57,53}</string>
+			<string>{64,51}</string>
 			<key>textureRect</key>
-			<string>{{53,61},{41,42}}</string>
+			<string>{{55,51},{58,44}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -39,28 +39,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{9,3.5}</string>
+			<string>{15.5,0}</string>
 			<key>spriteSize</key>
-			<string>{29,36}</string>
+			<string>{24,35}</string>
 			<key>spriteSourceSize</key>
-			<string>{57,53}</string>
+			<string>{64,51}</string>
 			<key>textureRect</key>
-			<string>{{57,2},{29,36}}</string>
+			<string>{{2,97},{24,35}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>robot_27_01_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0.5,0}</string>
 			<key>spriteSize</key>
-			<string>{57,53}</string>
+			<string>{64,51}</string>
 			<key>spriteSourceSize</key>
-			<string>{57,53}</string>
+			<string>{64,51}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{57,53}}</string>
+			<string>{{2,2},{64,51}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -69,13 +69,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,0.75}</string>
 			<key>spriteSize</key>
-			<string>{20,28}</string>
+			<string>{21,30}</string>
 			<key>spriteSourceSize</key>
-			<string>{24,32}</string>
+			<string>{26,34}</string>
 			<key>textureRect</key>
-			<string>{{96,62},{20,28}}</string>
+			<string>{{108,97},{21,30}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -84,28 +84,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-0.5,-1}</string>
+			<string>{-0.25,-5.5}</string>
 			<key>spriteSize</key>
-			<string>{12,22}</string>
+			<string>{11,12}</string>
 			<key>spriteSourceSize</key>
-			<string>{24,32}</string>
+			<string>{26,34}</string>
 			<key>textureRect</key>
-			<string>{{122,2},{12,22}}</string>
+			<string>{{39,78},{11,12}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>robot_27_02_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-0.25,0.75}</string>
 			<key>spriteSize</key>
-			<string>{24,32}</string>
+			<string>{26,34}</string>
 			<key>spriteSourceSize</key>
-			<string>{24,32}</string>
+			<string>{26,34}</string>
 			<key>textureRect</key>
-			<string>{{88,2},{24,32}}</string>
+			<string>{{39,97},{26,34}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -114,28 +114,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-0.25,0}</string>
 			<key>spriteSize</key>
-			<string>{9,25}</string>
+			<string>{11,26}</string>
 			<key>spriteSourceSize</key>
-			<string>{13,29}</string>
+			<string>{15,30}</string>
 			<key>textureRect</key>
-			<string>{{119,28},{9,25}}</string>
+			<string>{{115,83},{11,26}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>robot_27_03_2_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-0.25,-4.5}</string>
 			<key>spriteSize</key>
-			<string>{7,23}</string>
+			<string>{8,14}</string>
 			<key>spriteSourceSize</key>
-			<string>{13,29}</string>
+			<string>{15,30}</string>
 			<key>textureRect</key>
-			<string>{{2,116},{7,23}}</string>
+			<string>{{39,68},{8,14}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -144,28 +144,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-0.25,0}</string>
 			<key>spriteSize</key>
-			<string>{13,29}</string>
+			<string>{15,30}</string>
 			<key>spriteSourceSize</key>
-			<string>{13,29}</string>
+			<string>{15,30}</string>
 			<key>textureRect</key>
-			<string>{{57,40},{13,29}}</string>
+			<string>{{115,51},{15,30}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>robot_27_04_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{1,-0.25}</string>
 			<key>spriteSize</key>
-			<string>{28,17}</string>
+			<string>{31,18}</string>
 			<key>spriteSourceSize</key>
-			<string>{32,21}</string>
+			<string>{35,22}</string>
 			<key>textureRect</key>
-			<string>{{96,84},{28,17}}</string>
+			<string>{{75,97},{31,18}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -174,13 +174,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{5,-2}</string>
+			<string>{6.75,-2}</string>
 			<key>spriteSize</key>
-			<string>{14,10}</string>
+			<string>{12,9}</string>
 			<key>spriteSourceSize</key>
-			<string>{32,21}</string>
+			<string>{35,22}</string>
 			<key>textureRect</key>
-			<string>{{53,105},{14,10}}</string>
+			<string>{{140,96},{12,9}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -189,15 +189,15 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{1,-0.25}</string>
 			<key>spriteSize</key>
-			<string>{32,21}</string>
+			<string>{35,22}</string>
 			<key>spriteSourceSize</key>
-			<string>{32,21}</string>
+			<string>{35,22}</string>
 			<key>textureRect</key>
-			<string>{{96,28},{32,21}}</string>
+			<string>{{2,68},{35,22}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 	</dict>
 	<key>metadata</key>
