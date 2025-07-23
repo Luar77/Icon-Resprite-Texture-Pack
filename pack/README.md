@@ -49,7 +49,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - Sorao                (28 icons, 4 of those being collabs) + 3 collabs
 - AlexisDrawz          (23 icons, 7 of those being collabs) + 13 collabs
 - electrictaco         (23 icons, 5 of those being collabs) + 8 collabs
-- AngelozDD            (21 icons, 1 of those being collabs) + 6 collabs
+- AngelozDD            (20 icons, 1 of those being collabs) + 6 collabs
 - AlexanderX1ta        (22 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
@@ -1052,6 +1052,10 @@ cube 282:
 cube 283:
 - By ML500.
 
+cube 284:
+- By JustHyperCL.
+- Collab with ML500.
+
 cube 285:
 - By bugpesto.
 - Reworks the original icon to look more like a knight from Castle Crashers.
@@ -1394,6 +1398,9 @@ cube 383:
 cube 384:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- The idea of a "bird-like" statue is properly executed.
+
+cube 385:
+- By AlexisDrawz.
 
 cube 386:
 - By cyanflower.
@@ -1821,6 +1828,10 @@ Ash our beloved.
 ship 26:
 - By CraZyboy6484.
 
+ship 27:
+- By bugpesto.
+- Collab with sharkcrome.
+
 ship 28:
 - By Drian114.
 
@@ -1833,6 +1844,10 @@ ship 30:
 ship 31:
 - By JigglypuffGD.
 - Collab with Dibbj.
+
+ship 32:
+- By AngelozDD.
+- Collab With Retroadvance64 (Retroooooooooooooooo).
 
 ship 33:
 - By Dibbj.
@@ -2198,7 +2213,7 @@ ship 134:
 
 ship 135:
 - By bugpesto.
-- References the early-game Corruption enemies in Terraria, mixing both the Eater of Souls and Eater of Worlds's designs [fixme].
+- References the early-game Corruption enemies in Terraria, mixing both the Eater of Souls and Eater of Worlds's designs.
 
 ship 136:
 - By bugpesto.
@@ -2465,6 +2480,10 @@ ball 44:
 
 ball 45:
 - By AlexanderX1ta.
+
+ball 46:
+- By JustHyperCL.
+- [fixme] Collab with AngelozDD.
 
 ball 47:
 - By AlexisDrawz.
@@ -3629,7 +3648,6 @@ robot 26:
 
 robot 27:
 - By bugpesto.
-- [fixme].
 
 robot 28:
 - By cyanflower.
@@ -3674,7 +3692,7 @@ robot 39:
 
 robot 40:
 - By bugpesto.
-- References Ralsei from Deltarune.
+- References Ralsei from Deltarune: Chapter 1.
 
 robot 41:
 - By Drian114.
@@ -3879,7 +3897,7 @@ spider 31:
 
 spider 32:
 - By bugpesto.
-- Properly references a hermit crab, with some details taken from the pokémon "Dwebble". [fixme].
+- Properly references a hermit crab, with some details taken from the pokémon "Dwebble".
 
 spider 33:
 - By ML500.
@@ -4152,6 +4170,10 @@ swing 38:
 swing 39:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- Redesigned to go on-par with the "Time" Icon theme/flair for Supernova.
+
+swing 40:
+- By JustHyperCL.
+- Collab with RetroAdvance64. Sketch made by him.
 
 swing 41:
 - By Drian114.
