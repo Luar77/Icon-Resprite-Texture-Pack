@@ -11,11 +11,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{148,122}</string>
+				<string>{134,120}</string>
 				<key>spriteSourceSize</key>
-				<string>{148,122}</string>
+				<string>{134,120}</string>
 				<key>textureRect</key>
-				<string>{{0,131},{148,122}}</string>
+				<string>{{0,129},{134,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -26,11 +26,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{141,112}</string>
+				<string>{128,114}</string>
 				<key>spriteSourceSize</key>
-				<string>{141,112}</string>
+				<string>{128,114}</string>
 				<key>textureRect</key>
-				<string>{{157,0},{141,112}}</string>
+				<string>{{143,0},{128,114}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,29}</string>
+				<string>{0,9}</string>
 				<key>spriteSize</key>
-				<string>{108,52}</string>
+				<string>{108,91}</string>
 				<key>spriteSourceSize</key>
-				<string>{108,52}</string>
+				<string>{108,91}</string>
 				<key>textureRect</key>
-				<string>{{149,142},{108,52}}</string>
+				<string>{{135,129},{108,91}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{156,130}</string>
+				<string>{142,128}</string>
 				<key>spriteSourceSize</key>
-				<string>{156,130}</string>
+				<string>{142,128}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{156,130}}</string>
+				<string>{{0,0},{142,128}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_225-uhd.png</string>
 			<key>size</key>
-			<string>{269,253}</string>
+			<string>{257,249}</string>
 			<key>textureFileName</key>
 			<string>icons/player_225-uhd.png</string>
 		</dict>
