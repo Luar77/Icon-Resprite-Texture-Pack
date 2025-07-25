@@ -41,7 +41,9 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - KevgenGD             (54 icons, 2 of those being collabs) + 1 collab
 - aGold                (53 icons, 6 of those being collabs)
+	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
+	- [aGoldDev](https://github.com/aGoldDev) on GitHub
 - CraZyboy6484         (40 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (35 icons, 14 of those being collabs) + 11 collabs
@@ -1386,6 +1388,10 @@ cube 380:
 
 cube 381:
 - By Aleiz21.
+
+cube 382:
+- By RetroAdvance64.
+- References the "Malicious Face", a 'Demon' enemy from ULTRAKILL.
 
 cube 383:
 - By Aleiz21.
@@ -2803,6 +2809,10 @@ ufo 15:
 ufo 16:
 - By bugpesto.
 
+ufo 17:
+- By aGold.
+- Collab with airiLmao.
+
 ufo 18:
 - By RetroAdvance64.
 - Twisted with a more "vampiric"-styled adornments.
@@ -3721,6 +3731,7 @@ robot 41:
 
 robot 42:
 - By ML500.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/robot_42(1).png)
 
 robot 43:
 - By JustHyperCL.
