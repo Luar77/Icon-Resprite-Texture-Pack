@@ -26,11 +26,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{76,76}</string>
+				<string>{82,82}</string>
 				<key>spriteSourceSize</key>
 				<string>{170,170}</string>
 				<key>textureRect</key>
-				<string>{{0,149},{76,76}}</string>
+				<string>{{0,149},{82,82}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -61,7 +61,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_ball_05-uhd.png</string>
 			<key>size</key>
-			<string>{289,225}</string>
+			<string>{289,231}</string>
 			<key>textureFileName</key>
 			<string>icons/player_ball_05-uhd.png</string>
 		</dict>
