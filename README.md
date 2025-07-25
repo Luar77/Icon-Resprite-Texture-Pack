@@ -49,7 +49,9 @@ Apparently some people were really insisting on helping with the development cos
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - KevgenGD             (54 icons, 2 of those being collabs) + 1 collab
 - aGold                (53 icons, 6 of those being collabs)
+	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
+	- [aGoldDev](https://github.com/aGoldDev) on GitHub
 - CraZyboy6484         (40 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (35 icons, 14 of those being collabs) + 11 collabs
