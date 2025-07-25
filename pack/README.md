@@ -4,12 +4,12 @@ After over 4 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (138 icons, 4 of those being collabs) + 17 collabs
+- RetroAdvance64       (139 icons, 4 of those being collabs) + 19 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 	- [@retroadvance64](https://www.tiktok.com/@retroadvance64) on TikTok
-- ML500                (111 icons, 7 of those being collabs) + 13 collabs
+- ML500                (113 icons, 7 of those being collabs) + 13 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
@@ -20,21 +20,21 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - NHJ                  (78 icons, 2 of those being collabs) + 3 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- Drian114             (81 icons, 10 of those being collabs) + 4 collabs
+- Drian114             (81 icons, 11 of those being collabs) + 4 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
 - JigglypuffGD         (81 icons, 13 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
+- cyanflower           (72 icons, 4 of those being collabs) + 5 collabs
+	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
+	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
 - bugpesto             (74 icons, 5 of those being collabs) + 2 collabs
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- cyanflower           (71 icons, 3 of those being collabs) + 5 collabs
-	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
-	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (59 icons, 2 of those being collabs) + 9 collabs
+- Sharkcrome           (57 icons, 3 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
@@ -47,9 +47,9 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - JustHyperCL          (35 icons, 14 of those being collabs) + 11 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - Sorao                (28 icons, 4 of those being collabs) + 3 collabs
-- AlexisDrawz          (23 icons, 7 of those being collabs) + 13 collabs
+- AlexisDrawz          (23 icons, 7 of those being collabs) + 14 collabs
 - electrictaco         (23 icons, 5 of those being collabs) + 8 collabs
-- AngelozDD            (20 icons, 1 of those being collabs) + 6 collabs
+- AngelozDD            (20 icons, 3 of those being collabs) + 7 collabs
 - AlexanderX1ta        (22 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
@@ -74,8 +74,8 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
 - Hushroom             (4 icons)
+- airiLmao             (2 icons, 2 of those being collabs) + 4 collabs
 - DanKy99              (3 icons)
-- airiLmao             (2 icons, 2 of those being collabs) + 3 collabs
 - KazooTheCat          (1 icon) + 2 collabs
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
 - Th3Angel0ffic3       (1 icon)
@@ -346,7 +346,6 @@ cube 76:
 
 cube 77:
 - By Sharkcrome.
-- ToRedesign.
 
 cube 78:
 - By RetroAdvance64.
@@ -1388,10 +1387,6 @@ cube 380:
 cube 381:
 - By Aleiz21.
 
-cube 382:
-- By RetroAdvance64.
-- [Re-made by the original artist].
-
 cube 383:
 - By Aleiz21.
 
@@ -1635,6 +1630,10 @@ cube 449:
 cube 450:
 - By aGold.
 
+cube 451:
+- By aGold.
+- Collaboration with luar77.
+
 cube 452:
 - By ML500.
 
@@ -1677,6 +1676,10 @@ cube 463:
 cube 464:
 - By CraZyboy6484.
 - References a frame of Aku, the main antagonist in the animated series 'Samurai Jack'.
+
+cube 465:
+- By cyanflower.
+- Redesigned into a dumpling bowl.
 
 cube 466:
 - By Drian114.
@@ -1809,9 +1812,15 @@ ship 18:
 ship 19:
 - By JigglypuffGD.
 
+ship 20:
+- By RetroAdvance64.
+
 ship 21:
 - By RetroAdvance64.
 - The Ship design although resembling the original in its shape, its more heavily themed into an occultist/eldritch-like beast.
+
+ship 22:
+- By RetroAdvance64.
 
 ship 23:
 - By CraZyboy6484.
@@ -2331,6 +2340,9 @@ ship 166:
 ship 167:
 - By ML500.
 
+ship 168:
+- By ML500.
+
 ship 169:
 - By RetroAdvance64.
 
@@ -2446,6 +2458,9 @@ ball 32:
 - By bugpesto.
 - References Spiritomb's face, from Pokémon.
 
+ball 33:
+- By ML500.
+
 ball 34:
 - By Sharkcrome.
 - Collab with cyanflower (lineart).
@@ -2455,6 +2470,9 @@ ball 35:
 
 ball 36:
 - By Hydr4ze.
+
+ball 37:
+- By aGold.
 
 ball 38:
 - By Drian114.
@@ -2483,7 +2501,7 @@ ball 45:
 
 ball 46:
 - By JustHyperCL.
-- [fixme] Collab with AngelozDD.
+- Collab with AngelozDD.
 
 ball 47:
 - By AlexisDrawz.
@@ -2664,7 +2682,7 @@ ball 97:
 
 ball 98:
 - By cyanflower.
-- Fixme.
+- A slime-themed redesign of the original ball. cyanflower continues to slime.
 
 ball 99:
 - By Sharkcrome.
@@ -2739,6 +2757,7 @@ ufo 2:
 
 ufo 3:
 - By bugpesto.
+- [fixme].
 
 ufo 4:
 - By RetroAdvance64.
@@ -2764,6 +2783,7 @@ ufo 10:
 
 ufo 11:
 - By Sharkcrome.
+- Prone to change [toredesign].
 
 ufo 12:
 - By cyanflower.
@@ -2782,9 +2802,6 @@ ufo 15:
 
 ufo 16:
 - By bugpesto.
-
-ufo 17:
-- By aGold.
 
 ufo 18:
 - By RetroAdvance64.
@@ -2886,9 +2903,8 @@ ufo 46:
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_46(1).png)
 
 ufo 47:
-- By Sharkcrome.
-- Refrences a frame where Mike Wozawoski appears scary.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_47(1).png)
+- By cyanflower.
+- Redesigns the UFO from a demonic cat-looking thing to a literal cat. Collab with RetroAdvance64.
 
 ufo 48:
 - By Drian114.
@@ -2980,7 +2996,7 @@ ufo 73:
 
 ufo 74:
 - By bugpesto.
-- References the Camera Lakitu from Super Mario 64 DS.
+- References the Camera Lakitu from Super Mario 64 DS [fixme].
 
 ufo 75:
 - By RetroAdvance64.
@@ -3113,7 +3129,7 @@ ufo 114:
 
 ufo 115:
 - By Drian114.
-- Collab with angelotoons05.
+- Collab with angelozDD.
 
 ufo 116:
 - By JigglypuffGD.
@@ -3345,6 +3361,7 @@ wave 32:
 
 wave 33:
 - By AngelozDD.
+- Collab With AlexisDrawz.
 
 wave 34:
 - By electrictaco.
@@ -3400,7 +3417,7 @@ wave 49:
 
 wave 50:
 - By Sharkcrome.
-- The magnet has caught a metal marble.
+- Tzzzzzzt !!.
 
 wave 51:
 - By NHJ.
@@ -3663,6 +3680,10 @@ robot 30:
 robot 31:
 - By ML500.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/robot_31(1).mp4)
+
+robot 32:
+- By cyanflower.
+- Simplifies the robot while keeping the Renegade appearance. Collab with ML500.
 
 robot 33:
 - By RetroAdvance64.
