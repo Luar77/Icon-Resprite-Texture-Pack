@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,4.2}</string>
+			<string>{0,3}</string>
 			<key>spriteSize</key>
-			<string>{66,42}</string>
+			<string>{72,42}</string>
 			<key>spriteSourceSize</key>
-			<string>{70,70}</string>
+			<string>{76,70}</string>
 			<key>textureRect</key>
-			<string>{{50,2},{66,42}}</string>
+			<string>{{50,2},{72,42}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,14.2}</string>
+			<string>{0,5}</string>
 			<key>spriteSize</key>
-			<string>{39,15}</string>
+			<string>{67,33}</string>
 			<key>spriteSourceSize</key>
-			<string>{70,70}</string>
+			<string>{76,70}</string>
 			<key>textureRect</key>
-			<string>{{50,46},{39,15}}</string>
+			<string>{{50,46},{67,33}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -39,28 +39,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,26.8}</string>
+			<string>{0,25}</string>
 			<key>spriteSize</key>
-			<string>{61,48}</string>
+			<string>{57,50}</string>
 			<key>spriteSourceSize</key>
-			<string>{70,70}</string>
+			<string>{76,70}</string>
 			<key>textureRect</key>
-			<string>{{2,74},{61,48}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>bird_11_extra_001.png</key>
-		<dict>
-			<key>aliases</key>
-			<array/>
-			<key>spriteOffset</key>
-			<string>{0,14.2}</string>
-			<key>spriteSize</key>
-			<string>{34,15}</string>
-			<key>spriteSourceSize</key>
-			<string>{70,70}</string>
-			<key>textureRect</key>
-			<string>{{91,46},{34,15}}</string>
+			<string>{{119,46},{57,50}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -69,13 +54,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,4.2}</string>
+			<string>{0,3}</string>
 			<key>spriteSize</key>
-			<string>{70,46}</string>
+			<string>{76,46}</string>
 			<key>spriteSourceSize</key>
-			<string>{70,70}</string>
+			<string>{76,70}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{70,46}}</string>
+			<string>{{2,2},{76,46}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -91,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/bird_11-hd.png</string>
 		<key>size</key>
-		<string>{128,128}</string>
+		<string>{256,128}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
