@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,12}</string>
+				<string>{0,13}</string>
 				<key>spriteSize</key>
-				<string>{157,86}</string>
+				<string>{159,87}</string>
 				<key>spriteSourceSize</key>
-				<string>{157,86}</string>
+				<string>{159,87}</string>
 				<key>textureRect</key>
-				<string>{{0,73},{157,86}}</string>
+				<string>{{0,75},{159,87}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -30,7 +30,7 @@
 				<key>spriteSourceSize</key>
 				<string>{153,60}</string>
 				<key>textureRect</key>
-				<string>{{0,160},{153,60}}</string>
+				<string>{{0,163},{153,60}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -45,7 +45,7 @@
 				<key>spriteSourceSize</key>
 				<string>{120,89}</string>
 				<key>textureRect</key>
-				<string>{{218,0},{120,89}}</string>
+				<string>{{220,0},{120,89}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -54,13 +54,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{7.5,3.5}</string>
+				<string>{7.5,4.5}</string>
 				<key>spriteSize</key>
 				<string>{136,51}</string>
 				<key>spriteSourceSize</key>
 				<string>{136,51}</string>
 				<key>textureRect</key>
-				<string>{{166,0},{136,51}}</string>
+				<string>{{168,0},{136,51}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -69,13 +69,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,1}</string>
+				<string>{0,2}</string>
 				<key>spriteSize</key>
-				<string>{165,72}</string>
+				<string>{167,74}</string>
 				<key>spriteSourceSize</key>
-				<string>{165,72}</string>
+				<string>{167,74}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{165,72}}</string>
+				<string>{{0,0},{167,74}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -91,7 +91,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/bird_74-uhd.png</string>
 			<key>size</key>
-			<string>{307,220}</string>
+			<string>{309,223}</string>
 			<key>textureFileName</key>
 			<string>icons/bird_74-uhd.png</string>
 		</dict>
