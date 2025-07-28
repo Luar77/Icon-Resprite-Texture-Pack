@@ -38,12 +38,12 @@ Apparently some people were really insisting on helping with the development cos
 - cyanflower           (72 icons, 4 of those being collabs) + 5 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-	- [cyanflower](https://cyanflower.newgrounds.com) on Newgrounds
 - bugpesto             (74 icons, 5 of those being collabs) + 2 collabs
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - Sharkcrome           (57 icons, 3 of those being collabs) + 9 collabs
+	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
