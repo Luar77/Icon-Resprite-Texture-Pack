@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,6}</string>
+			<string>{0,6.5}</string>
 			<key>spriteSize</key>
-			<string>{79,43}</string>
+			<string>{80,44}</string>
 			<key>spriteSourceSize</key>
-			<string>{83,69}</string>
+			<string>{84,69}</string>
 			<key>textureRect</key>
-			<string>{{40,2},{79,43}}</string>
+			<string>{{41,2},{80,44}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -28,11 +28,11 @@
 			<key>spriteSize</key>
 			<string>{77,30}</string>
 			<key>spriteSourceSize</key>
-			<string>{83,69}</string>
+			<string>{84,69}</string>
 			<key>textureRect</key>
-			<string>{{40,47},{77,30}}</string>
+			<string>{{2,88},{77,30}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>bird_74_3_001.png</key>
 		<dict>
@@ -43,39 +43,39 @@
 			<key>spriteSize</key>
 			<string>{60,45}</string>
 			<key>spriteSourceSize</key>
-			<string>{83,69}</string>
+			<string>{84,69}</string>
 			<key>textureRect</key>
-			<string>{{100,47},{60,45}}</string>
+			<string>{{81,76},{60,45}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>bird_74_extra_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{3.75,1.75}</string>
+			<string>{3.75,2.25}</string>
 			<key>spriteSize</key>
 			<string>{68,26}</string>
 			<key>spriteSourceSize</key>
-			<string>{83,69}</string>
+			<string>{84,69}</string>
 			<key>textureRect</key>
-			<string>{{72,47},{68,26}}</string>
+			<string>{{41,48},{68,26}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>bird_74_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0.5}</string>
+			<string>{0,1}</string>
 			<key>spriteSize</key>
-			<string>{83,36}</string>
+			<string>{84,37}</string>
 			<key>spriteSourceSize</key>
-			<string>{83,69}</string>
+			<string>{84,69}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{83,36}}</string>
+			<string>{{2,2},{84,37}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
