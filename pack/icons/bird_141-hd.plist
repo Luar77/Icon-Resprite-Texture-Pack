@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,5}</string>
+			<string>{0,7}</string>
 			<key>spriteSize</key>
-			<string>{82,48}</string>
+			<string>{80,46}</string>
 			<key>spriteSourceSize</key>
-			<string>{86,70}</string>
+			<string>{84,67}</string>
 			<key>textureRect</key>
-			<string>{{106,2},{82,48}}</string>
+			<string>{{102,2},{80,46}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,5}</string>
+			<string>{0,7}</string>
 			<key>spriteSize</key>
-			<string>{82,48}</string>
+			<string>{80,46}</string>
 			<key>spriteSourceSize</key>
-			<string>{86,70}</string>
+			<string>{84,67}</string>
 			<key>textureRect</key>
-			<string>{{156,2},{82,48}}</string>
+			<string>{{150,2},{80,46}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -43,24 +43,24 @@
 			<key>spriteSize</key>
 			<string>{61,39}</string>
 			<key>spriteSourceSize</key>
-			<string>{86,70}</string>
+			<string>{84,67}</string>
 			<key>textureRect</key>
-			<string>{{156,52},{61,39}}</string>
+			<string>{{102,84},{61,39}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>bird_141_extra_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,5}</string>
+			<string>{0,7}</string>
 			<key>spriteSize</key>
-			<string>{82,48}</string>
+			<string>{80,46}</string>
 			<key>spriteSourceSize</key>
-			<string>{86,70}</string>
+			<string>{84,67}</string>
 			<key>textureRect</key>
-			<string>{{56,2},{82,48}}</string>
+			<string>{{54,2},{80,46}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -69,13 +69,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,5}</string>
+			<string>{0,7}</string>
 			<key>spriteSize</key>
-			<string>{86,52}</string>
+			<string>{84,50}</string>
 			<key>spriteSourceSize</key>
-			<string>{86,70}</string>
+			<string>{84,67}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{86,52}}</string>
+			<string>{{2,2},{84,50}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
