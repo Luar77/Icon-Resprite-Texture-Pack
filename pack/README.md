@@ -24,17 +24,17 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
+- bugpesto             (78 icons, 5 of those being collabs) + 2 collabs
+	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
+	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
+	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - JigglypuffGD         (81 icons, 13 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - cyanflower           (72 icons, 4 of those being collabs) + 5 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- bugpesto             (74 icons, 5 of those being collabs) + 2 collabs
-	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
-	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
-	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- Sharkcrome           (57 icons, 3 of those being collabs) + 9 collabs
+- Sharkcrome           (55 icons, 3 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
@@ -45,33 +45,33 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- CraZyboy6484         (40 icons) + 1 collab
+- CraZyboy6484         (39 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (35 icons, 14 of those being collabs) + 11 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
+- AlexisDrawz          (24 icons, 7 of those being collabs) + 14 collabs
 - Sorao                (28 icons, 4 of those being collabs) + 3 collabs
-- AlexisDrawz          (23 icons, 7 of those being collabs) + 14 collabs
 - electrictaco         (23 icons, 5 of those being collabs) + 8 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
+- Dibbj                (21 icons, 3 of those being collabs) + 6 collabs
+	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - AngelozDD            (20 icons, 3 of those being collabs) + 7 collabs
 - AlexanderX1ta        (22 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- Dibbj                (20 icons, 3 of those being collabs) + 6 collabs
-	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
-- J3anC4rlo            (14 icons, 1 of those being collabs) + 1 collab
-	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
-	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - KetsuTT              (16 icons, 5 of those being collabs)
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
 - Luar77               (13 icons, 3 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- Exetric              (12 icons)
+- ChileMationsxD       (12 icons)
+- J3anC4rlo            (12 icons, 1 of those being collabs) + 1 collab
+	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
+	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- Exetric              (11 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
-- ChileMationsxD       (12 icons)
 - Hydr4ze              (9 icons, 1 of those being collabs)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
@@ -476,7 +476,7 @@ cube 115:
 - By NHJ.
 
 cube 116:
-- By J3anC4rlo.
+- By bugpesto.
 
 cube 117:
 - By ML500.
@@ -647,9 +647,7 @@ cube 166:
 - By J3anC4rlo.
 
 cube 167:
-- By Sharkcrome.
-- Refrence to Boom Kitty
-All GD Players Put Ya Hands Up !.
+- By bugpesto.
 
 cube 168:
 - By RetroAdvance64.
@@ -1544,7 +1542,7 @@ cube 425:
 - By NHJ.
 
 cube 426:
-- By Sharkcrome.
+- By AlexisDrawz.
 
 cube 427:
 - By JigglypuffGD.
@@ -1783,7 +1781,7 @@ ship 9:
 - By KevgenGD.
 
 ship 10:
-- By Exetric.
+- By Dibbj.
 
 ship 11:
 - By NHJ.
@@ -1849,7 +1847,7 @@ ship 28:
 - By Drian114.
 
 ship 29:
-- By CraZyboy6484.
+- By Sharkcrome.
 
 ship 30:
 - By NHJ.
@@ -2466,7 +2464,7 @@ ball 33:
 - By ML500.
 
 ball 34:
-- By Sharkcrome.
+- By bugpesto.
 
 ball 35:
 - By Aleiz21.
@@ -3284,7 +3282,7 @@ wave 6:
 - A redesign that turns the wave into a needle-inspired design.
 
 wave 7:
-- By J3anC4rlo.
+- By bugpesto.
 
 wave 8:
 - By KevgenGD.
@@ -3915,6 +3913,11 @@ spider 30:
 - By JigglypuffGD.
 - FIRE IN THE HOLE.
 
+spider 31:
+- By AlexanderX1ta.
+- Collab with electrictaco. Reference to a Deep Rock Galactic turret: LMG Gun Platform.
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1385895428817424476/qrdebfcxoth31.jpg?ex=6857bb32&is=685669b2&hm=c46df1cd205a8faecf8f27901bc23139066c3682070901a7e85f3d5f697c1f21&=&format=webp&width=726&height=930)
+
 spider 32:
 - By bugpesto.
 - Properly references a hermit crab, with some details taken from the pokémon "Dwebble".
@@ -4028,9 +4031,7 @@ spider 63:
 - By AlexanderX1ta.
 - Collab with sharkcrome. 
 
-Refrence to the cannon weapon skin called "Sonic Boom" from Battle Pass Season 2 of the game Brawlhalla
-
-Fixme.
+Refrence to the cannon weapon skin called "Sonic Boom" from Battle Pass Season 2 of the game Brawlhalla.
 
 spider 64:
 - By Aleiz21.
