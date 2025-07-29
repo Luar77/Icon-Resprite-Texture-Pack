@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-2.5}</string>
 			<key>spriteSize</key>
-			<string>{77,43}</string>
+			<string>{85,42}</string>
 			<key>spriteSourceSize</key>
-			<string>{81,47}</string>
+			<string>{89,46}</string>
 			<key>textureRect</key>
-			<string>{{51,2},{77,43}}</string>
+			<string>{{50,2},{85,42}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -24,28 +24,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-1.2,-5.2}</string>
+			<string>{-1.5,-1}</string>
 			<key>spriteSize</key>
-			<string>{68,30}</string>
+			<string>{79,37}</string>
 			<key>spriteSourceSize</key>
-			<string>{81,47}</string>
+			<string>{89,46}</string>
 			<key>textureRect</key>
-			<string>{{2,85},{68,30}}</string>
+			<string>{{94,2},{79,37}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>ship_10_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-2.5}</string>
 			<key>spriteSize</key>
-			<string>{81,47}</string>
+			<string>{89,46}</string>
 			<key>spriteSourceSize</key>
-			<string>{81,47}</string>
+			<string>{89,46}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{81,47}}</string>
+			<string>{{2,2},{89,46}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
