@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-0.5,0.5}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{119,121}</string>
+				<string>{120,120}</string>
 				<key>spriteSourceSize</key>
-				<string>{182,182}</string>
+				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{127,0},{119,121}}</string>
+				<string>{{129,0},{120,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,30 +24,15 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{23,32}</string>
+				<string>{22.5,34.5}</string>
 				<key>spriteSize</key>
-				<string>{24,8}</string>
+				<string>{35,15}</string>
 				<key>spriteSourceSize</key>
-				<string>{182,182}</string>
+				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{113,129},{24,8}}</string>
+				<string>{{0,129},{35,15}}</string>
 				<key>textureRotated</key>
-				<true/>
-			</dict>
-			<key>player_42_extra_001.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{5,0}</string>
-				<key>spriteSize</key>
-				<string>{100,112}</string>
-				<key>spriteSourceSize</key>
-				<string>{182,182}</string>
-				<key>textureRect</key>
-				<string>{{0,129},{100,112}}</string>
-				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>player_42_glow_001.png</key>
 			<dict>
@@ -56,11 +41,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{126,128}</string>
+				<string>{128,128}</string>
 				<key>spriteSourceSize</key>
-				<string>{182,182}</string>
+				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{126,128}}</string>
+				<string>{{0,0},{128,128}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +61,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_42-uhd.png</string>
 			<key>size</key>
-			<string>{246,229}</string>
+			<string>{249,144}</string>
 			<key>textureFileName</key>
 			<string>icons/player_42-uhd.png</string>
 		</dict>
