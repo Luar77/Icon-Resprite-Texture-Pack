@@ -11,11 +11,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{120,120}</string>
+				<string>{132,120}</string>
 				<key>spriteSourceSize</key>
-				<string>{180,180}</string>
+				<string>{132,120}</string>
 				<key>textureRect</key>
-				<string>{{129,0},{120,120}}</string>
+				<string>{{0,129},{132,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,30 +24,30 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-1}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{112,110}</string>
+				<string>{126,114}</string>
 				<key>spriteSourceSize</key>
-				<string>{180,180}</string>
+				<string>{126,114}</string>
 				<key>textureRect</key>
-				<string>{{0,129},{112,110}}</string>
+				<string>{{141,0},{126,114}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>player_167_extra_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,4}</string>
+				<string>{0,-11}</string>
 				<key>spriteSize</key>
-				<string>{108,96}</string>
+				<string>{84,58}</string>
 				<key>spriteSourceSize</key>
-				<string>{180,180}</string>
+				<string>{84,58}</string>
 				<key>textureRect</key>
-				<string>{{113,129},{108,96}}</string>
+				<string>{{141,127},{84,58}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>player_167_glow_001.png</key>
 			<dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{128,128}</string>
+				<string>{140,128}</string>
 				<key>spriteSourceSize</key>
-				<string>{180,180}</string>
+				<string>{140,128}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{128,128}}</string>
+				<string>{{0,0},{140,128}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_167-uhd.png</string>
 			<key>size</key>
-			<string>{249,239}</string>
+			<string>{255,249}</string>
 			<key>textureFileName</key>
 			<string>icons/player_167-uhd.png</string>
 		</dict>
