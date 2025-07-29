@@ -32,17 +32,17 @@ Apparently some people were really insisting on helping with the development cos
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
+- bugpesto             (78 icons, 5 of those being collabs) + 2 collabs
+	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
+	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
+	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - JigglypuffGD         (81 icons, 13 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - cyanflower           (72 icons, 4 of those being collabs) + 5 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- bugpesto             (74 icons, 5 of those being collabs) + 2 collabs
-	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
-	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
-	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- Sharkcrome           (57 icons, 3 of those being collabs) + 9 collabs
+- Sharkcrome           (55 icons, 3 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
@@ -53,33 +53,33 @@ Apparently some people were really insisting on helping with the development cos
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- CraZyboy6484         (40 icons) + 1 collab
+- CraZyboy6484         (39 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (35 icons, 14 of those being collabs) + 11 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
+- AlexisDrawz          (24 icons, 7 of those being collabs) + 14 collabs
 - Sorao                (28 icons, 4 of those being collabs) + 3 collabs
-- AlexisDrawz          (23 icons, 7 of those being collabs) + 14 collabs
 - electrictaco         (23 icons, 5 of those being collabs) + 8 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
+- Dibbj                (21 icons, 3 of those being collabs) + 6 collabs
+	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - AngelozDD            (20 icons, 3 of those being collabs) + 7 collabs
 - AlexanderX1ta        (22 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- Dibbj                (20 icons, 3 of those being collabs) + 6 collabs
-	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
-- J3anC4rlo            (14 icons, 1 of those being collabs) + 1 collab
-	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
-	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - KetsuTT              (16 icons, 5 of those being collabs)
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
 - Luar77               (13 icons, 3 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- Exetric              (12 icons)
+- ChileMationsxD       (12 icons)
+- J3anC4rlo            (12 icons, 1 of those being collabs) + 1 collab
+	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
+	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
+- Exetric              (11 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
-- ChileMationsxD       (12 icons)
 - Hydr4ze              (9 icons, 1 of those being collabs)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
