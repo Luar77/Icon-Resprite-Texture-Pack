@@ -4,30 +4,30 @@ After over 5 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (139 icons, 4 of those being collabs) + 19 collabs
+- RetroAdvance64       (136 icons, 4 of those being collabs) + 19 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 	- [@retroadvance64](https://www.tiktok.com/@retroadvance64) on TikTok
-- ML500                (114 icons, 7 of those being collabs) + 13 collabs
+- ML500                (117 icons, 7 of those being collabs) + 13 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 	- [MasterL500](https://github.com/MasterL500) on GitHub
-- Aleiz21              (94 icons, 8 of those being collabs) + 4 collabs
+- Aleiz21              (92 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - NHJ                  (78 icons, 2 of those being collabs) + 3 collabs
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
+- bugpesto             (79 icons, 5 of those being collabs) + 2 collabs
+	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
+	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
+	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - Drian114             (81 icons, 11 of those being collabs) + 4 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
-- bugpesto             (78 icons, 5 of those being collabs) + 2 collabs
-	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
-	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
-	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - JigglypuffGD         (81 icons, 13 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
@@ -40,20 +40,20 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- KevgenGD             (54 icons, 2 of those being collabs) + 1 collab
+- KevgenGD             (53 icons, 2 of those being collabs) + 1 collab
 - aGold                (53 icons, 6 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- CraZyboy6484         (39 icons) + 1 collab
+- CraZyboy6484         (38 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- JustHyperCL          (35 icons, 14 of those being collabs) + 11 collabs
+- JustHyperCL          (36 icons, 14 of those being collabs) + 11 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- AlexisDrawz          (24 icons, 7 of those being collabs) + 14 collabs
-- Sorao                (28 icons, 4 of those being collabs) + 3 collabs
+- AlexisDrawz          (25 icons, 7 of those being collabs) + 14 collabs
+- Sorao                (27 icons, 4 of those being collabs) + 3 collabs
 - electrictaco         (23 icons, 5 of those being collabs) + 8 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
-- Dibbj                (21 icons, 3 of those being collabs) + 6 collabs
+- Dibbj                (22 icons, 3 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - AngelozDD            (20 icons, 3 of those being collabs) + 7 collabs
 - AlexanderX1ta        (22 icons, 2 of those being collabs) + 2 collabs
@@ -62,16 +62,16 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - KetsuTT              (16 icons, 5 of those being collabs)
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
-- Luar77               (13 icons, 3 of those being collabs) + 1 collab
+- Luar77               (14 icons, 3 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
 - ChileMationsxD       (12 icons)
-- J3anC4rlo            (12 icons, 1 of those being collabs) + 1 collab
-	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
-	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - Exetric              (11 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
+- J3anC4rlo            (10 icons, 1 of those being collabs) + 1 collab
+	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
+	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - Hydr4ze              (9 icons, 1 of those being collabs)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
@@ -111,7 +111,7 @@ cube 6:
 - By KevgenGD.
 
 cube 7:
-- By RetroAdvance64.
+- By AlexisDrawz.
 
 cube 8:
 - By JigglypuffGD.
@@ -536,9 +536,6 @@ cube 133:
 cube 134:
 - By aGold.
 
-cube 135:
-- By Aleiz21.
-
 cube 136:
 - By AlexanderX1ta.
 
@@ -641,7 +638,7 @@ cube 164:
 - The Idea behind of this Remixed icon is that it takes the "Crown" piece and turns it into a Helmet piece.
 
 cube 165:
-- By RetroAdvance64.
+- By ML500.
 
 cube 166:
 - By J3anC4rlo.
@@ -850,7 +847,7 @@ cube 225:
 - References the penguin design from Mastergame by Serponge.
 
 cube 226:
-- By RetroAdvance64.
+- By ML500.
 
 cube 227:
 - By CraZyboy6484.
@@ -1288,7 +1285,7 @@ cube 353:
 - A basic redesign of the original cube.
 
 cube 354:
-- By Sorao.
+- By ML500.
 
 cube 355:
 - By Aleiz21.
@@ -1524,7 +1521,7 @@ cube 420:
 - Collect My Pages.
 
 cube 421:
-- By KevgenGD.
+- By Luar77.
 
 cube 422:
 - By airiLmao.
@@ -1597,8 +1594,7 @@ cube 440:
 - A basic redesign of the original cube. Has an added color splatter gimmick.
 
 cube 441:
-- By CraZyboy6484.
-- Direct reference to scratch, one of the shopkeepers in GD.
+- By JustHyperCL.
 
 cube 442:
 - By JigglypuffGD.
@@ -1775,7 +1771,7 @@ ship 7:
 - Collab with ElectricTaco.
 
 ship 8:
-- By Aleiz21.
+- By Dibbj.
 
 ship 9:
 - By KevgenGD.
@@ -2783,7 +2779,7 @@ ufo 10:
 
 ufo 11:
 - By Sharkcrome.
-- Shaped like an Aztec Ant.
+- Aims to achieve an Aztec style of a bug.
 
 ufo 12:
 - By cyanflower.
@@ -3329,7 +3325,7 @@ wave 20:
 - Based on a star wars x wing (just like the original icon by Rob is).
 
 wave 21:
-- By J3anC4rlo.
+- By bugpesto.
 
 wave 22:
 - By bugpesto.
@@ -4087,9 +4083,6 @@ swing 9:
 - By RetroAdvance64.
 - Some people misreference this swing as the "Pog" face but in reality is based off the classic meme "Shoop Da Whoop" from the mid-2000s. The remake recreates the face more faithfully to the original idea.
 
-swing 10:
-- By J3anC4rlo.
-
 swing 11:
 - By NHJ.
 
@@ -4102,7 +4095,7 @@ swing 13:
 
 swing 14:
 - By Luar77.
-- Based on the Drone enemies from ULTRAKILL.
+- Collab with Alexisdrawz. Design based on the Drone enemies from ULTRAKILL.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/swing_14(1).png)
 
 swing 15:
