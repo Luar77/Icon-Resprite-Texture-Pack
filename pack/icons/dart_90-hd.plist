@@ -39,15 +39,15 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-0.25,0.25}</string>
+			<string>{-2.75,0.25}</string>
 			<key>spriteSize</key>
-			<string>{47,33}</string>
+			<string>{42,33}</string>
 			<key>spriteSourceSize</key>
 			<string>{57,39}</string>
 			<key>textureRect</key>
-			<string>{{80,55},{47,33}}</string>
+			<string>{{80,55},{42,33}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>dart_90_glow_001.png</key>
 		<dict>
