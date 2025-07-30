@@ -9,7 +9,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0.2}</string>
+			<string>{0,0.25}</string>
 			<key>spriteSize</key>
 			<string>{60,61}</string>
 			<key>spriteSourceSize</key>
@@ -24,28 +24,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-8,8}</string>
+			<string>{-8,4.25}</string>
 			<key>spriteSize</key>
-			<string>{28,28}</string>
+			<string>{28,36}</string>
 			<key>spriteSourceSize</key>
 			<string>{64,65}</string>
 			<key>textureRect</key>
-			<string>{{36,69},{28,28}}</string>
+			<string>{{59,69},{28,36}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>player_75_extra_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{5.8,11.5}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{44,32}</string>
+			<string>{55,55}</string>
 			<key>spriteSourceSize</key>
 			<string>{64,65}</string>
 			<key>textureRect</key>
-			<string>{{2,69},{44,32}}</string>
+			<string>{{2,69},{55,55}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -54,7 +54,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0.2}</string>
+			<string>{0,0.25}</string>
 			<key>spriteSize</key>
 			<string>{64,65}</string>
 			<key>spriteSourceSize</key>
