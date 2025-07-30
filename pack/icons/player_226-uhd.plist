@@ -11,11 +11,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{122,120}</string>
+				<string>{120,120}</string>
 				<key>spriteSourceSize</key>
-				<string>{132,130}</string>
+				<string>{140,140}</string>
 				<key>textureRect</key>
-				<string>{{0,131},{122,120}}</string>
+				<string>{{129,0},{120,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,30 +24,15 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,5.5}</string>
+				<string>{0,-8}</string>
 				<key>spriteSize</key>
-				<string>{112,99}</string>
+				<string>{88,94}</string>
 				<key>spriteSourceSize</key>
-				<string>{132,130}</string>
+				<string>{140,140}</string>
 				<key>textureRect</key>
-				<string>{{133,0},{112,99}}</string>
+				<string>{{0,129},{88,94}}</string>
 				<key>textureRotated</key>
 				<true/>
-			</dict>
-			<key>player_226_extra_001.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,-21}</string>
-				<key>spriteSize</key>
-				<string>{68,8}</string>
-				<key>spriteSourceSize</key>
-				<string>{132,130}</string>
-				<key>textureRect</key>
-				<string>{{133,113},{68,8}}</string>
-				<key>textureRotated</key>
-				<false/>
 			</dict>
 			<key>player_226_glow_001.png</key>
 			<dict>
@@ -56,11 +41,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{132,130}</string>
+				<string>{128,128}</string>
 				<key>spriteSourceSize</key>
-				<string>{132,130}</string>
+				<string>{140,140}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{132,130}}</string>
+				<string>{{0,0},{128,128}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +61,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_226-uhd.png</string>
 			<key>size</key>
-			<string>{232,251}</string>
+			<string>{249,217}</string>
 			<key>textureFileName</key>
 			<string>icons/player_226-uhd.png</string>
 		</dict>
