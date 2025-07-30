@@ -34,13 +34,13 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (72 icons, 4 of those being collabs) + 5 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (55 icons, 3 of those being collabs) + 9 collabs
+- Sharkcrome           (57 icons, 3 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- KevgenGD             (53 icons, 2 of those being collabs) + 1 collab
+- KevgenGD             (52 icons, 2 of those being collabs) + 1 collab
 - aGold                (53 icons, 6 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
@@ -53,7 +53,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - Sorao                (27 icons, 4 of those being collabs) + 3 collabs
 - electrictaco         (23 icons, 5 of those being collabs) + 8 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
-- Dibbj                (22 icons, 3 of those being collabs) + 6 collabs
+- Dibbj                (23 icons, 3 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - AngelozDD            (20 icons, 3 of those being collabs) + 7 collabs
 - AlexanderX1ta        (22 icons, 2 of those being collabs) + 2 collabs
@@ -535,6 +535,9 @@ cube 133:
 
 cube 134:
 - By aGold.
+
+cube 135:
+- By Sharkcrome.
 
 cube 136:
 - By AlexanderX1ta.
@@ -1898,7 +1901,8 @@ ship 44:
 - By KevgenGD.
 
 ship 45:
-- By KevgenGD.
+- By Dibbj.
+- References the "Nailgun" from the game 'ULTRAKILL'.
 
 ship 46:
 - By Aleiz21.
@@ -4082,6 +4086,10 @@ swing 8:
 swing 9:
 - By RetroAdvance64.
 - Some people misreference this swing as the "Pog" face but in reality is based off the classic meme "Shoop Da Whoop" from the mid-2000s. The remake recreates the face more faithfully to the original idea.
+
+swing 10:
+- By Sharkcrome.
+- Refrences a Rabbid.
 
 swing 11:
 - By NHJ.
