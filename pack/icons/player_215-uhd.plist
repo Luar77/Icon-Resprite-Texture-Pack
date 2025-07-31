@@ -9,28 +9,43 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{1.5,2}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{125,126}</string>
+				<string>{130,126}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,135},{125,126}}</string>
+				<string>{{0,131},{130,126}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>player_215_2_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{2,1}</string>
+				<string>{0,15.5}</string>
 				<key>spriteSize</key>
-				<string>{116,114}</string>
+				<string>{120,85}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{136,0},{116,114}}</string>
+				<string>{{135,0},{120,85}}</string>
+				<key>textureRotated</key>
+				<true/>
+			</dict>
+			<key>player_215_extra_001.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{-0.5,-0.5}</string>
+				<key>spriteSize</key>
+				<string>{109,51}</string>
+				<key>spriteSourceSize</key>
+				<string>{180,180}</string>
+				<key>textureRect</key>
+				<string>{{131,131},{109,51}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -39,13 +54,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{1.5,2}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{135,134}</string>
+				<string>{134,130}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{135,134}}</string>
+				<string>{{0,0},{134,130}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -61,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_215-uhd.png</string>
 			<key>size</key>
-			<string>{250,260}</string>
+			<string>{220,257}</string>
 			<key>textureFileName</key>
 			<string>icons/player_215-uhd.png</string>
 		</dict>
