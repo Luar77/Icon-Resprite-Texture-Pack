@@ -28,7 +28,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
-- JigglypuffGD         (81 icons, 13 of those being collabs) + 2 collabs
+- JigglypuffGD         (80 icons, 13 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - cyanflower           (72 icons, 4 of those being collabs) + 5 collabs
@@ -41,15 +41,15 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - KevgenGD             (52 icons, 2 of those being collabs) + 1 collab
-- aGold                (53 icons, 6 of those being collabs)
+- aGold                (52 icons, 6 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- CraZyboy6484         (38 icons) + 1 collab
+- CraZyboy6484         (37 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (36 icons, 14 of those being collabs) + 11 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- AlexisDrawz          (25 icons, 7 of those being collabs) + 14 collabs
+- AlexisDrawz          (26 icons, 7 of those being collabs) + 14 collabs
 - Sorao                (27 icons, 4 of those being collabs) + 3 collabs
 - electrictaco         (23 icons, 5 of those being collabs) + 8 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
@@ -60,11 +60,11 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- KetsuTT              (16 icons, 5 of those being collabs)
-	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
-- Luar77               (14 icons, 3 of those being collabs) + 1 collab
+- Luar77               (15 icons, 3 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
+- KetsuTT              (16 icons, 5 of those being collabs)
+	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
 - ChileMationsxD       (12 icons)
 - Exetric              (11 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
@@ -415,7 +415,7 @@ cube 97:
 - By JustHyperCL.
 
 cube 98:
-- By JigglypuffGD.
+- By Luar77.
 
 cube 99:
 - By Sorao.
@@ -813,7 +813,7 @@ cube 214:
 - By electrictaco.
 
 cube 215:
-- By CraZyboy6484.
+- By AlexisDrawz.
 
 cube 216:
 - By Drian114.
@@ -1804,7 +1804,6 @@ ship 16:
 
 ship 17:
 - By Dibbj.
-- Only minor visual adjustments have been done to this icon. To keep the spirit of the original, it has been done without an extra layer.
 
 ship 18:
 - By cyanflower.
@@ -2376,10 +2375,6 @@ ball 8:
 - By ML500.
 - Collab with Sorao.
 
-ball 9:
-- By electrictaco.
-- Thanks to Aleiz21 for the help with this icon.
-
 ball 10:
 - By NHJ.
 
@@ -2610,9 +2605,6 @@ ball 76:
 - By Luar77.
 - Indirect reference to an original character from Luar77.
 
-ball 77:
-- By aGold.
-
 ball 78:
 - By KevgenGD.
 
@@ -2696,7 +2688,7 @@ ball 101:
 
 ball 102:
 - By Luar77.
-- Collab with ml500.
+- Collab with ML500.
 
 ball 103:
 - By bugpesto.
