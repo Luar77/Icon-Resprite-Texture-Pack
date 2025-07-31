@@ -31,36 +31,36 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - JigglypuffGD         (80 icons, 13 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- cyanflower           (72 icons, 4 of those being collabs) + 5 collabs
+- cyanflower           (70 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (57 icons, 3 of those being collabs) + 9 collabs
+- Sharkcrome           (57 icons, 2 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - KevgenGD             (52 icons, 2 of those being collabs) + 1 collab
-- aGold                (52 icons, 6 of those being collabs)
+- aGold                (52 icons, 7 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
 - CraZyboy6484         (37 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- JustHyperCL          (36 icons, 14 of those being collabs) + 11 collabs
+- AlexisDrawz          (27 icons, 7 of those being collabs) + 15 collabs
+- AsRenCL              (38 icons, 14 of those being collabs)
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- AlexisDrawz          (26 icons, 7 of those being collabs) + 14 collabs
 - Sorao                (27 icons, 4 of those being collabs) + 3 collabs
-- electrictaco         (23 icons, 5 of those being collabs) + 8 collabs
+- electrictaco         (23 icons, 5 of those being collabs) + 9 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
 - Dibbj                (23 icons, 3 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - AngelozDD            (20 icons, 3 of those being collabs) + 7 collabs
-- AlexanderX1ta        (22 icons, 2 of those being collabs) + 2 collabs
+- AlexanderX1ta        (22 icons, 3 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- Luar77               (15 icons, 3 of those being collabs) + 1 collab
+- Luar77               (15 icons, 4 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
 - KetsuTT              (16 icons, 5 of those being collabs)
@@ -385,7 +385,7 @@ cube 88:
 - Collab with JustHyperCL.
 
 cube 89:
-- By JustHyperCL.
+- By AsRenCL.
 - Another reference to Ethan's default cube but adapted to a new shape.
 
 cube 90:
@@ -412,7 +412,7 @@ cube 96:
 - By Hushroom.
 
 cube 97:
-- By JustHyperCL.
+- By AsRenCL.
 
 cube 98:
 - By Luar77.
@@ -562,7 +562,7 @@ cube 141:
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_141(1).png)
 
 cube 142:
-- By JustHyperCL.
+- By AsRenCL.
 - Reference to a funny old emote but now brought to an actual icon.
 
 cube 143:
@@ -626,15 +626,15 @@ cube 160:
 - By ML500.
 
 cube 161:
-- By JustHyperCL.
+- By AsRenCL.
 - This cube references the popular youtuber ToshDeluxe.
 
 cube 162:
-- By JustHyperCL.
+- By AsRenCL.
 - References a boomlings version of the character Kratos, extracted from a boomlings gamesheet.
 
 cube 163:
-- By JustHyperCL.
+- By AsRenCL.
 
 cube 164:
 - By RetroAdvance64.
@@ -917,7 +917,7 @@ cube 243:
 - Someone poked his eye, now he mad.
 
 cube 244:
-- By JustHyperCL.
+- By AsRenCL.
 - This cube references Bo Katan's helmet, a character from The Mandalorian series. Collab with electrictaco, sharkcrome.
 
 cube 245:
@@ -942,7 +942,7 @@ cube 249:
 Collab with RetroAdvance64.
 
 cube 250:
-- By JustHyperCL.
+- By AsRenCL.
 
 cube 251:
 - By Aleiz21.
@@ -960,7 +960,7 @@ cube 255:
 - By AlexanderX1ta.
 
 cube 256:
-- By JustHyperCL.
+- By AsRenCL.
 - Collab with AlexisDrawz.
 
 cube 257:
@@ -994,7 +994,7 @@ cube 266:
 - By NHJ.
 
 cube 267:
-- By JustHyperCL.
+- By AsRenCL.
 
 cube 268:
 - By KevgenGD.
@@ -1050,7 +1050,7 @@ cube 283:
 - By ML500.
 
 cube 284:
-- By JustHyperCL.
+- By AsRenCL.
 - Collab with ML500.
 
 cube 285:
@@ -1137,7 +1137,7 @@ cube 309:
 - By AlexanderX1ta.
 
 cube 310:
-- By JustHyperCL.
+- By AsRenCL.
 - A rebirth version of my first original icon ever, made  exclusively to fit to a very specific existing icon.
 
 cube 311:
@@ -1507,7 +1507,7 @@ cube 415:
 - By Hydr4ze.
 
 cube 416:
-- By JustHyperCL.
+- By AsRenCL.
 - Collab with AlexisDrawz.
 
 cube 417:
@@ -1597,7 +1597,7 @@ cube 440:
 - A basic redesign of the original cube. Has an added color splatter gimmick.
 
 cube 441:
-- By JustHyperCL.
+- By AsRenCL.
 
 cube 442:
 - By JigglypuffGD.
@@ -1740,8 +1740,7 @@ cube 482:
 - Imagine a messed up world where the Discord cube kept its beta design and the Discord Gauntlet reward looked like this. Just a glimpse into my darkest, deepest thoughts. Heh.
 
 cube 483:
-- By cyanflower.
-- Redesigned to lean more into a generic alien look. Gleeble.
+- By AsRenCL.
 
 cube 484:
 - By ReenRN.
@@ -1966,7 +1965,7 @@ ship 63:
 - Changes the ship to a crow. Collab with ML500.
 
 ship 64:
-- By JustHyperCL.
+- By AsRenCL.
 - Golden scar from Fortnite. Collab with RetroAdvance64.
 
 ship 65:
@@ -2184,7 +2183,7 @@ ship 124:
 - By Dibbj.
 
 ship 125:
-- By JustHyperCL.
+- By AsRenCL.
 - Collab with electrictaco.
 
 ship 126:
@@ -2375,6 +2374,10 @@ ball 8:
 - By ML500.
 - Collab with Sorao.
 
+ball 9:
+- By electrictaco.
+- Thanks to Aleiz21 for the help with this icon.
+
 ball 10:
 - By NHJ.
 
@@ -2496,7 +2499,7 @@ ball 45:
 - By AlexanderX1ta.
 
 ball 46:
-- By JustHyperCL.
+- By AsRenCL.
 - Collab with AngelozDD.
 
 ball 47:
@@ -2518,7 +2521,7 @@ ball 52:
 - By AlexisDrawz.
 
 ball 53:
-- By JustHyperCL.
+- By AsRenCL.
 
 ball 54:
 - By bugpesto.
@@ -2549,7 +2552,7 @@ ball 61:
 - By Drian114.
 
 ball 62:
-- By JustHyperCL.
+- By AsRenCL.
 - Direct reference to Ethan/Exetric default icons.
 
 ball 63:
@@ -2563,7 +2566,7 @@ ball 65:
 - By NHJ.
 
 ball 66:
-- By JustHyperCL.
+- By AsRenCL.
 
 ball 67:
 - By bugpesto.
@@ -2581,13 +2584,13 @@ ball 69:
 - By CraZyboy6484.
 
 ball 70:
-- By JustHyperCL.
+- By AsRenCL.
 
 ball 71:
-- By JustHyperCL.
+- By AsRenCL.
 
 ball 72:
-- By JustHyperCL.
+- By AsRenCL.
 
 ball 73:
 - By Drian114.
@@ -2604,6 +2607,10 @@ ball 75:
 ball 76:
 - By Luar77.
 - Indirect reference to an original character from Luar77.
+
+ball 77:
+- By AsRenCL.
+- Collab with electrictaco.
 
 ball 78:
 - By KevgenGD.
@@ -3220,14 +3227,14 @@ ufo 140:
 - By Sharkcrome.
 
 ufo 141:
-- By JustHyperCL.
+- By AsRenCL.
 - Collab with AlexisDrawz.
 
 ufo 142:
 - By Drian114.
 
 ufo 143:
-- By JustHyperCL.
+- By AsRenCL.
 - Inspired by Exeteric's cube 0.
 
 ufo 144:
@@ -3256,14 +3263,14 @@ wave 1:
 - By RetroAdvance64.
 
 wave 2:
-- By JustHyperCL.
+- By AsRenCL.
 - Modified version of the wave 2 made by RetroAdvance64 in order to fit more to the original wave by having a triangle-esque shape. Collab with RetroAdvance64.
 
 wave 3:
 - By Sorao.
 
 wave 4:
-- By JustHyperCL.
+- By AsRenCL.
 - (Collab w/ RetroAdvance64) Made specifically to match the first three waves from this project.
 
 wave 5:
@@ -3376,7 +3383,7 @@ wave 37:
 - By Aleiz21.
 
 wave 38:
-- By JustHyperCL.
+- By AsRenCL.
 
 wave 39:
 - By Sharkcrome.
@@ -3399,7 +3406,7 @@ wave 44:
 - Drops a single line from the original design to turn the letter into “V” instead. The idea for this redesign was not sparked by anything else.
 
 wave 45:
-- By JustHyperCL.
+- By AsRenCL.
 
 wave 46:
 - By ML500.
@@ -3412,7 +3419,7 @@ wave 48:
 - By Aleiz21.
 
 wave 49:
-- By JustHyperCL.
+- By AsRenCL.
 
 wave 50:
 - By Sharkcrome.
@@ -3549,7 +3556,7 @@ wave 89:
 - By ChileMationsxD.
 
 wave 90:
-- By cyanflower.
+- By AlexisDrawz.
 
 wave 91:
 - By CraZyboy6484.
@@ -3717,7 +3724,7 @@ robot 42:
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/robot_42(1).png)
 
 robot 43:
-- By JustHyperCL.
+- By AsRenCL.
 - Collab with AlexisDrawz, RetroAdvance64.
 
 robot 44:
@@ -3765,7 +3772,7 @@ robot 55:
 - By ML500.
 
 robot 56:
-- By JustHyperCL.
+- By AsRenCL.
 - Re-design of metal sonic with more dettails inspirated in the original design.
 
 robot 57:
@@ -4032,7 +4039,7 @@ spider 65:
 - By aGold.
 
 spider 66:
-- By JustHyperCL.
+- By AsRenCL.
 - Collab with J3anc4rlo. Huge thanks to ML500 for the other spider parts.
 
 spider 67:
@@ -4057,7 +4064,7 @@ swing 3:
 - Changed to have a jester-like appearance.
 
 swing 4:
-- By JustHyperCL.
+- By AsRenCL.
 - Keeping up again Ethan's default cube design.
 
 swing 5:
@@ -4134,7 +4141,7 @@ swing 24:
 - By Drian114.
 
 swing 25:
-- By JustHyperCL.
+- By AsRenCL.
 - [Collab with bugpesto] This swing references to a beast ball from pokémon.
 
 swing 26:
@@ -4186,7 +4193,7 @@ swing 39:
 - [Re-made by the original artist] -- Redesigned to go on-par with the "Time" Icon theme/flair for Supernova.
 
 swing 40:
-- By JustHyperCL.
+- By AsRenCL.
 - Collab with RetroAdvance64. Sketch made by him.
 
 swing 41:
