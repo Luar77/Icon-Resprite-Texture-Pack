@@ -36,7 +36,7 @@ Apparently some people were really insisting on helping with the development cos
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
-- JigglypuffGD         (81 icons, 13 of those being collabs) + 2 collabs
+- JigglypuffGD         (80 icons, 13 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - cyanflower           (72 icons, 4 of those being collabs) + 5 collabs
@@ -49,15 +49,15 @@ Apparently some people were really insisting on helping with the development cos
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - KevgenGD             (52 icons, 2 of those being collabs) + 1 collab
-- aGold                (53 icons, 6 of those being collabs)
+- aGold                (52 icons, 6 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- CraZyboy6484         (38 icons) + 1 collab
+- CraZyboy6484         (37 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - JustHyperCL          (36 icons, 14 of those being collabs) + 11 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- AlexisDrawz          (25 icons, 7 of those being collabs) + 14 collabs
+- AlexisDrawz          (26 icons, 7 of those being collabs) + 14 collabs
 - Sorao                (27 icons, 4 of those being collabs) + 3 collabs
 - electrictaco         (23 icons, 5 of those being collabs) + 8 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
@@ -68,11 +68,11 @@ Apparently some people were really insisting on helping with the development cos
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
-- KetsuTT              (16 icons, 5 of those being collabs)
-	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
-- Luar77               (14 icons, 3 of those being collabs) + 1 collab
+- Luar77               (15 icons, 3 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
+- KetsuTT              (16 icons, 5 of those being collabs)
+	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
 - ChileMationsxD       (12 icons)
 - Exetric              (11 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
