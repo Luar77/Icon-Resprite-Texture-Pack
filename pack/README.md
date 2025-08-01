@@ -4,18 +4,18 @@ After over 5 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (136 icons, 4 of those being collabs) + 19 collabs
+- RetroAdvance64       (141 icons, 4 of those being collabs) + 19 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 	- [@retroadvance64](https://www.tiktok.com/@retroadvance64) on TikTok
-- ML500                (117 icons, 7 of those being collabs) + 13 collabs
+- ML500                (118 icons, 7 of those being collabs) + 13 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 	- [MasterL500](https://github.com/MasterL500) on GitHub
-- Aleiz21              (92 icons, 8 of those being collabs) + 4 collabs
+- Aleiz21              (91 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - NHJ                  (78 icons, 2 of those being collabs) + 3 collabs
@@ -31,17 +31,17 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - JigglypuffGD         (80 icons, 13 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- cyanflower           (70 icons, 4 of those being collabs) + 4 collabs
+- cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (57 icons, 2 of those being collabs) + 9 collabs
+- Sharkcrome           (54 icons, 2 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- KevgenGD             (52 icons, 2 of those being collabs) + 1 collab
-- aGold                (52 icons, 7 of those being collabs)
+- KevgenGD             (51 icons, 2 of those being collabs) + 1 collab
+- aGold                (51 icons, 7 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
@@ -50,13 +50,13 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - AlexisDrawz          (27 icons, 7 of those being collabs) + 15 collabs
 - AsRenCL              (38 icons, 14 of those being collabs)
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (27 icons, 4 of those being collabs) + 3 collabs
+- Sorao                (26 icons, 4 of those being collabs) + 3 collabs
+- Dibbj                (24 icons, 3 of those being collabs) + 6 collabs
+	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - electrictaco         (23 icons, 5 of those being collabs) + 9 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
-- Dibbj                (23 icons, 3 of those being collabs) + 6 collabs
-	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - AngelozDD            (20 icons, 3 of those being collabs) + 7 collabs
-- AlexanderX1ta        (22 icons, 3 of those being collabs) + 2 collabs
+- AlexanderX1ta        (21 icons, 3 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
@@ -65,14 +65,14 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [Luar77](https://github.com/Luar77) on GitHub
 - KetsuTT              (16 icons, 5 of those being collabs)
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
-- ChileMationsxD       (12 icons)
 - Exetric              (11 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
-- J3anC4rlo            (10 icons, 1 of those being collabs) + 1 collab
+- ChileMationsxD       (11 icons)
+- J3anC4rlo            (9 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- Hydr4ze              (9 icons, 1 of those being collabs)
+- Hydr4ze              (8 icons, 1 of those being collabs)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
@@ -191,7 +191,7 @@ cube 29:
 - By RetroAdvance64.
 
 cube 30:
-- By aGold.
+- By Dibbj.
 
 cube 31:
 - By Sharkcrome.
@@ -254,9 +254,6 @@ cube 47:
 
 cube 48:
 - By AlexanderX1ta.
-
-cube 49:
-- By KevgenGD.
 
 cube 50:
 - By Luar77.
@@ -819,9 +816,7 @@ cube 216:
 - By Drian114.
 
 cube 217:
-- By Sharkcrome.
-- Refrence to "Kor In Space" skin of the Legend Kor in the game Brawlhalla.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_217(1).png)
+- By RetroAdvance64.
 
 cube 218:
 - By ML500.
@@ -932,8 +927,7 @@ cube 247:
 - Narwhal.
 
 cube 248:
-- By Sharkcrome.
-- Epic Godzilla.
+- By RetroAdvance64.
 
 cube 249:
 - By JigglypuffGD.
@@ -1019,8 +1013,7 @@ cube 274:
 - By bugpesto.
 
 cube 275:
-- By cyanflower.
-- Changed to a design directly based on CHOMPO, the mascot of the label of the same name by Tokyo Machine.
+- By RetroAdvance64.
 
 cube 276:
 - By RetroAdvance64.
@@ -1325,8 +1318,7 @@ cube 364:
 - Collab with Drian114.
 
 cube 365:
-- By Sharkcrome.
-- Terraspark from the 2D hit game 🌳 Terraria.
+- By RetroAdvance64.
 
 cube 366:
 - By JigglypuffGD.
@@ -2674,8 +2666,7 @@ ball 95:
 - By Aleiz21.
 
 ball 96:
-- By Hydr4ze.
-- Collab with JustHyperCL.
+- By ML500.
 
 ball 97:
 - By bugpesto.
@@ -3576,9 +3567,6 @@ wave 94:
 wave 95:
 - By Aleiz21.
 
-wave 96:
-- By J3anC4rlo.
-
 robot 1:
 - By cyanflower.
 - A basic redesign of the original Robot that makes it more mechanical-looking.
@@ -3698,6 +3686,9 @@ robot 34:
 
 robot 35:
 - By NHJ.
+
+robot 36:
+- By J3anC4rlo.
 
 robot 37:
 - By Aleiz21.
@@ -4027,10 +4018,7 @@ spider 62:
 - By RetroAdvance64.
 
 spider 63:
-- By AlexanderX1ta.
-- Collab with sharkcrome. 
-
-Refrence to the cannon weapon skin called "Sonic Boom" from Battle Pass Season 2 of the game Brawlhalla.
+- By RetroAdvance64.
 
 spider 64:
 - By Aleiz21.
@@ -4198,9 +4186,6 @@ swing 40:
 
 swing 41:
 - By Drian114.
-
-swing 42:
-- By Aleiz21.
 
 swing 43:
 - By JigglypuffGD.
