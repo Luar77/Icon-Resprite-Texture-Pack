@@ -4,7 +4,7 @@ After over 5 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (141 icons, 4 of those being collabs) + 19 collabs
+- RetroAdvance64       (142 icons, 4 of those being collabs) + 19 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
@@ -18,12 +18,12 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - Aleiz21              (91 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- NHJ                  (78 icons, 2 of those being collabs) + 3 collabs
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- bugpesto             (79 icons, 5 of those being collabs) + 2 collabs
+- bugpesto             (83 icons, 5 of those being collabs) + 2 collabs
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
+- NHJ                  (78 icons, 2 of those being collabs) + 3 collabs
+	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 - Drian114             (81 icons, 11 of those being collabs) + 4 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
@@ -34,29 +34,29 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (54 icons, 2 of those being collabs) + 9 collabs
+- Sharkcrome           (53 icons, 2 of those being collabs) + 8 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- KevgenGD             (51 icons, 2 of those being collabs) + 1 collab
+- KevgenGD             (50 icons, 2 of those being collabs) + 1 collab
 - aGold                (51 icons, 7 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- CraZyboy6484         (37 icons) + 1 collab
+- CraZyboy6484         (36 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- AlexisDrawz          (27 icons, 7 of those being collabs) + 15 collabs
-- AsRenCL              (38 icons, 14 of those being collabs)
+- AsRenCL              (38 icons, 15 of those being collabs) + 10 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- Sorao                (26 icons, 4 of those being collabs) + 3 collabs
-- Dibbj                (24 icons, 3 of those being collabs) + 6 collabs
-	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
-- electrictaco         (23 icons, 5 of those being collabs) + 9 collabs
+- AlexisDrawz          (28 icons, 7 of those being collabs) + 15 collabs
+- electrictaco         (23 icons, 5 of those being collabs) + 10 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
+- Sorao                (26 icons, 4 of those being collabs) + 3 collabs
+- Dibbj                (23 icons, 3 of those being collabs) + 6 collabs
+	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - AngelozDD            (20 icons, 3 of those being collabs) + 7 collabs
-- AlexanderX1ta        (21 icons, 3 of those being collabs) + 2 collabs
+- AlexanderX1ta        (21 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
 	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
@@ -72,13 +72,13 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - J3anC4rlo            (9 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- Hydr4ze              (8 icons, 1 of those being collabs)
+- Hydr4ze              (8 icons)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
 - Hushroom             (4 icons)
-- airiLmao             (2 icons, 2 of those being collabs) + 4 collabs
+- airiLmao             (2 icons, 2 of those being collabs) + 5 collabs
 - DanKy99              (3 icons)
 - KazooTheCat          (1 icon) + 2 collabs
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
@@ -194,7 +194,7 @@ cube 30:
 - By Dibbj.
 
 cube 31:
-- By Sharkcrome.
+- By bugpesto.
 
 cube 32:
 - By KevgenGD.
@@ -255,6 +255,10 @@ cube 47:
 cube 48:
 - By AlexanderX1ta.
 
+cube 49:
+- By bugpesto.
+- The new shape references the look of the Super Mario Bros (NES) mushroom, with the spots also being reference-accurate.
+
 cube 50:
 - By Luar77.
 - This is Asper, a mascot character from Build Battles. Coming soon™️.
@@ -312,6 +316,7 @@ cube 65:
 
 cube 66:
 - By JigglypuffGD.
+- Collab with RetroAdvance64.
 
 cube 68:
 - By KevgenGD.
@@ -379,7 +384,7 @@ cube 87:
 
 cube 88:
 - By AngelozDD.
-- Collab with JustHyperCL.
+- Collab with AsRenCL.
 
 cube 89:
 - By AsRenCL.
@@ -545,7 +550,7 @@ cube 137:
 
 cube 138:
 - By AlexisDrawz.
-- In Collab W. JustHyperCL! (Thank you so much brother).
+- In Collab W. AsRenCL! (Thank you so much brother).
 
 cube 139:
 - By aGold.
@@ -1155,7 +1160,7 @@ cube 316:
 
 cube 317:
 - By AlexisDrawz.
-- In Collab W. JustHyperCL! (Thank you so much brother).
+- In Collab W. AsRenCL! (Thank you so much brother).
 
 cube 318:
 - By Sharkcrome.
@@ -1372,7 +1377,8 @@ cube 379:
 - [Re-made by the original artist] -- References Niko from Oneshot.
 
 cube 380:
-- By CraZyboy6484.
+- By AlexisDrawz.
+- In Collab W. RetroAdvance64.
 
 cube 381:
 - By Aleiz21.
@@ -1520,9 +1526,7 @@ cube 421:
 
 cube 422:
 - By airiLmao.
-- Collab with JustHyperCL.
-
-An icon that brings me further back into my icon creating roots with weird pointy shapes similar to the style of Naotyu. The center point being done in a similar to the shading/lighting from ML5 cubes.
+- Collab with AsRenCL.
 
 cube 423:
 - By aGold.
@@ -1879,7 +1883,7 @@ ship 40:
 - By Aleiz21.
 
 ship 41:
-- By Sharkcrome.
+- By RetroAdvance64.
 
 ship 42:
 - By Aleiz21.
@@ -1914,7 +1918,7 @@ ship 50:
 
 ship 51:
 - By electrictaco.
-- Collab with JustHyperCL.
+- Collab with AsRenCL.
 
 ship 52:
 - By ML500.
@@ -2316,7 +2320,7 @@ ship 162:
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1391621424078258378/Hill_Climb_Racing_Logo_On_Play_Store.png?ex=686c8ff2&is=686b3e72&hm=4d08744d98d13321e1b07dde2728a96f3a57d602f609670962c661318cb1abe1&=&format=webp&quality=lossless&width=640&height=640)
 
 ship 163:
-- By KevgenGD.
+- By bugpesto.
 
 ship 164:
 - By Aleiz21.
@@ -2788,7 +2792,7 @@ ufo 14:
 
 ufo 15:
 - By KetsuTT.
-- Collab with JustHyperCL.
+- Collab with AsRenCL.
 
 ufo 16:
 - By bugpesto.
@@ -3027,7 +3031,7 @@ ufo 84:
 
 ufo 85:
 - By Sharkcrome.
-- Collab with Airlmao.
+- Collab with Airilmao.
 
 ufo 86:
 - By ML500.
@@ -3101,8 +3105,7 @@ ufo 106:
 - By RetroAdvance64.
 
 ufo 107:
-- By Dibbj.
-- Collab with bugpesto.
+- By bugpesto.
 
 ufo 108:
 - By AlexanderX1ta.
@@ -3291,7 +3294,7 @@ wave 12:
 
 wave 13:
 - By J3anC4rlo.
-- Collab with JustHyperCL.
+- Collab with AsRenCL.
 
 wave 14:
 - By Exetric.
@@ -3682,7 +3685,7 @@ robot 33:
 
 robot 34:
 - By AlexisDrawz.
-- In Collab W. JustHyperCL! (Thank you so much brother).
+- In Collab W. AsRenCL! (Thank you so much brother).
 
 robot 35:
 - By NHJ.
@@ -3960,7 +3963,7 @@ spider 46:
 
 spider 47:
 - By Aleiz21.
-- Collab with JustHyperCL.
+- Collab with AsRenCL.
 
 spider 48:
 - By Dibbj.
@@ -4187,6 +4190,10 @@ swing 40:
 swing 41:
 - By Drian114.
 
+swing 42:
+- By Sharkcrome.
+- Emphasizes the Anglerfish characteristics of the swing to make it more fishlike.
+
 swing 43:
 - By JigglypuffGD.
 - Smoof :3.
@@ -4208,7 +4215,7 @@ jetpack 4:
 
 jetpack 5:
 - By electrictaco.
-- Collab with JustHyperCL, RetroAdvance64.
+- Collab with AsRenCL, RetroAdvance64.
 
 jetpack 6:
 - By Sharkcrome.
