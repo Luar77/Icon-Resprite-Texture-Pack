@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-6.5,-6.5}</string>
+				<string>{-8.5,-5}</string>
 				<key>spriteSize</key>
-				<string>{193,81}</string>
+				<string>{169,80}</string>
 				<key>spriteSourceSize</key>
 				<string>{252,202}</string>
 				<key>textureRect</key>
-				<string>{{0,90},{193,81}}</string>
+				<string>{{0,89},{169,80}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-5.5,-7}</string>
+				<string>{-7.5,-5}</string>
 				<key>spriteSize</key>
-				<string>{185,70}</string>
+				<string>{165,76}</string>
 				<key>spriteSourceSize</key>
 				<string>{252,202}</string>
 				<key>textureRect</key>
-				<string>{{0,172},{185,70}}</string>
+				<string>{{0,170},{165,76}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{13.5,1}</string>
+				<string>{11.5,6}</string>
 				<key>spriteSize</key>
-				<string>{147,48}</string>
+				<string>{123,44}</string>
 				<key>spriteSourceSize</key>
 				<string>{252,202}</string>
 				<key>textureRect</key>
-				<string>{{202,0},{147,48}}</string>
+				<string>{{178,0},{123,44}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -54,13 +54,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-6.5,-6.5}</string>
+				<string>{-8.5,-5}</string>
 				<key>spriteSize</key>
-				<string>{201,89}</string>
+				<string>{177,88}</string>
 				<key>spriteSourceSize</key>
 				<string>{252,202}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{201,89}}</string>
+				<string>{{0,0},{177,88}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/ship_35-uhd.png</string>
 			<key>size</key>
-			<string>{250,242}</string>
+			<string>{222,246}</string>
 			<key>textureFileName</key>
 			<string>icons/ship_35-uhd.png</string>
 		</dict>
