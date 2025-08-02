@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-2.5}</string>
+			<string>{-1,-4}</string>
 			<key>spriteSize</key>
-			<string>{101,55}</string>
+			<string>{83,43}</string>
 			<key>spriteSourceSize</key>
-			<string>{105,59}</string>
+			<string>{87,47}</string>
 			<key>textureRect</key>
-			<string>{{63,2},{101,55}}</string>
+			<string>{{51,2},{83,43}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{1.2,-3.2}</string>
+			<string>{-1,-4}</string>
 			<key>spriteSize</key>
-			<string>{93,50}</string>
+			<string>{80,40}</string>
 			<key>spriteSourceSize</key>
-			<string>{105,59}</string>
+			<string>{87,47}</string>
 			<key>textureRect</key>
-			<string>{{120,2},{93,50}}</string>
+			<string>{{96,2},{80,40}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -39,13 +39,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{3,-4.8}</string>
+			<string>{17.75,-3}</string>
 			<key>spriteSize</key>
-			<string>{89,46}</string>
+			<string>{3,3}</string>
 			<key>spriteSourceSize</key>
-			<string>{105,59}</string>
+			<string>{87,47}</string>
 			<key>textureRect</key>
-			<string>{{172,2},{89,46}}</string>
+			<string>{{2,91},{3,3}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -54,13 +54,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-2.5}</string>
+			<string>{-1,-4}</string>
 			<key>spriteSize</key>
-			<string>{105,59}</string>
+			<string>{87,47}</string>
 			<key>spriteSourceSize</key>
-			<string>{105,59}</string>
+			<string>{87,47}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{105,59}}</string>
+			<string>{{2,2},{87,47}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -76,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/ship_41-hd.png</string>
 		<key>size</key>
-		<string>{256,256}</string>
+		<string>{256,128}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
