@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{1,-2}</string>
+			<string>{-2.5,-3.5}</string>
 			<key>spriteSize</key>
-			<string>{96,51}</string>
+			<string>{91,42}</string>
 			<key>spriteSourceSize</key>
-			<string>{100,55}</string>
+			<string>{95,46}</string>
 			<key>textureRect</key>
-			<string>{{59,2},{96,51}}</string>
+			<string>{{50,2},{91,42}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -24,13 +24,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.8,-2.8}</string>
+			<string>{-21.75,-3.25}</string>
 			<key>spriteSize</key>
-			<string>{92,37}</string>
+			<string>{50,31}</string>
 			<key>spriteSourceSize</key>
-			<string>{100,55}</string>
+			<string>{95,46}</string>
 			<key>textureRect</key>
-			<string>{{112,2},{92,37}}</string>
+			<string>{{94,91},{50,31}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ship_108_extra_001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{-2.75,-3.5}</string>
+			<key>spriteSize</key>
+			<string>{87,34}</string>
+			<key>spriteSourceSize</key>
+			<string>{95,46}</string>
+			<key>textureRect</key>
+			<string>{{94,2},{87,34}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -39,13 +54,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{1,-2}</string>
+			<string>{-2.5,-3.5}</string>
 			<key>spriteSize</key>
-			<string>{100,55}</string>
+			<string>{95,46}</string>
 			<key>spriteSourceSize</key>
-			<string>{100,55}</string>
+			<string>{95,46}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{100,55}}</string>
+			<string>{{2,2},{95,46}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
