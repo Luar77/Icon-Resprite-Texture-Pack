@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{-12,0}</string>
 				<key>spriteSize</key>
-				<string>{120,120}</string>
+				<string>{144,120}</string>
 				<key>spriteSourceSize</key>
-				<string>{120,120}</string>
+				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{129,0},{120,120}}</string>
+				<string>{{0,129},{144,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,43 +24,43 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{-12,0}</string>
 				<key>spriteSize</key>
-				<string>{108,108}</string>
+				<string>{134,110}</string>
 				<key>spriteSourceSize</key>
-				<string>{108,108}</string>
+				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,129},{108,108}}</string>
+				<string>{{153,0},{134,110}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>player_373_extra_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,5}</string>
+				<string>{-12,13.5}</string>
 				<key>spriteSize</key>
-				<string>{66,10}</string>
+				<string>{132,81}</string>
 				<key>spriteSourceSize</key>
-				<string>{66,10}</string>
+				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{109,129},{66,10}}</string>
+				<string>{{0,250},{132,81}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>player_373_glow_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{-12,0}</string>
 				<key>spriteSize</key>
-				<string>{128,128}</string>
+				<string>{152,128}</string>
 				<key>spriteSourceSize</key>
-				<string>{128,128}</string>
+				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{128,128}}</string>
+				<string>{{0,0},{152,128}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_373-uhd.png</string>
 			<key>size</key>
-			<string>{249,237}</string>
+			<string>{263,331}</string>
 			<key>textureFileName</key>
 			<string>icons/player_373-uhd.png</string>
 		</dict>
