@@ -9,58 +9,58 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,2.5}</string>
+			<string>{1,2.5}</string>
 			<key>spriteSize</key>
-			<string>{68,49}</string>
+			<string>{72,45}</string>
 			<key>spriteSourceSize</key>
-			<string>{72,54}</string>
+			<string>{76,49}</string>
 			<key>textureRect</key>
-			<string>{{58,72},{68,49}}</string>
+			<string>{{53,2},{72,45}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>robot_10_01_2_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,2.5}</string>
+			<string>{2,12.25}</string>
 			<key>spriteSize</key>
-			<string>{68,49}</string>
+			<string>{66,21}</string>
 			<key>spriteSourceSize</key>
-			<string>{72,54}</string>
+			<string>{76,49}</string>
 			<key>textureRect</key>
-			<string>{{109,2},{68,49}}</string>
+			<string>{{2,80},{66,21}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>robot_10_01_extra_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,2.5}</string>
+			<string>{14,3.25}</string>
 			<key>spriteSize</key>
-			<string>{68,49}</string>
+			<string>{5,3}</string>
 			<key>spriteSourceSize</key>
-			<string>{72,54}</string>
+			<string>{76,49}</string>
 			<key>textureRect</key>
-			<string>{{58,2},{68,49}}</string>
+			<string>{{89,121},{5,3}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>robot_10_01_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,2.5}</string>
+			<string>{1,2.5}</string>
 			<key>spriteSize</key>
-			<string>{72,54}</string>
+			<string>{76,49}</string>
 			<key>spriteSourceSize</key>
-			<string>{72,54}</string>
+			<string>{76,49}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{72,54}}</string>
+			<string>{{2,2},{76,49}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -69,28 +69,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-4.5,0}</string>
 			<key>spriteSize</key>
-			<string>{25,27}</string>
+			<string>{32,30}</string>
 			<key>spriteSourceSize</key>
-			<string>{29,31}</string>
+			<string>{36,34}</string>
 			<key>textureRect</key>
-			<string>{{148,72},{25,27}}</string>
+			<string>{{100,37},{32,30}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>robot_10_02_2_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-11.5,-4.5}</string>
 			<key>spriteSize</key>
-			<string>{25,27}</string>
+			<string>{14,19}</string>
 			<key>spriteSourceSize</key>
-			<string>{29,31}</string>
+			<string>{36,34}</string>
 			<key>textureRect</key>
-			<string>{{160,2},{25,27}}</string>
+			<string>{{106,71},{14,19}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -99,15 +99,15 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-4.5,0}</string>
 			<key>spriteSize</key>
-			<string>{29,31}</string>
+			<string>{36,34}</string>
 			<key>spriteSourceSize</key>
-			<string>{29,31}</string>
+			<string>{36,34}</string>
 			<key>textureRect</key>
-			<string>{{26,76},{29,31}}</string>
+			<string>{{70,76},{36,34}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>robot_10_03_001.png</key>
 		<dict>
@@ -116,26 +116,26 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{9,25}</string>
+			<string>{13,20}</string>
 			<key>spriteSourceSize</key>
-			<string>{14,30}</string>
+			<string>{17,24}</string>
 			<key>textureRect</key>
-			<string>{{158,101},{9,25}}</string>
+			<string>{{119,2},{13,20}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>robot_10_03_2_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,1}</string>
 			<key>spriteSize</key>
-			<string>{9,25}</string>
+			<string>{5,14}</string>
 			<key>spriteSourceSize</key>
-			<string>{14,30}</string>
+			<string>{17,24}</string>
 			<key>textureRect</key>
-			<string>{{158,112},{9,25}}</string>
+			<string>{{89,114},{5,14}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -146,11 +146,11 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{14,30}</string>
+			<string>{17,24}</string>
 			<key>spriteSourceSize</key>
-			<string>{14,30}</string>
+			<string>{17,24}</string>
 			<key>textureRect</key>
-			<string>{{2,110},{14,30}}</string>
+			<string>{{41,103},{17,24}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -161,11 +161,11 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{28,18}</string>
+			<string>{33,17}</string>
 			<key>spriteSourceSize</key>
-			<string>{32,22}</string>
+			<string>{37,21}</string>
 			<key>textureRect</key>
-			<string>{{128,72},{28,18}}</string>
+			<string>{{100,2},{33,17}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -174,13 +174,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{4.5,-3}</string>
 			<key>spriteSize</key>
-			<string>{28,18}</string>
+			<string>{20,8}</string>
 			<key>spriteSourceSize</key>
-			<string>{32,22}</string>
+			<string>{37,21}</string>
 			<key>textureRect</key>
-			<string>{{128,102},{28,18}}</string>
+			<string>{{67,114},{20,8}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -191,13 +191,13 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{32,22}</string>
+			<string>{37,21}</string>
 			<key>spriteSourceSize</key>
-			<string>{32,22}</string>
+			<string>{37,21}</string>
 			<key>textureRect</key>
-			<string>{{2,76},{32,22}}</string>
+			<string>{{2,103},{37,21}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 	</dict>
 	<key>metadata</key>
