@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-5,0}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{60,41}</string>
+			<string>{58,38}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,45}</string>
+			<string>{62,42}</string>
 			<key>textureRect</key>
-			<string>{{68,2},{60,41}}</string>
+			<string>{{66,2},{58,38}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -24,28 +24,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-15.25,0}</string>
+			<string>{-1.75,0}</string>
 			<key>spriteSize</key>
-			<string>{34,23}</string>
+			<string>{51,31}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,45}</string>
+			<string>{62,42}</string>
 			<key>textureRect</key>
-			<string>{{25,49},{34,23}}</string>
+			<string>{{2,62},{51,31}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>dart_39_extra_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-6,7.5}</string>
+			<string>{-1,0}</string>
 			<key>spriteSize</key>
-			<string>{52,21}</string>
+			<string>{19,19}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,45}</string>
+			<string>{62,42}</string>
 			<key>textureRect</key>
-			<string>{{2,64},{52,21}}</string>
+			<string>{{35,46},{19,19}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -54,13 +54,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-5,0}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{64,45}</string>
+			<string>{62,42}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,45}</string>
+			<string>{62,42}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{64,45}}</string>
+			<string>{{2,2},{62,42}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
