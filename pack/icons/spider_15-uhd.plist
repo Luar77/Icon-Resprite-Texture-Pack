@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{4,0}</string>
 				<key>spriteSize</key>
-				<string>{131,87}</string>
+				<string>{118,83}</string>
 				<key>spriteSourceSize</key>
-				<string>{131,87}</string>
+				<string>{126,91}</string>
 				<key>textureRect</key>
-				<string>{{0,96},{131,87}}</string>
+				<string>{{0,92},{118,83}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,28 +24,28 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{13,-1.5}</string>
 				<key>spriteSize</key>
-				<string>{123,79}</string>
+				<string>{94,62}</string>
 				<key>spriteSourceSize</key>
-				<string>{123,79}</string>
+				<string>{126,91}</string>
 				<key>textureRect</key>
-				<string>{{140,0},{123,79}}</string>
+				<string>{{127,0},{94,62}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>spider_15_01_extra_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{1,12}</string>
+				<string>{31.5,13.5}</string>
 				<key>spriteSize</key>
-				<string>{117,52}</string>
+				<string>{55,48}</string>
 				<key>spriteSourceSize</key>
-				<string>{117,52}</string>
+				<string>{126,91}</string>
 				<key>textureRect</key>
-				<string>{{140,80},{117,52}}</string>
+				<string>{{172,120},{55,48}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -54,13 +54,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{4,0}</string>
 				<key>spriteSize</key>
-				<string>{139,95}</string>
+				<string>{126,91}</string>
 				<key>spriteSourceSize</key>
-				<string>{139,95}</string>
+				<string>{126,91}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{139,95}}</string>
+				<string>{{0,0},{126,91}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -69,43 +69,43 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{-2,-2}</string>
 				<key>spriteSize</key>
-				<string>{44,61}</string>
+				<string>{44,58}</string>
 				<key>spriteSourceSize</key>
-				<string>{44,61}</string>
+				<string>{52,66}</string>
 				<key>textureRect</key>
-				<string>{{147,133},{44,61}}</string>
+				<string>{{136,175},{44,58}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>spider_15_02_2_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{1,-8}</string>
 				<key>spriteSize</key>
-				<string>{39,56}</string>
+				<string>{32,40}</string>
 				<key>spriteSourceSize</key>
-				<string>{39,56}</string>
+				<string>{52,66}</string>
 				<key>textureRect</key>
-				<string>{{185,195},{39,56}}</string>
+				<string>{{56,221},{32,40}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>spider_15_02_glow_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{-2,-2}</string>
 				<key>spriteSize</key>
-				<string>{52,69}</string>
+				<string>{52,66}</string>
 				<key>spriteSourceSize</key>
-				<string>{52,69}</string>
+				<string>{56,70}</string>
 				<key>textureRect</key>
-				<string>{{51,184},{52,69}}</string>
+				<string>{{190,0},{52,66}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -116,28 +116,28 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{42,66}</string>
+				<string>{44,71}</string>
 				<key>spriteSourceSize</key>
-				<string>{42,66}</string>
+				<string>{52,79}</string>
 				<key>textureRect</key>
-				<string>{{104,184},{42,66}}</string>
+				<string>{{0,176},{44,71}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>spider_15_03_2_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{-1,-4.5}</string>
 				<key>spriteSize</key>
-				<string>{37,61}</string>
+				<string>{24,56}</string>
 				<key>spriteSourceSize</key>
-				<string>{37,61}</string>
+				<string>{52,79}</string>
 				<key>textureRect</key>
-				<string>{{147,195},{37,61}}</string>
+				<string>{{172,95},{24,56}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>spider_15_03_glow_001.png</key>
 			<dict>
@@ -146,11 +146,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{50,74}</string>
+				<string>{52,79}</string>
 				<key>spriteSourceSize</key>
-				<string>{50,74}</string>
+				<string>{52,79}</string>
 				<key>textureRect</key>
-				<string>{{0,184},{50,74}}</string>
+				<string>{{119,95},{52,79}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -159,13 +159,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{0.5,0}</string>
 				<key>spriteSize</key>
-				<string>{0,0}</string>
+				<string>{55,34}</string>
 				<key>spriteSourceSize</key>
-				<string>{0,0}</string>
+				<string>{56,34}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{0,0}}</string>
+				<string>{{0,221},{55,34}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -176,11 +176,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{0,0}</string>
+				<string>{4,4}</string>
 				<key>spriteSourceSize</key>
-				<string>{0,0}</string>
+				<string>{4,4}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{0,0}}</string>
+				<string>{{172,169},{4,4}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -189,13 +189,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{0.5,0}</string>
 				<key>spriteSize</key>
-				<string>{0,0}</string>
+				<string>{63,42}</string>
 				<key>spriteSourceSize</key>
-				<string>{0,0}</string>
+				<string>{64,42}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{0,0}}</string>
+				<string>{{72,176},{63,42}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -211,10 +211,9 @@
 			<key>realTextureFileName</key>
 			<string>icons/spider_15-uhd.png</string>
 			<key>size</key>
-			<string>{263,258}</string>
+			<string>{242,255}</string>
 			<key>textureFileName</key>
 			<string>icons/spider_15-uhd.png</string>
-			#icon by Kevgen
 		</dict>
 	</dict>
 </plist>
