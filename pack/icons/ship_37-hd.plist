@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{2.5,-4}</string>
 			<key>spriteSize</key>
-			<string>{81,40}</string>
+			<string>{89,33}</string>
 			<key>spriteSourceSize</key>
-			<string>{85,43}</string>
+			<string>{93,37}</string>
 			<key>textureRect</key>
-			<string>{{47,2},{81,40}}</string>
+			<string>{{41,2},{89,33}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -24,28 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-5}</string>
+			<string>{4,-5}</string>
 			<key>spriteSize</key>
-			<string>{77,27}</string>
+			<string>{84,29}</string>
 			<key>spriteSourceSize</key>
-			<string>{85,43}</string>
+			<string>{93,37}</string>
 			<key>textureRect</key>
-			<string>{{2,89},{77,27}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>ship_37_extra_001.png</key>
-		<dict>
-			<key>aliases</key>
-			<array/>
-			<key>spriteOffset</key>
-			<string>{3,0.5}</string>
-			<key>spriteSize</key>
-			<string>{70,33}</string>
-			<key>spriteSourceSize</key>
-			<string>{85,43}</string>
-			<key>textureRect</key>
-			<string>{{81,85},{70,33}}</string>
+			<string>{{41,93},{84,29}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -54,13 +39,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{2.5,-4}</string>
 			<key>spriteSize</key>
-			<string>{85,43}</string>
+			<string>{93,37}</string>
 			<key>spriteSourceSize</key>
-			<string>{85,43}</string>
+			<string>{93,37}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{85,43}}</string>
+			<string>{{2,2},{93,37}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
