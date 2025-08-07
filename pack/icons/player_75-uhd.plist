@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0.5}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{120,121}</string>
+				<string>{124,124}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{129,0},{120,121}}</string>
+				<string>{{133,0},{124,124}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,28 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-16,8.5}</string>
+				<string>{-21,15}</string>
 				<key>spriteSize</key>
-				<string>{56,71}</string>
+				<string>{34,34}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{111,130},{56,71}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
-			<key>player_75_extra_001.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,0}</string>
-				<key>spriteSize</key>
-				<string>{110,110}</string>
-				<key>spriteSourceSize</key>
-				<string>{180,180}</string>
-				<key>textureRect</key>
-				<string>{{0,130},{110,110}}</string>
+				<string>{{0,133},{34,34}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -54,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0.5}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{128,129}</string>
+				<string>{132,132}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{128,129}}</string>
+				<string>{{0,0},{132,132}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +61,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_75-uhd.png</string>
 			<key>size</key>
-			<string>{249,240}</string>
+			<string>{257,167}</string>
 			<key>textureFileName</key>
 			<string>icons/player_75-uhd.png</string>
 		</dict>
