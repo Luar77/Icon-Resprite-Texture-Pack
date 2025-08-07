@@ -9,7 +9,7 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,8}</string>
+				<string>{0,4}</string>
 				<key>spriteSize</key>
 				<string>{138,101}</string>
 				<key>spriteSourceSize</key>
@@ -24,7 +24,7 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-6.5,13.5}</string>
+				<string>{-6.5,9.5}</string>
 				<key>spriteSize</key>
 				<string>{117,42}</string>
 				<key>spriteSourceSize</key>
@@ -39,7 +39,7 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{1,19}</string>
+				<string>{1,15}</string>
 				<key>spriteSize</key>
 				<string>{122,69}</string>
 				<key>spriteSourceSize</key>
@@ -54,7 +54,7 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,8}</string>
+				<string>{0,4}</string>
 				<key>spriteSize</key>
 				<string>{146,109}</string>
 				<key>spriteSourceSize</key>
@@ -159,11 +159,11 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0.5,0}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
 				<string>{55,34}</string>
 				<key>spriteSourceSize</key>
-				<string>{120,120}</string>
+				<string>{63,42}</string>
 				<key>textureRect</key>
 				<string>{{203,123},{55,34}}</string>
 				<key>textureRotated</key>
@@ -174,11 +174,11 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{12,-7.5}</string>
+				<string>{11.5,-7.5}</string>
 				<key>spriteSize</key>
 				<string>{26,13}</string>
 				<key>spriteSourceSize</key>
-				<string>{120,120}</string>
+				<string>{63,42}</string>
 				<key>textureRect</key>
 				<string>{{182,231},{26,13}}</string>
 				<key>textureRotated</key>
@@ -189,11 +189,11 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0.5,0}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
 				<string>{63,42}</string>
 				<key>spriteSourceSize</key>
-				<string>{120,120}</string>
+				<string>{63,42}</string>
 				<key>textureRect</key>
 				<string>{{118,212},{63,42}}</string>
 				<key>textureRotated</key>
