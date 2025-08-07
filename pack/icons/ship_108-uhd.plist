@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{2,-4}</string>
+				<string>{-5,-7}</string>
 				<key>spriteSize</key>
-				<string>{192,102}</string>
+				<string>{182,83}</string>
 				<key>spriteSourceSize</key>
-				<string>{252,202}</string>
+				<string>{190,91}</string>
 				<key>textureRect</key>
-				<string>{{0,111},{192,102}}</string>
+				<string>{{0,92},{182,83}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,28 +24,43 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{1.5,-5.5}</string>
+				<string>{-43.5,-6.5}</string>
 				<key>spriteSize</key>
-				<string>{183,73}</string>
+				<string>{99,62}</string>
 				<key>spriteSourceSize</key>
-				<string>{252,202}</string>
+				<string>{190,91}</string>
 				<key>textureRect</key>
-				<string>{{201,0},{183,73}}</string>
+				<string>{{191,0},{99,62}}</string>
 				<key>textureRotated</key>
 				<true/>
+			</dict>
+			<key>ship_108_extra_001.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{-5.5,-7}</string>
+				<key>spriteSize</key>
+				<string>{173,67}</string>
+				<key>spriteSourceSize</key>
+				<string>{190,91}</string>
+				<key>textureRect</key>
+				<string>{{0,176},{173,67}}</string>
+				<key>textureRotated</key>
+				<false/>
 			</dict>
 			<key>ship_108_glow_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{2,-4}</string>
+				<string>{-5,-7}</string>
 				<key>spriteSize</key>
-				<string>{200,110}</string>
+				<string>{190,91}</string>
 				<key>spriteSourceSize</key>
-				<string>{252,202}</string>
+				<string>{190,91}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{200,110}}</string>
+				<string>{{0,0},{190,91}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -61,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/ship_108-uhd.png</string>
 			<key>size</key>
-			<string>{274,213}</string>
+			<string>{253,243}</string>
 			<key>textureFileName</key>
 			<string>icons/ship_108-uhd.png</string>
 		</dict>
