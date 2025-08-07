@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{1,0}</string>
+			<string>{2,0}</string>
 			<key>spriteSize</key>
-			<string>{60,40}</string>
+			<string>{53,34}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,44}</string>
+			<string>{57,38}</string>
 			<key>textureRect</key>
-			<string>{{68,2},{60,40}}</string>
+			<string>{{42,2},{53,34}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-13.2,0}</string>
+			<string>{-13.25,0}</string>
 			<key>spriteSize</key>
-			<string>{24,25}</string>
+			<string>{19,22}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,44}</string>
+			<string>{57,38}</string>
 			<key>textureRect</key>
-			<string>{{36,48},{24,25}}</string>
+			<string>{{78,2},{19,22}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -39,13 +39,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{9.2,0}</string>
+			<string>{-6.5,0}</string>
 			<key>spriteSize</key>
-			<string>{35,32}</string>
+			<string>{3,3}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,44}</string>
+			<string>{57,38}</string>
 			<key>textureRect</key>
-			<string>{{2,64},{35,32}}</string>
+			<string>{{42,57},{3,3}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -54,15 +54,15 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{1,0}</string>
+			<string>{2,0}</string>
 			<key>spriteSize</key>
-			<string>{64,44}</string>
+			<string>{57,38}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,44}</string>
+			<string>{57,38}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{64,44}}</string>
+			<string>{{2,2},{57,38}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -76,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/dart_54-hd.png</string>
 		<key>size</key>
-		<string>{128,128}</string>
+		<string>{128,64}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
