@@ -11,11 +11,11 @@
 				<key>spriteOffset</key>
 				<string>{-7,7}</string>
 				<key>spriteSize</key>
-				<string>{168,138}</string>
+				<string>{168,136}</string>
 				<key>spriteSourceSize</key>
 				<string>{234,234}</string>
 				<key>textureRect</key>
-				<string>{{0,147},{168,138}}</string>
+				<string>{{0,145},{168,136}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-7,9}</string>
+				<string>{-6.5,9.5}</string>
 				<key>spriteSize</key>
-				<string>{156,126}</string>
+				<string>{155,125}</string>
 				<key>spriteSourceSize</key>
 				<string>{234,234}</string>
 				<key>textureRect</key>
-				<string>{{177,0},{156,126}}</string>
+				<string>{{177,0},{155,125}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{18,29}</string>
+				<string>{17.5,29.5}</string>
 				<key>spriteSize</key>
-				<string>{90,86}</string>
+				<string>{89,85}</string>
 				<key>spriteSourceSize</key>
 				<string>{234,234}</string>
 				<key>textureRect</key>
-				<string>{{169,157},{90,86}}</string>
+				<string>{{169,156},{89,85}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{-7,7}</string>
 				<key>spriteSize</key>
-				<string>{176,146}</string>
+				<string>{176,144}</string>
 				<key>spriteSourceSize</key>
 				<string>{234,234}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{176,146}}</string>
+				<string>{{0,0},{176,144}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/swing_42-uhd.png</string>
 			<key>size</key>
-			<string>{303,285}</string>
+			<string>{302,281}</string>
 			<key>textureFileName</key>
 			<string>icons/swing_42-uhd.png</string>
 		</dict>
