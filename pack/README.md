@@ -34,10 +34,6 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- aGold                (53 icons, 7 of those being collabs)
-	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
-	- https://agold.is-a.dev
-	- [aGoldDev](https://github.com/aGoldDev) on GitHub
 - Sharkcrome           (46 icons, 2 of those being collabs) + 8 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
@@ -45,11 +41,15 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - KevgenGD             (49 icons, 2 of those being collabs) + 1 collab
+- aGold                (52 icons, 7 of those being collabs)
+	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
+	- https://agold.is-a.dev
+	- [aGoldDev](https://github.com/aGoldDev) on GitHub
 - AsRenCL              (39 icons, 15 of those being collabs) + 10 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
+- AlexisDrawz          (33 icons, 10 of those being collabs) + 15 collabs
 - CraZyboy6484         (35 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- AlexisDrawz          (32 icons, 10 of those being collabs) + 15 collabs
 - Dibbj                (26 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - electrictaco         (25 icons, 6 of those being collabs) + 10 collabs
@@ -58,8 +58,6 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - AngelozDD            (19 icons, 3 of those being collabs) + 8 collabs
 - AlexanderX1ta        (20 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
-	- [@alex79201375](https://twitter.com/alex79201375) on Twitter
-	- [@alexanderx1ta.bsky.social](https://bsky.app/profile/alexanderx1ta.bsky.social) on Bluesky
 - Luar77               (15 icons, 4 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
@@ -2054,7 +2052,7 @@ ship 91:
 
 ship 92:
 - By RetroAdvance64.
-- The opposite side of Ship 22. This is part of a gimmick proposed by JustHyperCL.
+- The opposite side of Ship 22. This is part of a gimmick proposed by AsRenCL.
 
 ship 93:
 - By RetroAdvance64.
@@ -2407,7 +2405,7 @@ ball 21:
 - Collab with alexanderX1ta, electrictaco, sharkcrome.
 
 ball 22:
-- By aGold.
+- By AlexisDrawz.
 
 ball 23:
 - By JigglypuffGD.
