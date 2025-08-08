@@ -13,9 +13,9 @@
 			<key>spriteSize</key>
 			<string>{57,36}</string>
 			<key>spriteSourceSize</key>
-			<string>{62,40}</string>
+			<string>{61,40}</string>
 			<key>textureRect</key>
-			<string>{{66,2},{57,36}}</string>
+			<string>{{65,2},{57,36}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -28,11 +28,11 @@
 			<key>spriteSize</key>
 			<string>{21,25}</string>
 			<key>spriteSourceSize</key>
-			<string>{62,40}</string>
+			<string>{61,40}</string>
 			<key>textureRect</key>
-			<string>{{2,44},{21,25}}</string>
+			<string>{{103,2},{21,25}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>dart_43_glow_001.png</key>
 		<dict>
@@ -41,11 +41,11 @@
 			<key>spriteOffset</key>
 			<string>{-2,0}</string>
 			<key>spriteSize</key>
-			<string>{62,40}</string>
+			<string>{61,40}</string>
 			<key>spriteSourceSize</key>
-			<string>{62,40}</string>
+			<string>{61,40}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{62,40}}</string>
+			<string>{{2,2},{61,40}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -61,7 +61,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/dart_43-hd.png</string>
 		<key>size</key>
-		<string>{128,128}</string>
+		<string>{128,64}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
