@@ -11,11 +11,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{138,138}</string>
+				<string>{136,136}</string>
 				<key>spriteSourceSize</key>
-				<string>{138,138}</string>
+				<string>{148,148}</string>
 				<key>textureRect</key>
-				<string>{{147,0},{138,138}}</string>
+				<string>{{145,0},{136,136}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -26,13 +26,13 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{108,128}</string>
+				<string>{122,122}</string>
 				<key>spriteSourceSize</key>
-				<string>{138,138}</string>
+				<string>{148,148}</string>
 				<key>textureRect</key>
-				<string>{{0,147},{108,128}}</string>
+				<string>{{0,145},{122,122}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>player_ball_19_extra_001.png</key>
 			<dict>
@@ -41,11 +41,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{120,120}</string>
+				<string>{4,18}</string>
 				<key>spriteSourceSize</key>
-				<string>{138,138}</string>
+				<string>{148,148}</string>
 				<key>textureRect</key>
-				<string>{{0,256},{120,120}}</string>
+				<string>{{123,145},{4,18}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{146,146}</string>
+				<string>{144,144}</string>
 				<key>spriteSourceSize</key>
-				<string>{146,146}</string>
+				<string>{148,148}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{146,146}}</string>
+				<string>{{0,0},{144,144}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_ball_19-uhd.png</string>
 			<key>size</key>
-			<string>{285,376}</string>
+			<string>{281,267}</string>
 			<key>textureFileName</key>
 			<string>icons/player_ball_19-uhd.png</string>
 		</dict>
