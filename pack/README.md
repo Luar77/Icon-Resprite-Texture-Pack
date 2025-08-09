@@ -4,21 +4,18 @@ After over 5 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (148 icons, 4 of those being collabs) + 22 collabs
+- RetroAdvance64       (160 icons, 4 of those being collabs) + 22 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 	- [@retroadvance64](https://www.tiktok.com/@retroadvance64) on TikTok
-- ML500                (122 icons, 7 of those being collabs) + 12 collabs
+- ML500                (123 icons, 7 of those being collabs) + 12 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 	- [MasterL500](https://github.com/MasterL500) on GitHub
-- Aleiz21              (90 icons, 8 of those being collabs) + 4 collabs
-	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
-	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- bugpesto             (81 icons, 5 of those being collabs) + 1 collab
+- bugpesto             (82 icons, 5 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
@@ -31,45 +28,48 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - JigglypuffGD         (81 icons, 14 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
+- Aleiz21              (77 icons, 8 of those being collabs) + 4 collabs
+	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
+	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (46 icons, 2 of those being collabs) + 8 collabs
+- Sharkcrome           (49 icons, 2 of those being collabs) + 8 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - KevgenGD             (49 icons, 2 of those being collabs) + 1 collab
-- aGold                (52 icons, 7 of those being collabs)
+- aGold                (49 icons, 7 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
 - AsRenCL              (39 icons, 15 of those being collabs) + 10 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - AlexisDrawz          (33 icons, 10 of those being collabs) + 15 collabs
-- CraZyboy6484         (35 icons) + 1 collab
+- CraZyboy6484         (34 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Dibbj                (26 icons, 2 of those being collabs) + 6 collabs
+- Dibbj                (27 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
-- electrictaco         (25 icons, 6 of those being collabs) + 10 collabs
+- electrictaco         (24 icons, 6 of those being collabs) + 10 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
 - Sorao                (26 icons, 4 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 8 collabs
 - AlexanderX1ta        (20 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
-- Luar77               (15 icons, 4 of those being collabs) + 1 collab
+- Luar77               (16 icons, 4 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
-- ChileMationsxD       (11 icons)
-- Exetric              (10 icons)
+- Exetric              (11 icons)
 	- [@Exetric](https://twitter.com/Exetric) on Twitter
 	- [EthanHazel](https://github.com/EthanHazel) on GitHub
+- ChileMationsxD       (11 icons)
 - J3anC4rlo            (8 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - Hydr4ze              (7 icons)
-- KetsuTT              (8 icons, 5 of those being collabs) + 1 collab
+- KetsuTT              (9 icons, 5 of those being collabs) + 1 collab
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
@@ -669,6 +669,9 @@ cube 171:
 - By DanKy99.
 - Frankie Stein from mh.
 
+cube 173:
+- By bugpesto.
+
 cube 174:
 - By Drian114.
 
@@ -706,6 +709,9 @@ cube 183:
 
 cube 184:
 - By Aleiz21.
+
+cube 185:
+- By ML500.
 
 cube 186:
 - By ML500.
@@ -855,7 +861,7 @@ cube 229:
 - References Sackboy from LittleBigPlanet. Collab with RetroAdvance64!.
 
 cube 230:
-- By Aleiz21.
+- By Luar77.
 
 cube 231:
 - By JigglypuffGD.
@@ -869,7 +875,7 @@ cube 232:
 - Collab with JigglypuffGD.
 
 cube 233:
-- By Aleiz21.
+- By RetroAdvance64.
 
 cube 234:
 - By Aleiz21.
@@ -1174,7 +1180,7 @@ cube 322:
 - By JigglypuffGD.
 
 cube 323:
-- By Aleiz21.
+- By RetroAdvance64.
 
 cube 324:
 - By KazooTheCat.
@@ -1240,7 +1246,7 @@ cube 341:
 - By ML500.
 
 cube 342:
-- By Aleiz21.
+- By RetroAdvance64.
 
 cube 343:
 - By ML500.
@@ -1380,7 +1386,7 @@ cube 382:
 - References the "Malicious Face", a 'Demon' enemy from ULTRAKILL.
 
 cube 383:
-- By Aleiz21.
+- By RetroAdvance64.
 
 cube 384:
 - By RetroAdvance64.
@@ -1442,7 +1448,7 @@ cube 399:
 - By RetroAdvance64.
 
 cube 400:
-- By Aleiz21.
+- By RetroAdvance64.
 
 cube 401:
 - By ML500.
@@ -1501,7 +1507,7 @@ cube 416:
 - Collab with AlexisDrawz.
 
 cube 417:
-- By Aleiz21.
+- By RetroAdvance64.
 
 cube 418:
 - By RetroAdvance64.
@@ -1850,8 +1856,9 @@ ship 33:
 - Direct remake, with a more sharp and technological approach.
 
 ship 34:
-- By electrictaco.
-- Based on the bossfight in the level 'The Vermin Queen' by Yoreid.
+- By Exetric.
+- Reference to the boss “Chub” from The Binding of Isaac.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ship_34(1).png)
 
 ship 35:
 - By Sharkcrome.
@@ -2115,13 +2122,13 @@ ship 109:
 - By KevgenGD.
 
 ship 110:
-- By aGold.
+- By Sharkcrome.
 
 ship 111:
 - By bugpesto.
 
 ship 112:
-- By CraZyboy6484.
+- By RetroAdvance64.
 
 ship 113:
 - By RetroAdvance64.
@@ -2191,7 +2198,7 @@ ship 130:
 - The Zenith doesn't need to touch the moon to defeat Moon Lord .. fixme :).
 
 ship 131:
-- By Aleiz21.
+- By RetroAdvance64.
 
 ship 132:
 - By Dibbj.
@@ -2395,7 +2402,7 @@ ball 18:
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1387088174324514917/E_070.png?ex=685c1207&is=685ac087&hm=ec3eb2805153870ef54a6257d24e3c3e42857098132b8c61e96c1e762380af63&=&format=webp&quality=lossless&width=550&height=585)
 
 ball 19:
-- By aGold.
+- By Sharkcrome.
 
 ball 20:
 - By NHJ.
@@ -2448,7 +2455,7 @@ ball 34:
 - By bugpesto.
 
 ball 35:
-- By Aleiz21.
+- By RetroAdvance64.
 
 ball 36:
 - By Hydr4ze.
@@ -2766,7 +2773,7 @@ ufo 12:
 - Redesigns the UFO to have an eye-focused design.
 
 ufo 13:
-- By Aleiz21.
+- By RetroAdvance64.
 
 ufo 14:
 - By Drian114.
@@ -2818,10 +2825,10 @@ ufo 27:
 - By KevgenGD.
 
 ufo 28:
-- By Aleiz21.
+- By RetroAdvance64.
 
 ufo 29:
-- By Aleiz21.
+- By RetroAdvance64.
 
 ufo 30:
 - By electrictaco.
@@ -3080,7 +3087,7 @@ ufo 104:
 - By NHJ.
 
 ufo 105:
-- By aGold.
+- By Sharkcrome.
 
 ufo 106:
 - By RetroAdvance64.
@@ -3721,6 +3728,9 @@ robot 47:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- "A bit clunky to get ideas around but it works".
 
+robot 48:
+- By KetsuTT.
+
 robot 49:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- Properly references The Hunter, the playable protagonist of Bloodborne.
@@ -4211,4 +4221,4 @@ jetpack 7:
 - By JigglypuffGD.
 
 jetpack 8:
-- By Aleiz21.
+- By Dibbj.
