@@ -11,11 +11,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{170,88}</string>
+				<string>{164,91}</string>
 				<key>spriteSourceSize</key>
-				<string>{170,88}</string>
+				<string>{170,97}</string>
 				<key>textureRect</key>
-				<string>{{0,97},{170,88}}</string>
+				<string>{{0,98},{164,91}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,28 +24,28 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-3}</string>
+				<string>{11,-0.5}</string>
 				<key>spriteSize</key>
-				<string>{164,58}</string>
+				<string>{120,76}</string>
 				<key>spriteSourceSize</key>
-				<string>{164,58}</string>
+				<string>{170,97}</string>
 				<key>textureRect</key>
-				<string>{{179,0},{164,58}}</string>
+				<string>{{171,0},{120,76}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>ship_34_extra_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{44,-12.5}</string>
+				<string>{38.5,1.5}</string>
 				<key>spriteSize</key>
-				<string>{42,43}</string>
+				<string>{61,66}</string>
 				<key>spriteSourceSize</key>
-				<string>{43,43}</string>
+				<string>{170,97}</string>
 				<key>textureRect</key>
-				<string>{{171,97},{42,43}}</string>
+				<string>{{165,121},{61,66}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{178,96}</string>
+				<string>{170,97}</string>
 				<key>spriteSourceSize</key>
-				<string>{178,96}</string>
+				<string>{170,97}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{178,96}}</string>
+				<string>{{0,0},{170,97}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/ship_34-uhd.png</string>
 			<key>size</key>
-			<string>{343,185}</string>
+			<string>{247,189}</string>
 			<key>textureFileName</key>
 			<string>icons/ship_34-uhd.png</string>
 		</dict>
