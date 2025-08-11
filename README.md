@@ -23,13 +23,15 @@ Apparently some people were really insisting on helping with the development cos
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 	- [MasterL500](https://github.com/MasterL500) on GitHub
+- NHJ                  (81 icons, 2 of those being collabs) + 3 collabs
+	- [@itsNHJ](https://www.youtube.com/@itsNHJ) on YouTube
+	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
+	- [@nhj03.bsky.social](https://bsky.app/profile/nhj03.bsky.social) on Bluesky
 - bugpesto             (82 icons, 5 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- NHJ                  (78 icons, 2 of those being collabs) + 3 collabs
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- Drian114             (81 icons, 10 of those being collabs) + 4 collabs
+- Drian114             (81 icons, 10 of those being collabs) + 5 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
@@ -48,21 +50,21 @@ Apparently some people were really insisting on helping with the development cos
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- KevgenGD             (49 icons, 2 of those being collabs) + 1 collab
+- KevgenGD             (50 icons, 2 of those being collabs) + 1 collab
 - aGold                (49 icons, 7 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- AsRenCL              (39 icons, 15 of those being collabs) + 10 collabs
+- AlexisDrawz          (35 icons, 11 of those being collabs) + 14 collabs
+- AsRenCL              (37 icons, 14 of those being collabs) + 10 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- AlexisDrawz          (33 icons, 10 of those being collabs) + 15 collabs
 - CraZyboy6484         (34 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Dibbj                (27 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
-- electrictaco         (24 icons, 6 of those being collabs) + 10 collabs
+- electrictaco         (23 icons, 6 of those being collabs) + 10 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
-- Sorao                (26 icons, 4 of those being collabs) + 3 collabs
+- Sorao                (25 icons, 4 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 8 collabs
 - AlexanderX1ta        (20 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
