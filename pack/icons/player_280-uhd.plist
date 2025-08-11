@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{0,3}</string>
 				<key>spriteSize</key>
-				<string>{123,123}</string>
+				<string>{127,114}</string>
 				<key>spriteSourceSize</key>
-				<string>{225,225}</string>
+				<string>{127,114}</string>
 				<key>textureRect</key>
-				<string>{{132,0},{123,123}}</string>
+				<string>{{0,129},{127,114}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,13 +24,28 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{0,-1}</string>
 				<key>spriteSize</key>
-				<string>{113,113}</string>
+				<string>{127,118}</string>
 				<key>spriteSourceSize</key>
-				<string>{225,225}</string>
+				<string>{127,120}</string>
 				<key>textureRect</key>
-				<string>{{0,132},{113,113}}</string>
+				<string>{{136,0},{127,118}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
+			<key>player_280_extra_001.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{13,-18}</string>
+				<key>spriteSize</key>
+				<string>{82,74}</string>
+				<key>spriteSourceSize</key>
+				<string>{82,74}</string>
+				<key>textureRect</key>
+				<string>{{128,129},{82,74}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -41,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{131,131}</string>
+				<string>{135,128}</string>
 				<key>spriteSourceSize</key>
-				<string>{225,225}</string>
+				<string>{135,128}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{131,131}}</string>
+				<string>{{0,0},{135,128}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -61,9 +76,10 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_280-uhd.png</string>
 			<key>size</key>
-			<string>{255,245}</string>
+			<string>{263,243}</string>
 			<key>textureFileName</key>
 			<string>icons/player_280-uhd.png</string>
+			#icon by Kevgen collab w eletric taco
 		</dict>
 	</dict>
 </plist>
