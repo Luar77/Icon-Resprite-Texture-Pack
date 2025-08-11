@@ -15,13 +15,15 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 	- [MasterL500](https://github.com/MasterL500) on GitHub
+- NHJ                  (81 icons, 2 of those being collabs) + 3 collabs
+	- [@itsNHJ](https://www.youtube.com/@itsNHJ) on YouTube
+	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
+	- [@nhj03.bsky.social](https://bsky.app/profile/nhj03.bsky.social) on Bluesky
 - bugpesto             (82 icons, 5 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- NHJ                  (78 icons, 2 of those being collabs) + 3 collabs
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-- Drian114             (81 icons, 10 of those being collabs) + 4 collabs
+- Drian114             (81 icons, 10 of those being collabs) + 5 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
@@ -40,21 +42,21 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [@Sharkcrome](https://bsky.app/profile/Sharkcrome) on Bluesky
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- KevgenGD             (49 icons, 2 of those being collabs) + 1 collab
+- KevgenGD             (50 icons, 2 of those being collabs) + 1 collab
 - aGold                (49 icons, 7 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- AsRenCL              (39 icons, 15 of those being collabs) + 10 collabs
+- AlexisDrawz          (35 icons, 11 of those being collabs) + 14 collabs
+- AsRenCL              (37 icons, 14 of those being collabs) + 10 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- AlexisDrawz          (33 icons, 10 of those being collabs) + 15 collabs
 - CraZyboy6484         (34 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Dibbj                (27 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
-- electrictaco         (24 icons, 6 of those being collabs) + 10 collabs
+- electrictaco         (23 icons, 6 of those being collabs) + 10 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
-- Sorao                (26 icons, 4 of those being collabs) + 3 collabs
+- Sorao                (25 icons, 4 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 8 collabs
 - AlexanderX1ta        (20 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
@@ -213,6 +215,7 @@ cube 36:
 
 cube 37:
 - By ML500.
+- Death_marked.
 
 cube 38:
 - By CraZyboy6484.
@@ -731,6 +734,7 @@ cube 189:
 
 cube 190:
 - By AlexanderX1ta.
+- [death_marked].
 
 cube 191:
 - By RetroAdvance64.
@@ -799,6 +803,7 @@ cube 209:
 
 cube 210:
 - By ML500.
+- Collab with Drian114.
 
 cube 211:
 - By Drian114.
@@ -1033,7 +1038,7 @@ cube 279:
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_279(1).png)
 
 cube 280:
-- By Sorao.
+- By KevgenGD.
 
 cube 281:
 - By cyanflower.
@@ -1871,10 +1876,6 @@ ship 36:
 ship 37:
 - By Dibbj.
 
-ship 38:
-- By Sorao.
-- Fixme.
-
 ship 39:
 - By Aleiz21.
 
@@ -1934,7 +1935,7 @@ ship 55:
 
 ship 56:
 - By bugpesto.
-- Redesigned the original icon to look more similar to the base design of a Wiggler from Mario Bros.
+- Redesigned the original icon to look more similar to the base design of a Wiggler from Mario Bros. [death_marked].
 
 ship 57:
 - By RetroAdvance64.
@@ -2013,7 +2014,7 @@ ship 78:
 
 ship 79:
 - By bugpesto.
-- References a "Spine Coaster" from New Super Mario Bros. Wii.
+- References a "Spine Coaster" from New Super Mario Bros. Wii [death_marked].
 
 ship 80:
 - By RetroAdvance64.
@@ -2044,7 +2045,7 @@ ship 87:
 
 ship 88:
 - By bugpesto.
-- A reference to the nyan cat. Can I haz chezburgr now plx.
+- A reference to the nyan cat. [death_marked].
 
 ship 89:
 - By RetroAdvance64.
@@ -2158,7 +2159,6 @@ ship 119:
 
 ship 120:
 - By Dibbj.
-- What more to love than an evil grin and a fat cannon.
 
 ship 121:
 - By ML500.
@@ -2192,10 +2192,6 @@ ship 128:
 ship 129:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- Ported from Supernova | The original ship design makes reference to an "Arwing" from the Star Fox series. The modern version uses the N64 version of the Arwing as reference.
-
-ship 130:
-- By Sharkcrome.
-- The Zenith doesn't need to touch the moon to defeat Moon Lord .. fixme :).
 
 ship 131:
 - By RetroAdvance64.
@@ -2307,7 +2303,6 @@ ship 160:
 
 ship 161:
 - By Dibbj.
-- Now chomping with a lot more steeze.
 
 ship 162:
 - By Sharkcrome.
@@ -2374,6 +2369,7 @@ ball 10:
 
 ball 11:
 - By bugpesto.
+- [fixme] (make the white dots 50% opacity).
 
 ball 12:
 - By ChileMationsxD.
@@ -2516,6 +2512,7 @@ ball 53:
 
 ball 54:
 - By bugpesto.
+- [death_marked].
 
 ball 55:
 - By ML500.
@@ -2693,6 +2690,9 @@ ball 103:
 ball 104:
 - By ML500.
 
+ball 105:
+- By NHJ.
+
 ball 106:
 - By cyanflower.
 - Enter My Basement.
@@ -2763,6 +2763,9 @@ ufo 8:
 
 ufo 9:
 - By Sorao.
+
+ufo 10:
+- By NHJ.
 
 ufo 11:
 - By Sharkcrome.
@@ -3100,6 +3103,7 @@ ufo 108:
 
 ufo 109:
 - By bugpesto.
+- [fixme] (make the middle tentacles go down a bit more).
 
 ufo 110:
 - By JigglypuffGD.
@@ -3202,6 +3206,9 @@ ufo 138:
 - Remake based on an artwork shown in The Apocalyptic Trilogy by APTeam.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_138(1).png)
 
+ufo 139:
+- By NHJ.
+
 ufo 140:
 - By Sharkcrome.
 
@@ -3283,6 +3290,7 @@ wave 13:
 
 wave 14:
 - By Exetric.
+- Death_marked.
 
 wave 15:
 - By Aleiz21.
@@ -3397,9 +3405,6 @@ wave 47:
 wave 48:
 - By Aleiz21.
 
-wave 49:
-- By AsRenCL.
-
 wave 50:
 - By Sharkcrome.
 - Tzzzzzzt !!.
@@ -3487,6 +3492,8 @@ wave 74:
 wave 75:
 - By AlexanderX1ta.
 - This wave represents the statue of the new god of Fear & Hunger from the game Fear & Hunger by Miro Haverinen.
+
+[death_marked].
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_75(1).png)
 
 wave 76:
@@ -3710,8 +3717,8 @@ robot 42:
 - By ML500.
 
 robot 43:
-- By AsRenCL.
-- Collab with AlexisDrawz, RetroAdvance64.
+- By AlexisDrawz.
+- In Collab W. RetroAdvance64.
 
 robot 44:
 - By RetroAdvance64.
@@ -3790,6 +3797,7 @@ robot 63:
 
 robot 64:
 - By ML500.
+- Death_marked.
 
 robot 65:
 - By cyanflower.
@@ -3963,6 +3971,7 @@ spider 47:
 
 spider 48:
 - By Dibbj.
+- Death_marked.
 
 spider 49:
 - By Drian114.
@@ -4110,7 +4119,7 @@ swing 19:
 - By NHJ.
 
 swing 20:
-- By electrictaco.
+- By AlexisDrawz.
 
 swing 21:
 - By Sorao.
