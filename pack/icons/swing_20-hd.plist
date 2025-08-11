@@ -9,28 +9,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-1.5,-0.75}</string>
 			<key>spriteSize</key>
-			<string>{63,66}</string>
+			<string>{74,74}</string>
 			<key>spriteSourceSize</key>
-			<string>{67,70}</string>
+			<string>{79,79}</string>
 			<key>textureRect</key>
-			<string>{{2,136},{63,66}}</string>
+			<string>{{83,2},{74,74}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>swing_20_2_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-0.2}</string>
+			<string>{-1.75,0}</string>
 			<key>spriteSize</key>
-			<string>{63,66}</string>
+			<string>{68,66}</string>
 			<key>spriteSourceSize</key>
-			<string>{67,70}</string>
+			<string>{79,79}</string>
 			<key>textureRect</key>
-			<string>{{67,136},{63,66}}</string>
+			<string>{{159,2},{68,66}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -39,13 +39,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-0.2}</string>
+			<string>{-0.25,-1.25}</string>
 			<key>spriteSize</key>
-			<string>{63,66}</string>
+			<string>{62,64}</string>
 			<key>spriteSourceSize</key>
-			<string>{67,70}</string>
+			<string>{79,79}</string>
 			<key>textureRect</key>
-			<string>{{2,71},{63,66}}</string>
+			<string>{{159,70},{62,64}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -54,13 +54,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-1.5,-0.75}</string>
 			<key>spriteSize</key>
-			<string>{67,70}</string>
+			<string>{79,79}</string>
 			<key>spriteSourceSize</key>
-			<string>{67,70}</string>
+			<string>{79,79}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{67,70}}</string>
+			<string>{{2,2},{79,79}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
