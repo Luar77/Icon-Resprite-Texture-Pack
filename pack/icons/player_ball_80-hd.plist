@@ -11,11 +11,11 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{65,67}</string>
+			<string>{69,77}</string>
 			<key>spriteSourceSize</key>
-			<string>{70,72}</string>
+			<string>{69,77}</string>
 			<key>textureRect</key>
-			<string>{{74,2},{65,67}}</string>
+			<string>{{2,144},{69,77}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{7,4.2}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{46,52}</string>
+			<string>{69,77}</string>
 			<key>spriteSourceSize</key>
-			<string>{70,72}</string>
+			<string>{69,77}</string>
 			<key>textureRect</key>
-			<string>{{74,71},{46,52}}</string>
+			<string>{{73,144},{69,77}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -41,11 +41,11 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{12,12}</string>
+			<string>{69,77}</string>
 			<key>spriteSourceSize</key>
-			<string>{70,72}</string>
+			<string>{69,77}</string>
 			<key>textureRect</key>
-			<string>{{2,76},{12,12}}</string>
+			<string>{{2,2},{69,77}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -56,13 +56,13 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{70,72}</string>
+			<string>{69,77}</string>
 			<key>spriteSourceSize</key>
-			<string>{70,72}</string>
+			<string>{69,77}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{70,72}}</string>
+			<string>{{2,73},{69,77}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -76,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/player_ball_80-hd.png</string>
 		<key>size</key>
-		<string>{256,128}</string>
+		<string>{256,256}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
