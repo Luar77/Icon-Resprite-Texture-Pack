@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-3.5,-4.75}</string>
 			<key>spriteSize</key>
-			<string>{79,69}</string>
+			<string>{63,62}</string>
 			<key>spriteSourceSize</key>
-			<string>{84,74}</string>
+			<string>{68,66}</string>
 			<key>textureRect</key>
-			<string>{{78,2},{79,69}}</string>
+			<string>{{70,2},{63,62}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-2.75,-4.75}</string>
 			<key>spriteSize</key>
-			<string>{75,65}</string>
+			<string>{58,56}</string>
 			<key>spriteSourceSize</key>
-			<string>{84,74}</string>
+			<string>{68,66}</string>
 			<key>textureRect</key>
-			<string>{{149,2},{75,65}}</string>
+			<string>{{70,67},{58,56}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -41,26 +41,26 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{72,63}</string>
+			<string>{10,10}</string>
 			<key>spriteSourceSize</key>
-			<string>{84,74}</string>
+			<string>{68,66}</string>
 			<key>textureRect</key>
-			<string>{{149,69},{72,63}}</string>
+			<string>{{2,72},{10,10}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>player_ball_111_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-3.25,-4.75}</string>
 			<key>spriteSize</key>
-			<string>{84,74}</string>
+			<string>{68,66}</string>
 			<key>spriteSourceSize</key>
-			<string>{84,74}</string>
+			<string>{68,66}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{84,74}}</string>
+			<string>{{2,2},{68,66}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -76,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/player_ball_111-hd.png</string>
 		<key>size</key>
-		<string>{256,256}</string>
+		<string>{256,128}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
