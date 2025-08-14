@@ -4,7 +4,7 @@ After over 5 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (159 icons, 4 of those being collabs) + 22 collabs
+- RetroAdvance64       (159 icons, 4 of those being collabs) + 21 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
@@ -15,7 +15,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 	- [MasterL500](https://github.com/MasterL500) on GitHub
-- bugpesto             (86 icons, 5 of those being collabs) + 1 collab
+- bugpesto             (85 icons, 5 of those being collabs) + 1 collab
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
@@ -23,31 +23,31 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@itsNHJ](https://www.youtube.com/@itsNHJ) on YouTube
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 	- [@nhj03.bsky.social](https://bsky.app/profile/nhj03.bsky.social) on Bluesky
-- Drian114             (81 icons, 10 of those being collabs) + 6 collabs
+- Drian114             (81 icons, 10 of those being collabs) + 5 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
-- JigglypuffGD         (81 icons, 14 of those being collabs) + 2 collabs
+- JigglypuffGD         (80 icons, 14 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- Aleiz21              (75 icons, 8 of those being collabs) + 4 collabs
+- Aleiz21              (74 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (50 icons, 2 of those being collabs) + 8 collabs
+- Sharkcrome           (51 icons, 2 of those being collabs) + 7 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- KevgenGD             (50 icons, 3 of those being collabs) + 1 collab
-- aGold                (49 icons, 7 of those being collabs)
+- KevgenGD             (50 icons, 3 of those being collabs)
+- aGold                (50 icons, 7 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- AlexisDrawz          (37 icons, 11 of those being collabs) + 14 collabs
-- AsRenCL              (37 icons, 14 of those being collabs) + 10 collabs
+- AlexisDrawz          (38 icons, 11 of those being collabs) + 15 collabs
+- AsRenCL              (37 icons, 14 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - CraZyboy6484         (33 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
@@ -67,16 +67,16 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - J3anC4rlo            (8 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- KetsuTT              (9 icons, 5 of those being collabs) + 1 collab
+- KetsuTT              (9 icons, 6 of those being collabs) + 1 collab
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
+- electrictaco         (1 icon, 1 of those being collabs) + 11 collabs
+	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
 - Hydr4ze              (6 icons)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
 	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
 - airiLmao             (2 icons, 2 of those being collabs) + 5 collabs
-- electrictaco         (1 icon, 6 of those being collabs) + 11 collabs
-	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
 - DanKy99              (3 icons)
 - KazooTheCat          (1 icon) + 2 collabs
 	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
@@ -610,14 +610,14 @@ cube 153:
 
 cube 154:
 - By ML500.
-- Remake based on Potbor, the shopkeeper of the Community Shop.
+- Death_marked.
 
 cube 155:
 - By AlexisDrawz.
 
 cube 156:
 - By ML500.
-- Pending remake.
+- Death_marked.
 
 cube 157:
 - By RetroAdvance64.
@@ -699,6 +699,7 @@ cube 179:
 
 cube 180:
 - By RetroAdvance64.
+- Death_marked.
 
 cube 181:
 - By KetsuTT.
@@ -753,6 +754,7 @@ cube 194:
 
 cube 195:
 - By RetroAdvance64.
+- Death_marked.
 
 cube 196:
 - By RetroAdvance64.
@@ -799,7 +801,7 @@ cube 208:
 
 cube 209:
 - By ML500.
-- Ported from Master Pack.
+- Death_marked.
 
 cube 210:
 - By ML500.
@@ -1211,6 +1213,7 @@ cube 332:
 
 cube 333:
 - By ML500.
+- Death_marked.
 
 cube 334:
 - By ML500.
@@ -1656,6 +1659,7 @@ cube 462:
 
 cube 463:
 - By ML500.
+- Death_marked.
 
 cube 464:
 - By CraZyboy6484.
@@ -1903,6 +1907,7 @@ ship 50:
 
 ship 52:
 - By ML500.
+- Death_marked.
 
 ship 53:
 - By KevgenGD.
@@ -1956,6 +1961,7 @@ ship 67:
 
 ship 68:
 - By ML500.
+- Death_marked.
 
 ship 69:
 - By Drian114.
@@ -2283,6 +2289,7 @@ ship 160:
 
 ship 161:
 - By Dibbj.
+- Fixme.
 
 ship 162:
 - By Sharkcrome.
@@ -2488,12 +2495,11 @@ ball 53:
 - By AsRenCL.
 
 ball 54:
-- By bugpesto.
-- [death_marked].
+- By AlexisDrawz.
 
 ball 55:
 - By ML500.
-- Luar's third ball (I think that's a tumor at this point).
+- Death_marked.
 
 ball 56:
 - By AlexanderX1ta.
@@ -2659,6 +2665,7 @@ ball 102:
 
 ball 103:
 - By ML500.
+- Death_marked.
 
 ball 104:
 - By ML500.
@@ -2673,9 +2680,6 @@ ball 106:
 ball 107:
 - By bugpesto.
 - Reworked the original icon to look more similar to the base design of a Fuzzy from Mario Bros.
-
-ball 108:
-- By JigglypuffGD.
 
 ball 109:
 - By JigglypuffGD.
@@ -2729,6 +2733,7 @@ ufo 6:
 
 ufo 7:
 - By RetroAdvance64.
+- Death_marked.
 
 ufo 8:
 - By cyanflower.
@@ -2852,7 +2857,7 @@ ufo 43:
 - By RetroAdvance64.
 
 ufo 44:
-- By Aleiz21.
+- By Sharkcrome.
 
 ufo 45:
 - By Sharkcrome.
@@ -2911,7 +2916,10 @@ ufo 60:
 
 ufo 61:
 - By JigglypuffGD.
-- References the final boss of the level The Mayhem War by HHyper.
+- Loosely based on the torso armor of the Kreigstaffebots from Scooby Doo: Mystery Incorporated
+
+Chest plate design help from RetroAdvance64.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_61(1).png)
 
 ufo 62:
 - By Drian114.
@@ -3185,7 +3193,7 @@ ufo 145:
 
 ufo 146:
 - By ML500.
-- Remake based on Rattledash and Press Start skull.
+- Death_marked.
 
 ufo 147:
 - By aGold.
@@ -3213,6 +3221,7 @@ wave 4:
 
 wave 5:
 - By ML500.
+- Death_marked.
 
 wave 6:
 - By cyanflower.
@@ -3301,6 +3310,7 @@ wave 30:
 
 wave 31:
 - By ML500.
+- Death_marked.
 
 wave 32:
 - By ML500.
@@ -3376,6 +3386,7 @@ wave 56:
 
 wave 57:
 - By ML500.
+- Death_marked.
 
 wave 58:
 - By Th3Angel0ffic3.
@@ -3551,6 +3562,7 @@ robot 10:
 
 robot 11:
 - By RetroAdvance64.
+- Death_marked.
 
 robot 12:
 - By JigglypuffGD.
@@ -3746,6 +3758,7 @@ robot 66:
 
 robot 67:
 - By ML500.
+- Death_marked.
 
 robot 68:
 - By bugpesto.
@@ -3913,6 +3926,7 @@ spider 49:
 
 spider 50:
 - By JigglypuffGD.
+- Death_marked.
 
 spider 51:
 - By Aleiz21.
@@ -4049,9 +4063,8 @@ swing 17:
 
 swing 18:
 - By KetsuTT.
-- Refers to a Kirby variant in the gladiator or warrior style games
-
-Thanks to AlexisDrawz for collaborating with me.
+- Collab with AlexisDrawz (thanks). Refers to a Kirby variant in the gladiator or warrior style games.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/swing_18(1).png)
 
 swing 19:
 - By NHJ.
@@ -4158,7 +4171,9 @@ jetpack 4:
 
 jetpack 6:
 - By Sharkcrome.
-- In collaboration with RetroAdvance64.
+- Needs some details fixing.
+in collaboration with Retroadvance64 
+[fixme].
 
 jetpack 7:
 - By JigglypuffGD.
