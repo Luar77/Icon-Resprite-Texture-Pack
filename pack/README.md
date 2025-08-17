@@ -9,7 +9,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 	- [@retroadvance64](https://www.tiktok.com/@retroadvance64) on TikTok
-- ML500                (123 icons, 8 of those being collabs) + 12 collabs
+- ML500                (121 icons, 8 of those being collabs) + 12 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
@@ -23,14 +23,14 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@itsNHJ](https://www.youtube.com/@itsNHJ) on YouTube
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 	- [@nhj03.bsky.social](https://bsky.app/profile/nhj03.bsky.social) on Bluesky
-- Drian114             (81 icons, 10 of those being collabs) + 5 collabs
+- Drian114             (82 icons, 10 of those being collabs) + 5 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
-- JigglypuffGD         (80 icons, 14 of those being collabs) + 2 collabs
+- JigglypuffGD         (82 icons, 14 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- Aleiz21              (74 icons, 8 of those being collabs) + 4 collabs
+- Aleiz21              (73 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
@@ -46,14 +46,14 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- AlexisDrawz          (38 icons, 11 of those being collabs) + 15 collabs
+- AlexisDrawz          (39 icons, 11 of those being collabs) + 15 collabs
 - AsRenCL              (37 icons, 14 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - CraZyboy6484         (33 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Dibbj                (27 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
-- Sorao                (25 icons, 4 of those being collabs) + 3 collabs
+- Sorao                (24 icons, 4 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 8 collabs
 - AlexanderX1ta        (21 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
@@ -69,9 +69,9 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - KetsuTT              (9 icons, 6 of those being collabs) + 1 collab
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
-- electrictaco         (1 icon, 1 of those being collabs) + 11 collabs
-	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
 - Hydr4ze              (6 icons)
+- electrictaco          + 11 collabs
+	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
@@ -306,6 +306,7 @@ cube 61:
 
 cube 62:
 - By Exetric.
+- ( ͡° ͜ʖ ͡°).
 
 cube 63:
 - By ReenRN.
@@ -504,7 +505,7 @@ cube 122:
 - By RetroAdvance64.
 
 cube 123:
-- By Aleiz21.
+- By JigglypuffGD.
 
 cube 124:
 - By Aleiz21.
@@ -800,8 +801,7 @@ cube 208:
 - By Drian114.
 
 cube 209:
-- By ML500.
-- Death_marked.
+- By Drian114.
 
 cube 210:
 - By ML500.
@@ -2114,6 +2114,7 @@ ship 110:
 
 ship 111:
 - By bugpesto.
+- [death_marked].
 
 ship 112:
 - By RetroAdvance64.
@@ -2180,11 +2181,16 @@ ship 129:
 - By RetroAdvance64.
 - [Re-made by the original artist] -- Ported from Supernova | The original ship design makes reference to an "Arwing" from the Star Fox series. The modern version uses the N64 version of the Arwing as reference.
 
+ship 130:
+- By Sharkcrome.
+- Refrences The Ultimate Upgrade Sword "Zenith" From Terraria 🌳.
+
 ship 131:
 - By RetroAdvance64.
 
 ship 132:
 - By Dibbj.
+- Death_marked.
 
 ship 133:
 - By RetroAdvance64.
@@ -2664,8 +2670,7 @@ ball 102:
 - Collab with ML500.
 
 ball 103:
-- By ML500.
-- Death_marked.
+- By AlexisDrawz.
 
 ball 104:
 - By ML500.
@@ -3363,6 +3368,9 @@ wave 47:
 
 wave 48:
 - By Aleiz21.
+
+wave 49:
+- By JigglypuffGD.
 
 wave 50:
 - By Sharkcrome.
