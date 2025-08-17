@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0.5}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{140,139}</string>
+				<string>{142,142}</string>
 				<key>spriteSourceSize</key>
-				<string>{148,148}</string>
+				<string>{170,170}</string>
 				<key>textureRect</key>
-				<string>{{0,148},{140,139}}</string>
+				<string>{{153,0},{142,142}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,15 +24,15 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0.5}</string>
+				<string>{0,4.5}</string>
 				<key>spriteSize</key>
-				<string>{116,131}</string>
+				<string>{114,125}</string>
 				<key>spriteSourceSize</key>
-				<string>{148,148}</string>
+				<string>{170,170}</string>
 				<key>textureRect</key>
-				<string>{{149,0},{116,131}}</string>
+				<string>{{153,143},{114,125}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>player_ball_103_extra_001.png</key>
 			<dict>
@@ -41,11 +41,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0.5}</string>
 				<key>spriteSize</key>
-				<string>{40,43}</string>
+				<string>{112,129}</string>
 				<key>spriteSourceSize</key>
-				<string>{148,148}</string>
+				<string>{170,170}</string>
 				<key>textureRect</key>
-				<string>{{149,132},{40,43}}</string>
+				<string>{{0,153},{112,129}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -54,13 +54,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0.5}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{148,147}</string>
+				<string>{152,152}</string>
 				<key>spriteSourceSize</key>
-				<string>{148,148}</string>
+				<string>{170,170}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{148,147}}</string>
+				<string>{{0,0},{152,152}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_ball_103-uhd.png</string>
 			<key>size</key>
-			<string>{265,287}</string>
+			<string>{295,265}</string>
 			<key>textureFileName</key>
 			<string>icons/player_ball_103-uhd.png</string>
 		</dict>
