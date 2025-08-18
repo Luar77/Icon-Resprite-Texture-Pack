@@ -23,7 +23,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@itsNHJ](https://www.youtube.com/@itsNHJ) on YouTube
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 	- [@nhj03.bsky.social](https://bsky.app/profile/nhj03.bsky.social) on Bluesky
-- Drian114             (82 icons, 10 of those being collabs) + 5 collabs
+- Drian114             (83 icons, 10 of those being collabs) + 5 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
@@ -36,7 +36,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (51 icons, 2 of those being collabs) + 7 collabs
+- Sharkcrome           (54 icons, 3 of those being collabs) + 7 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
 	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
@@ -46,16 +46,16 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- AlexisDrawz          (39 icons, 11 of those being collabs) + 15 collabs
-- AsRenCL              (37 icons, 14 of those being collabs) + 8 collabs
+- AlexisDrawz          (40 icons, 11 of those being collabs) + 15 collabs
+- AsRenCL              (38 icons, 14 of those being collabs) + 8 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - CraZyboy6484         (33 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Dibbj                (27 icons, 2 of those being collabs) + 6 collabs
+- Dibbj                (26 icons, 2 of those being collabs) + 6 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - Sorao                (24 icons, 4 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 8 collabs
-- AlexanderX1ta        (21 icons, 2 of those being collabs) + 2 collabs
+- AlexanderX1ta        (19 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 - Luar77               (16 icons, 4 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
@@ -67,11 +67,11 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - J3anC4rlo            (8 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- KetsuTT              (9 icons, 6 of those being collabs) + 1 collab
-	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
-- Hydr4ze              (6 icons)
-- electrictaco          + 11 collabs
+- electrictaco          + 12 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
+- Hydr4ze              (6 icons)
+- KetsuTT              (9 icons, 6 of those being collabs)
+	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
@@ -196,7 +196,7 @@ cube 30:
 
 cube 31:
 - By bugpesto.
-- [fixme, wrong reference].
+- Following Drian114's concept, this remix takes details from cube 33 instead! [death_marked].
 
 cube 32:
 - By KevgenGD.
@@ -342,7 +342,7 @@ cube 73:
 
 cube 74:
 - By bugpesto.
-- References the modified bear from Radiohead [fixme] (make eyes bigger).
+- References the modified bear from Radiohead.
 
 cube 75:
 - By AlexisDrawz.
@@ -735,8 +735,7 @@ cube 189:
 - By bugpesto.
 
 cube 190:
-- By AlexanderX1ta.
-- [death_marked].
+- By Sharkcrome.
 
 cube 191:
 - By RetroAdvance64.
@@ -2183,7 +2182,7 @@ ship 129:
 
 ship 130:
 - By Sharkcrome.
-- Refrences The Ultimate Upgrade Sword "Zenith" From Terraria 🌳.
+- Like the original, Refrences the endgame sword "Zenith" From Terraria 🌳.
 
 ship 131:
 - By RetroAdvance64.
@@ -2359,7 +2358,6 @@ ball 10:
 
 ball 11:
 - By bugpesto.
-- [fixme] (make the white dots 50% opacity).
 
 ball 12:
 - By ChileMationsxD.
@@ -2489,6 +2487,7 @@ ball 49:
 
 ball 50:
 - By aGold.
+- Fixme.
 
 ball 51:
 - By AlexisDrawz.
@@ -3358,6 +3357,7 @@ wave 44:
 
 wave 45:
 - By AsRenCL.
+- Fixme inconsistent pixels, I said I would handle it - Luar77.
 
 wave 46:
 - By ML500.
@@ -3371,6 +3371,7 @@ wave 48:
 
 wave 49:
 - By JigglypuffGD.
+- References the Deltarune symbol from the games Undertale and Deltarune.
 
 wave 50:
 - By Sharkcrome.
@@ -3378,6 +3379,13 @@ wave 50:
 
 wave 51:
 - By NHJ.
+
+wave 52:
+- By Sharkcrome.
+- In collaboration with ElectricTaco.
+
+References the spaceship in the platform level Terminus.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_52(1).png)
 
 wave 53:
 - By aGold.
@@ -3426,8 +3434,7 @@ wave 65:
 - By NHJ.
 
 wave 66:
-- By Dibbj.
-- Death_marked.
+- By AlexisDrawz.
 
 wave 67:
 - By NHJ.
@@ -3454,11 +3461,7 @@ wave 74:
 - By Dibbj.
 
 wave 75:
-- By AlexanderX1ta.
-- This wave represents the statue of the new god of Fear & Hunger from the game Fear & Hunger by Miro Haverinen.
-
-[death_marked].
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_75(1).png)
+- By Sharkcrome.
 
 wave 76:
 - By Drian114.
@@ -4179,9 +4182,7 @@ jetpack 4:
 
 jetpack 6:
 - By Sharkcrome.
-- Needs some details fixing.
-in collaboration with Retroadvance64 
-[fixme].
+- In collaboration with Retroadvance64.
 
 jetpack 7:
 - By JigglypuffGD.
