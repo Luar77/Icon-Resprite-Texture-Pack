@@ -4,86 +4,86 @@ After over 5 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (159 icons, 4 of those being collabs) + 21 collabs
-	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
-	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
-	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
-	- [@retroadvance64](https://www.tiktok.com/@retroadvance64) on TikTok
-- ML500                (121 icons, 8 of those being collabs) + 12 collabs
-	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
-	- [@masterl500](https://twitter.com/masterl500) on Twitter
-	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
-	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
-	- [MasterL500](https://github.com/MasterL500) on GitHub
-- bugpesto             (85 icons, 5 of those being collabs) + 1 collab
-	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
-	- [@bugpesto.bsky.social](https://bsky.app/profile/bugpesto.bsky.social) on Bluesky
-	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- NHJ                  (81 icons, 2 of those being collabs) + 3 collabs
-	- [@itsNHJ](https://www.youtube.com/@itsNHJ) on YouTube
-	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
-	- [@nhj03.bsky.social](https://bsky.app/profile/nhj03.bsky.social) on Bluesky
-- Drian114             (83 icons, 10 of those being collabs) + 5 collabs
-	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
-	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
-	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
-- JigglypuffGD         (82 icons, 14 of those being collabs) + 2 collabs
-	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
-	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
-- Aleiz21              (73 icons, 8 of those being collabs) + 4 collabs
-	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
-	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
-	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
-	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Sharkcrome           (54 icons, 3 of those being collabs) + 7 collabs
-	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
-	- [@Sharkcrome](https://www.twitch.tv/Sharkcrome) on Twitch
-	- [@Sharkcrome](https://twitter.com/Sharkcrome) on Twitter
-	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- KevgenGD             (50 icons, 3 of those being collabs)
-- aGold                (50 icons, 7 of those being collabs)
-	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
-	- https://agold.is-a.dev
-	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- AlexisDrawz          (40 icons, 11 of those being collabs) + 15 collabs
-- AsRenCL              (38 icons, 14 of those being collabs) + 8 collabs
-	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- CraZyboy6484         (33 icons) + 1 collab
-	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Dibbj                (26 icons, 2 of those being collabs) + 6 collabs
-	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
-- Sorao                (24 icons, 4 of those being collabs) + 3 collabs
-- AngelozDD            (19 icons, 3 of those being collabs) + 8 collabs
-- AlexanderX1ta        (19 icons, 2 of those being collabs) + 2 collabs
-	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
-- Luar77               (16 icons, 4 of those being collabs) + 1 collab
-	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
-	- [Luar77](https://github.com/Luar77) on GitHub
-- Exetric              (11 icons)
-	- [@Exetric](https://twitter.com/Exetric) on Twitter
-	- [EthanHazel](https://github.com/EthanHazel) on GitHub
-- ChileMationsxD       (11 icons)
-- J3anC4rlo            (8 icons, 1 of those being collabs) + 1 collab
-	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
-	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- electrictaco          + 12 collabs
-	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
-- Hydr4ze              (6 icons)
-- KetsuTT              (9 icons, 6 of those being collabs)
-	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
-- TheRare5             (5 icons)
-- ReenRN               (5 icons)
-	- [@reenion](https://www.youtube.com/@reenion) on YouTube
-	- [@reen_rn45](https://twitter.com/reen_rn45) on Twitter
-- airiLmao             (2 icons, 2 of those being collabs) + 5 collabs
-- DanKy99              (3 icons)
-- KazooTheCat          (1 icon) + 2 collabs
-	- [@claireeverywhere.bsky.social](https://bsky.app/profile/claireeverywhere.bsky.social) on Bluesky
-- Hushroom             (1 icon)
-- Th3Angel0ffic3       (1 icon)
-- fiegael              (2 icons, 2 of those being collabs)
-- LonelyChicken         + 1 collab
+- RetroAdvance64       (159 icons, 4 of those being collabs) + 21 collabsBluesky
+	- Geometry Dash
+	- Twitter
+	- YouTube
+	- TikTok
+- ML500                (121 icons, 8 of those being collabs) + 12 collabsTwitter
+	- Geometry Dash
+	- Bluesky
+	- Newgrounds
+	- YouTube
+	- GitHub
+- bugpesto             (85 icons, 5 of those being collabs) + 1 collabGeometry Dash
+	- Bluesky
+	- YouTube
+	- Newgrounds
+- NHJ                  (81 icons, 2 of those being collabs) + 3 collabsGeometry Dash
+	- Twitter
+	- YouTube
+	- Bluesky
+- Drian114             (83 icons, 10 of those being collabs) + 5 collabsGeometry Dash
+	- Twitter
+	- Bluesky
+	- YouTube
+- JigglypuffGD         (85 icons, 14 of those being collabs) + 2 collabsGeometry Dash
+	- YouTube
+	- Twitter
+- Aleiz21              (73 icons, 8 of those being collabs) + 4 collabsGeometry Dash
+	- YouTube
+	- Twitter
+- cyanflower           (69 icons, 4 of those being collabs) + 4 collabsYouTube
+	- Geometry Dash
+	- Bluesky
+- Sharkcrome           (55 icons, 3 of those being collabs) + 7 collabsGeometry Dash
+	- Twitter
+	- Newgrounds
+	- Twitch
+	- YouTube
+- KevgenGD             (50 icons, 3 of those being collabs)Geometry Dash
+- aGold                (50 icons, 7 of those being collabs)Geometry Dash
+	- Website
+	- GitHub
+	- YouTube
+- AlexisDrawz          (40 icons, 11 of those being collabs) + 15 collabsGeometry Dash
+- AsRenCL              (38 icons, 14 of those being collabs) + 8 collabsYouTube
+	- Geometry Dash
+- CraZyboy6484         (33 icons) + 1 collabGeometry Dash
+	- Newgrounds
+- Dibbj                (26 icons, 2 of those being collabs) + 6 collabsGeometry Dash
+	- Bluesky
+- Sorao                (24 icons, 4 of those being collabs) + 3 collabsGeometry Dash
+- AngelozDD            (19 icons, 3 of those being collabs) + 8 collabsGeometry Dash
+- AlexanderX1ta        (19 icons, 2 of those being collabs) + 2 collabsYouTube
+	- Geometry Dash
+- Luar77               (16 icons, 4 of those being collabs) + 1 collabGeometry Dash
+	- YouTube
+	- GitHub
+- Exetric              (11 icons)Geometry Dash
+	- GitHub
+	- Twitter
+- ChileMationsxD       (11 icons)Geometry Dash
+- J3anC4rlo            (8 icons, 1 of those being collabs) + 1 collabYouTube
+	- Geometry Dash
+	- Twitter
+- electrictaco          + 12 collabsGeometry Dash
+	- YouTube
+- Hydr4ze              (6 icons)Geometry Dash
+- KetsuTT              (9 icons, 6 of those being collabs)Geometry Dash
+	- TikTok
+- TheRare5             (5 icons)Geometry Dash
+- ReenRN               (5 icons)Geometry Dash
+	- YouTube
+	- Twitter
+- airiLmao             (2 icons, 2 of those being collabs) + 5 collabsGeometry Dash
+- DanKy99              (3 icons)Geometry Dash
+- KazooTheCat          (1 icon) + 2 collabsGeometry Dash
+	- Bluesky
+- Hushroom             (1 icon)Geometry Dash
+- Th3Angel0ffic3       (1 icon)Geometry Dash
+- fiegael              (2 icons, 2 of those being collabs)Geometry Dash
+- LonelyChicken         + 1 collabGeometry Dash
 
 ## Icon Credits and Notes
 cube 0:
@@ -196,7 +196,6 @@ cube 30:
 
 cube 31:
 - By bugpesto.
-- Following Drian114's concept, this remix takes details from cube 33 instead! [death_marked].
 
 cube 32:
 - By KevgenGD.
@@ -611,7 +610,6 @@ cube 153:
 
 cube 154:
 - By ML500.
-- Death_marked.
 
 cube 155:
 - By AlexisDrawz.
@@ -814,6 +812,9 @@ cube 212:
 
 cube 213:
 - By ML500.
+
+cube 214:
+- By JigglypuffGD.
 
 cube 215:
 - By AlexisDrawz.
@@ -1095,6 +1096,9 @@ cube 297:
 cube 298:
 - By ML500.
 
+cube 299:
+- By JigglypuffGD.
+
 cube 300:
 - By ChileMationsxD.
 
@@ -1169,6 +1173,9 @@ cube 320:
 - By AlexanderX1ta.
 - Reference to the slaughterhouse river monster.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1387139239816335542/Screenshot_20250624_083049_YouTube.jpg?ex=685c4196&is=685af016&hm=4bedd799be66b15ed63fe6ce477f3c4811e8852e27336e97acfcae5b2f272820&=&format=webp&width=1733&height=800)
+
+cube 321:
+- By JigglypuffGD.
 
 cube 322:
 - By JigglypuffGD.
@@ -2437,6 +2444,7 @@ ball 33:
 
 ball 34:
 - By bugpesto.
+- [fixme] (make the inside darker like the og).
 
 ball 35:
 - By RetroAdvance64.
@@ -2530,6 +2538,9 @@ ball 61:
 ball 62:
 - By AsRenCL.
 - Direct reference to Ethan/Exetric default icons.
+
+ball 63:
+- By Sharkcrome.
 
 ball 64:
 - By ML500.
@@ -2725,6 +2736,7 @@ ufo 2:
 
 ufo 3:
 - By bugpesto.
+- [fixme] (remove extra layer).
 
 ufo 4:
 - By RetroAdvance64.
@@ -3851,6 +3863,7 @@ spider 24:
 
 spider 25:
 - By bugpesto.
+- [fixme] (rework the back).
 
 spider 26:
 - By NHJ.
