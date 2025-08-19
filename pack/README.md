@@ -36,7 +36,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabsYouTube
 	- Geometry Dash
 	- Bluesky
-- Sharkcrome           (55 icons, 3 of those being collabs) + 7 collabsGeometry Dash
+- Sharkcrome           (56 icons, 3 of those being collabs) + 7 collabsGeometry Dash
 	- Twitter
 	- Newgrounds
 	- Twitch
@@ -320,6 +320,9 @@ cube 65:
 cube 66:
 - By JigglypuffGD.
 - Collab with RetroAdvance64.
+
+cube 67:
+- By Sharkcrome.
 
 cube 68:
 - By KevgenGD.
