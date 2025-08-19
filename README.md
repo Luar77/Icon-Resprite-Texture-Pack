@@ -54,7 +54,7 @@ Apparently some people were really insisting on helping with the development cos
 	- Website
 	- GitHub
 	- YouTube
-- AlexisDrawz          (40 icons, 11 of those being collabs) + 15 collabsGeometry Dash
+- AlexisDrawz          (41 icons, 11 of those being collabs) + 15 collabsGeometry Dash
 - AsRenCL              (38 icons, 14 of those being collabs) + 8 collabsYouTube
 	- Geometry Dash
 - CraZyboy6484         (33 icons) + 1 collabGeometry Dash
