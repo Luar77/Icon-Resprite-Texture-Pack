@@ -15,7 +15,7 @@
                             "id": "credits-button",
                             "attributes": {
                                 "z-order": 2,
-                                "sprite": "pack.png",
+                                "sprite": "ui/pack_credits.png",
                                 "scale": 0.45,
                                 "base-scale": 0.45,
                                 "position": {
@@ -24,7 +24,7 @@
                                         "relative": "screen"
                                     },
                                     "x": -30,
-                                    "y": 70
+                                    "y": 30
                                 },
                                 "content-size": {
                                     "width": 30
@@ -529,7 +529,7 @@
                                                                                                                                 "type": "CCSprite",
                                                                                                                                 "id": "logo-0-TikTok",
                                                                                                                                 "attributes": {
-                                                                                                                                    "sprite": "ui/logo_icons/web200x.png",
+                                                                                                                                    "sprite": "ui/logo_icons/tiktok200x.png",
                                                                                                                                     "anchor-point": {
                                                                                                                                         "x": 0,
                                                                                                                                         "y": 0.5
@@ -3996,7 +3996,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-8",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "55",
+                                                                                                                        "text": "56",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -4869,7 +4869,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-11",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "40",
+                                                                                                                        "text": "41",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -8615,7 +8615,7 @@
                                                                                                                                 "type": "CCSprite",
                                                                                                                                 "id": "logo-24-TikTok",
                                                                                                                                 "attributes": {
-                                                                                                                                    "sprite": "ui/logo_icons/web200x.png",
+                                                                                                                                    "sprite": "ui/logo_icons/tiktok200x.png",
                                                                                                                                     "anchor-point": {
                                                                                                                                         "x": 0,
                                                                                                                                         "y": 0.5
