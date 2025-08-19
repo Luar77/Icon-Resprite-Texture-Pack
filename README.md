@@ -44,7 +44,7 @@ Apparently some people were really insisting on helping with the development cos
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabsYouTube
 	- Geometry Dash
 	- Bluesky
-- Sharkcrome           (55 icons, 3 of those being collabs) + 7 collabsGeometry Dash
+- Sharkcrome           (56 icons, 3 of those being collabs) + 7 collabsGeometry Dash
 	- Twitter
 	- Newgrounds
 	- Twitch
