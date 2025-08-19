@@ -46,7 +46,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- Website
 	- GitHub
 	- YouTube
-- AlexisDrawz          (40 icons, 11 of those being collabs) + 15 collabsGeometry Dash
+- AlexisDrawz          (41 icons, 11 of those being collabs) + 15 collabsGeometry Dash
 - AsRenCL              (38 icons, 14 of those being collabs) + 8 collabsYouTube
 	- Geometry Dash
 - CraZyboy6484         (33 icons) + 1 collabGeometry Dash
@@ -927,6 +927,10 @@ cube 244:
 
 cube 245:
 - By RetroAdvance64.
+
+cube 246:
+- By AlexisDrawz.
+- In Collab W. AngeloZDD.
 
 cube 247:
 - By NHJ.
