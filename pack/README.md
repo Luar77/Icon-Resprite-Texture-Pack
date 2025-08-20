@@ -2045,7 +2045,7 @@ ship 87:
 
 ship 88:
 - By bugpesto.
-- A reference to the nyan cat. [death_marked].
+- Nyan nyan nyanyan nyanyanyanyan nyan nyan nyan.
 
 ship 89:
 - By RetroAdvance64.
@@ -2451,7 +2451,6 @@ ball 33:
 
 ball 34:
 - By bugpesto.
-- [fixme] (make the inside darker like the og).
 
 ball 35:
 - By RetroAdvance64.
@@ -2743,7 +2742,6 @@ ufo 2:
 
 ufo 3:
 - By bugpesto.
-- [fixme] (remove extra layer).
 
 ufo 4:
 - By RetroAdvance64.
@@ -3101,7 +3099,6 @@ ufo 108:
 
 ufo 109:
 - By bugpesto.
-- [fixme] (make the middle tentacles go down a bit more).
 
 ufo 110:
 - By JigglypuffGD.
@@ -3216,7 +3213,6 @@ ufo 145:
 
 ufo 146:
 - By ML500.
-- Death_marked.
 
 ufo 147:
 - By aGold.
@@ -3333,7 +3329,6 @@ wave 30:
 
 wave 31:
 - By ML500.
-- Death_marked.
 
 wave 32:
 - By ML500.
@@ -3421,7 +3416,6 @@ wave 56:
 
 wave 57:
 - By ML500.
-- Death_marked.
 
 wave 58:
 - By Th3Angel0ffic3.
@@ -3523,7 +3517,6 @@ wave 86:
 
 wave 87:
 - By bugpesto.
-- [fixme, try inverting the colors to p1-p2].
 
 wave 88:
 - By JigglypuffGD.
@@ -3788,7 +3781,6 @@ robot 66:
 
 robot 67:
 - By ML500.
-- Death_marked.
 
 robot 68:
 - By bugpesto.
