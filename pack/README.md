@@ -4,12 +4,12 @@ After over 5 months of work, we present a complete design revamp of every icon i
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (159 icons, 4 of those being collabs) + 21 collabsBluesky
+- RetroAdvance64       (165 icons, 4 of those being collabs) + 21 collabsBluesky
 	- Geometry Dash
 	- Twitter
 	- YouTube
 	- TikTok
-- ML500                (121 icons, 8 of those being collabs) + 12 collabsTwitter
+- ML500                (116 icons, 8 of those being collabs) + 12 collabsTwitter
 	- Geometry Dash
 	- Bluesky
 	- Newgrounds
@@ -30,13 +30,13 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - JigglypuffGD         (85 icons, 14 of those being collabs) + 2 collabsGeometry Dash
 	- YouTube
 	- Twitter
-- Aleiz21              (73 icons, 8 of those being collabs) + 4 collabsGeometry Dash
+- Aleiz21              (72 icons, 8 of those being collabs) + 4 collabsGeometry Dash
 	- YouTube
 	- Twitter
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabsYouTube
 	- Geometry Dash
 	- Bluesky
-- Sharkcrome           (56 icons, 3 of those being collabs) + 7 collabsGeometry Dash
+- Sharkcrome           (59 icons, 3 of those being collabs) + 7 collabsGeometry Dash
 	- Twitter
 	- Newgrounds
 	- Twitch
@@ -46,16 +46,16 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- Website
 	- GitHub
 	- YouTube
-- AlexisDrawz          (41 icons, 11 of those being collabs) + 15 collabsGeometry Dash
+- AlexisDrawz          (43 icons, 11 of those being collabs) + 15 collabsGeometry Dash
 - AsRenCL              (38 icons, 14 of those being collabs) + 8 collabsYouTube
 	- Geometry Dash
 - CraZyboy6484         (33 icons) + 1 collabGeometry Dash
 	- Newgrounds
 - Dibbj                (26 icons, 2 of those being collabs) + 6 collabsGeometry Dash
 	- Bluesky
-- Sorao                (24 icons, 4 of those being collabs) + 3 collabsGeometry Dash
+- Sorao                (23 icons, 4 of those being collabs) + 3 collabsGeometry Dash
 - AngelozDD            (19 icons, 3 of those being collabs) + 8 collabsGeometry Dash
-- AlexanderX1ta        (19 icons, 2 of those being collabs) + 2 collabsYouTube
+- AlexanderX1ta        (20 icons, 2 of those being collabs) + 2 collabsYouTube
 	- Geometry Dash
 - Luar77               (16 icons, 4 of those being collabs) + 1 collabGeometry Dash
 	- YouTube
@@ -214,8 +214,7 @@ cube 36:
 - By NHJ.
 
 cube 37:
-- By ML500.
-- Death_marked.
+- By RetroAdvance64.
 
 cube 38:
 - By CraZyboy6484.
@@ -618,8 +617,7 @@ cube 155:
 - By AlexisDrawz.
 
 cube 156:
-- By ML500.
-- Death_marked.
+- By AlexisDrawz.
 
 cube 157:
 - By RetroAdvance64.
@@ -1325,6 +1323,9 @@ cube 362:
 cube 363:
 - By AlexisDrawz.
 
+cube 364:
+- By Drian114.
+
 cube 365:
 - By RetroAdvance64.
 
@@ -1671,8 +1672,7 @@ cube 462:
 - By RetroAdvance64.
 
 cube 463:
-- By ML500.
-- Death_marked.
+- By AlexisDrawz.
 
 cube 464:
 - By CraZyboy6484.
@@ -2517,8 +2517,7 @@ ball 54:
 - By AlexisDrawz.
 
 ball 55:
-- By ML500.
-- Death_marked.
+- By AlexanderX1ta.
 
 ball 56:
 - By AlexanderX1ta.
@@ -2832,6 +2831,10 @@ ufo 28:
 ufo 29:
 - By RetroAdvance64.
 
+ufo 30:
+- By Sharkcrome.
+- Some details are too small in-game .. minor retouching needed [fixme].
+
 ufo 31:
 - By cyanflower.
 - A redesign of the UFO that keeps the original’s elements as faithfully as possible.
@@ -2915,7 +2918,7 @@ ufo 54:
 - By NHJ.
 
 ufo 55:
-- By Aleiz21.
+- By RetroAdvance64.
 
 ufo 56:
 - By cyanflower.
@@ -3062,6 +3065,9 @@ ufo 96:
 - By bugpesto.
 - References the prominently present symbol in "Deltarune" by Toby Fox.
 
+ufo 97:
+- By RetroAdvance64.
+
 ufo 98:
 - By Dibbj.
 - Reshaped with a sharper and more menacing look.
@@ -3109,6 +3115,9 @@ ufo 111:
 ufo 112:
 - By Aleiz21.
 
+ufo 113:
+- By Sharkcrome.
+
 ufo 114:
 - By Dibbj.
 
@@ -3133,6 +3142,9 @@ ufo 119:
 
 ufo 120:
 - By Aleiz21.
+
+ufo 121:
+- By RetroAdvance64.
 
 ufo 122:
 - By CraZyboy6484.
@@ -3239,8 +3251,7 @@ wave 4:
 - (Collab w/ RetroAdvance64) Made specifically to match the first three waves from this project.
 
 wave 5:
-- By ML500.
-- Death_marked.
+- By Sharkcrome.
 
 wave 6:
 - By cyanflower.
@@ -3284,7 +3295,7 @@ wave 17:
 
 wave 18:
 - By Sharkcrome.
-- The wave now resembles Cube 4.
+- Details fix .. [fixme].
 
 wave 19:
 - By Drian114.
@@ -3371,7 +3382,7 @@ wave 44:
 
 wave 45:
 - By AsRenCL.
-- Fixme inconsistent pixels, I said I would handle it - Luar77.
+- Death_marked.
 
 wave 46:
 - By ML500.
@@ -3512,7 +3523,7 @@ wave 85:
 
 wave 86:
 - By Sharkcrome.
-- Refrence to "Calamitas", a Final Boss from Terraria Calamity mod.
+- Size decrease .. [fixme].
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_86(1).png)
 
 wave 87:
@@ -4096,8 +4107,8 @@ swing 20:
 - By AlexisDrawz.
 
 swing 21:
-- By Sorao.
-- Fixme.
+- By RetroAdvance64.
+- Like the original Icon, references a "Poe", a recurring enemy in TLoZ. The 'Remix' version uses the "Echoes of Wisdom" model as reference.
 
 swing 22:
 - By RetroAdvance64.
