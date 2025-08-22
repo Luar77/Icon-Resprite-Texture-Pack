@@ -11,41 +11,41 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{124,120}</string>
+				<string>{126,122}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{141,0},{124,120}}</string>
+				<string>{{0,129},{126,122}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>player_463_2_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,4}</string>
+				<string>{0,0.5}</string>
 				<key>spriteSize</key>
-				<string>{102,90}</string>
+				<string>{116,113}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,179},{102,90}}</string>
+				<string>{{137,0},{116,113}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>player_463_extra_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-7.5}</string>
+				<string>{0,27}</string>
 				<key>spriteSize</key>
-				<string>{132,49}</string>
+				<string>{42,36}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,129},{132,49}}</string>
+				<string>{{137,117},{42,36}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{140,128}</string>
+				<string>{136,128}</string>
 				<key>spriteSourceSize</key>
 				<string>{180,180}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{140,128}}</string>
+				<string>{{0,0},{136,128}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_463-uhd.png</string>
 			<key>size</key>
-			<string>{261,269}</string>
+			<string>{250,251}</string>
 			<key>textureFileName</key>
 			<string>icons/player_463-uhd.png</string>
 		</dict>
