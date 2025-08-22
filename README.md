@@ -12,12 +12,12 @@ Apparently some people were really insisting on helping with the development cos
 - JigglypuffGD ($20 donation)
 
 ## Contributors
-- RetroAdvance64       (159 icons, 4 of those being collabs) + 21 collabsBluesky
+- RetroAdvance64       (165 icons, 4 of those being collabs) + 21 collabsBluesky
 	- Geometry Dash
 	- Twitter
 	- YouTube
 	- TikTok
-- ML500                (121 icons, 8 of those being collabs) + 12 collabsTwitter
+- ML500                (116 icons, 8 of those being collabs) + 12 collabsTwitter
 	- Geometry Dash
 	- Bluesky
 	- Newgrounds
@@ -38,13 +38,13 @@ Apparently some people were really insisting on helping with the development cos
 - JigglypuffGD         (85 icons, 14 of those being collabs) + 2 collabsGeometry Dash
 	- YouTube
 	- Twitter
-- Aleiz21              (73 icons, 8 of those being collabs) + 4 collabsGeometry Dash
+- Aleiz21              (72 icons, 8 of those being collabs) + 4 collabsGeometry Dash
 	- YouTube
 	- Twitter
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabsYouTube
 	- Geometry Dash
 	- Bluesky
-- Sharkcrome           (56 icons, 3 of those being collabs) + 7 collabsGeometry Dash
+- Sharkcrome           (59 icons, 3 of those being collabs) + 7 collabsGeometry Dash
 	- Twitter
 	- Newgrounds
 	- Twitch
@@ -54,16 +54,16 @@ Apparently some people were really insisting on helping with the development cos
 	- Website
 	- GitHub
 	- YouTube
-- AlexisDrawz          (41 icons, 11 of those being collabs) + 15 collabsGeometry Dash
+- AlexisDrawz          (43 icons, 11 of those being collabs) + 15 collabsGeometry Dash
 - AsRenCL              (38 icons, 14 of those being collabs) + 8 collabsYouTube
 	- Geometry Dash
 - CraZyboy6484         (33 icons) + 1 collabGeometry Dash
 	- Newgrounds
 - Dibbj                (26 icons, 2 of those being collabs) + 6 collabsGeometry Dash
 	- Bluesky
-- Sorao                (24 icons, 4 of those being collabs) + 3 collabsGeometry Dash
+- Sorao                (23 icons, 4 of those being collabs) + 3 collabsGeometry Dash
 - AngelozDD            (19 icons, 3 of those being collabs) + 8 collabsGeometry Dash
-- AlexanderX1ta        (19 icons, 2 of those being collabs) + 2 collabsYouTube
+- AlexanderX1ta        (20 icons, 2 of those being collabs) + 2 collabsYouTube
 	- Geometry Dash
 - Luar77               (16 icons, 4 of those being collabs) + 1 collabGeometry Dash
 	- YouTube
