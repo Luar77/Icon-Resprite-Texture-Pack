@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-14.5}</string>
+				<string>{-0.5,-15}</string>
 				<key>spriteSize</key>
-				<string>{155,76}</string>
+				<string>{154,82}</string>
 				<key>spriteSourceSize</key>
-				<string>{163,85}</string>
+				<string>{163,90}</string>
 				<key>textureRect</key>
-				<string>{{0,86},{155,76}}</string>
+				<string>{{0,91},{154,82}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,28 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-11,-14.5}</string>
+				<string>{-1,-15}</string>
 				<key>spriteSize</key>
-				<string>{113,68}</string>
+				<string>{145,72}</string>
 				<key>spriteSourceSize</key>
-				<string>{163,85}</string>
+				<string>{163,90}</string>
 				<key>textureRect</key>
-				<string>{{0,163},{113,68}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
-			<key>ship_84_extra_001.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{13,-14.5}</string>
-				<key>spriteSize</key>
-				<string>{33,6}</string>
-				<key>spriteSourceSize</key>
-				<string>{163,85}</string>
-				<key>textureRect</key>
-				<string>{{156,86},{33,6}}</string>
+				<string>{{164,0},{145,72}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -56,11 +41,11 @@
 				<key>spriteOffset</key>
 				<string>{0,-15}</string>
 				<key>spriteSize</key>
-				<string>{163,85}</string>
+				<string>{163,90}</string>
 				<key>spriteSourceSize</key>
-				<string>{163,85}</string>
+				<string>{163,90}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{163,85}}</string>
+				<string>{{0,0},{163,90}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +61,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/ship_84-uhd.png</string>
 			<key>size</key>
-			<string>{163,231}</string>
+			<string>{236,173}</string>
 			<key>textureFileName</key>
 			<string>icons/ship_84-uhd.png</string>
 		</dict>
