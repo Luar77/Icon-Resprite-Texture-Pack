@@ -9,7 +9,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-0.5}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{72,60}</string>
 			<key>spriteSourceSize</key>
@@ -24,7 +24,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-0.5}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{70,58}</string>
 			<key>spriteSourceSize</key>
@@ -39,22 +39,22 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,17.2}</string>
+			<string>{0,12}</string>
 			<key>spriteSize</key>
-			<string>{54,20}</string>
+			<string>{43,8}</string>
 			<key>spriteSourceSize</key>
 			<string>{76,64}</string>
 			<key>textureRect</key>
-			<string>{{190,2},{54,20}}</string>
+			<string>{{2,80},{43,8}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>player_61_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-0.5}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{76,64}</string>
 			<key>spriteSourceSize</key>
