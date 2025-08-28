@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{6,0}</string>
+				<string>{3.5,0.5}</string>
 				<key>spriteSize</key>
-				<string>{186,88}</string>
+				<string>{165,93}</string>
 				<key>spriteSourceSize</key>
 				<string>{250,200}</string>
 				<key>textureRect</key>
-				<string>{{0,94},{186,88}}</string>
+				<string>{{0,98},{165,93}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,13 +24,28 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{15,5}</string>
+				<string>{3.5,7}</string>
 				<key>spriteSize</key>
-				<string>{132,73}</string>
+				<string>{157,72}</string>
 				<key>spriteSourceSize</key>
 				<string>{250,200}</string>
 				<key>textureRect</key>
-				<string>{{0,183},{132,73}}</string>
+				<string>{{170,0},{157,72}}</string>
+				<key>textureRotated</key>
+				<true/>
+			</dict>
+			<key>ship_23_extra_001.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{5,5.5}</string>
+				<key>spriteSize</key>
+				<string>{146,75}</string>
+				<key>spriteSourceSize</key>
+				<string>{250,200}</string>
+				<key>textureRect</key>
+				<string>{{0,192},{146,75}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -39,13 +54,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{6,0}</string>
+				<string>{3.5,0.5}</string>
 				<key>spriteSize</key>
-				<string>{192,93}</string>
+				<string>{169,97}</string>
 				<key>spriteSourceSize</key>
 				<string>{250,200}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{192,93}}</string>
+				<string>{{0,0},{169,97}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -61,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/ship_23-uhd.png</string>
 			<key>size</key>
-			<string>{192,256}</string>
+			<string>{242,267}</string>
 			<key>textureFileName</key>
 			<string>icons/ship_23-uhd.png</string>
 		</dict>
