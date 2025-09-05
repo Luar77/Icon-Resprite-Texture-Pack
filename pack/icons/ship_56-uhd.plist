@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{7,14.5}</string>
 				<key>spriteSize</key>
-				<string>{167,85}</string>
+				<string>{142,117}</string>
 				<key>spriteSourceSize</key>
-				<string>{167,85}</string>
+				<string>{250,200}</string>
 				<key>textureRect</key>
-				<string>{{0,94},{167,85}}</string>
+				<string>{{0,123},{142,117}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{7.5,14.5}</string>
 				<key>spriteSize</key>
-				<string>{163,78}</string>
+				<string>{129,107}</string>
 				<key>spriteSourceSize</key>
-				<string>{163,78}</string>
+				<string>{250,200}</string>
 				<key>textureRect</key>
-				<string>{{174,0},{163,78}}</string>
+				<string>{{149,0},{129,107}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{30,0}</string>
+				<string>{25,-3}</string>
 				<key>spriteSize</key>
-				<string>{61,83}</string>
+				<string>{78,70}</string>
 				<key>spriteSourceSize</key>
-				<string>{61,83}</string>
+				<string>{250,200}</string>
 				<key>textureRect</key>
-				<string>{{0,180},{61,83}}</string>
+				<string>{{143,130},{78,70}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -54,13 +54,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{7,15}</string>
 				<key>spriteSize</key>
-				<string>{173,93}</string>
+				<string>{148,122}</string>
 				<key>spriteSourceSize</key>
-				<string>{173,93}</string>
+				<string>{250,200}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{173,93}}</string>
+				<string>{{0,0},{148,122}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/ship_56-uhd.png</string>
 			<key>size</key>
-			<string>{252,241}</string>
+			<string>{256,240}</string>
 			<key>textureFileName</key>
 			<string>icons/ship_56-uhd.png</string>
 		</dict>
