@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-1,-0.25}</string>
 			<key>spriteSize</key>
-			<string>{45,38}</string>
+			<string>{51,44}</string>
 			<key>spriteSourceSize</key>
-			<string>{49,42}</string>
+			<string>{56,49}</string>
 			<key>textureRect</key>
-			<string>{{46,2},{45,38}}</string>
+			<string>{{53,2},{51,44}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -24,28 +24,43 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-1.25,-0.5}</string>
 			<key>spriteSize</key>
-			<string>{38,24}</string>
+			<string>{31,25}</string>
 			<key>spriteSourceSize</key>
-			<string>{49,42}</string>
+			<string>{56,49}</string>
 			<key>textureRect</key>
-			<string>{{86,2},{38,24}}</string>
+			<string>{{99,2},{31,25}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
+		</dict>
+		<key>dart_63_extra_001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{-2.25,-0.25}</string>
+			<key>spriteSize</key>
+			<string>{27,23}</string>
+			<key>spriteSourceSize</key>
+			<string>{56,49}</string>
+			<key>textureRect</key>
+			<string>{{99,35},{27,23}}</string>
+			<key>textureRotated</key>
+			<true/>
 		</dict>
 		<key>dart_63_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{-0.75,-0.25}</string>
 			<key>spriteSize</key>
-			<string>{49,42}</string>
+			<string>{56,49}</string>
 			<key>spriteSourceSize</key>
-			<string>{49,42}</string>
+			<string>{56,49}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{49,42}}</string>
+			<string>{{2,2},{56,49}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -61,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/dart_63-hd.png</string>
 		<key>size</key>
-		<string>{128,64}</string>
+		<string>{128,128}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
