@@ -23,14 +23,14 @@ Apparently some people were really insisting on helping with the development cos
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 	- [MasterL500](https://github.com/MasterL500) on GitHub
-- bugpesto             (85 icons, 5 of those being collabs) + 1 collab
-	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
-	- [@bugpesto](https://twitter.com/bugpesto) on Twitter
-	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- Drian114             (84 icons, 10 of those being collabs) + 5 collabs
+- Drian114             (85 icons, 10 of those being collabs) + 5 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
+- bugpesto             (84 icons, 5 of those being collabs) + 1 collab
+	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
+	- [@bugpesto](https://twitter.com/bugpesto) on Twitter
+	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
 - NHJ                  (81 icons, 2 of those being collabs) + 3 collabs
 	- [@itsNHJ](https://www.youtube.com/@itsNHJ) on YouTube
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
@@ -55,7 +55,7 @@ Apparently some people were really insisting on helping with the development cos
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- AsRenCL              (37 icons, 15 of those being collabs) + 9 collabs
+- AsRenCL              (36 icons, 15 of those being collabs) + 9 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - CraZyboy6484         (32 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
@@ -65,7 +65,7 @@ Apparently some people were really insisting on helping with the development cos
 - AngelozDD            (19 icons, 3 of those being collabs) + 9 collabs
 - AlexanderX1ta        (20 icons, 2 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
-- Luar77               (16 icons, 4 of those being collabs) + 1 collab
+- Luar77               (17 icons, 4 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
 	- [Luar77](https://github.com/Luar77) on GitHub
 - Exetric              (11 icons)
