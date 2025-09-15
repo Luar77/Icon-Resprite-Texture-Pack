@@ -2532,7 +2532,7 @@ ball 49:
 
 ball 50:
 - By aGold.
-- Fixme.
+- Death_marked.
 
 ball 51:
 - By AlexisDrawz.
@@ -3174,7 +3174,6 @@ ufo 118:
 
 ufo 119:
 - By bugpesto.
-- [death_marked].
 
 ufo 120:
 - By Aleiz21.
@@ -3335,10 +3334,6 @@ wave 16:
 
 wave 17:
 - By Sharkcrome.
-
-wave 18:
-- By Sharkcrome.
-- [fixme].
 
 wave 19:
 - By Drian114.
