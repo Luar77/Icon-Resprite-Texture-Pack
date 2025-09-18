@@ -9,13 +9,13 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 	- [@retroadvance64](https://www.tiktok.com/@retroadvance64) on TikTok
-- ML500                (117 icons, 8 of those being collabs) + 12 collabs
+- ML500                (116 icons, 8 of those being collabs) + 12 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 	- [MasterL500](https://github.com/MasterL500) on GitHub
-- Drian114             (85 icons, 10 of those being collabs) + 5 collabs
+- Drian114             (86 icons, 10 of those being collabs) + 5 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
@@ -1355,8 +1355,7 @@ cube 368:
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_368(1).png)
 
 cube 369:
-- By ML500.
-- Someone could possibly pull a better concept for this [death_marked].
+- By Drian114.
 
 cube 370:
 - By JigglypuffGD.
@@ -1890,7 +1889,6 @@ ship 35:
 
 ship 36:
 - By Dibbj.
-- Death_marked.
 
 ship 37:
 - By Dibbj.
@@ -3335,6 +3333,9 @@ wave 16:
 wave 17:
 - By Sharkcrome.
 
+wave 18:
+- By Sharkcrome.
+
 wave 19:
 - By Drian114.
 - Direct reference to the monster (A.K.A Big Beast) introduced in update 2.0.
@@ -3917,6 +3918,9 @@ spider 23:
 
 spider 24:
 - By aGold.
+
+spider 25:
+- By JigglypuffGD.
 
 spider 26:
 - By NHJ.
