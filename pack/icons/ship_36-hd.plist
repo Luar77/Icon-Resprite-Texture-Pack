@@ -9,58 +9,43 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-5}</string>
+			<string>{2.5,-4.5}</string>
 			<key>spriteSize</key>
-			<string>{80,34}</string>
+			<string>{85,45}</string>
 			<key>spriteSourceSize</key>
-			<string>{84,38}</string>
+			<string>{89,49}</string>
 			<key>textureRect</key>
-			<string>{{42,2},{80,34}}</string>
+			<string>{{53,2},{85,45}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>ship_36_2_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{2.5,-3}</string>
+			<string>{2.5,-0.5}</string>
 			<key>spriteSize</key>
-			<string>{65,29}</string>
+			<string>{83,36}</string>
 			<key>spriteSourceSize</key>
-			<string>{84,38}</string>
+			<string>{89,49}</string>
 			<key>textureRect</key>
-			<string>{{76,38},{65,29}}</string>
+			<string>{{100,2},{83,36}}</string>
 			<key>textureRotated</key>
 			<true/>
-		</dict>
-		<key>ship_36_extra_001.png</key>
-		<dict>
-			<key>aliases</key>
-			<array/>
-			<key>spriteOffset</key>
-			<string>{-2.5,-7}</string>
-			<key>spriteSize</key>
-			<string>{72,29}</string>
-			<key>spriteSourceSize</key>
-			<string>{84,38}</string>
-			<key>textureRect</key>
-			<string>{{2,88},{72,29}}</string>
-			<key>textureRotated</key>
-			<false/>
 		</dict>
 		<key>ship_36_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-5}</string>
+			<string>{2.5,-4.5}</string>
 			<key>spriteSize</key>
-			<string>{84,38}</string>
+			<string>{89,49}</string>
 			<key>spriteSourceSize</key>
-			<string>{84,38}</string>
+			<string>{89,49}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{84,38}}</string>
+			<string>{{2,2},{89,49}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -76,7 +61,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/ship_36-hd.png</string>
 		<key>size</key>
-		<string>{128,128}</string>
+		<string>{256,128}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
