@@ -12,7 +12,7 @@ Apparently some people were really insisting on helping with the development cos
 - JigglypuffGD ($20 donation)
 
 ## Contributors
-- RetroAdvance64       (167 icons, 6 of those being collabs) + 21 collabs
+- RetroAdvance64       (168 icons, 6 of those being collabs) + 21 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
@@ -41,7 +41,7 @@ Apparently some people were really insisting on helping with the development cos
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Aleiz21              (71 icons, 8 of those being collabs) + 4 collabs
+- Aleiz21              (70 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - Sharkcrome           (60 icons, 3 of those being collabs) + 7 collabs
