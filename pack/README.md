@@ -4,7 +4,7 @@ After over 6 months of work between 34 people, we present a complete design reva
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (167 icons, 6 of those being collabs) + 21 collabs
+- RetroAdvance64       (168 icons, 6 of those being collabs) + 21 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
@@ -33,7 +33,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Aleiz21              (71 icons, 8 of those being collabs) + 4 collabs
+- Aleiz21              (70 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - Sharkcrome           (60 icons, 3 of those being collabs) + 7 collabs
@@ -709,7 +709,6 @@ cube 179:
 
 cube 180:
 - By RetroAdvance64.
-- Death_marked.
 
 cube 181:
 - By KetsuTT.
@@ -763,7 +762,6 @@ cube 194:
 
 cube 195:
 - By RetroAdvance64.
-- Death_marked.
 
 cube 196:
 - By RetroAdvance64.
@@ -1898,7 +1896,7 @@ ship 38:
 - Collaboration with Sharkcrome.
 
 ship 39:
-- By Aleiz21.
+- By RetroAdvance64.
 
 ship 40:
 - By Aleiz21.
@@ -2695,7 +2693,6 @@ ball 96:
 
 ball 97:
 - By bugpesto.
-- [death_marked].
 
 ball 98:
 - By cyanflower.
