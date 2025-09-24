@@ -4,7 +4,7 @@ After over 6 months of work between 34 people, we present a complete design reva
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
 ## Contributors
-- RetroAdvance64       (168 icons, 6 of those being collabs) + 21 collabs
+- RetroAdvance64       (170 icons, 6 of those being collabs) + 21 collabs
 	- [@RetroAdvance64](https://www.youtube.com/@RetroAdvance64) on YouTube
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
@@ -15,7 +15,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 	- [MasterL500](https://github.com/MasterL500) on GitHub
-- Drian114             (86 icons, 10 of those being collabs) + 5 collabs
+- Drian114             (86 icons, 10 of those being collabs) + 6 collabs
 	- [@drianfler114](https://www.youtube.com/@drianfler114) on YouTube
 	- [@Drian_114](https://twitter.com/Drian_114) on Twitter
 	- [@drian-114.bsky.social](https://bsky.app/profile/drian-114.bsky.social) on Bluesky
@@ -33,25 +33,25 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Aleiz21              (70 icons, 8 of those being collabs) + 4 collabs
+- Aleiz21              (69 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- Sharkcrome           (60 icons, 3 of those being collabs) + 7 collabs
+- Sharkcrome           (60 icons, 2 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- KevgenGD             (51 icons, 3 of those being collabs)
+- KevgenGD             (51 icons, 4 of those being collabs)
 	- [@KevgenGD](https://twitter.com/KevgenGD) on Twitter
-- AlexisDrawz          (46 icons, 13 of those being collabs) + 17 collabs
+- AlexisDrawz          (47 icons, 14 of those being collabs) + 17 collabs
 	- [@Alexis_Drawerz](https://twitter.com/Alexis_Drawerz) on Twitter
-- aGold                (50 icons, 8 of those being collabs)
+- aGold                (49 icons, 8 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- AsRenCL              (36 icons, 15 of those being collabs) + 9 collabs
+- AsRenCL              (36 icons, 14 of those being collabs) + 9 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
-- CraZyboy6484         (32 icons) + 1 collab
+- CraZyboy6484         (31 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Dibbj                (27 icons, 2 of those being collabs) + 7 collabs
+- Dibbj                (27 icons, 3 of those being collabs) + 7 collabs
 	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - Sorao                (24 icons, 5 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 9 collabs
@@ -68,10 +68,10 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - J3anC4rlo            (8 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- electrictaco          + 14 collabs
-	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
 - KetsuTT              (9 icons, 6 of those being collabs) + 1 collab
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
+- electrictaco          + 12 collabs
+	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
 - Hydr4ze              (6 icons)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
@@ -340,6 +340,7 @@ cube 70:
 
 cube 71:
 - By NHJ.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/cube_71(1).png)
 
 cube 72:
 - By AngelozDD.
@@ -504,6 +505,7 @@ cube 119:
 
 cube 120:
 - By KevgenGD.
+- Collab w. sharkcrome.
 
 cube 121:
 - By RetroAdvance64.
@@ -1035,7 +1037,7 @@ cube 276:
 - By RetroAdvance64.
 
 cube 277:
-- By CraZyboy6484.
+- By RetroAdvance64.
 
 cube 278:
 - By JigglypuffGD.
@@ -2527,8 +2529,8 @@ ball 49:
 - By ML500.
 
 ball 50:
-- By aGold.
-- Death_marked.
+- By AlexisDrawz.
+- In Collab W. Drian114.
 
 ball 51:
 - By AlexisDrawz.
@@ -3144,7 +3146,7 @@ ufo 111:
 - By Drian114.
 
 ufo 112:
-- By Aleiz21.
+- By RetroAdvance64.
 
 ufo 113:
 - By Sharkcrome.
