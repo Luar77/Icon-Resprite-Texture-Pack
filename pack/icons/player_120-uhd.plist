@@ -4,21 +4,6 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>player_120_2_001.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,0}</string>
-				<key>spriteSize</key>
-				<string>{114,114}</string>
-				<key>spriteSourceSize</key>
-				<string>{114,114}</string>
-				<key>textureRect</key>
-				<string>{{0,129},{114,114}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
 			<key>player_120_001.png</key>
 			<dict>
 				<key>aliases</key>
@@ -34,18 +19,33 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
+			<key>player_120_2_001.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{0,0}</string>
+				<key>spriteSize</key>
+				<string>{112,112}</string>
+				<key>spriteSourceSize</key>
+				<string>{112,112}</string>
+				<key>textureRect</key>
+				<string>{{0,129},{112,112}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
 			<key>player_120_extra_001.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{5,5}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{97,98}</string>
+				<string>{71,40}</string>
 				<key>spriteSourceSize</key>
-				<string>{97,98}</string>
+				<string>{71,40}</string>
 				<key>textureRect</key>
-				<string>{{115,129},{97,98}}</string>
+				<string>{{129,121},{71,40}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,10 +76,9 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_120-uhd.png</string>
 			<key>size</key>
-			<string>{249,243}</string>
+			<string>{249,241}</string>
 			<key>textureFileName</key>
 			<string>icons/player_120-uhd.png</string>
-			#icon by Kevgen
 		</dict>
 	</dict>
 </plist>
