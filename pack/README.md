@@ -1,5 +1,5 @@
 # Project Remix Texture Pack (version 1.0.0-alpha)
-After over 6 months of work between 34 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
+After over 7 months of work between 34 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
 
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
@@ -665,6 +665,7 @@ cube 166:
 
 cube 167:
 - By bugpesto.
+- References Fofii's sona, a known community member and top 100 creator.
 
 cube 168:
 - By RetroAdvance64.
@@ -1573,7 +1574,7 @@ cube 429:
 
 cube 430:
 - By JigglypuffGD.
-- Based on the icon artists OC Riley, who has a similar mouth structure to the original cube.
+- Fixme.
 
 cube 431:
 - By ML500.
@@ -2565,6 +2566,7 @@ ball 59:
 ball 60:
 - By Drian114.
 - Based on the target aim symbol, commonly seen in shooter games.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ball_60(1).mp4)
 
 ball 61:
 - By Drian114.
@@ -2736,6 +2738,7 @@ ball 108:
 
 ball 109:
 - By JigglypuffGD.
+- Fixme.
 
 ball 110:
 - By Sharkcrome.
@@ -2761,6 +2764,7 @@ ball 116:
 
 ball 117:
 - By KevgenGD.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ball_117(1).mp4)
 
 ball 118:
 - By Hushroom.
