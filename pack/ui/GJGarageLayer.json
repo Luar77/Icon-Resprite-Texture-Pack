@@ -581,7 +581,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-0",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "167",
+                                                                                                                        "text": "170",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -655,7 +655,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-0",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "167",
+                                                                                                                        "text": "170",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -1251,7 +1251,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-1",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "167",
+                                                                                                                        "text": "997",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -1676,7 +1676,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-collab-n-2",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "15",
+                                                                                                                        "text": "16",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -3032,7 +3032,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-5",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "260",
+                                                                                                                        "text": "331",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -3748,7 +3748,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-7",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "71",
+                                                                                                                        "text": "69",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -3822,7 +3822,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-7",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "71",
+                                                                                                                        "text": "69",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -4180,7 +4180,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-collab-n-8",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "10",
+                                                                                                                        "text": "11",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -4217,7 +4217,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-8",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "106",
+                                                                                                                        "text": "127",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -4508,7 +4508,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-collab-n-9",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "3",
+                                                                                                                        "text": "4",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -4545,7 +4545,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-9",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "51",
+                                                                                                                        "text": "53",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -4799,7 +4799,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-10",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "46",
+                                                                                                                        "text": "47",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -4836,7 +4836,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-collab-n-10",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "30",
+                                                                                                                        "text": "31",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -4873,7 +4873,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-10",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "46",
+                                                                                                                        "text": "47",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -5261,7 +5261,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-11",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "50",
+                                                                                                                        "text": "49",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -5335,7 +5335,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-11",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "50",
+                                                                                                                        "text": "49",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -5626,7 +5626,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-collab-n-12",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "24",
+                                                                                                                        "text": "23",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -5917,7 +5917,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-13",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "32",
+                                                                                                                        "text": "31",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -5991,7 +5991,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-13",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "32",
+                                                                                                                        "text": "31",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -6282,7 +6282,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-collab-n-14",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "9",
+                                                                                                                        "text": "10",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -6319,7 +6319,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-14",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "27",
+                                                                                                                        "text": "414",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -7661,7 +7661,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-18",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "114",
+                                                                                                                        "text": "148",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -8839,7 +8839,7 @@
                                                                         "type": "CCMenuItemSpriteExtra",
                                                                         "id": "icon-button-22",
                                                                         "attributes": {
-                                                                            "sprite": "ui/contributor_icons/electrictaco.png",
+                                                                            "sprite": "ui/contributor_icons/ketsu.png",
                                                                             "position": {
                                                                                 "x": 218,
                                                                                 "y": 120
@@ -8853,7 +8853,7 @@
                                                                                             "type": "Popup",
                                                                                             "id": "credit-22-popup",
                                                                                             "attributes": {
-                                                                                                "title": "electrictaco",
+                                                                                                "title": "KetsuTT",
                                                                                                 "font": "bigFont.fnt",
                                                                                                 "sprite": "GJ_square04.png",
                                                                                                 "popup-size": {
@@ -8885,7 +8885,7 @@
                                                                                                                     "type": "CCMenuItemSpriteExtra",
                                                                                                                     "id": "profile-icon-button-22",
                                                                                                                     "attributes": {
-                                                                                                                        "sprite": "ui/contributor_icons/electrictaco.png",
+                                                                                                                        "sprite": "ui/contributor_icons/ketsu.png",
                                                                                                                         "scale": 1.4,
                                                                                                                         "base-scale": 1.4,
                                                                                                                         "position": {
@@ -8898,7 +8898,7 @@
                                                                                                                             "attributes": {
                                                                                                                                 "link": {
                                                                                                                                     "type": "profile",
-                                                                                                                                    "id": 20203939
+                                                                                                                                    "id": 24253463
                                                                                                                                 }
                                                                                                                             }
                                                                                                                         }
@@ -8922,7 +8922,7 @@
                                                                                                                 },
                                                                                                                 {
                                                                                                                     "type": "CCMenuItemSpriteExtra",
-                                                                                                                    "id": "link-22-YouTube",
+                                                                                                                    "id": "link-22-TikTok",
                                                                                                                     "attributes": {
                                                                                                                         "scale": 0.4,
                                                                                                                         "base-scale": 0.4,
@@ -8943,9 +8943,9 @@
                                                                                                                         "new": [
                                                                                                                             {
                                                                                                                                 "type": "CCLabelBMFont",
-                                                                                                                                "id": "username-22-YouTube",
+                                                                                                                                "id": "username-22-TikTok",
                                                                                                                                 "attributes": {
-                                                                                                                                    "text": "@electrictaco",
+                                                                                                                                    "text": "@_ketsutt",
                                                                                                                                     "scale": 2,
                                                                                                                                     "anchor-point": {
                                                                                                                                         "x": 0,
@@ -8964,9 +8964,9 @@
                                                                                                                             },
                                                                                                                             {
                                                                                                                                 "type": "CCSprite",
-                                                                                                                                "id": "logo-22-YouTube",
+                                                                                                                                "id": "logo-22-TikTok",
                                                                                                                                 "attributes": {
-                                                                                                                                    "sprite": "ui/logo_icons/youtube200x.png",
+                                                                                                                                    "sprite": "ui/logo_icons/tiktok200x.png",
                                                                                                                                     "anchor-point": {
                                                                                                                                         "x": 0,
                                                                                                                                         "y": 0.5
@@ -8982,7 +8982,7 @@
                                                                                                                     "event": {
                                                                                                                         "on-activate": {
                                                                                                                             "attributes": {
-                                                                                                                                "link": "https://www.youtube.com/@electrictaco"
+                                                                                                                                "link": "https://www.tiktok.com/@_ketsutt"
                                                                                                                             }
                                                                                                                         }
                                                                                                                     }
@@ -9033,7 +9033,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-22",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "0",
+                                                                                                                        "text": "9",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -9070,7 +9070,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-collab-n-22",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "14",
+                                                                                                                        "text": "7",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -9107,7 +9107,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-22",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "0",
+                                                                                                                        "text": "9",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -9154,20 +9154,20 @@
                                                                         "type": "CCLabelBMFont",
                                                                         "id": "nameplate-22",
                                                                         "attributes": {
-                                                                            "text": "electrictaco",
+                                                                            "text": "KetsuTT",
                                                                             "font": "goldFont.fnt",
                                                                             "position": {
                                                                                 "x": 218,
                                                                                 "y": 147
                                                                             },
-                                                                            "scale": 0.35
+                                                                            "scale": 0.45
                                                                         }
                                                                     },
                                                                     {
                                                                         "type": "CCMenuItemSpriteExtra",
                                                                         "id": "icon-button-23",
                                                                         "attributes": {
-                                                                            "sprite": "ui/contributor_icons/ketsu.png",
+                                                                            "sprite": "ui/contributor_icons/electrictaco.png",
                                                                             "position": {
                                                                                 "x": 288,
                                                                                 "y": 120
@@ -9181,7 +9181,7 @@
                                                                                             "type": "Popup",
                                                                                             "id": "credit-23-popup",
                                                                                             "attributes": {
-                                                                                                "title": "KetsuTT",
+                                                                                                "title": "electrictaco",
                                                                                                 "font": "bigFont.fnt",
                                                                                                 "sprite": "GJ_square04.png",
                                                                                                 "popup-size": {
@@ -9213,7 +9213,7 @@
                                                                                                                     "type": "CCMenuItemSpriteExtra",
                                                                                                                     "id": "profile-icon-button-23",
                                                                                                                     "attributes": {
-                                                                                                                        "sprite": "ui/contributor_icons/ketsu.png",
+                                                                                                                        "sprite": "ui/contributor_icons/electrictaco.png",
                                                                                                                         "scale": 1.4,
                                                                                                                         "base-scale": 1.4,
                                                                                                                         "position": {
@@ -9226,7 +9226,7 @@
                                                                                                                             "attributes": {
                                                                                                                                 "link": {
                                                                                                                                     "type": "profile",
-                                                                                                                                    "id": 24253463
+                                                                                                                                    "id": 20203939
                                                                                                                                 }
                                                                                                                             }
                                                                                                                         }
@@ -9250,7 +9250,7 @@
                                                                                                                 },
                                                                                                                 {
                                                                                                                     "type": "CCMenuItemSpriteExtra",
-                                                                                                                    "id": "link-23-TikTok",
+                                                                                                                    "id": "link-23-YouTube",
                                                                                                                     "attributes": {
                                                                                                                         "scale": 0.4,
                                                                                                                         "base-scale": 0.4,
@@ -9271,9 +9271,9 @@
                                                                                                                         "new": [
                                                                                                                             {
                                                                                                                                 "type": "CCLabelBMFont",
-                                                                                                                                "id": "username-23-TikTok",
+                                                                                                                                "id": "username-23-YouTube",
                                                                                                                                 "attributes": {
-                                                                                                                                    "text": "@_ketsutt",
+                                                                                                                                    "text": "@electrictaco",
                                                                                                                                     "scale": 2,
                                                                                                                                     "anchor-point": {
                                                                                                                                         "x": 0,
@@ -9292,9 +9292,9 @@
                                                                                                                             },
                                                                                                                             {
                                                                                                                                 "type": "CCSprite",
-                                                                                                                                "id": "logo-23-TikTok",
+                                                                                                                                "id": "logo-23-YouTube",
                                                                                                                                 "attributes": {
-                                                                                                                                    "sprite": "ui/logo_icons/tiktok200x.png",
+                                                                                                                                    "sprite": "ui/logo_icons/youtube200x.png",
                                                                                                                                     "anchor-point": {
                                                                                                                                         "x": 0,
                                                                                                                                         "y": 0.5
@@ -9310,7 +9310,7 @@
                                                                                                                     "event": {
                                                                                                                         "on-activate": {
                                                                                                                             "attributes": {
-                                                                                                                                "link": "https://www.tiktok.com/@_ketsutt"
+                                                                                                                                "link": "https://www.youtube.com/@electrictaco"
                                                                                                                             }
                                                                                                                         }
                                                                                                                     }
@@ -9361,7 +9361,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-23",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "9",
+                                                                                                                        "text": "0",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -9398,7 +9398,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-collab-n-23",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "7",
+                                                                                                                        "text": "12",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -9435,7 +9435,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-23",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "9",
+                                                                                                                        "text": "0",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -9482,13 +9482,13 @@
                                                                         "type": "CCLabelBMFont",
                                                                         "id": "nameplate-23",
                                                                         "attributes": {
-                                                                            "text": "KetsuTT",
+                                                                            "text": "electrictaco",
                                                                             "font": "goldFont.fnt",
                                                                             "position": {
                                                                                 "x": 288,
                                                                                 "y": 147
                                                                             },
-                                                                            "scale": 0.45
+                                                                            "scale": 0.35
                                                                         }
                                                                     },
                                                                     {
