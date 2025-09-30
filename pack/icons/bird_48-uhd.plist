@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-0.5,60}</string>
+				<string>{-1,56}</string>
 				<key>spriteSize</key>
 				<string>{122,77}</string>
 				<key>spriteSourceSize</key>
 				<string>{122,196}</string>
 				<key>textureRect</key>
-				<string>{{0,227},{122,77}}</string>
+				<string>{{1,227},{123,77}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
