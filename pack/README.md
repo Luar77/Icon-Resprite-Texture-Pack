@@ -2039,7 +2039,6 @@ ship 78:
 
 ship 79:
 - By bugpesto.
-- References a "Spine Coaster" from New Super Mario Bros. Wii [death_marked].
 
 ship 80:
 - By RetroAdvance64.
@@ -2764,6 +2763,7 @@ ball 116:
 
 ball 117:
 - By KevgenGD.
+- Special thanks to sharkcrome ;).
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ball_117(1).mp4)
 
 ball 118:
