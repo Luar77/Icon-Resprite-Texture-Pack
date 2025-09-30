@@ -4,6 +4,21 @@
 	<dict>
 		<key>frames</key>
 		<dict>
+			<key>player_ball_117_001.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{0,0}</string>
+				<key>spriteSize</key>
+				<string>{138,138}</string>
+				<key>spriteSourceSize</key>
+				<string>{170,170}</string>
+				<key>textureRect</key>
+				<string>{{147,0},{138,138}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
 			<key>player_ball_117_2_001.png</key>
 			<dict>
 				<key>aliases</key>
@@ -13,9 +28,9 @@
 				<key>spriteSize</key>
 				<string>{44,44}</string>
 				<key>spriteSourceSize</key>
-				<string>{44,44}</string>
+				<string>{170,170}</string>
 				<key>textureRect</key>
-				<string>{{0,148},{44,44}}</string>
+				<string>{{0,147},{44,44}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -26,26 +41,11 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{147,147}</string>
+				<string>{146,146}</string>
 				<key>spriteSourceSize</key>
-				<string>{147,147}</string>
+				<string>{170,170}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{147,147}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
-			<key>player_ball_117_001.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,0}</string>
-				<key>spriteSize</key>
-				<string>{139,139}</string>
-				<key>spriteSourceSize</key>
-				<string>{139,139}</string>
-				<key>textureRect</key>
-				<string>{{148,0},{139,139}}</string>
+				<string>{{0,0},{146,146}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -61,10 +61,9 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_ball_117-uhd.png</string>
 			<key>size</key>
-			<string>{287,192}</string>
+			<string>{285,191}</string>
 			<key>textureFileName</key>
 			<string>icons/player_ball_117-uhd.png</string>
-			#icon by Kevgen
 		</dict>
 	</dict>
 </plist>
