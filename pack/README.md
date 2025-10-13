@@ -12,7 +12,6 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - ML500                (116 icons, 8 of those being collabs) + 12 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
-	- [@ml500.bsky.social](https://bsky.app/profile/ml500.bsky.social) on Bluesky
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
 	- [MasterL500](https://github.com/MasterL500) on GitHub
 - Drian114             (86 icons, 10 of those being collabs) + 6 collabs
@@ -43,7 +42,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@KevgenGD](https://twitter.com/KevgenGD) on Twitter
 - AlexisDrawz          (47 icons, 14 of those being collabs) + 17 collabs
 	- [@Alexis_Drawerz](https://twitter.com/Alexis_Drawerz) on Twitter
-- aGold                (49 icons, 8 of those being collabs)
+- aGold                (48 icons, 8 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
@@ -52,7 +51,6 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - CraZyboy6484         (31 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
 - Dibbj                (27 icons, 3 of those being collabs) + 7 collabs
-	- [@lwtuseater](https://bsky.app/profile/lwtuseater) on Bluesky
 - Sorao                (24 icons, 5 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 9 collabs
 - AlexanderX1ta        (20 icons, 2 of those being collabs) + 2 collabs
@@ -68,7 +66,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - J3anC4rlo            (8 icons, 1 of those being collabs) + 1 collab
 	- [@J3anC4rlo](https://www.youtube.com/@J3anC4rlo) on YouTube
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
-- KetsuTT              (9 icons, 6 of those being collabs) + 1 collab
+- KetsuTT              (10 icons, 6 of those being collabs) + 1 collab
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
 - electrictaco          + 12 collabs
 	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
@@ -2876,7 +2874,7 @@ ufo 31:
 - A redesign of the UFO that keeps the original’s elements as faithfully as possible.
 
 ufo 32:
-- By aGold.
+- By KetsuTT.
 
 ufo 33:
 - By Aleiz21.
