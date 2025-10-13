@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-4,6}</string>
+			<string>{-3,2}</string>
 			<key>spriteSize</key>
-			<string>{147,137}</string>
+			<string>{154,142}</string>
 			<key>spriteSourceSize</key>
-			<string>{179,185}</string>
+			<string>{189,189}</string>
 			<key>textureRect</key>
-			<string>{{0,145},{147,137}}</string>
+			<string>{{0,153},{154,142}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-4,6}</string>
+			<string>{-3,2}</string>
 			<key>spriteSize</key>
-			<string>{139,129}</string>
+			<string>{150,138}</string>
 			<key>spriteSourceSize</key>
-			<string>{179,185}</string>
+			<string>{189,189}</string>
 			<key>textureRect</key>
-			<string>{{156,0},{139,129}}</string>
+			<string>{{165,0},{150,138}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -39,28 +39,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-1,29.5}</string>
+			<string>{4,8}</string>
 			<key>spriteSize</key>
-			<string>{133,82}</string>
+			<string>{82,107}</string>
 			<key>spriteSourceSize</key>
-			<string>{179,185}</string>
+			<string>{189,189}</string>
 			<key>textureRect</key>
-			<string>{{148,145},{133,82}}</string>
+			<string>{{165,151},{82,107}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>swing_18_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-4,6}</string>
+			<string>{-3,2}</string>
 			<key>spriteSize</key>
-			<string>{155,144}</string>
+			<string>{164,152}</string>
 			<key>spriteSourceSize</key>
-			<string>{179,185}</string>
+			<string>{189,189}</string>
 			<key>textureRect</key>
-			<string>{{0,0},{155,144}}</string>
+			<string>{{0,0},{164,152}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -76,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/swing_18-uhd.png</string>
 		<key>size</key>
-		<string>{285,282}</string>
+		<string>{303,295}</string>
 		<key>textureFileName</key>
 		<string>icons/swing_18-uhd.png</string>
 	</dict>
