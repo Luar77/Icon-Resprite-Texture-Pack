@@ -734,7 +734,7 @@
                                                                                                 "sprite": "GJ_square04.png",
                                                                                                 "popup-size": {
                                                                                                     "width": 336,
-                                                                                                    "height": 250
+                                                                                                    "height": 230
                                                                                                 },
                                                                                                 "show": true
                                                                                             },
@@ -747,7 +747,7 @@
                                                                                                             "ignore-anchor-pos": false,
                                                                                                             "content-size": {
                                                                                                                 "width": 336,
-                                                                                                                "height": 250
+                                                                                                                "height": 230
                                                                                                             },
                                                                                                             "position": {
                                                                                                                 "anchor": "center",
@@ -766,7 +766,7 @@
                                                                                                                         "base-scale": 1.4,
                                                                                                                         "position": {
                                                                                                                             "x": 281,
-                                                                                                                            "y": 185
+                                                                                                                            "y": 165
                                                                                                                         }
                                                                                                                     },
                                                                                                                     "event": {
@@ -812,7 +812,7 @@
                                                                                                                         },
                                                                                                                         "position": {
                                                                                                                             "x": 10,
-                                                                                                                            "y": 100
+                                                                                                                            "y": 80
                                                                                                                         }
                                                                                                                     },
                                                                                                                     "children": {
@@ -879,7 +879,7 @@
                                                                                                                         },
                                                                                                                         "position": {
                                                                                                                             "x": 10,
-                                                                                                                            "y": 80
+                                                                                                                            "y": 60
                                                                                                                         }
                                                                                                                     },
                                                                                                                     "children": {
@@ -926,73 +926,6 @@
                                                                                                                         "on-activate": {
                                                                                                                             "attributes": {
                                                                                                                                 "link": "https://twitter.com/masterl500"
-                                                                                                                            }
-                                                                                                                        }
-                                                                                                                    }
-                                                                                                                },
-                                                                                                                {
-                                                                                                                    "type": "CCMenuItemSpriteExtra",
-                                                                                                                    "id": "link-1-Bluesky",
-                                                                                                                    "attributes": {
-                                                                                                                        "scale": 0.4,
-                                                                                                                        "base-scale": 0.4,
-                                                                                                                        "content-size": {
-                                                                                                                            "width": 500,
-                                                                                                                            "height": 50
-                                                                                                                        },
-                                                                                                                        "anchor-point": {
-                                                                                                                            "x": 0,
-                                                                                                                            "y": 0.5
-                                                                                                                        },
-                                                                                                                        "position": {
-                                                                                                                            "x": 10,
-                                                                                                                            "y": 60
-                                                                                                                        }
-                                                                                                                    },
-                                                                                                                    "children": {
-                                                                                                                        "new": [
-                                                                                                                            {
-                                                                                                                                "type": "CCLabelBMFont",
-                                                                                                                                "id": "username-1-Bluesky",
-                                                                                                                                "attributes": {
-                                                                                                                                    "text": "@ml500.bsky.social",
-                                                                                                                                    "scale": 2,
-                                                                                                                                    "anchor-point": {
-                                                                                                                                        "x": 0,
-                                                                                                                                        "y": 0.5
-                                                                                                                                    },
-                                                                                                                                    "position": {
-                                                                                                                                        "x": 55,
-                                                                                                                                        "y": 25
-                                                                                                                                    },
-                                                                                                                                    "color": {
-                                                                                                                                        "r": 0,
-                                                                                                                                        "g": 195,
-                                                                                                                                        "b": 255
-                                                                                                                                    }
-                                                                                                                                }
-                                                                                                                            },
-                                                                                                                            {
-                                                                                                                                "type": "CCSprite",
-                                                                                                                                "id": "logo-1-Bluesky",
-                                                                                                                                "attributes": {
-                                                                                                                                    "sprite": "ui/logo_icons/bluesky200x.png",
-                                                                                                                                    "anchor-point": {
-                                                                                                                                        "x": 0,
-                                                                                                                                        "y": 0.5
-                                                                                                                                    },
-                                                                                                                                    "position": {
-                                                                                                                                        "x": 0,
-                                                                                                                                        "y": 25
-                                                                                                                                    }
-                                                                                                                                }
-                                                                                                                            }
-                                                                                                                        ]
-                                                                                                                    },
-                                                                                                                    "event": {
-                                                                                                                        "on-activate": {
-                                                                                                                            "attributes": {
-                                                                                                                                "link": "https://bsky.app/profile/ml500.bsky.social"
                                                                                                                             }
                                                                                                                         }
                                                                                                                     }
@@ -1146,7 +1079,7 @@
                                                                                                             "position": {
                                                                                                                 "anchor": "left",
                                                                                                                 "x": 118.0,
-                                                                                                                "y": 175
+                                                                                                                "y": 155
                                                                                                             },
                                                                                                             "color": {
                                                                                                                 "r": 0,
@@ -1251,7 +1184,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-1",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "994",
+                                                                                                                        "text": "992",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -1282,7 +1215,7 @@
                                                                                                             },
                                                                                                             "position": {
                                                                                                                 "x": 10,
-                                                                                                                "y": 120
+                                                                                                                "y": 100
                                                                                                             }
                                                                                                         }
                                                                                                     }
@@ -3032,7 +2965,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-5",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "330",
+                                                                                                                        "text": "329",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -4217,7 +4150,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-8",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "127",
+                                                                                                                        "text": "126",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -5261,7 +5194,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-11",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "49",
+                                                                                                                        "text": "48",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -5335,7 +5268,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-11",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "49",
+                                                                                                                        "text": "48",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -6070,7 +6003,7 @@
                                                                                                 "sprite": "GJ_square04.png",
                                                                                                 "popup-size": {
                                                                                                     "width": 336,
-                                                                                                    "height": 170
+                                                                                                    "height": 150
                                                                                                 },
                                                                                                 "show": true
                                                                                             },
@@ -6083,7 +6016,7 @@
                                                                                                             "ignore-anchor-pos": false,
                                                                                                             "content-size": {
                                                                                                                 "width": 336,
-                                                                                                                "height": 170
+                                                                                                                "height": 150
                                                                                                             },
                                                                                                             "position": {
                                                                                                                 "anchor": "center",
@@ -6102,7 +6035,7 @@
                                                                                                                         "base-scale": 1.4,
                                                                                                                         "position": {
                                                                                                                             "x": 281,
-                                                                                                                            "y": 105
+                                                                                                                            "y": 85
                                                                                                                         }
                                                                                                                     },
                                                                                                                     "event": {
@@ -6131,73 +6064,6 @@
                                                                                                                             }
                                                                                                                         ]
                                                                                                                     }
-                                                                                                                },
-                                                                                                                {
-                                                                                                                    "type": "CCMenuItemSpriteExtra",
-                                                                                                                    "id": "link-14-Bluesky",
-                                                                                                                    "attributes": {
-                                                                                                                        "scale": 0.4,
-                                                                                                                        "base-scale": 0.4,
-                                                                                                                        "content-size": {
-                                                                                                                            "width": 500,
-                                                                                                                            "height": 50
-                                                                                                                        },
-                                                                                                                        "anchor-point": {
-                                                                                                                            "x": 0,
-                                                                                                                            "y": 0.5
-                                                                                                                        },
-                                                                                                                        "position": {
-                                                                                                                            "x": 10,
-                                                                                                                            "y": 20
-                                                                                                                        }
-                                                                                                                    },
-                                                                                                                    "children": {
-                                                                                                                        "new": [
-                                                                                                                            {
-                                                                                                                                "type": "CCLabelBMFont",
-                                                                                                                                "id": "username-14-Bluesky",
-                                                                                                                                "attributes": {
-                                                                                                                                    "text": "@lwtuseater",
-                                                                                                                                    "scale": 2,
-                                                                                                                                    "anchor-point": {
-                                                                                                                                        "x": 0,
-                                                                                                                                        "y": 0.5
-                                                                                                                                    },
-                                                                                                                                    "position": {
-                                                                                                                                        "x": 55,
-                                                                                                                                        "y": 25
-                                                                                                                                    },
-                                                                                                                                    "color": {
-                                                                                                                                        "r": 0,
-                                                                                                                                        "g": 195,
-                                                                                                                                        "b": 255
-                                                                                                                                    }
-                                                                                                                                }
-                                                                                                                            },
-                                                                                                                            {
-                                                                                                                                "type": "CCSprite",
-                                                                                                                                "id": "logo-14-Bluesky",
-                                                                                                                                "attributes": {
-                                                                                                                                    "sprite": "ui/logo_icons/bluesky200x.png",
-                                                                                                                                    "anchor-point": {
-                                                                                                                                        "x": 0,
-                                                                                                                                        "y": 0.5
-                                                                                                                                    },
-                                                                                                                                    "position": {
-                                                                                                                                        "x": 0,
-                                                                                                                                        "y": 25
-                                                                                                                                    }
-                                                                                                                                }
-                                                                                                                            }
-                                                                                                                        ]
-                                                                                                                    },
-                                                                                                                    "event": {
-                                                                                                                        "on-activate": {
-                                                                                                                            "attributes": {
-                                                                                                                                "link": "https://bsky.app/profile/lwtuseater"
-                                                                                                                            }
-                                                                                                                        }
-                                                                                                                    }
                                                                                                                 }
                                                                                                             ]
                                                                                                         }
@@ -6214,7 +6080,7 @@
                                                                                                             "position": {
                                                                                                                 "anchor": "left",
                                                                                                                 "x": 118.0,
-                                                                                                                "y": 95
+                                                                                                                "y": 75
                                                                                                             },
                                                                                                             "color": {
                                                                                                                 "r": 0,
@@ -6319,7 +6185,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-14",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "468",
+                                                                                                                        "text": "1205",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -6343,14 +6209,14 @@
                                                                                                         "type": "CCLabelBMFont",
                                                                                                         "id": "title-14",
                                                                                                         "attributes": {
-                                                                                                            "text": "Links:",
+                                                                                                            "text": "No other links provided",
                                                                                                             "anchor-point": {
                                                                                                                 "x": 0,
                                                                                                                 "y": 0.5
                                                                                                             },
                                                                                                             "position": {
                                                                                                                 "x": 10,
-                                                                                                                "y": 40
+                                                                                                                "y": 20
                                                                                                             }
                                                                                                         }
                                                                                                     }
@@ -9033,7 +8899,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-22",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "9",
+                                                                                                                        "text": "10",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -9107,7 +8973,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-22",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "9",
+                                                                                                                        "text": "10",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
