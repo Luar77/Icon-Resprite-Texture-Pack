@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-1,1}</string>
+			<string>{0,1}</string>
 			<key>spriteSize</key>
-			<string>{133,129}</string>
+			<string>{122,127}</string>
 			<key>spriteSourceSize</key>
-			<string>{168,170}</string>
+			<string>{161,167}</string>
 			<key>textureRect</key>
-			<string>{{0,137},{133,129}}</string>
+			<string>{{133,0},{122,127}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -24,15 +24,30 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,1}</string>
+			<string>{0,38}</string>
 			<key>spriteSize</key>
-			<string>{128,124}</string>
+			<string>{118,48}</string>
 			<key>spriteSourceSize</key>
-			<string>{168,170}</string>
+			<string>{161,167}</string>
 			<key>textureRect</key>
-			<string>{{141,0},{128,124}}</string>
+			<string>{{0,138},{118,48}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
+		</dict>
+		<key>player_212_extra_001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0,24}</string>
+			<key>spriteSize</key>
+			<string>{60,9}</string>
+			<key>spriteSourceSize</key>
+			<string>{161,167}</string>
+			<key>textureRect</key>
+			<string>{{119,138},{60,9}}</string>
+			<key>textureRotated</key>
+			<false/>
 		</dict>
 		<key>player_212_glow_001.png</key>
 		<dict>
@@ -41,11 +56,11 @@
 			<key>spriteOffset</key>
 			<string>{0,1}</string>
 			<key>spriteSize</key>
-			<string>{140,136}</string>
+			<string>{132,137}</string>
 			<key>spriteSourceSize</key>
-			<string>{168,170}</string>
+			<string>{161,167}</string>
 			<key>textureRect</key>
-			<string>{{0,0},{140,136}}</string>
+			<string>{{0,0},{132,137}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -61,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/player_212-uhd.png</string>
 		<key>size</key>
-		<string>{265,266}</string>
+		<string>{255,186}</string>
 		<key>textureFileName</key>
 		<string>icons/player_212-uhd.png</string>
 	</dict>
