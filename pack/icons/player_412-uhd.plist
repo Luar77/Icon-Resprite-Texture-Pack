@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-4}</string>
 			<key>spriteSize</key>
-			<string>{128,134}</string>
+			<string>{126,131}</string>
 			<key>spriteSourceSize</key>
-			<string>{188,182}</string>
+			<string>{177,185}</string>
 			<key>textureRect</key>
-			<string>{{138,0},{128,134}}</string>
+			<string>{{139,0},{126,131}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-1}</string>
+			<string>{0,1}</string>
 			<key>spriteSize</key>
-			<string>{116,111}</string>
+			<string>{118,115}</string>
 			<key>spriteSourceSize</key>
-			<string>{188,182}</string>
+			<string>{177,185}</string>
 			<key>textureRect</key>
-			<string>{{0,143},{116,111}}</string>
+			<string>{{0,143},{118,115}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -39,13 +39,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,25}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{116,59}</string>
+			<string>{64,13}</string>
 			<key>spriteSourceSize</key>
-			<string>{188,182}</string>
+			<string>{177,185}</string>
 			<key>textureRect</key>
-			<string>{{138,135},{116,59}}</string>
+			<string>{{119,143},{64,13}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -54,13 +54,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-4.5}</string>
 			<key>spriteSize</key>
-			<string>{137,142}</string>
+			<string>{138,142}</string>
 			<key>spriteSourceSize</key>
-			<string>{188,182}</string>
+			<string>{177,185}</string>
 			<key>textureRect</key>
-			<string>{{0,0},{137,142}}</string>
+			<string>{{0,0},{138,142}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -76,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/player_412-uhd.png</string>
 		<key>size</key>
-		<string>{266,254}</string>
+		<string>{265,258}</string>
 		<key>textureFileName</key>
 		<string>icons/player_412-uhd.png</string>
 	</dict>
