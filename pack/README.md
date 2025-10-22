@@ -1572,7 +1572,7 @@ cube 429:
 
 cube 430:
 - By JigglypuffGD.
-- Fixme.
+- Based off of the icon maker's OC Riley.
 
 cube 431:
 - By ML500.
@@ -2735,7 +2735,6 @@ ball 108:
 
 ball 109:
 - By JigglypuffGD.
-- Fixme.
 
 ball 110:
 - By Sharkcrome.
@@ -2762,7 +2761,6 @@ ball 116:
 ball 117:
 - By KevgenGD.
 - Special thanks to sharkcrome ;).
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ball_117(1).mp4)
 
 ball 118:
 - By Hushroom.
