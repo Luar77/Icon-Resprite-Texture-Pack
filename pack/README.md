@@ -2352,7 +2352,6 @@ ship 165:
 
 ship 166:
 - By ML500.
-- Ported from Master Pack. Marked for death [death_marked].
 
 ship 167:
 - By ML500.
@@ -3318,7 +3317,6 @@ wave 13:
 
 wave 14:
 - By Exetric.
-- Death_marked.
 
 wave 15:
 - By Aleiz21.
