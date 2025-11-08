@@ -183,8 +183,8 @@ cube 25:
 
 cube 26:
 - By Sharkcrome.
-- Reference to Ben 10 Omnitrix 
-" It's Hero Time ! ".
+- Reference to Ben 10 Omnitrix .
+  " It's Hero Time ! ".
 
 cube 27:
 - By Sharkcrome.
@@ -226,8 +226,7 @@ cube 38:
 cube 39:
 - By JigglypuffGD.
 - Collab with ML500.
-
-YOUR TAKING TOO LONG.
+  YOUR TAKING TOO LONG.
 
 cube 40:
 - By Drian114.
@@ -878,9 +877,8 @@ cube 230:
 
 cube 231:
 - By JigglypuffGD.
-- Vague reference to the character "Tower" created by ScorchVX
-
-Collab with cyanflower.
+- Vague reference to the character "Tower" created by ScorchVX.
+  Collab with cyanflower.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1384920151148855418/image0.jpg?ex=68542ee6&is=6852dd66&hm=7402db141faf84c49d1ad797b1742b110701d066ac6ad65c54215e9f19214be8&=&format=webp&width=1138&height=930)
 
 cube 232:
@@ -947,9 +945,8 @@ cube 248:
 
 cube 249:
 - By JigglypuffGD.
-- A reference to a Wood Woad, a monster from D&D
-
-Collab with RetroAdvance64.
+- A reference to a Wood Woad, a monster from D&D.
+  Collab with RetroAdvance64.
 
 cube 250:
 - By AsRenCL.
@@ -1844,8 +1841,7 @@ ship 24:
 ship 25:
 - By JigglypuffGD.
 - Collab with Drian114.
-
-Ash our beloved.
+  Ash our beloved.
 
 ship 26:
 - By CraZyboy6484.
@@ -1923,8 +1919,7 @@ ship 46:
 ship 47:
 - By airiLmao.
 - Collab with NHJ...
-
-An updated rendition of the poriginal ship with a somewhat more cybernetic look to it. The ribs also have a slight stacked look to them creating more separation of the once one-dimensional feeling original icon.
+  An updated rendition of the poriginal ship with a somewhat more cybernetic look to it. The ribs also have a slight stacked look to them creating more separation of the once one-dimensional feeling original icon.
 
 ship 48:
 - By KevgenGD.
@@ -1942,7 +1937,6 @@ ship 51:
 
 ship 52:
 - By ML500.
-- Death_marked.
 
 ship 53:
 - By KevgenGD.
@@ -2227,7 +2221,6 @@ ship 131:
 
 ship 132:
 - By Dibbj.
-- Death_marked.
 
 ship 133:
 - By RetroAdvance64.
@@ -2332,12 +2325,9 @@ ship 160:
 
 ship 161:
 - By Dibbj.
-- Death_marked.
 
 ship 162:
 - By Sharkcrome.
-- Loosely based on the default car in Hill Climb Racing, which is a Jeep convertible 
-[ Slope Slide Dashing ].
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1391621424078258378/Hill_Climb_Racing_Logo_On_Play_Store.png?ex=686c8ff2&is=686b3e72&hm=4d08744d98d13321e1b07dde2728a96f3a57d602f609670962c661318cb1abe1&=&format=webp&quality=lossless&width=640&height=640)
 
 ship 163:
@@ -2586,11 +2576,11 @@ ball 67:
 
 ball 68:
 - By Sharkcrome.
-- /Just Shapes And Beats/
-Nitro Fun - New Game 
-00:54 =:- Bre Beb Beb Be Aa Aow!
-Bre Beb Beb Be Aa Aow!
-Aa Aow Ooo Eee ... ~HAAAAA!!~.
+- /Just Shapes And Beats/.
+  Nitro Fun - New Game .
+  00:54 =:- Bre Beb Beb Be Aa Aow!.
+  Bre Beb Beb Be Aa Aow!.
+  Aa Aow Ooo Eee ... ~HAAAAA!!~.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1380291414122037258/Untitled238_20250601191747.png?ex=6843580d&is=6842068d&hm=2082ab754d8726dae11362726283bac3962d574ea76d87de89078415dd1cf80e&=&format=webp&quality=lossless&width=930&height=930)
 
 ball 69:
@@ -2783,7 +2773,6 @@ ufo 6:
 
 ufo 7:
 - By RetroAdvance64.
-- Death_marked.
 
 ufo 8:
 - By cyanflower.
@@ -2969,9 +2958,8 @@ ufo 60:
 
 ufo 61:
 - By JigglypuffGD.
-- Loosely based on the torso armor of the Kreigstaffebots from Scooby Doo: Mystery Incorporated
-
-Chest plate design help from RetroAdvance64.
+- Loosely based on the torso armor of the Kreigstaffebots from Scooby Doo: Mystery Incorporated.
+  Chest plate design help from RetroAdvance64.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/ufo_61(1).png)
 
 ufo 62:
@@ -3202,7 +3190,7 @@ ufo 129:
 ufo 130:
 - By Luar77.
 - Collab with Dibbj.
-Reference to the UBE™ from the level "TopiaTopia" by Dibbj and Luar77. UFO Booster Extension (UBE for short) is the official name of the piece that gets attached to the player's ufo (the thing this icon references), that allows the player to perform a longer jump when charged.
+  Reference to the UBE™ from the level "TopiaTopia" by Dibbj and Luar77. UFO Booster Extension (UBE for short) is the official name of the piece that gets attached to the player's ufo (the thing this icon references), that allows the player to perform a longer jump when charged.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1385318707043242075/image.png?ex=6855a215&is=68545095&hm=20f80fd7a4f7ad7e048c3116eb75c4f382f9263816a11cffff1e3e8c957e85cb&=&format=webp&quality=lossless&width=523&height=394)
 
 ufo 131:
@@ -3800,8 +3788,7 @@ robot 57:
 robot 58:
 - By JigglypuffGD.
 - Loosely based off of K-VRC from the netflix show Love, Death & Robots.
-
-Collab with ElectricTaco.
+  Collab with ElectricTaco.
 
 robot 59:
 - By KetsuTT.
@@ -3823,7 +3810,6 @@ robot 63:
 
 robot 64:
 - By ML500.
-- Death_marked.
 
 robot 65:
 - By cyanflower.
@@ -3999,14 +3985,12 @@ spider 47:
 
 spider 48:
 - By Dibbj.
-- Death_marked.
 
 spider 49:
 - By Drian114.
 
 spider 50:
 - By JigglypuffGD.
-- Death_marked.
 
 spider 51:
 - By Aleiz21.
@@ -4044,9 +4028,8 @@ spider 59:
 
 spider 60:
 - By Drian114.
-- Reference to the boss seen in the level "Critical Hit"  from The Impossible Game 2. 
-
-(Design doesn't fully convince me, not sure if I'll change it or not).
+- Reference to the boss seen in the level "Critical Hit"  from The Impossible Game 2. .
+  (Design doesn't fully convince me, not sure if I'll change it or not).
 
 spider 61:
 - By AlexanderX1ta.
