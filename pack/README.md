@@ -2328,6 +2328,8 @@ ship 161:
 
 ship 162:
 - By Sharkcrome.
+- Loosely based on the default car in Hill Climb Racing, which is a Jeep convertible .
+  [ Slope Slide Dashing ].
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1391621424078258378/Hill_Climb_Racing_Logo_On_Play_Store.png?ex=686c8ff2&is=686b3e72&hm=4d08744d98d13321e1b07dde2728a96f3a57d602f609670962c661318cb1abe1&=&format=webp&quality=lossless&width=640&height=640)
 
 ship 163:
