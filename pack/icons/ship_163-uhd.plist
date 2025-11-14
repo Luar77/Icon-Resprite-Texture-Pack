@@ -15,7 +15,7 @@
 				<key>spriteSourceSize</key>
 				<string>{167,62}</string>
 				<key>textureRect</key>
-				<string>{{0,69},{167,62}}</string>
+				<string>{{0,71},{167,62}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -30,7 +30,7 @@
 				<key>spriteSourceSize</key>
 				<string>{163,58}</string>
 				<key>textureRect</key>
-				<string>{{0,132},{163,58}}</string>
+				<string>{{0,134},{163,58}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -45,7 +45,7 @@
 				<key>spriteSourceSize</key>
 				<string>{119,46}</string>
 				<key>textureRect</key>
-				<string>{{174,0},{119,46}}</string>
+				<string>{{176,0},{119,46}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{-1,-13}</string>
 				<key>spriteSize</key>
-				<string>{173,68}</string>
+				<string>{175,70}</string>
 				<key>spriteSourceSize</key>
-				<string>{173,68}</string>
+				<string>{175,70}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{173,68}}</string>
+				<string>{{0,0},{175,70}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/ship_163-uhd.png</string>
 			<key>size</key>
-			<string>{220,190}</string>
+			<string>{222,192}</string>
 			<key>textureFileName</key>
 			<string>icons/ship_163-uhd.png</string>
 		</dict>
