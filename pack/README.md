@@ -2030,7 +2030,6 @@ ship 78:
 
 ship 79:
 - By bugpesto.
-- Fixme.
 
 ship 80:
 - By RetroAdvance64.
@@ -2071,7 +2070,7 @@ ship 90:
 
 ship 91:
 - By bugpesto.
-- References the enemy boss "Kingfin" from Super Mario Galaxy, with some details taken from another enemy, "Fishbone" [fixme, thin glow].
+- References Kingfin, a boss from Super Mario Galaxy.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1390998857713979532/Kingfish-Super-Mario-Galaxy.png?ex=686a4c23&is=6868faa3&hm=141cb2d26001e5cc6192400ce913b00b91597ed4feb754dda172be2de4dcd686&=&format=webp&quality=lossless&width=1600&height=800)
 
 ship 92:
@@ -2819,6 +2818,7 @@ ufo 18:
 
 ufo 19:
 - By bugpesto.
+- [fixme, make thicker glow and move down 3/4].
 
 ufo 20:
 - By JigglypuffGD.
@@ -2957,7 +2957,7 @@ ufo 59:
 
 ufo 60:
 - By bugpesto.
-- From old Nintendo to new Nintendo, the evolution is crazy.
+- From old Nintendo to new Nintendo, the evolution is crazy [fixme, glow].
 
 ufo 61:
 - By JigglypuffGD.
@@ -3159,6 +3159,7 @@ ufo 118:
 
 ufo 119:
 - By bugpesto.
+- [fixme, glow].
 
 ufo 120:
 - By Aleiz21.
