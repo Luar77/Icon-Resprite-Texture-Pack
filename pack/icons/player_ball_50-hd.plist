@@ -9,7 +9,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-1.25,0.5}</string>
+			<string>{-1.75,0.5}</string>
 			<key>spriteSize</key>
 			<string>{69,71}</string>
 			<key>spriteSourceSize</key>
@@ -24,7 +24,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-1.5,-3}</string>
+			<string>{-2,-3}</string>
 			<key>spriteSize</key>
 			<string>{61,57}</string>
 			<key>spriteSourceSize</key>
@@ -39,7 +39,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-1.25,0}</string>
+			<string>{-1.75,0}</string>
 			<key>spriteSize</key>
 			<string>{61,62}</string>
 			<key>spriteSourceSize</key>
@@ -54,7 +54,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-1.25,0.5}</string>
+			<string>{-1.75,0.5}</string>
 			<key>spriteSize</key>
 			<string>{74,76}</string>
 			<key>spriteSourceSize</key>
