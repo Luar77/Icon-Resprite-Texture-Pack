@@ -13,7 +13,7 @@
 			<key>spriteSize</key>
 			<string>{77,42}</string>
 			<key>spriteSourceSize</key>
-			<string>{81,71}</string>
+			<string>{81,70}</string>
 			<key>textureRect</key>
 			<string>{{50,2},{77,42}}</string>
 			<key>textureRotated</key>
@@ -28,7 +28,7 @@
 			<key>spriteSize</key>
 			<string>{67,39}</string>
 			<key>spriteSourceSize</key>
-			<string>{81,71}</string>
+			<string>{81,70}</string>
 			<key>textureRect</key>
 			<string>{{74,81},{67,39}}</string>
 			<key>textureRotated</key>
@@ -39,11 +39,11 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,22.25}</string>
+			<string>{0,21.5}</string>
 			<key>spriteSize</key>
 			<string>{53,58}</string>
 			<key>spriteSourceSize</key>
-			<string>{81,71}</string>
+			<string>{81,70}</string>
 			<key>textureRect</key>
 			<string>{{94,2},{53,58}}</string>
 			<key>textureRotated</key>
@@ -58,7 +58,7 @@
 			<key>spriteSize</key>
 			<string>{70,29}</string>
 			<key>spriteSourceSize</key>
-			<string>{81,71}</string>
+			<string>{81,70}</string>
 			<key>textureRect</key>
 			<string>{{2,85},{70,29}}</string>
 			<key>textureRotated</key>
@@ -73,7 +73,7 @@
 			<key>spriteSize</key>
 			<string>{81,46}</string>
 			<key>spriteSourceSize</key>
-			<string>{81,71}</string>
+			<string>{81,70}</string>
 			<key>textureRect</key>
 			<string>{{2,2},{81,46}}</string>
 			<key>textureRotated</key>
