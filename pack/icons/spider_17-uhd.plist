@@ -15,7 +15,7 @@
 				<key>spriteSourceSize</key>
 				<string>{144,104}</string>
 				<key>textureRect</key>
-				<string>{{0,111},{144,104}}</string>
+				<string>{{0,113},{144,104}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -30,7 +30,7 @@
 				<key>spriteSourceSize</key>
 				<string>{136,96}</string>
 				<key>textureRect</key>
-				<string>{{151,0},{136,96}}</string>
+				<string>{{153,0},{136,96}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -56,11 +56,11 @@
 				<key>spriteOffset</key>
 				<string>{6,6}</string>
 				<key>spriteSize</key>
-				<string>{150,110}</string>
+				<string>{152,112}</string>
 				<key>spriteSourceSize</key>
-				<string>{150,110}</string>
+				<string>{152,112}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{150,110}}</string>
+				<string>{{0,0},{152,112}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -75,7 +75,7 @@
 				<key>spriteSourceSize</key>
 				<string>{50,64}</string>
 				<key>textureRect</key>
-				<string>{{248,0},{47,64}}</string>
+				<string>{{250,0},{47,64}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -90,7 +90,7 @@
 				<key>spriteSourceSize</key>
 				<string>{44,58}</string>
 				<key>textureRect</key>
-				<string>{{248,65},{40,58}}</string>
+				<string>{{250,65},{40,58}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -107,7 +107,7 @@
 				<key>textureRect</key>
 				<string>{{151,193},{55,72}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>spider_17_03_001.png</key>
 			<dict>
@@ -120,7 +120,7 @@
 				<key>spriteSourceSize</key>
 				<string>{48,78}</string>
 				<key>textureRect</key>
-				<string>{{0,216},{47,76}}</string>
+				<string>{{0,218},{47,76}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -129,13 +129,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-2,-0.5}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
 				<string>{43,73}</string>
 				<key>spriteSourceSize</key>
 				<string>{43,73}</string>
 				<key>textureRect</key>
-				<string>{{77,216},{43,73}}</string>
+				<string>{{77,218},{43,73}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -165,7 +165,7 @@
 				<key>spriteSourceSize</key>
 				<string>{56,34}</string>
 				<key>textureRect</key>
-				<string>{{224,216},{55,34}}</string>
+				<string>{{207,216},{55,34}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -180,7 +180,7 @@
 				<key>spriteSourceSize</key>
 				<string>{4,4}</string>
 				<key>textureRect</key>
-				<string>{{145,111},{4,4}}</string>
+				<string>{{293,180},{4,4}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -211,7 +211,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/spider_17-uhd.png</string>
 			<key>size</key>
-			<string>{295,263}</string>
+			<string>{297,265}</string>
 			<key>textureFileName</key>
 			<string>icons/spider_17-uhd.png</string>
 		</dict>
