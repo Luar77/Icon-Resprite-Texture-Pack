@@ -9,7 +9,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@RetroAdvance64](https://twitter.com/RetroAdvance64) on Twitter
 	- [@retroadvance64.bsky.social](https://bsky.app/profile/retroadvance64.bsky.social) on Bluesky
 	- [@retroadvance64](https://www.tiktok.com/@retroadvance64) on TikTok
-- ML500                (116 icons, 8 of those being collabs) + 12 collabs
+- ML500                (117 icons, 8 of those being collabs) + 12 collabs
 	- [@MasterL500](https://www.youtube.com/@MasterL500) on YouTube
 	- [@masterl500](https://twitter.com/masterl500) on Twitter
 	- [MasterLA500](https://MasterLA500.newgrounds.com) on Newgrounds
@@ -32,7 +32,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Aleiz21              (69 icons, 8 of those being collabs) + 4 collabs
+- Aleiz21              (68 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - Sharkcrome           (60 icons, 2 of those being collabs) + 9 collabs
@@ -1626,8 +1626,7 @@ cube 445:
 - Collab with airiLmao.
 
 cube 446:
-- By Aleiz21.
-- Collab with NHJ.
+- By ML500.
 
 cube 447:
 - By ChileMationsxD.
@@ -2957,7 +2956,7 @@ ufo 59:
 
 ufo 60:
 - By bugpesto.
-- From old Nintendo to new Nintendo, the evolution is crazy [fixme, glow].
+- From old to new generation.
 
 ufo 61:
 - By JigglypuffGD.
@@ -3159,7 +3158,6 @@ ufo 118:
 
 ufo 119:
 - By bugpesto.
-- [fixme, glow].
 
 ufo 120:
 - By Aleiz21.
