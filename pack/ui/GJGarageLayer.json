@@ -1110,7 +1110,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-1",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "116",
+                                                                                                                        "text": "117",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -1184,7 +1184,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-1",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "1179",
+                                                                                                                        "text": "1178",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -2108,7 +2108,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-3",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "907",
+                                                                                                                        "text": "906",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -3681,7 +3681,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-total-n-7",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "69",
+                                                                                                                        "text": "68",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -3755,7 +3755,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-7",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "69",
+                                                                                                                        "text": "68",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -6185,7 +6185,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-14",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "1164",
+                                                                                                                        "text": "1163",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
@@ -7527,7 +7527,7 @@
                                                                                                                     "type": "CCLabelBMFont",
                                                                                                                     "id": "desc-playtest-n-18",
                                                                                                                     "attributes": {
-                                                                                                                        "text": "206",
+                                                                                                                        "text": "205",
                                                                                                                         "scale": 0.9,
                                                                                                                         "anchor-point": {
                                                                                                                             "x": 1,
