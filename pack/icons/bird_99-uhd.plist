@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,10}</string>
                 <key>spriteSize</key>
-                <string>{152,93}</string>
+                <string>{149,92}</string>
                 <key>spriteSourceSize</key>
-                <string>{152,93}</string>
+                <string>{149,92}</string>
                 <key>textureRect</key>
-                <string>{{0,1},{152,93}}</string>
+                <string>{{1,2},{149,92}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -26,11 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{0,10}</string>
                 <key>spriteSize</key>
-                <string>{152,93}</string>
+                <string>{149,92}</string>
                 <key>spriteSourceSize</key>
-                <string>{152,93}</string>
+                <string>{149,92}</string>
                 <key>textureRect</key>
-                <string>{{0,101},{152,93}}</string>
+                <string>{{1,102},{149,92}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,10}</string>
                 <key>spriteSize</key>
-                <string>{152,93}</string>
+                <string>{149,92}</string>
                 <key>spriteSourceSize</key>
-                <string>{152,93}</string>
+                <string>{149,92}</string>
                 <key>textureRect</key>
-                <string>{{0,201},{152,93}}</string>
+                <string>{{1,202},{149,92}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -71,11 +71,11 @@
                 <key>spriteOffset</key>
                 <string>{0,10}</string>
                 <key>spriteSize</key>
-                <string>{160,101}</string>
+                <string>{157,100}</string>
                 <key>spriteSourceSize</key>
-                <string>{160,101}</string>
+                <string>{157,100}</string>
                 <key>textureRect</key>
-                <string>{{3,299},{160,101}}</string>
+                <string>{{4,300},{157,100}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
