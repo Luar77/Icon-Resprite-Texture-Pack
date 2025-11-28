@@ -9,28 +9,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-3,1}</string>
+			<string>{-2.75,0.75}</string>
 			<key>spriteSize</key>
-			<string>{65,61}</string>
+			<string>{66,62}</string>
 			<key>spriteSourceSize</key>
-			<string>{69,65}</string>
+			<string>{70,66}</string>
 			<key>textureRect</key>
-			<string>{{132,2},{65,61}}</string>
+			<string>{{70,2},{66,62}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>swing_25_2_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-3,1}</string>
+			<string>{-2.75,0.75}</string>
 			<key>spriteSize</key>
-			<string>{65,61}</string>
+			<string>{64,60}</string>
 			<key>spriteSourceSize</key>
-			<string>{69,65}</string>
+			<string>{70,66}</string>
 			<key>textureRect</key>
-			<string>{{132,65},{65,61}}</string>
+			<string>{{134,2},{64,60}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -39,28 +39,28 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-3,1}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{65,61}</string>
+			<string>{56,57}</string>
 			<key>spriteSourceSize</key>
-			<string>{69,65}</string>
+			<string>{70,66}</string>
 			<key>textureRect</key>
-			<string>{{69,2},{65,61}}</string>
+			<string>{{134,64},{56,57}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>swing_25_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{-3,1}</string>
+			<string>{-2.75,0.75}</string>
 			<key>spriteSize</key>
-			<string>{69,65}</string>
+			<string>{70,66}</string>
 			<key>spriteSourceSize</key>
-			<string>{69,65}</string>
+			<string>{70,66}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{69,65}}</string>
+			<string>{{2,2},{70,66}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -76,7 +76,7 @@
 		<key>realTextureFileName</key>
 		<string>icons/swing_25-hd.png</string>
 		<key>size</key>
-		<string>{256,256}</string>
+		<string>{256,128}</string>
 		<key>smartupdate</key>
 		<string></string>
 		<key>textureFileName</key>
