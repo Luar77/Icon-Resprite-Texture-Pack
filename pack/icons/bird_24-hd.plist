@@ -11,13 +11,13 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{83,36}</string>
+			<string>{85,37}</string>
 			<key>spriteSourceSize</key>
-			<string>{88,69}</string>
+			<string>{89,70}</string>
 			<key>textureRect</key>
-			<string>{{44,87},{83,36}}</string>
+			<string>{{85,2},{85,37}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>bird_24_2_001.png</key>
 		<dict>
@@ -26,11 +26,11 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{83,36}</string>
+			<string>{85,37}</string>
 			<key>spriteSourceSize</key>
-			<string>{88,69}</string>
+			<string>{89,70}</string>
 			<key>textureRect</key>
-			<string>{{82,2},{83,36}}</string>
+			<string>{{124,2},{85,37}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -43,11 +43,11 @@
 			<key>spriteSize</key>
 			<string>{61,39}</string>
 			<key>spriteSourceSize</key>
-			<string>{88,69}</string>
+			<string>{89,70}</string>
 			<key>textureRect</key>
-			<string>{{120,2},{61,39}}</string>
+			<string>{{163,2},{61,39}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>bird_24_extra_001.png</key>
 		<dict>
@@ -56,11 +56,11 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{83,36}</string>
+			<string>{85,37}</string>
 			<key>spriteSourceSize</key>
-			<string>{88,69}</string>
+			<string>{89,70}</string>
 			<key>textureRect</key>
-			<string>{{44,2},{83,36}}</string>
+			<string>{{46,2},{85,37}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -71,11 +71,11 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{88,40}</string>
+			<string>{89,42}</string>
 			<key>spriteSourceSize</key>
-			<string>{88,69}</string>
+			<string>{89,70}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{88,40}}</string>
+			<string>{{2,2},{89,42}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
