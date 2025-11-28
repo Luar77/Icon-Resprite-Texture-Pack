@@ -1,5 +1,5 @@
 # Project Remix Texture Pack (version 1.0.0-alpha)
-After over 8 months of work between 34 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
+After over 9 months of work between 34 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
 
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
@@ -3357,6 +3357,7 @@ wave 28:
 
 wave 29:
 - By aGold.
+- Fixme.
 
 wave 30:
 - By Drian114.
@@ -3549,8 +3550,6 @@ wave 85:
 
 wave 86:
 - By Sharkcrome.
-- [fixme]... again <:Triste:1112896228783566848>.
-- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_86(1).gif)
 
 wave 87:
 - By bugpesto.
