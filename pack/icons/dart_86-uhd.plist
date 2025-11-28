@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-3.5,0}</string>
+				<string>{-4.5,0}</string>
 				<key>spriteSize</key>
-				<string>{97,76}</string>
+				<string>{99,76}</string>
 				<key>spriteSourceSize</key>
 				<string>{160,120}</string>
 				<key>textureRect</key>
-				<string>{{0,85},{97,76}}</string>
+				<string>{{0,85},{99,76}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-12.5,0}</string>
+				<string>{-18,0}</string>
 				<key>spriteSize</key>
-				<string>{71,72}</string>
+				<string>{66,72}</string>
 				<key>spriteSourceSize</key>
 				<string>{160,120}</string>
 				<key>textureRect</key>
-				<string>{{106,0},{71,72}}</string>
+				<string>{{108,0},{66,72}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-8.5,0}</string>
+				<string>{-18.5,0}</string>
 				<key>spriteSize</key>
-				<string>{67,64}</string>
+				<string>{59,18}</string>
 				<key>spriteSourceSize</key>
 				<string>{160,120}</string>
 				<key>textureRect</key>
-				<string>{{106,73},{67,64}}</string>
+				<string>{{108,73},{59,18}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -54,13 +54,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-3.5,0}</string>
+				<string>{-4.5,0}</string>
 				<key>spriteSize</key>
-				<string>{105,84}</string>
+				<string>{107,84}</string>
 				<key>spriteSourceSize</key>
 				<string>{160,120}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{105,84}}</string>
+				<string>{{0,0},{107,84}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/dart_86-uhd.png</string>
 			<key>size</key>
-			<string>{177,161}</string>
+			<string>{174,161}</string>
 			<key>textureFileName</key>
 			<string>icons/dart_86-uhd.png</string>
 		</dict>
