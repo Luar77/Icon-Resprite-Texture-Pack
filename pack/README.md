@@ -1,5 +1,5 @@
 # Project Remix Texture Pack (version 1.0.0-alpha)
-After over 9 months of work between 34 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
+After over 9 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
 
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
@@ -26,7 +26,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@itsNHJ](https://www.youtube.com/@itsNHJ) on YouTube
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 	- [@nhj03.bsky.social](https://bsky.app/profile/nhj03.bsky.social) on Bluesky
-- JigglypuffGD         (86 icons, 14 of those being collabs) + 2 collabs
+- JigglypuffGD         (85 icons, 14 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
@@ -68,8 +68,6 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - KetsuTT              (10 icons, 6 of those being collabs) + 1 collab
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
-- electrictaco          + 12 collabs
-	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
 - Hydr4ze              (6 icons)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
@@ -927,7 +925,7 @@ cube 243:
 
 cube 244:
 - By AsRenCL.
-- This cube references Bo Katan's helmet, a character from The Mandalorian series. Collab with electrictaco, sharkcrome.
+- This cube references Bo Katan's helmet, a character from The Mandalorian series. Collab with sharkcrome.
 
 cube 245:
 - By RetroAdvance64.
@@ -1044,7 +1042,7 @@ cube 279:
 
 cube 280:
 - By KevgenGD.
-- Collab with electrictaco.
+- *.
 
 cube 281:
 - By cyanflower.
@@ -1780,7 +1778,6 @@ ship 6:
 
 ship 7:
 - By JigglypuffGD.
-- Collab with ElectricTaco.
 
 ship 8:
 - By Dibbj.
@@ -1998,7 +1995,7 @@ ship 69:
 
 ship 70:
 - By KevgenGD.
-- Collab with electrictaco.
+- *.
 
 ship 71:
 - By RetroAdvance64.
@@ -2193,7 +2190,6 @@ ship 124:
 
 ship 125:
 - By AsRenCL.
-- Collab with electrictaco.
 
 ship 126:
 - By KevgenGD.
@@ -2423,7 +2419,7 @@ ball 20:
 
 ball 21:
 - By bugpesto.
-- Collab with alexanderX1ta, electrictaco, sharkcrome.
+- Collab with AlexanderX1ta, Sharkcrome.
 
 ball 22:
 - By AlexisDrawz.
@@ -2544,7 +2540,6 @@ ball 57:
 
 ball 58:
 - By aGold.
-- Collab with electrictaco.
 
 ball 59:
 - By JigglypuffGD.
@@ -2614,7 +2609,6 @@ ball 76:
 
 ball 77:
 - By AsRenCL.
-- Collab with electrictaco.
 
 ball 78:
 - By KevgenGD.
@@ -3399,7 +3393,6 @@ wave 41:
 
 wave 42:
 - By NHJ.
-- Collab with Electrictaco.
 
 wave 43:
 - By Exetric.
@@ -3550,6 +3543,8 @@ wave 85:
 
 wave 86:
 - By Sharkcrome.
+- Traced over a 3D model made by the same creator, Sharkcrome.
+- ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_86(1).png)
 
 wave 87:
 - By bugpesto.
@@ -3786,11 +3781,6 @@ robot 56:
 robot 57:
 - By KevgenGD.
 
-robot 58:
-- By JigglypuffGD.
-- Loosely based off of K-VRC from the netflix show Love, Death & Robots.
-  Collab with ElectricTaco.
-
 robot 59:
 - By KetsuTT.
 - Collab with Alexisdrawz (Thank you!). This robot references the Maykr Slayer Skin from Doom Eternal.
@@ -3926,7 +3916,7 @@ spider 30:
 
 spider 31:
 - By AlexanderX1ta.
-- Collab with electrictaco. Reference to a Deep Rock Galactic turret: LMG Gun Platform.
+- Reference to a Deep Rock Galactic turret: LMG Gun Platform.
 - ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1385895428817424476/qrdebfcxoth31.jpg?ex=6857bb32&is=685669b2&hm=c46df1cd205a8faecf8f27901bc23139066c3682070901a7e85f3d5f697c1f21&=&format=webp&width=726&height=930)
 
 spider 32:
@@ -4236,7 +4226,7 @@ jetpack 4:
 
 jetpack 5:
 - By RetroAdvance64.
-- In collaboration with AsRenCL and ElectricTaco.
+- In collaboration with Asren. Design inspired by ElectricTaco's version.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/jetpack_5(1).png)
 
 jetpack 6:
