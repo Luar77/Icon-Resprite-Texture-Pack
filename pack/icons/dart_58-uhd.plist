@@ -9,13 +9,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{-7.5,0}</string>
 				<key>spriteSize</key>
-				<string>{130,78}</string>
+				<string>{119,74}</string>
 				<key>spriteSourceSize</key>
 				<string>{200,120}</string>
 				<key>textureRect</key>
-				<string>{{0,87},{130,78}}</string>
+				<string>{{0,85},{119,74}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -24,13 +24,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{-8,0}</string>
 				<key>spriteSize</key>
-				<string>{126,74}</string>
+				<string>{112,68}</string>
 				<key>spriteSourceSize</key>
 				<string>{200,120}</string>
 				<key>textureRect</key>
-				<string>{{0,166},{126,74}}</string>
+				<string>{{0,160},{112,68}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{-7.5,0}</string>
 				<key>spriteSize</key>
-				<string>{130,78}</string>
+				<string>{119,74}</string>
 				<key>spriteSourceSize</key>
 				<string>{200,120}</string>
 				<key>textureRect</key>
-				<string>{{139,0},{130,78}}</string>
+				<string>{{129,0},{119,74}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -54,13 +54,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{-8,0}</string>
 				<key>spriteSize</key>
-				<string>{138,86}</string>
+				<string>{128,84}</string>
 				<key>spriteSourceSize</key>
 				<string>{200,120}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{138,86}}</string>
+				<string>{{0,0},{128,84}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/dart_58-uhd.png</string>
 			<key>size</key>
-			<string>{217,240}</string>
+			<string>{203,228}</string>
 			<key>textureFileName</key>
 			<string>icons/dart_58-uhd.png</string>
 		</dict>
