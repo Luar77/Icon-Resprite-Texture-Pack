@@ -15,7 +15,7 @@
 				<key>spriteSourceSize</key>
 				<string>{120,120}</string>
 				<key>textureRect</key>
-				<string>{{130,0},{120,120}}</string>
+				<string>{{132,0},{120,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -30,7 +30,7 @@
 				<key>spriteSourceSize</key>
 				<string>{112,112}</string>
 				<key>textureRect</key>
-				<string>{{0,130},{112,112}}</string>
+				<string>{{0,132},{112,112}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -45,7 +45,7 @@
 				<key>spriteSourceSize</key>
 				<string>{108,108}</string>
 				<key>textureRect</key>
-				<string>{{114,130},{108,108}}</string>
+				<string>{{116,132},{108,108}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>icons/player_485-uhd.png</string>
 			<key>size</key>
-			<string>{250,242}</string>
+			<string>{252,244}</string>
 			<key>textureFileName</key>
 			<string>icons/player_485-uhd.png</string>
 		</dict>
