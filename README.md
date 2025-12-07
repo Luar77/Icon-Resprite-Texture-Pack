@@ -34,7 +34,7 @@ Apparently some people were really insisting on helping with the development cos
 	- [@itsNHJ](https://www.youtube.com/@itsNHJ) on YouTube
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 	- [@nhj03.bsky.social](https://bsky.app/profile/nhj03.bsky.social) on Bluesky
-- JigglypuffGD         (86 icons, 14 of those being collabs) + 2 collabs
+- JigglypuffGD         (85 icons, 14 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
@@ -76,8 +76,6 @@ Apparently some people were really insisting on helping with the development cos
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - KetsuTT              (10 icons, 6 of those being collabs) + 1 collab
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
-- electrictaco          + 12 collabs
-	- [@electrictaco](https://www.youtube.com/@electrictaco) on YouTube
 - Hydr4ze              (6 icons)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
