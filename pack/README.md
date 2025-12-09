@@ -35,7 +35,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - Aleiz21              (68 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- Sharkcrome           (60 icons, 2 of those being collabs) + 9 collabs
+- Sharkcrome           (61 icons, 2 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - KevgenGD             (51 icons, 4 of those being collabs)
@@ -3780,6 +3780,12 @@ robot 56:
 
 robot 57:
 - By KevgenGD.
+
+robot 58:
+- By Sharkcrome.
+- A refrence to "Seven", one of the playable Legends from the game "Brawlhalla".
+  In collaboration with Dibbj.
+- ![reference_image_1](https://media.discordapp.net/attachments/1346719830958673920/1447975627717214220/seven-splash.png?ex=693993e3&is=69384263&hm=473bade9a5e3991f71a6022f4c076368ef5e124c411525a70d7c6bcc5f6035ea&=&format=webp&quality=lossless&width=1421&height=800)
 
 robot 59:
 - By KetsuTT.
