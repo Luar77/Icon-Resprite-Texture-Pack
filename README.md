@@ -43,7 +43,7 @@ Apparently some people were really insisting on helping with the development cos
 - Aleiz21              (68 icons, 8 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- Sharkcrome           (60 icons, 2 of those being collabs) + 9 collabs
+- Sharkcrome           (61 icons, 2 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
 - KevgenGD             (51 icons, 4 of those being collabs)
