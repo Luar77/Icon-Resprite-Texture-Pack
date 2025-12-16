@@ -2553,7 +2553,7 @@ ball 61:
 
 ball 62:
 - By AsRenCL.
-- Direct reference to Ethan/Exetric default icons.
+- Insane rework too [fixme].
 
 ball 63:
 - By Sharkcrome.
@@ -3427,7 +3427,8 @@ wave 51:
 
 wave 52:
 - By Sharkcrome.
-- ...[fixme].
+- A reference to the spaceship in the platformer level "Terminus".
+  In collaboration with Electric Taco.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_52(1).png)
 
 wave 53:
