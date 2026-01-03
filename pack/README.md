@@ -1,5 +1,5 @@
 # Project Remix Texture Pack (version 1.0.0-alpha)
-After over 9 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
+After over 10 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
 
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
@@ -22,38 +22,38 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@bugpesto](https://www.youtube.com/@bugpesto) on YouTube
 	- [@bugpesto](https://twitter.com/bugpesto) on Twitter
 	- [bugpesto](https://bugpesto.newgrounds.com) on Newgrounds
-- NHJ                  (81 icons, 2 of those being collabs) + 3 collabs
+- NHJ                  (81 icons, 1 of those being collabs) + 2 collabs
 	- [@itsNHJ](https://www.youtube.com/@itsNHJ) on YouTube
 	- [@NHJ__NHJ](https://twitter.com/NHJ__NHJ) on Twitter
 	- [@nhj03.bsky.social](https://bsky.app/profile/nhj03.bsky.social) on Bluesky
-- JigglypuffGD         (85 icons, 14 of those being collabs) + 2 collabs
+- JigglypuffGD         (85 icons, 12 of those being collabs) + 2 collabs
 	- [@JigglypuffGD](https://www.youtube.com/@JigglypuffGD) on YouTube
 	- [@JigglypuffGD](https://twitter.com/JigglypuffGD) on Twitter
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Aleiz21              (68 icons, 8 of those being collabs) + 4 collabs
+- Aleiz21              (68 icons, 7 of those being collabs) + 4 collabs
 	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
 	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- Sharkcrome           (61 icons, 2 of those being collabs) + 9 collabs
+- Sharkcrome           (61 icons, 3 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
-- KevgenGD             (51 icons, 4 of those being collabs)
+- KevgenGD             (51 icons, 2 of those being collabs)
 	- [@KevgenGD](https://twitter.com/KevgenGD) on Twitter
 - AlexisDrawz          (47 icons, 14 of those being collabs) + 17 collabs
 	- [@Alexis_Drawerz](https://twitter.com/Alexis_Drawerz) on Twitter
-- aGold                (48 icons, 8 of those being collabs)
+- aGold                (48 icons, 7 of those being collabs)
 	- [@aGolddd](https://www.youtube.com/@aGolddd) on YouTube
 	- https://agold.is-a.dev
 	- [aGoldDev](https://github.com/aGoldDev) on GitHub
-- AsRenCL              (36 icons, 14 of those being collabs) + 9 collabs
+- AsRenCL              (36 icons, 12 of those being collabs) + 9 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - CraZyboy6484         (31 icons) + 1 collab
 	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Dibbj                (27 icons, 3 of those being collabs) + 7 collabs
+- Dibbj                (27 icons, 3 of those being collabs) + 8 collabs
 - Sorao                (24 icons, 5 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 9 collabs
-- AlexanderX1ta        (20 icons, 2 of those being collabs) + 2 collabs
+- AlexanderX1ta        (20 icons, 1 of those being collabs) + 2 collabs
 	- [@alexanderx1ta](https://www.youtube.com/@alexanderx1ta) on YouTube
 - Luar77               (17 icons, 4 of those being collabs) + 1 collab
 	- [@Luar77](https://www.youtube.com/@Luar77) on YouTube
@@ -1042,7 +1042,7 @@ cube 279:
 
 cube 280:
 - By KevgenGD.
-- *.
+- Made in association with Vevekhi.
 
 cube 281:
 - By cyanflower.
@@ -1329,7 +1329,7 @@ cube 363:
 
 cube 364:
 - By Drian114.
-- Based on the design which was previously made in association with ElectricTaco.
+- Based on the design that was previously made in association with Vevekhi.
 
 cube 365:
 - By RetroAdvance64.
@@ -1995,7 +1995,7 @@ ship 69:
 
 ship 70:
 - By KevgenGD.
-- *.
+- Original Design and Idea by Vevekhi.
 
 ship 71:
 - By RetroAdvance64.
@@ -2296,6 +2296,7 @@ ship 153:
 
 ship 154:
 - By CraZyboy6484.
+- Direct reference to Beldum, a steel type pokemon.
 
 ship 155:
 - By NHJ.
@@ -2811,7 +2812,6 @@ ufo 18:
 
 ufo 19:
 - By bugpesto.
-- [fixme, make thicker glow and move down 3/4].
 
 ufo 20:
 - By JigglypuffGD.
@@ -3427,8 +3427,8 @@ wave 51:
 
 wave 52:
 - By Sharkcrome.
-- A reference to the spaceship in the platformer level "Terminus".
-  In collaboration with Electric Taco.
+- Reference to the spaceship in the platformer level "Terminus".
+  Original Design and Idea by Vevekhi.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/wave_52(1).png)
 
 wave 53:
@@ -4233,7 +4233,7 @@ jetpack 4:
 
 jetpack 5:
 - By RetroAdvance64.
-- In collaboration with Asren. Design inspired by ElectricTaco's version.
+- In collaboration with AsRenCL. Design inspired by Vevekhi's version.
 - ![reference_image_1](https://raw.githubusercontent.com/Luar77/Icon-Resprite-Texture-Pack/main/reference%20images/jetpack_5(1).png)
 
 jetpack 6:
