@@ -9,13 +9,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-3}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{74,26}</string>
+			<string>{72,32}</string>
 			<key>spriteSourceSize</key>
-			<string>{78,67}</string>
+			<string>{76,67}</string>
 			<key>textureRect</key>
-			<string>{{34,2},{74,26}}</string>
+			<string>{{40,2},{72,32}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -24,13 +24,13 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-3}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{72,24}</string>
+			<string>{70,30}</string>
 			<key>spriteSourceSize</key>
-			<string>{78,67}</string>
+			<string>{76,67}</string>
 			<key>textureRect</key>
-			<string>{{34,30},{72,24}}</string>
+			<string>{{40,36},{70,30}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -43,24 +43,24 @@
 			<key>spriteSize</key>
 			<string>{58,45}</string>
 			<key>spriteSourceSize</key>
-			<string>{78,67}</string>
+			<string>{76,67}</string>
 			<key>textureRect</key>
-			<string>{{34,56},{58,45}}</string>
+			<string>{{40,68},{58,45}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>bird_01_glow_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0,-3}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{78,30}</string>
+			<string>{76,36}</string>
 			<key>spriteSourceSize</key>
-			<string>{78,67}</string>
+			<string>{76,67}</string>
 			<key>textureRect</key>
-			<string>{{2,2},{78,30}}</string>
+			<string>{{2,2},{76,36}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
