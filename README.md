@@ -1,5 +1,5 @@
 # Project Remix Texture Pack (version 1.0.0-alpha)
-Texture pack collab, featuring over 30 people, that took over 10 months to finish.
+Texture pack collab, featuring over 30 people, that took over 11 months to finish.
 Every icon in the game has been remade from scratch in the styles of everyone who participated.
 
 This was hosted on the [Master's World discord server](https://discord.gg/tFUyJw5), with organization provided via the Jones Bot by Luar77 (which took just as long to develop), and quality assurance/project management by the admin team (ML500, Luar77, Sorao).
@@ -40,12 +40,12 @@ Apparently some people were really insisting on helping with the development cos
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Aleiz21              (68 icons, 7 of those being collabs) + 4 collabs
-	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
-	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- Sharkcrome           (61 icons, 3 of those being collabs) + 9 collabs
+- Sharkcrome           (63 icons, 3 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
+- Aleiz21              (66 icons, 7 of those being collabs) + 4 collabs
+	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
+	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - KevgenGD             (51 icons, 2 of those being collabs)
 	- [@KevgenGD](https://twitter.com/KevgenGD) on Twitter
 - AlexisDrawz          (47 icons, 14 of those being collabs) + 17 collabs
@@ -57,8 +57,8 @@ Apparently some people were really insisting on helping with the development cos
 - AsRenCL              (36 icons, 12 of those being collabs) + 9 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - CraZyboy6484         (31 icons) + 1 collab
-	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Dibbj                (27 icons, 3 of those being collabs) + 8 collabs
+	- [liamlocoman](https://liamlocoman.newgrounds.com) on Newgrounds
+- Dibbj                (28 icons, 3 of those being collabs) + 8 collabs
 - Sorao                (24 icons, 5 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 9 collabs
 - AlexanderX1ta        (20 icons, 1 of those being collabs) + 2 collabs
@@ -76,7 +76,7 @@ Apparently some people were really insisting on helping with the development cos
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - KetsuTT              (10 icons, 6 of those being collabs) + 1 collab
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
-- Hydr4ze              (6 icons)
+- Hydr4ze              (5 icons)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
