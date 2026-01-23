@@ -1,5 +1,5 @@
 # Project Remix Texture Pack (version 1.0.0-alpha)
-After over 10 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
+After over 11 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
 
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
@@ -32,12 +32,12 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - cyanflower           (69 icons, 4 of those being collabs) + 4 collabs
 	- [@cyanflower](https://www.youtube.com/@cyanflower) on YouTube
 	- [@cyanflower.bsky.social](https://bsky.app/profile/cyanflower.bsky.social) on Bluesky
-- Aleiz21              (68 icons, 7 of those being collabs) + 4 collabs
-	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
-	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
-- Sharkcrome           (61 icons, 3 of those being collabs) + 9 collabs
+- Sharkcrome           (63 icons, 3 of those being collabs) + 9 collabs
 	- [@Sharkcrome](https://www.youtube.com/@Sharkcrome) on YouTube
 	- [Sharkcrome](https://Sharkcrome.newgrounds.com) on Newgrounds
+- Aleiz21              (66 icons, 7 of those being collabs) + 4 collabs
+	- [@Aleiz21](https://www.youtube.com/@Aleiz21) on YouTube
+	- [@Aleiz21](https://twitter.com/Aleiz21) on Twitter
 - KevgenGD             (51 icons, 2 of those being collabs)
 	- [@KevgenGD](https://twitter.com/KevgenGD) on Twitter
 - AlexisDrawz          (47 icons, 14 of those being collabs) + 17 collabs
@@ -49,8 +49,8 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 - AsRenCL              (36 icons, 12 of those being collabs) + 9 collabs
 	- [@asr3n_](https://www.youtube.com/@asr3n_) on YouTube
 - CraZyboy6484         (31 icons) + 1 collab
-	- [CraZyboy6484](https://CraZyboy6484.newgrounds.com) on Newgrounds
-- Dibbj                (27 icons, 3 of those being collabs) + 8 collabs
+	- [liamlocoman](https://liamlocoman.newgrounds.com) on Newgrounds
+- Dibbj                (28 icons, 3 of those being collabs) + 8 collabs
 - Sorao                (24 icons, 5 of those being collabs) + 3 collabs
 - AngelozDD            (19 icons, 3 of those being collabs) + 9 collabs
 - AlexanderX1ta        (20 icons, 1 of those being collabs) + 2 collabs
@@ -68,7 +68,7 @@ Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, r
 	- [@JeanCarlo_GD](https://twitter.com/JeanCarlo_GD) on Twitter
 - KetsuTT              (10 icons, 6 of those being collabs) + 1 collab
 	- [@_ketsutt](https://www.tiktok.com/@_ketsutt) on TikTok
-- Hydr4ze              (6 icons)
+- Hydr4ze              (5 icons)
 - TheRare5             (5 icons)
 - ReenRN               (5 icons)
 	- [@reenion](https://www.youtube.com/@reenion) on YouTube
@@ -2670,7 +2670,7 @@ ball 94:
 - By Sharkcrome.
 
 ball 95:
-- By Aleiz21.
+- By Sharkcrome.
 
 ball 96:
 - By ML500.
@@ -2882,7 +2882,7 @@ ufo 39:
 - Collab with AngelozDD.
 
 ufo 40:
-- By Hydr4ze.
+- By Sharkcrome.
 
 ufo 41:
 - By Aleiz21.
@@ -3056,7 +3056,7 @@ ufo 89:
 - Collab with AlexisDrawz.
 
 ufo 90:
-- By Aleiz21.
+- By Dibbj.
 
 ufo 91:
 - By ML500.
