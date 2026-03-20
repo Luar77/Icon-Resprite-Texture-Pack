@@ -1,0 +1,17 @@
+{
+    "children": {
+        "node": {
+            "main-menu": {
+                "children": {
+                    "node":{
+                        "icon-kit-button": {
+                            "attributes": {
+                                "sprite": "ui/GJ_garageBtnRemix_001.png"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
