@@ -1,5 +1,5 @@
 # Project Remix Texture Pack (version 1.0.0-alpha)
-After over 11 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
+After over 12 months of work between 33 people, we present a complete design revamp of every icon in the game. Available in high and medium quality.
 
 Special thanks to Dibbj and JigglypuffGD for their donations of 50€ and $20, respectively, to help cover hosting costs of the project.
 
@@ -1415,6 +1415,7 @@ cube 386:
 cube 387:
 - By Hydr4ze.
 - This is a direct reference to koronba 4-gou (ころんば 4号).
+- ![reference_image_1](https://media.discordapp.net/attachments/862821634870870096/1483777168143159487/NA.png?ex=69bbd2ac&is=69ba812c&hm=5c3be1ca1e3fbe4380707250a042e96bb7d46b2814c544596ea77a7d36d95e9d&=&format=webp&quality=lossless&width=313&height=313)
 
 cube 388:
 - By Sorao.
@@ -3351,7 +3352,6 @@ wave 28:
 
 wave 29:
 - By aGold.
-- Fixme.
 
 wave 30:
 - By Drian114.
